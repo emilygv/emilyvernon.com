@@ -1,9 +1,9 @@
 ---
 title:  "Years & Years"
 date:   2014-10-5 00:00:00
-img: http://img.mrt.io/flickr/15889633666/b
+img: https://farm8.staticflickr.com/7583/15889633666_25453eaa48_b.jpg
 carousel:
-- http://img.mrt.io/flickr/15729611937/b
+- https://farm9.staticflickr.com/8618/15729611937_d1dca937a1_b.jpg
 category: Journalism
 tags: "Music"
 client: GLAMCULT

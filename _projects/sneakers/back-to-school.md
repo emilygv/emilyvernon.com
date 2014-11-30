@@ -1,11 +1,11 @@
 ---
 title:  "Back-to-School"
 date:   2012-09-01 00:00:00
-img: http://img.mrt.io/flickr/15727299897/b
+img: https://farm9.staticflickr.com/8580/15727299897_6c3a9bd179_b.jpg
 carousel:
-- http://img.mrt.io/flickr/14713938337/b
-- http://img.mrt.io/flickr/14713871998/b
-- http://img.mrt.io/flickr/14877476796/b
+- https://farm6.staticflickr.com/5570/14713938337_f0ee7140f2_b.jpg
+- https://farm4.staticflickr.com/3863/14713871998_7f9cd98d01_b.jpg
+- https://farm6.staticflickr.com/5552/14877476796_a901d3b65f_b.jpg
 category: Sneakers
 tags: "New Upper"
 client: Converse

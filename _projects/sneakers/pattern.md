@@ -1,14 +1,14 @@
 ---
 title:  "Pattern"
 date:   2014-01-01 00:00:00
-img: http://img.mrt.io/flickr/15913117825/b
+img: https://farm8.staticflickr.com/7574/15913117825_5e9aec6c0c_b.jpg
 carousel:
-- http://img.mrt.io/flickr/14959149725/b
-- http://img.mrt.io/flickr/14956044701/b
-- http://img.mrt.io/flickr/14772473240/b
-- http://img.mrt.io/flickr/14958794392/b
-- http://img.mrt.io/flickr/14772473360/b
-- http://img.mrt.io/flickr/14958794342/b
+- https://farm4.staticflickr.com/3862/14959149725_fa90cc6ed3_b.jpg
+- https://farm4.staticflickr.com/3881/14956044701_aeea037c8e_b.jpg
+- https://farm6.staticflickr.com/5576/14772473240_ca1835377a_b.jpg
+- https://farm4.staticflickr.com/3895/14958794392_6cc33d9b5d_b.jpg
+- https://farm4.staticflickr.com/3865/14772473360_3446e45819_b.jpg
+- https://farm6.staticflickr.com/5574/14958794342_8ec6d368c3_b.jpg
 category: Sneakers
 tags: "Graphics"
 client: Converse

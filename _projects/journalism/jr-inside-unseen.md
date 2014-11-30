@@ -1,9 +1,9 @@
 ---
 title:  "JR Inside Unseen"
 date:   2013-09-27 00:00:00
-img: http://img.mrt.io/flickr/15889617976/b
+img: https://farm9.staticflickr.com/8660/15889617976_07561d0264_b.jpg
 carousel:
-- http://img.mrt.io/flickr/15292468724/b
+- https://farm8.staticflickr.com/7528/15292468724_a44b728b52_b.jpg
 category: Journalism
 tags: "Photography"
 client: UNSEEN Photo Fair

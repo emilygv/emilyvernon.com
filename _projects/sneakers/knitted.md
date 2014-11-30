@@ -1,11 +1,11 @@
 ---
 title:  "Knitted"
 date:   2012-11-01 00:00:00
-img: http://img.mrt.io/flickr/15727122267/b
+img: https://farm8.staticflickr.com/7578/15727122267_3d74ae9a81_b.jpg
 carousel:
-- http://img.mrt.io/flickr/14713854608/b
-- http://img.mrt.io/flickr/14897408761/b
-- http://img.mrt.io/flickr/14897408621/b
+- https://farm6.staticflickr.com/5590/14713854608_6629b082f3_b.jpg
+- https://farm4.staticflickr.com/3884/14897408761_f7d29a000d_b.jpg
+- https://farm6.staticflickr.com/5560/14897408621_56ff05c751_b.jpg
 category: Sneakers
 tags: "New Material"
 client: Converse

@@ -1,11 +1,11 @@
 ---
 title:  "PC Classic Boot"
 date:   2012-12-01 00:00:00
-img: http://img.mrt.io/flickr/15913021025/b
+img: https://farm8.staticflickr.com/7573/15913021025_6b3160e231_b.jpg
 carousel:
-- http://img.mrt.io/flickr/14713872408/b
-- http://img.mrt.io/flickr/14713837679/b
-- http://img.mrt.io/flickr/14900471475/b
+- https://farm4.staticflickr.com/3912/14713872408_9bac1312c1_b.jpg
+- https://farm4.staticflickr.com/3865/14713837679_2d57bc03ed_b.jpg
+- https://farm4.staticflickr.com/3877/14900471475_e4490c4143_b.jpg
 category: Sneakers
 tags: "New Upper"
 client: Converse

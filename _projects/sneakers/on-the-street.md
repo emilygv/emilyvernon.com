@@ -1,13 +1,13 @@
 ---
 title:  "On the Street"
 date:   2014-02-01 00:00:00
-img: http://img.mrt.io/flickr/15725680848/b
+img: https://farm8.staticflickr.com/7545/15725680848_e552034bcd_b.jpg
 carousel:
-- http://img.mrt.io/flickr/14772548118/b
-- http://img.mrt.io/flickr/14772548278/b
-- http://img.mrt.io/flickr/14772474560/b
-- http://img.mrt.io/flickr/14936153886/b
-- http://img.mrt.io/flickr/14772613097/b
+- https://farm4.staticflickr.com/3843/14772548118_dc850187cd_b.jpg
+- https://farm4.staticflickr.com/3882/14772548278_c188c53ed5_b.jpg
+- https://farm4.staticflickr.com/3872/14772474560_10863dee1a_b.jpg
+- https://farm4.staticflickr.com/3874/14936153886_cdb1f53926_b.jpg
+- https://farm4.staticflickr.com/3844/14772613097_dfe6108a09_b.jpg
 category: Sneakers
 tags: "Consumers"
 client: Converse
