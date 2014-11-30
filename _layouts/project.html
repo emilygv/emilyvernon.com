@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h2>{{ page.title }}</h2>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Project Details</h4>
+            <div class="hline"></div>
+            {% if page.season == null %} <p><b>Date:</b> {{ page.date | date: '%-d %B %Y' }}</p>{% endif %}
+            {% if page.season %} <p><b>Season:</b> {{ page.season }}</p>{% endif %}
+            <p><b>Category:</b> {{ page.category }}</p>
+            <p><b>Tags:</b> {{ page.tags }}</p>
+            <p><b>Client:</b> {{ page.client }}</p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
+
+{% include portfolio.html title="Related Works." limit=5 category=page.category current_title=page.title %}

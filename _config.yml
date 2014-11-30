@@ -1,0 +1,58 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: Emily Vernon
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://emilyvernon.com"
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#6395ff" #"#F70031"
+  primary_rgb: "99,149,255" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#293e6a" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+    layout: project
+
+defaults:
+  -
+    scope:
+      path: "blog"
+      type: "posts"
+    values:
+      layout: "post"
+      categories: "blog"
+  -
+    scope:
+      path: "projects"
+      type: "projects"
+    values:
+      layout: "project"
+
+about: "Sometimes I call myself a \"generationalist\" because I want to be apart of the now."
+email: emily@emilyvernon.com
+tel: +31 6 52603180
+
+social:
+  - title: linkedin
+    url: http://linkedin.com/in/emilygvernon
+  - title: facebook
+    url: https://www.facebook.com/emilyvernon
+  - title: instagram
+    url: http://instagram.com/emilygv
+  - title: google-plus
+    url: https://plus.google.com/104794774790907430650
