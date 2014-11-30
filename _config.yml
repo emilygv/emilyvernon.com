@@ -59,7 +59,6 @@ social:
 
 prose:
   siteurl: "http://emilyvernon.com"
-  rooturl: '/'
   ignore:
     - /_layouts
     - /_includes
