@@ -56,3 +56,25 @@ social:
     url: http://instagram.com/emilygv
   - title: google-plus
     url: https://plus.google.com/104794774790907430650
+
+prose:
+  siteurl: "http://emilyvernon.com"
+  rooturl: '/'
+  ignore:
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+        - &pm_title
+          name: "title"
+          field:
+            element: "text"
+            label: "Title"
+            placeholder: "Title of a post"
+        - &pm_published
+          name: "published"
+          field:
+            label: "Published"
+            element: "checkbox"
+            value: true
+        
