@@ -20,6 +20,7 @@ colors:  #in hex code if not noted else
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
+  title_hover: "#ff897f"
 
 
 collections:
@@ -46,6 +47,9 @@ defaults:
 about: "Sometimes I call myself a \"generationalist\" because I want to be apart of the now."
 email: emily@emilyvernon.com
 tel: +31 6 52603180
+
+gems:
+  - jekyll-sitemap
 
 social:
   - title: linkedin
@@ -76,4 +80,3 @@ prose:
             label: "Published"
             element: "checkbox"
             value: true
-        

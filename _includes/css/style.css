@@ -107,6 +107,10 @@ a:focus {
 	font-size: 12px;
 }
 
+.navbar-default .navbar-brand:hover {
+	color: {{ site.colors.title_hover }};
+}
+
 .navbar-default .navbar-nav > li > a:hover {
 	color: {{ site.colors.primary }};
 }
