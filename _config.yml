@@ -9,8 +9,8 @@ url: "http://emilyvernon.com"
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:categories/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+permalink: /blog/:title
+# excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
   primary: "#6395ff" #"#F70031"
@@ -32,11 +32,9 @@ collections:
 defaults:
   -
     scope:
-      path: "blog"
       type: "posts"
     values:
       layout: "post"
-      categories: "blog"
   -
     scope:
       path: "projects"
@@ -80,3 +78,9 @@ prose:
             label: "Published"
             element: "checkbox"
             value: true
+        - &pm_img
+          name: "img"
+          field:
+            label: "Image Url"
+            element: "text"
+            placeholder: "Url of image, Ex: on flickr"
