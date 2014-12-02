@@ -58,6 +58,8 @@ social:
     url: http://instagram.com/emilygv
   - title: google-plus
     url: https://plus.google.com/104794774790907430650
+  - title: rss
+    url: http://emilyvernon.com/feed.xml
 
 prose:
   siteurl: "http://emilyvernon.com"
