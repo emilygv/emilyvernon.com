@@ -25,7 +25,7 @@ body {
 	background: #ffffff;
 	margin: 0;
 	height: 100%;
-	color: {{ site.colors.secondary }};
+	color: black;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	}
@@ -42,7 +42,7 @@ p {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
-	color: {{ site.colors.secondary }};
+	color: black;
 	margin-top: 10px;
 }
 
@@ -71,12 +71,12 @@ a:focus {
 ::-moz-selection  {
 	color: #fff;
 	text-shadow:none;
-	background:{{ site.colors.secondary }};
+	background:black;
 }
 ::selection {
 	color: #fff;
 	text-shadow:none;
-	background:{{ site.colors.secondary }};
+	background:black;
 }
 
 .centered {
@@ -102,7 +102,7 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: white;
+	color: black;
 	font-weight: 700;
 	font-size: 12px;
 }
@@ -198,7 +198,7 @@ a:focus {
 }
 
 .hline {
-	border-bottom: 2px solid {{ site.colors.secondary }};
+	border-bottom: 2px solid black;
 }
 
 .hline-w {
