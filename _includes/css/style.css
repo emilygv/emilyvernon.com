@@ -98,7 +98,7 @@ a:focus {
 }
 
 .navbar-header .navbar-brand {
-	color: white;
+	color: black;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -108,7 +108,7 @@ a:focus {
 }
 
 .navbar-default .navbar-brand:hover {
-	color: {{ site.colors.title_hover }};
+	color: {{ site.colors.primary }};
 }
 
 .navbar-default .navbar-nav > li > a:hover {
