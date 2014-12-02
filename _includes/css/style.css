@@ -35,7 +35,13 @@ h1, h2, h5, h6 {
 	font-weight: 500;
 }
 
-h3, h4 {
+h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+
+h4 {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 600;
 }
