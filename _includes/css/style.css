@@ -296,8 +296,9 @@ a:focus {
 	color:#fff;
 	margin:0;
 	padding:40px 5px 0;
-	font-size:16px;
+	font-size:18px;
 	text-transform:uppercase;
+	font-weight: 600;
 }
 .tpl6 .dmbutton
 {
