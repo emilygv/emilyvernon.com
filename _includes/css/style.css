@@ -374,20 +374,24 @@ a:focus {
 #footerwrap {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background: {{ site.colors.secondary }};
+	background: black;
 }
 
 #footerwrap p {
-	color: {{ site.colors.footer_content }};
+	color: white;
+}
+
+#footerwrap a {
+	color: {{ site.colors.primary }};
 }
 
 #footerwrap h4 {
-	color: {{ site.colors.footer_heading }};
+	color: white;
 }
 
 #footerwrap i {
 	font-size: 30px;
-	color: {{ site.colors.footer_content }};
+	color: white;
 	padding-right: 25px;
 }
 
