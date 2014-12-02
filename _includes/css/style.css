@@ -211,7 +211,7 @@ a:focus {
 
 #headerwrap {
 	background-color: {{ site.colors.primary }};
-	padding-top: 80px;
+	padding-top: 75px;
 	padding-bottom: 55px;
 	text-align: center;
 }
