@@ -66,21 +66,13 @@ prose:
     - /_includes
   metadata:
     _posts:
-        - &pm_title
-          name: "title"
-          field:
-            element: "text"
-            label: "Title"
-            placeholder: "Title of a post"
-        - &pm_published
-          name: "published"
-          field:
-            label: "Published"
-            element: "checkbox"
-            value: true
-        - &pm_img
-          name: "img"
-          field:
-            label: "Image Url"
-            element: "text"
-            placeholder: "Url of image, Ex: on flickr"
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: true
+      - name: "img"
+        field:
+          label: "Image Url"
+          element: "text"
+          placeholder: "Url of image, Ex: on flickr"
