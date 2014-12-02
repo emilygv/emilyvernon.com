@@ -1,6 +1,7 @@
 ---
 published: true
 title: The Evolutions of a Website
+img: "http://farm9.staticflickr.com/8578/15746879749_116e530771_b.jpg"
 ---
 
 **Since 2007 I had a website. The first version made during my middle years at art school mainly ended up as link for potential jobs or internships. My second one two years later still coded from scratch. From the versions in 2007, 2009, 2013 and now 2014, my website's focus and platform changed as my priorities evolved and web technologies such as Jekyll and Github became more popular.**
@@ -17,5 +18,4 @@ Though I put so much time into my 2013 site, I knew it needed to change. Semi-re
 
 Hipster, please. 
 
-So here are the improvement so far. It loads faster and “wasn’t trying too hard,” as I put it. The animations of my previous site seemed dated only a month after it went live. The responsiveness is - well - actually responsive; my 2013 website, though a "responsive" template, was actually just mobile-able. And it cannot be hacked, which is almost like leaving on holiday while confidently entrusting your beloved pet to take care of itself. I have also edited down a lot of content with the intent to add over time. Start with less, and hopefully, end up with more. It took only four versions to learn a very important personal website or blog insight. There is always the next version. Unlike a serious boyfriend or girlfriend, your website will never be the *one* and embracing this reality makes building a site less daunting. 
-
+So here are the improvement so far. It loads faster and “wasn’t trying too hard,” as I put it. The animations of my previous site seemed dated only a month after it went live. The responsiveness is - well - actually responsive; my 2013 website, though a "responsive" template, was actually just mobile-able. And it cannot be hacked, which is almost like leaving on holiday while confidently entrusting your beloved pet to take care of itself. I have also edited down a lot of content with the intent to add over time. Start with less, and hopefully, end up with more. It took only four versions to learn a very important personal website or blog insight. There is always the next version. Unlike a serious boyfriend or girlfriend, your website will never be the *one* and embracing this reality makes building a site less daunting.
