@@ -18,5 +18,4 @@ Your upper sits within a sole unit. The midsole is the visible part of your sole
 ## Outsoles
 With every step, the outsole hits the ground. The outsole can be a discussion in itself, with each sport requiring distinct design specifications. Every sneaker has a different series of grooves and treads, which sometimes goes unnoticed.
 
-## Conclusion
 We use these four terms everyday when looking at own creations as well as when evaluating other products. With just these, you can carry discussions around sneakers such as, “What material is the upper?” or “I wonder why they blocked the midsole that way.” Certainly there is more to learn but no worries, it will all come together in the end, stitch-by-stitch.
