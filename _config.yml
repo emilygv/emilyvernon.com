@@ -73,6 +73,10 @@ prose:
           label: "Published"
           element: "checkbox"
           value: true
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "img"
         field:
           label: "Image Url"
