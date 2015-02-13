@@ -4,7 +4,7 @@ title: Parts of a Sneaker
 img: "http://farm8.staticflickr.com/7415/16502874761_61b2cc31e1_b.jpg"
 ---
 
-Every house has a roof, interior and foundation, as does every sneaker - we just use different terms. Learning these four basic parts of a sneaker first will make the remaining easier to remember and apply. Even with these conversations around product will sound more informed. Instead of, “What does the bottom look like?” you’ll say, “Take a look at that outsole construction” or “This part here (finger wiggle)” will be simply replaced with midsole. 
+**Every house has a roof, interior and foundation, as does every sneaker - we just use different terms. Learning these four basic parts of a sneaker first will make the remaining easier to remember and apply. Even with these conversations around product will sound more informed. Instead of, “What does the bottom look like?” you’ll say, “Take a look at that outsole construction” or “This part here (finger wiggle)” will be simply replaced with midsole.**
 
 ## Upper
 This is the main part of a sneaker or the jacket for your foot. If taken out of the shoe, the upper would look like a sock without a bottom. The pieces of an upper include the tongue and quarter panels, and could also have a collar, eyestay, heel counter, toebox or vamp … but that’s for later.
