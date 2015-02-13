@@ -2,7 +2,7 @@ A Personal website based on [solid-jekyll](https://github.com/st4ple/solid-jekyl
 Visit me at http://emilyvernon.com
 
 ## How to add new blog posts
-1. Use http://prose.com
+1. Use http://prose.io
 2. Open your project
 3. Write new post
 4. Put some images
