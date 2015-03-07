@@ -2,34 +2,20 @@
 <div id="container">
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
-        <div class="recentitems portfolio">
-            {% if include.category %}
-                {% assign projects = site.projects | where:"category",include.category %}
-            {% else %}
-                {% assign projects = site.projects %}
-            {% endif %}
-
-            {% assign projects = projects | sort:'date' | reverse %}
-            <!-- | sort:'date' | reverse | -->
-
-            {% for project in projects limit:include.limit %}
-                {% if include.current_title and include.current_title == project.title %}
-                    {% continue %}
-                {% endif %}
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-                    <img src="{{ project.img }}" alt="">
-                        <div class="he-view">
-                            <div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
-                                <a data-rel="prettyPhoto" href="{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                            </div><!-- he bg -->
-                        </div><!-- he view -->
-                    </div><!-- he wrap -->
-                </div><!-- end col-12 -->
-            {% endfor %}
-        </div><!-- portfolio -->
+        
+    {% if include.category %}
+        {% if include.category == "Sneakers" %}
+            {% include portfolio_img.html limit=include.limit %}
+        {% endif %}
+    
+        {% if include.category == "Journalism" %}
+            {% include portfolio_txt.html limit=include.limit %}
+        {% endif %}
+    {% else %}
+        {% include portfolio_img.html limit=include.limit %}
+        {% include portfolio_txt.html limit=include.limit %}
+    {% endif %}
+        
     </div><!-- portfolio container -->
 </div>
 </div><!--/Portfoliowrap -->
