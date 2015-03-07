@@ -1,6 +1,4 @@
-<div id="portfoliowrap">
-    <div class="portfolio-centered">
-        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+
         <div class="recentitems portfolio">
             {% assign projects = site.projects | where:"category","Sneakers" %}
             {% assign projects = projects | sort:'date' | reverse %}
@@ -24,5 +22,4 @@
                 </div><!-- end col-12 -->
             {% endfor %}
         </div><!-- portfolio -->
-    </div><!-- portfolio container -->
-</div><!--/Portfoliowrap -->
+    
