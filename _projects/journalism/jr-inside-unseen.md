@@ -7,6 +7,7 @@ carousel:
 category: Journalism
 tags: "Photography"
 client: UNSEEN Photo Fair
+description: Unseen Photo Fair attracted international artists, galleries and visitors for its four-day affair at Westergasfabriek
 ---
 Unseen Photo Fair attracted international artists, galleries and visitors for its four-day affair at Westergasfabriek. JR’s INSIDE OUT remained a highlight throughout the event, as many already knew about the collaborative art project and queued in front of the drivable photobooth to participate.
 
