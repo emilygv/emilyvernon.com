@@ -7,7 +7,7 @@ carousel:
 category: Journalism
 tags: "Music"
 client: GLAMCULT
-description: It is a truth universally acknowledged that standing out in the densely populated UK music scene is next to impossible—but emerging London indie-electro pop trio Years & Years makes it look easy. ->>
+description: It is a truth universally acknowledged that standing out in the densely populated UK music scene is next to impossible—but emerging London indie-electro pop trio Years & Years makes it look easy.(Read More)
 ---
 It is a truth universally acknowledged that standing out in the densely populated UK music scene is next to impossible—but emerging London indie-electro pop trio Years & Years makes it look easy. Glamcult caught up with frontman Olly Alexander, bassist Mikey Goldsworthy and synth player Emre Turkmen to talk about the band’s natural progression, their chill group dynamic and versatile music projects.
 
