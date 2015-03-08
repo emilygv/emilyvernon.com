@@ -11,4 +11,4 @@ tags: "Fashion"
 client: Converse
 season: "Holiday 2014"
 ---
-
+Dress up an afternoon outing with either a pair of black twisted leather sneakers with gold hardware or white with silver detailing. Then, break out that black mini backpack, long grey sweater and those gold accessories because winter does not mean dreary. 
