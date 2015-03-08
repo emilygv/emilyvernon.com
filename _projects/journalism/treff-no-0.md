@@ -7,7 +7,7 @@ carousel:
 category: Journalism
 tags: "Fashion"
 client: TREFF
-description: Treff is a showcase for fashion, art and culture. An arena that encourages varying approaches and deep storytelling
+description: Treff is a showcase for fashion, art and culture. An arena that encourages varying approaches and deep storytelling.Each issue explores distinct perspectives on selected subjects, provoking discussion that inspire, intrigue and challenge...
 ---
 Treff is a showcase for fashion, art and culture. An arena that encourages varying approaches and deep storytelling. Each issue explores distinct perspectives on selected subjects, provoking discussion that inspire, intrigue and challenge. Treff aspires to elevate treffen from a Dutch verb to an international statement.
 
