@@ -7,8 +7,8 @@ carousel:
 category: Journalism
 tags: "Photography"
 client: UNSEEN Photo Fair
-description: Unseen Photo Fair attracted international artists, galleries and visitors for its four-day affair at Westergasfabriek
+description: INSIDE OUT by JR is the expansive and already well-traveled installation of participants’ enlarged portraits. It provides an opportunity for new individuals the world over to...
 ---
-Unseen Photo Fair attracted international artists, galleries and visitors for its four-day affair at Westergasfabriek. JR’s INSIDE OUT remained a highlight throughout the event, as many already knew about the collaborative art project and queued in front of the drivable photobooth to participate.
+INSIDE OUT by JR is the expansive and already well-traveled installation of participants’ enlarged portraits. It provides an opportunity for new individuals the world over to join an ever-growing movement and, in JR’s coming to Unseen, has reunited him with one of his original advocates. When JR was just beginning, Marloes Krijnen, the director of Foam, was one of the first people in Europe to believe in JR’s work says Youssef Boubekeur, longtime friend of the artist and member of the INSIDE OUT team. 
 
 Read the full article [here](http://www.unseenamsterdam.com/jr-inside-unseen).
