@@ -278,7 +278,7 @@ a:focus {
 
 /* Portfolio Wrap */
 #portfoliowrap {
-	padding-top: 40px;
+	padding-top: 20px;
 	margin-bottom: 20px;
 	display: block;
 	text-align: center
@@ -429,7 +429,7 @@ a:focus {
 #blue {
 	background: {{ site.colors.primary }};
 	margin-top: 60px;
-	margin-bottom: 30px;
+	margin-bottom: 15px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 }
