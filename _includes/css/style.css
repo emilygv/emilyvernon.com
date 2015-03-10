@@ -224,8 +224,8 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	padding-top: 90px;
-	padding-bottom: 75px;
+	padding-top: 100px;
+	padding-bottom: 85px;
 	text-align: center;
 	background: #edadcf; /* Old browsers */
 	background: -moz-linear-gradient(45deg,  #edadcf 0%, #cbefe2 48%, #7bcab7 99%); /* FF3.6+ */
