@@ -4,7 +4,7 @@ title: What is a Fashion Trend
 img: "http://farm8.staticflickr.com/7654/16570103507_3fe34b8ac9_b.jpg"
 ---
 
-The word "trend" gets thrown around frequently, especially as it comes attached with a variety of meanings. In this article we will look at fashion trends, since they inevitably affect footwear preferences. As the use of such information is continually questioned in companies, understanding its core principles can separate the constructive opportunities from useless information.
+**The word "trend" gets thrown around frequently, especially as it comes attached with a variety of meanings. In this article we will look at fashion trends, since they inevitably affect footwear preferences. As the use of such information is continually questioned in companies, understanding its core principles can separate the constructive opportunities from useless information.**
 
 A fashion trend is a color, cut or theme recognizably popular at a specific time period for a set consumer. Trends can be either emerging or current. An emerging trend is an identifiable repetition in cut, color or theme, which is not yet widely accepted or in fruition. This can be due to the season, an emerging trend could be for the future spring months over current winter gloom for example, or location. Historically, the runway determined emerging fashion trends due to its wide reach. With information, travel and purchasing able to easily cross boarders, this is no longer the case.
 
