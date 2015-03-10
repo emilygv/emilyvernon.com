@@ -224,10 +224,17 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
-	padding-top: 75px;
-	padding-bottom: 55px;
+	padding-top: 90px;
+	padding-bottom: 75px;
 	text-align: center;
+	background: #f4d2f4; /* Old browsers */
+	background: -moz-linear-gradient(left,  #f4d2f4 6%, #adbcea 44%, #7bcab7 83%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(6%,#f4d2f4), color-stop(44%,#adbcea), color-stop(83%,#7bcab7)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  #f4d2f4 6%,#adbcea 44%,#7bcab7 83%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  #f4d2f4 6%,#adbcea 44%,#7bcab7 83%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  #f4d2f4 6%,#adbcea 44%,#7bcab7 83%); /* IE10+ */
+	background: linear-gradient(to right,  #f4d2f4 6%,#adbcea 44%,#7bcab7 83%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4d2f4', endColorstr='#7bcab7',GradientType=1 ); /* IE6-9 */
 }
 
 #headerwrap h3, h5 {
