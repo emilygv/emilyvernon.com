@@ -1,6 +1,7 @@
 ---
 published: true
 title: What is a Fashion Trend
+img: "http://farm8.staticflickr.com/7654/16570103507_3fe34b8ac9_b.jpg"
 ---
 
 The word "trend" gets thrown around frequently, especially as it comes attached with a variety of meanings. In this article we will look at fashion trends, since they inevitably affect footwear preferences. As the use of such information is continually questioned in companies, understanding its core principles can separate the constructive opportunities from useless information.
@@ -12,4 +13,3 @@ Runway still holds an unwritten respect amongst each that comes into the industr
 Trends are disseminating faster than before from online venues and fast fashion retailers such as Zara and H&M. From this, the time between an emerging and current fashion trend shortens from three seasons away to one. Current fashion trends are presently popular on the street. These greatly depend on locality. The popular shirt cut for the same level of consumer differs between Los Angeles and Berlin, for example. This is due to the exposure of information from an environment. Sure, online is important, but offline is still a tangible experience. Seeing something in person - or on a person - has a longer lasting effect than viewing it on a blog for 0.05 seconds. 
 
 A fashion trend can be emerging or popular, online or offline. It is just as important in identifying trends to do worldwide web research as it is to travel. With the amount of information available, understanding the end goal is crucial when identifying fashion trends. They can either be just another trend or an opportunity for a company, but knowing their composition is the first step.
-
