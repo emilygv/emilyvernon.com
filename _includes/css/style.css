@@ -274,7 +274,7 @@ a:focus {
 #service i {
 	color: {{ site.colors.primary }};
 	font-size: 60px;
-	padding: 15px;
+	padding: 25px;
 }
 
 /* Portfolio Wrap */
