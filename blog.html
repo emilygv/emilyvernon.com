@@ -5,12 +5,14 @@ permalink: /blog/
 ---
 
 <div class="container mtb">
+<! -- BLOG POSTS LIST -->
+{% for post in site.posts %}
     <div class="row">
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-8">
 
-        <! -- BLOG POSTS LIST -->
-        <div class="col-lg-12">
-
-            {% for post in site.posts %}
+            
                 <! -- Blog Post -->
 
                 <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ post.title }}</h3></a>
@@ -20,9 +22,8 @@ permalink: /blog/
                 <div class="hline"></div>
 
                 <div class="spacing"></div>
-            {% endfor %}
-
+            
         </div><! --/col-lg-8 -->
-
     </div><! --/row -->
+{% endfor %}
 </div><! --/container -->
