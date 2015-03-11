@@ -7,8 +7,9 @@ permalink: /blog/
 <div class="container mtb">
 <! -- BLOG POSTS LIST -->
 {% for post in site.posts %}
-    <div class="row">
+    <div class="row hline">
         <div class="col-md-4">
+            <img class="img-responsive" src="{{ post.img }}">
         </div>
         <div class="col-md-8">
 
@@ -19,8 +20,7 @@ permalink: /blog/
                 <p><csmall>{{ post.date | date: "%b %-d, %Y" }}</csmall></p>
                 {{ post.excerpt | strip_html }}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p>
-                <div class="hline"></div>
-
+                
                 <div class="spacing"></div>
             
         </div><! --/col-lg-8 -->
