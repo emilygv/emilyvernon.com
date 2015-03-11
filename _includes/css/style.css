@@ -437,7 +437,7 @@ a:focus {
 	margin-top: 45px;
 	margin-bottom: 10px;
 	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-bottom: 15px;
 	background: #cbefe2; /* Old browsers */
 	background: -moz-linear-gradient(45deg,  #cbefe2 19%, #7bcab7 99%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left bottom, right top, color-stop(19%,#cbefe2), color-stop(99%,#7bcab7)); /* Chrome,Safari4+ */
