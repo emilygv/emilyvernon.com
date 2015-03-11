@@ -8,12 +8,12 @@ permalink: /blog/
 <! -- BLOG POSTS LIST -->
 {% for post in site.posts %}
     <div class="row spacing">
-        <div class="col-md-4">
+        <div class="col-xs-4">
             
             <img class="img-responsive" src="{{ post.img }}">
             
         </div>
-        <div class="col-md-8">
+        <div class="col-xs-8">
 
                 <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ post.title }}</h3></a>
                 <p><csmall>{{ post.date | date: "%b %-d, %Y" }}</csmall></p>
