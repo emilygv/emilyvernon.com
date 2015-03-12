@@ -42,7 +42,7 @@ h3 {
 	text-transform: uppercase;
 }
 
-h3.a1 {
+h3. a1 {
 	margin-top: 5px;
 	margin-bottom: 25px;
 }
@@ -205,7 +205,7 @@ a:focus {
 
 .mtb {
 	margin-top: 25px;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 }
 
 .mb {
