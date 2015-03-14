@@ -5,7 +5,6 @@ img: http://farm9.staticflickr.com/8734/16809318255_18b0c09ae5_b.jpg
 carousel:
 - http://farm9.staticflickr.com/8640/16186982774_c3620f12aa_b.jpg
 - http://farm8.staticflickr.com/7591/16189407193_69a0e196a5_b.jpg
-- http://farm8.staticflickr.com/7610/16809318335_3154e6b3af_b.jpg
 category: Sneakers
 tags: "Fashion"
 client: Converse
