@@ -1,7 +1,7 @@
 ---
 title:  "PC Classic Boot"
 date:   2012-12-01 00:00:00
-img: https://farm8.staticflickr.com/7573/15913021025_6b3160e231_b.jpg
+img: http://farm9.staticflickr.com/8595/16625068860_4090cf055a_b.jpg
 carousel:
 - https://farm4.staticflickr.com/3912/14713872408_9bac1312c1_b.jpg
 - https://farm4.staticflickr.com/3865/14713837679_2d57bc03ed_b.jpg
