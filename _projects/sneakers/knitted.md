@@ -5,7 +5,7 @@ img: http://farm8.staticflickr.com/7593/16622222110_6df76bdc1b_b.jpg
 carousel:
 - https://farm6.staticflickr.com/5590/14713854608_6629b082f3_b.jpg
 - https://farm4.staticflickr.com/3884/14897408761_f7d29a000d_b.jpg
-- https://farm6.staticflickr.com/5560/14897408621_56ff05c751_b.jpg
+- http://farm9.staticflickr.com/8620/16187151644_44844f6b52_b.jpg
 category: Sneakers
 tags: "New Material"
 client: Converse
