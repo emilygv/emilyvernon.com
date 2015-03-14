@@ -1,11 +1,11 @@
 ---
 title:  "Waxed Leather"
 date:   2014-02-01 00:00:00
-img: https://farm8.staticflickr.com/7491/15725511898_ce46a5b7ef_b.jpg
+img: http://farm9.staticflickr.com/8651/16624930010_0e0915722a_b.jpg
 carousel:
-- https://farm6.staticflickr.com/5578/14877476086_7ca0769bc1_b.jpg
-- https://farm6.staticflickr.com/5573/14713871188_86a750eb13_b.jpg
-- https://farm4.staticflickr.com/3842/14900134812_0d03ba5751_b.jpg
+- http://farm8.staticflickr.com/7607/16192314603_c468327dfb_b.jpg
+- http://farm8.staticflickr.com/7584/16811099482_11e33e1110_b.jpg
+- http://farm9.staticflickr.com/8584/16626091699_0ee228977f_b.jpg
 category: Sneakers
 tags: "Fashion"
 client: Converse
