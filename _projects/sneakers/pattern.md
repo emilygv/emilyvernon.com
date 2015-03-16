@@ -1,6 +1,6 @@
 ---
 title:  "Pattern"
-date:   2014-01-01 00:00:00
+date:   2013-11-01 00:00:00
 img: https://farm8.staticflickr.com/7574/15913117825_5e9aec6c0c_b.jpg
 carousel:
 - https://farm4.staticflickr.com/3862/14959149725_fa90cc6ed3_b.jpg
