@@ -42,10 +42,6 @@ h3 {
 	text-transform: uppercase;
 }
 
-h3. a1 {
-	margin-top: 5px;
-	margin-bottom: 25px;
-}
 
 h4 {
 	font-family: 'Raleway', sans-serif;
@@ -558,6 +554,11 @@ a.anchor{
 
 .portfolio-txt a {
   color: black;
+}
+
+.portfolio-txt h3 {
+  color: black;
+  margin-top: 5px;
 }
 
 .portfolio-txt a:hover {
