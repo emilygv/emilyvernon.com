@@ -555,13 +555,11 @@ a.anchor{
 .portfolio-txt a {
   color: black;
 }
-
-.portfolio-txt h3 {
-  color: black;
-  margin-top: 5px;
-  margin-bottom: 10px;
-}
-
 .portfolio-txt a:hover {
   color: #7bcab7;
+}
+
+.portfolio-txt h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
