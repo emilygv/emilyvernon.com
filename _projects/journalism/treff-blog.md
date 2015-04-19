@@ -7,8 +7,8 @@ carousel:
 category: Journalism
 tags: "Fashion"
 client: TREFF
-description: TREFF continues to expand its outlook and reach. For Issue 01, we created a blog to tease our viewers on the next collaboration between Niek Pulles of HEYNIEK and Barbara Langendijk...
+description: TREFF continues to expand its outlook and reach. For Issue 01, we created a blog to tease our viewers on the next collaboration while offering continually inspiration between ...
 ---
-TREFF continues to expand its outlook and reach. For Issue 01, we created a blog to tease our viewers on the next collaboration between Niek Pulles of HEYNIEK and Barbara Langendijk. There information about their latest projects, behind-the-scenes photographs and precise descriptions collect before the official publication of TREFF Magazine. 
+TREFF continues to expand its outlook and reach. To kick off Issue 01, we created a blog to tease our viewers on the next collaboration while offering continually inspiration between our biannual editions. Check out the latest projects of our creative participants, behind-the-scenes photographs and informative stories on our up-and-coming themes. 
 
 Check out the TREFF Blog [here](http://treffmagazine.tumblr.com).
