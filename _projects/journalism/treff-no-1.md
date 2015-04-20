@@ -1,4 +1,3 @@
----
 title:  "TREFF No. 1"
 date: 2014-04-15 00:00:00
 img: https://farm9.staticflickr.com/8763/17203024775_e5cec880a8_b.jpg
