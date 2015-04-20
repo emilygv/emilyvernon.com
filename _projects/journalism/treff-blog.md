@@ -3,7 +3,7 @@ title:  "TREFF Blog"
 date:   2015-3-01 00:00:00
 img: https://farm8.staticflickr.com/7551/15914067532_4344c4f20e_b.jpg
 carousel:
-- http://farm9.staticflickr.com/8566/16643906350_48cb2ccf9f_b.jpg
+- http://farm9.staticflickr.com/8709/17215401265_1313aabb0a_b.jpg
 category: Journalism
 tags: "Fashion"
 client: TREFF
