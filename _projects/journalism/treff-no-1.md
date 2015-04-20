@@ -1,13 +1,13 @@
 ---
-title:  "TREFF No. 1"
-date:   2015-10-15 00:00:00
+title:  "TREFF No. 0"
+date:   2014-10-31 00:00:00
 img: https://farm8.staticflickr.com/7551/15914067532_4344c4f20e_b.jpg
 carousel:
 - https://farm8.staticflickr.com/7481/15728800739_5d9f62d831_b.jpg
 category: Journalism
 tags: "Fashion"
 client: TREFF
-description: Treff Issue no. 1 brings together a small team of artists, writers and designers to instigate collaboration in the creative community. Under the theme 'Japan: Individualism vs Community'...
+description: Treff is a showcase for fashion, art and culture. An arena that encourages varying approaches and deep storytelling.Each issue explores distinct perspectives on selected subjects, provoking...
 ---
 Treff Issue no. 1 brings together a small team of artists, writers and designers to instigate collaboration in the creative community. Under the theme 'Japan: Individualism vs Community', fashion designer Barbara Langendijk, visual poet Lucienne Venner and photographer Shinji Otani address the topic through multiple media. 
 
