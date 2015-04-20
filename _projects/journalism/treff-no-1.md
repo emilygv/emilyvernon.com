@@ -1,9 +1,9 @@
 ---
 title:  "TREFF No. 1"
 date:   2015-04-15 00:00:00
-img: https://farm8.staticflickr.com/7551/15914067532_4344c4f20e_b.jpg
+img: https://farm9.staticflickr.com/8763/17203024775_e5cec880a8_b.jpg
 carousel:
-- http://farm9.staticflickr.com/8763/17203024775_e5cec880a8_b.jpg
+- https://farm9.staticflickr.com/8763/17203024775_e5cec880a8_b.jpg
 category: Journalism
 tags: "Fashion"
 client: TREFF
