@@ -7,7 +7,7 @@ carousel:
 category: Journalism
 tags: "Fashion"
 client: TREFF
-description: Treff Issue no. 1 brings together a small team of artists, writers and designers to instigate collaboration in the creative community. Under the theme Japan: Individualism vs Community, fashion...
+description: Treff Issue no. 1 brings together a small team of artists, writers and designers to instigate collaboration in the creative community. Under the theme Japan, Individualism vs Community, fashion...
 ---
 Treff Issue no. 1 brings together a small team of artists, writers and designers to instigate collaboration in the creative community. Under the theme Japan: Individualism vs Community, fashion designer Barbara Langendijk, visual poet Lucienne Venner and photographer Shinji Otani address the topic through multiple media. 
 
