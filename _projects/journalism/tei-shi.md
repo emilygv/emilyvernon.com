@@ -1,6 +1,7 @@
 ---
 title:  "Tei Shi"
 date:   2015-04-11 12:00:00
+http://farm1.staticflickr.com/524/18325670938_8b1468a925_b.jpg
 carousel:
 - http://farm1.staticflickr.com/524/18325670938_8b1468a925_b.jpg
 category: Journalism
