@@ -8,9 +8,8 @@ tags: "Music"
 client: GLAMCULT
 description: The part of Valerie Teicher known as Tei Shi channels the more submerged elements of the Colombian-born, NYC-based songstresses's personality. Though she herself might dismiss her alter ego ...
 ---
-The part of Valerie Teicher known as Tei Shi channels the more submerged elements of the Colombian-born, NYC-based songstresses's personality. Though she herself might dismiss her alter ego as a "mental-health thing", Tei Shi embodies a modern-day siren that draws listeners toward figurative, water-crashing rocks with her ethereal electro-pop. And Glamcult is only too happy to follow.
+It’s likely not everyone will understand the world of twin brothers Fletcher and Wyatt Shears, aka The Garden. It’s a world broadcast through social media, riddled with cryptic messages and populated by imaginary characters. But despite their onstage antics—not to mention Fletcher’s cross-dressing past—the Shears boys are really just a pair of ordinary Orange County twenty-somethings, with all-American smiles.
 
-Read the full article [here](http://issuu.com/glamcult/docs/gc_digitaal_page/29?e=0/12206257).
-
+Read the full article [here](http://issuu.com/glamcult/docs/gc_digitaal_page/27?e=0).
 
 
