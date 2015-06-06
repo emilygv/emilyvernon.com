@@ -6,7 +6,7 @@ carousel:
 category: Journalism
 tags: "Music"
 client: GLAMCULT
-description: The part of Valerie Teicher known as Tei Shi channels the more submerged elements of the Colombian-born, NYC-based songstresses's personality. Though she herself might dismiss her alter ego ...
+description: It’s likely not everyone will understand the world of twin brothers Fletcher and Wyatt Shears, aka The Garden. It’s a world broadcast through social media, riddled with cryptic messages and ...
 ---
 It’s likely not everyone will understand the world of twin brothers Fletcher and Wyatt Shears, aka The Garden. It’s a world broadcast through social media, riddled with cryptic messages and populated by imaginary characters. But despite their onstage antics—not to mention Fletcher’s cross-dressing past—the Shears boys are really just a pair of ordinary Orange County twenty-somethings, with all-American smiles.
 
