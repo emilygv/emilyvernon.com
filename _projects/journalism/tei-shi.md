@@ -1,5 +1,5 @@
 ---
-title:  "The Tei Shi"
+title:  "Tei Shi"
 date:   2015-04-11 12:00:00
 carousel:
 - http://farm1.staticflickr.com/524/18325670938_8b1468a925_b.jpg
