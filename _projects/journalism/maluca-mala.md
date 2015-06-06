@@ -8,9 +8,9 @@ tags: "Music"
 client: GLAMCULT
 description: The part of Valerie Teicher known as Tei Shi channels the more submerged elements of the Colombian-born, NYC-based songstresses's personality. Though she herself might dismiss her alter ego ...
 ---
-The part of Valerie Teicher known as Tei Shi channels the more submerged elements of the Colombian-born, NYC-based songstresses's personality. Though she herself might dismiss her alter ego as a "mental-health thing", Tei Shi embodies a modern-day siren that draws listeners toward figurative, water-crashing rocks with her ethereal electro-pop. And Glamcult is only too happy to follow.
+Maluca Mala - literally "Crazy Bad" in Spanish - has shimmied together a kingdom from an aggregate heap of New York culture and Dominican resilience. A humanist at heart, the first-generation New Yorker disregards stereotypes and collaborates with friends whenever possible to evolve her already multi-genre, multi-inspired style. For Maluca Mala, life is an island rave - and Glamcult can't help but accept the invitation.
 
-Read the full article [here](http://issuu.com/glamcult/docs/gc_digitaal_page/29?e=0/12206257).
+Read the full article [here](http://issuu.com/glamcult/docs/gc_digitaal_page/27?e=0).
 
 
 
