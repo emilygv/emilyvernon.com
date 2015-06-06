@@ -4,8 +4,8 @@ date:   2015-01-02 00:00:00
 img: http://farm1.staticflickr.com/331/18508442096_8412249402_b.jpg
 carousel:
 - http://farm1.staticflickr.com/371/18536803331_caec015b80_b.jpg
-- http://farm1.staticflickr.com/273/18534884625_721c6df9ab_b.jpg
 - http://farm1.staticflickr.com/512/18347135930_e54cc7fd69_b.jpg
+- http://farm1.staticflickr.com/304/18530424082_a2485da697_b.jpg
 - http://farm9.staticflickr.com/8885/18530423532_a6737cc7ac_b.jpg
 category: Sneakers
 tags: "Sport Style"
