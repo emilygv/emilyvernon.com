@@ -2,7 +2,7 @@
 title:  "The Tei Shi"
 date:   2015-4-11 00:00:00
 carousel:
-- https://farm9.staticflickr.com/8618/15729611937_d1dca937a1_b.jpg
+- http://farm1.staticflickr.com/524/18325670938_8b1468a925_b.jpg
 category: Journalism
 tags: "Music"
 client: GLAMCULT
