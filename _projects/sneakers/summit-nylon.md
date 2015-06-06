@@ -1,11 +1,12 @@
 ---
 title:  "Summit Nylon"
 date:   2015-01-02 00:00:00
-img: http://farm8.staticflickr.com/7281/16833984682_4c0435b934_b.jpg
+img: http://farm1.staticflickr.com/331/18508442096_8412249402_b.jpg
 carousel:
-- http://farm8.staticflickr.com/7619/16215149413_67c4e3e1d9_b.jpg
-- http://farm8.staticflickr.com/7605/16647740230_0456bcf1f9_b.jpg
-- http://farm9.staticflickr.com/8644/16647739330_64291b6f19_b.jpg
+- http://farm1.staticflickr.com/371/18536803331_caec015b80_b.jpg
+- http://farm1.staticflickr.com/273/18534884625_721c6df9ab_b.jpg
+- http://farm1.staticflickr.com/512/18347135930_e54cc7fd69_b.jpg
+- http://farm9.staticflickr.com/8885/18530423532_a6737cc7ac_b.jpg
 category: Sneakers
 tags: "Sport Style"
 client: Converse
