@@ -8,10 +8,9 @@ tags: "Music"
 client: GLAMCULT
 description: The part of Valerie Teicher known as Tei Shi channels the more submerged elements of the Colombian-born, NYC-based songstresses's personality. Though she herself might dismiss her alter ego ...
 ---
-Treff Issue no. 1 brings together a small team of artists, writers and designers to instigate collaboration in the creative community. Under the theme 'Japan: Individualism vs Community', fashion designer Barbara Langendijk, visual poet Lucienne Venner and photographer Shinji Otani address the topic through multiple media. 
+The part of Valerie Teicher known as Tei Shi channels the more submerged elements of the Colombian-born, NYC-based songstresses's personality. Though she herself might dismiss her alter ego as a "mental-health thing", Tei Shi embodies a modern-day siren that draws listeners toward figurative, water-crashing rocks with her ethereal electro-pop. And Glamcult is only too happy to follow.
 
-The ever-developing idea of community in Japan reaches far beyond formal definitions. Reevaluating society's traditions and norms, as we see it, happens through through-provoking visual investigations and example. From shimenawa to wabi-sabi, experience and read your way into understanding our theme and these three collaborator's contribution to its investigation.  
+Read the full article [here](http://issuu.com/glamcult/docs/gc_digitaal_page/29?e=0/12206257).
 
-Read the full magazine [here](http://treffmagazine.nl).
 
 
