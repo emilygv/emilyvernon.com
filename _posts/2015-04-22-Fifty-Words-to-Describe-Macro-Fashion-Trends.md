@@ -1,4 +1,3 @@
-
 ---
 published: true
 title: Fifty Words to Describe Macro Fashion Trends
