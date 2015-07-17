@@ -4,6 +4,7 @@ published: true
 title: Fifty Words to Describe Macro Fashion Trends
 img: "http://farm1.staticflickr.com/411/19775263845_71e90aafda_b.jpg"
 ---
+
 **When presenting macro fashion trends to a team or client, it's not just photographs that communicate your point. Having a poignant title helps many to grasp the overall concept before components and details can be properly addressed and digested. Sometimes, however, find the right words can be time consuming, which is the exact reason why I created a cheat sheet of common words to describe fashion macro trends anyone can use.**
 
 The words conveniently fit into seven categories: Time, Place, Making, Music, University, Quality and Anthropology. You'll discover contrasts occur within each category. For example, there is the expected past versus modern under Time, but let's take one that is not so obvious - University. University comprises of an active and causal sense, seen with such words as varsity, prep, basics and smart. Each group has more than a single experience and the words reflect this tendency. 
