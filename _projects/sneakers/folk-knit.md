@@ -11,4 +11,4 @@ tags: "Material"
 client: Converse
 season: "Holiday 2014"
 ---
-Converse’s history in sports should be celebrated. In classic athletic colorways with open mesh, hairy suede, vintage tooling and duraplush lining, the footwear collection of Auckland Racers at size? stands out on the shelves. Good for runners or just running enthusiasts to brighten up your stride in summer.
+These winter edition Auckland Racers take inspiration from the crafted wool knits of the colder season. Leather and contrast stitching frame the multicolored textile that is rich in personality and aesthetics.
