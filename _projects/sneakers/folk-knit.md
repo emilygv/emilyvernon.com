@@ -1,6 +1,6 @@
 ---
 title:  "Folk Knit"
-date:   2013-06-13 00:00:00
+date:   2015-01-13 00:00:00
 img: http://farm1.staticflickr.com/653/20575204580_ca77e4fee9_b.jpg
 carousel:
 - http://farm1.staticflickr.com/574/20753786632_e03713e5e3_b.jpg
