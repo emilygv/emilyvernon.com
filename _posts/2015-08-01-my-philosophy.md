@@ -9,7 +9,7 @@ img: "http://farm1.staticflickr.com/668/22876220735_d59f36715c_b.jpg"
 
 Crafting that journey starts by gaining expertise in both trend analysis and footwear design. Shortly after beginning my footwear design career in the States, I moved to Europe. An enthusiasm for learning and ninja organization skills were my toolbox essentials in those first years. These enabled me to create footwear creative directions for multiple UK and European accounts simultaneously, while establishing our new design team near Amsterdam. I took on new footwear design challenges by spearheading European regional creation from a design perspective.
 
-**Trend Analyst | Engaging Team Members + Communicating Information**
+**Trend Analyst|Engaging Team Members + Communicating Information**
 
 Being a successful trend analyst starts with people, accelerates through technology and ends with product. To share information on seasonal fashion trends between regional and global teams, I set up and managed several digital share platforms. But it’s not enough to have an online presence. Leading weekly meetings on trends with the European footwear creation team and calls to individual global footwear design directors ensured conversations advanced product directions. 
 
