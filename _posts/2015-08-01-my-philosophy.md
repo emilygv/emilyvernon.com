@@ -3,9 +3,7 @@ published: true
 title: My Philosophy
 img: "http://farm1.staticflickr.com/668/22876220735_d59f36715c_b.jpg"
 ---
-**After seven years in the footwear industry, I recognized that footwear designers need a “Trend Ambassador” - someone who can contextualize trends and encourage their application within the product creation process. I am raising my hand. And here’s why.** 
-
-**Trends can unify multiple functions and spark newness. Properly considering emerging trends in fashion, streetwear, colour, textile and material can inform a footwear designer as much as a salesperson or merchandizer.**
+**After seven years in the footwear industry, I recognized that footwear designers need a “Trend Ambassador” - someone who can contextualize trends and encourage their application within the product creation process. I am raising my hand. And here’s why. Trends can unify multiple functions and spark newness. Properly considering emerging trends in fashion, streetwear, colour, textile and material can inform a footwear designer as much as a salesperson or merchandizer.**
 
 **Footwear Designer | Understanding the Bigger Picture**
 
