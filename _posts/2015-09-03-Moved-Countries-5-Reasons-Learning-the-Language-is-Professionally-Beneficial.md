@@ -1,6 +1,6 @@
 ---
 published: true
-title: Moved Countries? 5 Reasons Learning the Language is Professionally Beneficial 
+title: Moved Countries? 5 Reasons Learning the Language is Beneficial 
 img: "http://farm1.staticflickr.com/754/22257253953_97e48f677a_b.jpg"
 ---
 **On the international language scale, Dutch is about as useful as being handed a spoon to cut bread. When counting the number of native speakers, Dutch ranks below languages like Tamazight, Odia, Awadhim Kannada and Jin – and I did not make those up. It is structured like German, sounds a bit like English, but neither of these speakers can decipher The Netherlands’ official language. To make it even worse, the Dutch speak German, English and French better than your high school language teacher.** 
