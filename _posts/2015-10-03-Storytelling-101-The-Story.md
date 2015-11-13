@@ -12,6 +12,7 @@ Prior to constructing a story, like a pre-apartment check off list before going 
 As you noticed in all of the provided situations, there is the what, reveal your plans for example, and who, in that case your parents. Identifying your audience beforehand will eliminate the need for subsequent changes. As a quick illustration, if you want to tell your charming young lady about an epic trip with your mates in Maui, you’ll be better off focusing on the challenges during a surfing lesson, then your failed techniques picking up other women. Your audience is the ultimate judge of your story’s success, so keep them close in spirit. 
 
 You have your pen and paper, figuratively or literally, so let’s get to fashioning a story. It should structurally have the following:
+
 * Setting: Where are we? Keep this short. 
 * Problem: Who or what are we against? The more relatable the better.
 * Protagonist: Whom are we rooting for? It could be you. 
