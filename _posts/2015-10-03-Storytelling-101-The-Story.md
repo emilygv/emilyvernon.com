@@ -3,6 +3,7 @@ published: true
 title: Storytelling 101: The Story
 img: "http://farm6.staticflickr.com/5750/22961236626_94fd0c6a1f_b.jpg"
 ---
+
 **Storytelling liquors up the soul for ideas and possibilities. This method can convert even the toughest of cookies by weaving an idea into a compelling tale, pleasing to both their mind and emotions. We’ve already looked at the benefits of storytelling in the last post, but where to start? Let’s put aside the “telling” part and focus on the story.** 
 
 Understanding and practicing a story build generates the necessary muscle memory to enjoy telling the story to an audience. We’ll break it down to the absolute essentials, which you already know, but probably brushed aside for more practical, real world information. This little reminder will put it in the context of now and get your mind turning on the current possibilities of building stories. 
