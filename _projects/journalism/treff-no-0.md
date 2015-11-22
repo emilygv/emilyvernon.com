@@ -16,4 +16,4 @@ We are collaboration over perfection, investigators of change through engagement
 This issue features stories on Zyanya Keizer, Marcel Kröpfl and Pascal-Joël Weber. As well as interviews with Roel Wolbrink (NEW TAILOR) and Willem Velthoven (Mediamatic).
 
 
-Read the full magazine [here](https://readymag.com/treffmagazine/38264/).
+Read the full magazine [here](https://readymag.com/treffmagazine/38264/){:target="_blank"}.
