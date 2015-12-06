@@ -11,4 +11,4 @@ tags: "Material"
 client: Converse
 season: "Spring 2015"
 ---
-The custom stingray pattern created for the Matchpoint Ox makes mono exciting again. Created for size?, these two colorways work well for any of there sneaker savvy consumers.
+The custom stingray pattern created for the Matchpoint Ox keeps monos exciting with its specialty suede treatment. Built for size?, these two colorways work well for any of their sneaker-savvy consumers who's into fashion materials. 
