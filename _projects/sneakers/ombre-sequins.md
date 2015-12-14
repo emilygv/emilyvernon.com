@@ -9,6 +9,6 @@ carousel:
 category: Material
 tags: "Fashion Sport"
 client: Converse
-season: "Fall/Holiday 2013"
+season: "Holiday 2013"
 ---
 More to come!
