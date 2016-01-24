@@ -1,7 +1,7 @@
 ---
 published: true
 title: Maybe You Need an Inspiration Purge
-img: "http://farm6.staticflickr.com/5696/23672594206_b128c8b61e_b.jpg"
+img: "http://farm2.staticflickr.com/1611/24216780659_62535dccc6_b.jpg"
 ---
 **If many of us designers admire minimalism and simplicity in design, why do we "gather" inspiration? Inspiration as a commodity is neither finite, delicate nor valuable. It will never run out, erupt panics over its depletion or be Forbes front page news as a stock market crasher. Regardless, designers tend to collect as many images on their computer as a tourist takes with a new DSLR camera. Exploring new methods in inspiration management is like trying out another workout program. I started mine by deleting my "Inspiration" folder and never looking back.**
 
