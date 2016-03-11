@@ -9,8 +9,8 @@ We all complain. About the weather. About coffee. About our jobs. But after awhi
 
 Identify the following as a start:
 * Where do you feel your discontent is come from? 
-* What about it bothers you? 
-* What does this say about your needs? 
+* What about it bothers you?  
+* What does this say about your needs?  
 
 We've heard the term "feeling stuck" and we've all felt it at sometime or another. Like a machine that needs some WD40 or fine tuning, feeling stuck is only an indicator that something is not right. Perhaps the ratio of work to home time is not aligned with your needs. Or you need constant learning opportunities to be upbeat and energised day-to-day. As you get older and you've learned more about yourself through varying situations and reflections, these will become easier to understand. 
 
