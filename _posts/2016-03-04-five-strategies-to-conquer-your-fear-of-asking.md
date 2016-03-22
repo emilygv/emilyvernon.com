@@ -3,7 +3,7 @@ published: true
 title: Five Strategies to Conquer Your Fear of Asking
 img: "http://farm2.staticflickr.com/1611/25360307404_eab5231c90_b.jpg"
 ---
-**If you never ask the answer is always no. We all heard this one once, twice or hundreds of times in our adult life. But why do we still shy away from actually exercising the question mark? Our fear for loss outweighs our potential for gain, behavior studies show. This idea around human decision making goes beyond the books, as I observed this in my own (il)logic. If you backed down from a project you wanted to pursue at work or beyond, big chances are it could be traced to asking one person a single question.**
+**If you never ask the answer is always no. We all heard this one once, twice or hundreds of times in our adult life. But why do we still shy away from actually exercising the question mark? Our fear for loss outweighs our potential for gain, behaviour studies show. This idea around human decision making goes beyond the books, as I observed this in my own (il)logic. If you backed down from a project you wanted to pursue at work or beyond, big chances are it could be traced to asking one person a single question.**
 
 Over the last two years, I reached out to multiple organizations. The questions were to collaborate, conduct interviews or attend exclusive events. As an after work journalist, I knew this was a valuable skill to practice. And practice I did. As a result, some of my most meanings and recognised projects grew from involving others and letting a yes or no become a motivator. The methods I created to get over my fear of asking were not listening to wise quotes, but focusing on the positives.
 
