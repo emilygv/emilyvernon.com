@@ -22,6 +22,6 @@ There were a number of instances I emailed back-and-forth with a new acquaintanc
 **Consider it a Game**  
 Months into asking for more opportunities, it became this sort of game. What were the limits? How far could I get to achieve my dreams? When we were kids, we tested our parents in our actions and words. Years of being told what to do weakened our convictions. Belief in the permanence of boundaries discouraged our efforts. Get over the whole “older and wiser” bit. Be a kid again and see where asking can take you. 
 
-Asking for may people is not easy, heck, it did not come naturally to me. But the double win of stretching of my comfort zone and retrieving a new opportunity was well worth the uneasiness. Why let one question stand in the way of a 200% benefit? I am no mathematician, only a designer, but that sounds pretty good to me. This is one promise I can make (without math thankfully): asking gets more fun as you continue to practice the skill.
+Asking for may people is not easy, heck, it did not come naturally to me. But the double win of stretching my comfort zone and retrieving a new opportunity was well worth the uneasiness. Why let one question stand in the way of a 200% benefit? I am no mathematician - only a designer - but that sounds pretty good to me. This is one promise I can make (without math thankfully): asking gets more fun as you continue to practice.
 
 
