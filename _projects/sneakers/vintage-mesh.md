@@ -7,7 +7,7 @@ carousel:
 - https://farm6.staticflickr.com/5574/14713937997_67e35ca60f_b.jpg
 - https://farm4.staticflickr.com/3920/14713937807_2d59614a47_b.jpg
 category: Sneakers
-tags: "Storytelling"
+tags: "Sport"
 client: Converse
 season: "Summer 2013"
 ---
