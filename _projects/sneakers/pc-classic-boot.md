@@ -7,7 +7,7 @@ carousel:
 - https://farm4.staticflickr.com/3865/14713837679_2d57bc03ed_b.jpg
 - https://farm4.staticflickr.com/3877/14900471475_e4490c4143_b.jpg
 category: Sneakers
-tags: "New Upper"
+tags: "Silhouette"
 client: Converse
 season: "Holiday 2012"
 ---
