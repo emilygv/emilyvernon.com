@@ -7,7 +7,7 @@ carousel:
 - https://farm6.staticflickr.com/5573/14713871188_86a750eb13_b.jpg
 - https://farm4.staticflickr.com/3842/14900134812_0d03ba5751_b.jpg
 category: Sneakers
-tags: "Essentials"
+tags: "Material"
 client: Converse
 season: "Summer 2013"
 ---
