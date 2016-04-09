@@ -11,4 +11,4 @@ tags: "Material"
 client: Converse
 season: "Holiday 2013"
 ---
-This party statement material with depth and shine comes in two ombre executions. The white and black oxs exhibit a vertical fade, while the black hi and blue ox are metallic mixes. Either duo delivers a punch for any outfit. 
+This party statement material with depth and shine comes in two ombre executions. The champagne and black oxs exhibit a vertical fade, while the black hi and blue ox are metallic mixes. Either duo delivers a punch for any outfit. 
