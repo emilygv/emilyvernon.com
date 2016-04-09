@@ -8,7 +8,7 @@ carousel:
 - http://farm1.staticflickr.com/304/18530424082_a2485da697_b.jpg
 - http://farm9.staticflickr.com/8885/18530423532_a6737cc7ac_b.jpg
 category: Sneakers
-tags: "Sport Style"
+tags: "Sport"
 client: Converse
 season: "Holiday 2014"
 ---
