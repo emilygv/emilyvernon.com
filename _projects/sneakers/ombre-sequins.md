@@ -7,7 +7,7 @@ carousel:
 - http://farm6.staticflickr.com/5633/23742830725_f60e758f43_b.jpg
 - http://farm6.staticflickr.com/5684/23374774339_11107d591e_b.jpg
 category: Sneakers
-tags: "Fashion Sport"
+tags: "Material"
 client: Converse
 season: "Holiday 2013"
 ---
