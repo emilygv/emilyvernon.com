@@ -7,7 +7,7 @@ carousel:
 - http://farm2.staticflickr.com/1628/26257397031_61e9fcb205_b.jpg
 - http://farm2.staticflickr.com/1643/25718773334_484e347fc7_b.jpg
 category: Sneakers
-tags: "New Material"
+tags: "Material"
 client: Converse
 season: "Holiday 2015"
 ---
