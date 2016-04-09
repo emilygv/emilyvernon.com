@@ -7,7 +7,7 @@ carousel:
 - http://farm9.staticflickr.com/8612/16605360157_4153a93b89_b.jpg
 - http://farm8.staticflickr.com/7585/16568947030_0eefb594de_b.jpg
 category: Sneakers
-tags: "Fashion"
+tags: "Silhouette"
 client: Converse
 season: "Holiday 2014"
 ---
