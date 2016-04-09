@@ -7,7 +7,7 @@ carousel:
 - http://farm8.staticflickr.com/7648/16811261841_f3b6e5a6e4_b.jpg
 - http://farm9.staticflickr.com/8584/16626091699_0ee228977f_b.jpg
 category: Sneakers
-tags: "Fashion"
+tags: "Material"
 client: Converse
 season: "Summer 2014"
 ---
