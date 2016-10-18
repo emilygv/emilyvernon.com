@@ -1,7 +1,7 @@
 ---
 published: true
 title: Reclaiming Your Design Identity
-img: "http://farm2.staticflickr.com/1555/26394307165_0348a32305_b.jpg"
+img: "http://farm6.staticflickr.com/5522/30294930352_33c570fb39_b.jpg"
 ---
 
 **Identity makes the designer. Perspective and experience separates us from other creatives. As a designer a part of a brand, your identity gets complex with the social label and accompanying company byline. My encounter with this topic led me down unexpected paths and to insightful people. After being at a brand for seven years, here’s how I reclaimed my design identity.**
