@@ -1,11 +1,10 @@
 ---
 published: true
-title: Reclaiming Your Design Identity While Working for a Brand
+title: Reclaiming Your Design Identity
 img: "http://farm2.staticflickr.com/1555/26394307165_0348a32305_b.jpg"
 ---
 
-**Identity makes the designer. Perspective and experience separates us from other creatives. As a designer a part of a brand, your identity gets complex with the social label and accompanying company byline. My encounter with this topic led me down unexpected paths and to insightful people. After being at a brand for seven years, here’s how I reclaimed my design identity. 
-**
+**Identity makes the designer. Perspective and experience separates us from other creatives. As a designer a part of a brand, your identity gets complex with the social label and accompanying company byline. My encounter with this topic led me down unexpected paths and to insightful people. After being at a brand for seven years, here’s how I reclaimed my design identity.**
 
 We’ve all been in a design review, either in school or the real world, where we could identify the designer by his/her work. That’s design identity. Like your own everyday identity, it gets celebrated, knock around, second-guessed or cherished depending on where you are. Before we get into it, first take a sigh of relief: it’s impossible for your design identify to stall completely. There are just times it slows down or shoots to new directions. The slow times shouldn’t scary you, and must be considered as training grounds to reach your next desired destination.  
 
