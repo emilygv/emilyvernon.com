@@ -1,6 +1,6 @@
 ---
 published: true
-title: Reclaiming Your Design Identity
+title: The Unsung Talents of Footwear Designers
 img: "http://farm6.staticflickr.com/5522/30294930352_33c570fb39_b.jpg"
 ---
 
