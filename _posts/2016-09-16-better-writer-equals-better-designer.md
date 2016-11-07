@@ -4,7 +4,7 @@ title: Better Writer Equals Better Designer
 img: "http://farm6.staticflickr.com/5680/30835658895_5e80f972e4_b.jpg"
 ---
 
-"If choosing between two equally qualified designers," one recruiter once said "I always went with the better writer." For the word Olympians, bask in this good fortune. For everyone else, your starting line is here. Sacrificing 30 minutes from YouTube or Netflix for writing rings in benefits for your design sensibilities.
+**"If choosing between two equally qualified designers," one recruiter once said "I always went with the better writer." For the word Olympians, bask in this good fortune. For everyone else, your starting line is here. Sacrificing 30 minutes from YouTube or Netflix for writing rings in benefits for your design sensibilities.**
 
 Here's a typical design scenario. You finish your presentation and the audience didn't understand a thing. Your concept, which deserves more applause, only receives pensive looks. We all have been there, wishing the moment would disappear quicker than our monthly paychecks. After putting down the blame baton, you'll realise it came from fractures in your storytelling or reasoning. How disappointing...
 
