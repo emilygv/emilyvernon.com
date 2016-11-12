@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Hairy Suede"
 date:   2013-05-01 00:00:00
 img: https://farm8.staticflickr.com/7491/15725511898_ce46a5b7ef_b.jpg
