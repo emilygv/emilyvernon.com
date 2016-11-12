@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Shura"
 date:   2015-10-10 00:00:00
 carousel:
