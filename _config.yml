@@ -30,13 +30,11 @@ collections:
     layout: project
 
 defaults:
-  -
-    scope:
+  - scope:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: "projects"
       type: "projects"
     values:
