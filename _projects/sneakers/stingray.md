@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Stingray"
 date:   2015-07-01 00:00:00
 img: http://farm1.staticflickr.com/606/23567258115_cf2e275050_b.jpg
