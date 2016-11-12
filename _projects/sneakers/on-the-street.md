@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "On the Street"
 date:   2012-08-30 00:00:00
 img: http://farm9.staticflickr.com/8733/16623562699_6831a72cc5_b.jpg
