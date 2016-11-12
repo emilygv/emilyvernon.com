@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Vintage Mesh"
 date:   2013-06-01 00:00:00
 img: http://farm8.staticflickr.com/7623/16621853758_49432d7bf2_b.jpg
