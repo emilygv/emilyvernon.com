@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Pattern"
 date:   2012-08-29 00:00:00
 img: https://farm8.staticflickr.com/7574/15913117825_5e9aec6c0c_b.jpg
