@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Folk Knit"
 date:   2015-01-13 00:00:00
 img: http://farm1.staticflickr.com/653/20575204580_ca77e4fee9_b.jpg
