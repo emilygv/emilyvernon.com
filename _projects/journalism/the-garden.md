@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "The Garden"
 date:   2015-04-25 00:00:00
 carousel:
