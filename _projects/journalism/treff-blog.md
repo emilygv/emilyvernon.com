@@ -12,4 +12,4 @@ description: TREFF continues to expand its outlook and reach. For Issue 01, we c
 ---
 TREFF continues to expand its outlook and reach. To kick off Issue 01, we created a blog to tease our viewers on the next collaboration while offering continually inspiration between our biannual editions. Check out the latest projects of our creative participants, behind-the-scenes photographs and informative stories around our up-and-coming themes. 
 
-Read the full magazine here.
+See the full blog [here](http://treffmagazine-blog.tumblr.com){:target="_blank"}.
