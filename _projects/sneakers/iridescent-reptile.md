@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Iridescent Reptile"
 date:   2016-04-04 00:00:00
 img: http://farm2.staticflickr.com/1498/25718773194_4d2a499cc6_b.jpg
