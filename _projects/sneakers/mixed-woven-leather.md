@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Mixed Woven Leather"
 date:   2011-11-01 00:00:00
 img: http://farm8.staticflickr.com/7612/16622363380_f82db11e96_b.jpg
