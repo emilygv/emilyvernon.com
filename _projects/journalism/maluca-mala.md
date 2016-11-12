@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Maluca Mala"
 date:   2015-04-20 00:00:00
 carousel:
