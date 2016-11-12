@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Back-to-School"
 date:   2012-09-01 00:00:00
 img: https://farm9.staticflickr.com/8580/15727299897_6c3a9bd179_b.jpg
