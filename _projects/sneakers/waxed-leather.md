@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Waxed Leather"
 date:   2014-02-01 00:00:00
 img: http://farm9.staticflickr.com/8651/16624930010_0e0915722a_b.jpg
