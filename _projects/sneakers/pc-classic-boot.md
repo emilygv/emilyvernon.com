@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "PC Classic Boot"
 date:   2012-12-01 00:00:00
 img: http://farm8.staticflickr.com/7612/16625132270_0c5eef94dd_b.jpg
