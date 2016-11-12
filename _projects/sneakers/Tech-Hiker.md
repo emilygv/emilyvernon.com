@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Tech Hiker"
 date:   2013-11-02 00:00:00
 img: http://farm8.staticflickr.com/7281/16833984682_4c0435b934_b.jpg
