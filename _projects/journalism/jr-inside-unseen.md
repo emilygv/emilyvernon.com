@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "JR Inside Unseen"
 date:   2013-09-27 00:00:00
 img: https://farm9.staticflickr.com/8660/15889617976_07561d0264_b.jpg
