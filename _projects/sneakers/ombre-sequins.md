@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Ombre Sequins"
 date:   2013-11-20 00:00:00
 img: http://farm1.staticflickr.com/585/23375083419_fe6b1b79ee_b.jpg
