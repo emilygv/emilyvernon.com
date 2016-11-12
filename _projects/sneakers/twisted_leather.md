@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Twisted Leather"
 date:   2014-12-25 00:00:00
 img: http://farm8.staticflickr.com/7600/16755342661_3e790400c7_b.jpg
