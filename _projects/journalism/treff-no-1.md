@@ -14,5 +14,3 @@ Treff Issue no. 1 brings together a small team of artists, writers and designers
 
 The ever-developing idea of community in Japan reaches far beyond formal definitions. Reevaluating society's traditions and norms, as we see it, happens through through-provoking visual investigations and example. From shimenawa to wabi-sabi, experience and read your way into understanding our theme and these three collaborator's contribution to its investigation.  
 
-Read the full magazine [here](http://treffmagazine.nl){:target="_blank"}.
-
