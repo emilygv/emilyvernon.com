@@ -1,4 +1,5 @@
 ---
+layout: project
 title:  "Beau"
 date:   2015-10-03 00:00:00
 carousel:
