@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Quilted Leather"
+title:  "Mixed Quilted Leather"
 date:   2015-11-01 00:00:00
 img: http://farm6.staticflickr.com/5613/25317834779_d0715650cf_b.jpg
 carousel:
@@ -13,4 +13,6 @@ tags: "Material"
 client: Converse
 season: "Holiday 2015"
 ---
-Taking on winter in quilted leather. Sure, you're ankles might be cold, but who cares when you have specialty hardware and wased laces. 
+Taking on winter the in the Mixed Quilted Leather Converse Fultons. Sure, you're ankles might be cold, but who cares when you have specialty hardware and waxed laces. Each colourway sports varying quilts, so no two colourways are the same. Go classic with the white or black options, or statement with the deep teal. 
+
+Photography by Snipes. 
