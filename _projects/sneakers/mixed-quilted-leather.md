@@ -13,6 +13,6 @@ tags: "Material"
 client: Converse
 season: "Holiday 2015"
 ---
-Taking on winter the in the Mixed Quilted Leather Converse Fultons. Sure, you're ankles might be cold, but who cares when you have specialty hardware and waxed laces. Each colourway sports varying quilts, so no two colourways are the same. Go classic with the white or black options, or statement with the deep teal. 
+Taking on winter in the Mixed Quilted Leather Converse Fultons. Sure, your ankles might be cold, but who cares when you have specialty hardware and waxed laces. Each colourway sports varying quilts, so no two colourways are the same. Go classic with the white or black options, or statement in the deep teal. 
 
 Photography by Snipes. 
