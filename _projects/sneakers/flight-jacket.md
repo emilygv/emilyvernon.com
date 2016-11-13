@@ -13,4 +13,4 @@ tags: "Material"
 client: Converse
 season: "Holiday 2015"
 ---
-Inspired by A-2 Leather Jackets, these CTAS MA-1 Zip show off all of the vintage detailing. Their premium leather, covered zippers, decorative stitch and custom zipper pulls sets them apart from your normal sneakers.
+Inspired by A-2 Leather Bomber Jackets, these CTAS MA-1 Zip show off all of the vintage detailing. Their premium leather, covered zippers, decorative stitch, antique brass hardware and custom zipper pulls sets them apart from your everyday trainers. Designed with two colourways - classic navy and brown.  
