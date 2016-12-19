@@ -4,7 +4,7 @@ title: Establishing a Collective Trend Process
 img: "http://farm1.staticflickr.com/545/31592357292_2deb6e23a6_b.jpg"
 ---
 
-For the last three years, I led our trend research in Europe. Many might see trend analysis as either acting like a fashion oracle or collecting pretty images. Well, it is some of that. The process I established transformed a trend analyst into an editor. By gathering content across three functions, our in-house trend analysis focused on making sense of apparel, footwear and consumers from multiple perspectives.  
+**For the last three years, I led our trend research in Europe. Many might see trend analysis as either acting like a fashion oracle or collecting pretty images. Well, it is some of that. The process I established transformed a trend analyst into an editor. By gathering content across three functions, our in-house trend analysis focused on making sense of apparel, footwear and consumers from multiple perspectives.** 
 
 Trend forecasting is in a strange place these days. In a fashion world where we are all jaded by lookalikes, fast-fashion and all-access, you can’t keep up with everything. Trends can come from anywhere, if a group gets behind an idea to drive it forward. However, by recognising what is resonating with a consumer group now and possibly in the future, you can identify easy opportunities for product concepts while inspiring new ideas. 
 
@@ -19,4 +19,3 @@ Doing trend analysis is not necessarily that difficult. We all make observation 
 There is a larger benefit to a shared trend process. Posting what you find interesting for the greater team is also a way to make others mindful of your vision. We can openly share ideas in a safe space. There is no being wrong. Many times, we adapt an image from our blog or Instagram feed as a start to a new project. Whether it’s colour inspiration from an apartment or graphic on a purse, anything can jumpstart a concept. If that jumpstart is seen and discussed by the entire team, everyone feels more included and invested in the project. 
 
 Getting ideas to the market is much more difficult than the best man wins. It involves a team and collective conviction. Our shared trend process invigorates team members with the genuine sense that they are contributing to a vision. By taking advantage of your talent to assess what is going on, you’ll be able to forecast trends while unifying a team around new projects. Trend analysis is not about being the best or right, it’s about editing out unnecessary information to find the next path.
-
