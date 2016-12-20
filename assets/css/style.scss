@@ -17,7 +17,7 @@
 @import url("hoverex-all.css") screen;
 
 
-// colors:  #in hex code if not noted else
+// colors: #in hex code if not noted else
 $color_primary: #7BCAB7;
 $color_secondary: #FFFFFF;
 $color_link: #428BCA;
@@ -78,7 +78,7 @@ img {
 }
 
 a {
-    color:$color_primary;
+    color: $color_primary;
     padding: 0;
 	margin: 0;
 	text-decoration: none;
@@ -91,7 +91,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: underline;
-  color:$color_primary;
+  color: $color_primary;
 }
 
 ::-moz-selection  {
@@ -136,25 +136,25 @@ a:focus {
 }
 
 .navbar-default .navbar-brand:hover {
-	color:  $color_primary;
+	color: $color_primary;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color:  $color_primary;
+	color: $color_primary;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color:  $color_primary;
+	color: $color_primary;
 	background-color: transparent;
 }
 
 .navbar-default {
-	background-color:  $color_secondary;
+	background-color: $color_secondary;
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background:  $color_secondary;
+	background: $color_secondary;
 }
 
 .dropdown-menu > li > a {
@@ -165,8 +165,8 @@ a:focus {
 
 .btn-theme {
   color: #fff;
-  background-color:  $color_secondary;
-  border-color:  $color_secondary;
+  background-color: $color_secondary;
+  border-color: $color_secondary;
   margin: 4px;
 }
 .btn-theme:hover,
@@ -175,8 +175,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color:  $color_primary;
-  border-color:  $color_primary;
+  background-color: $color_primary;
+  border-color: $color_primary;
 }
 
 .dmbutton:hover,
@@ -285,7 +285,7 @@ a:focus {
 }
 
 #service i {
-	color:  $color_primary;
+	color: $color_primary;
 	font-size: 60px;
 	padding: 25px;
 }
@@ -353,7 +353,7 @@ a:focus {
 
 /* Testimonials Wrap */
 #twrapback {
-    background-color:  $color_primary;
+    background-color: $color_primary;
     background-color: rgba($color_primary ,.8);
     position: absolute;
     top: 0;
@@ -420,7 +420,7 @@ a:focus {
 }
 
 #footerwrap a {
-	color:  $color_primary;
+	color: $color_primary;
 }
 
 #footerwrap h4 {
@@ -434,7 +434,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color:  $color_primary
+	color: $color_primary
 }
 
 /*	################################################################
@@ -464,7 +464,7 @@ a:focus {
 }
 
 .ctitle {
-	color:  $color_primary;
+	color: $color_primary;
 	font-weight: 500;
 	margin-bottom: 15px;
 }
@@ -480,7 +480,7 @@ csmall {
 }
 
 .badge-theme {
-	background:  $color_primary;
+	background: $color_primary;
 }
 
 /* Contact Page */
@@ -555,7 +555,7 @@ a.anchor{
 	border: 1px solid  $color_primary;
 }
 .carousel-indicators .active {
-	background-color:  $color_primary;
+	background-color: $color_primary;
 }
 
 .contact-form {
