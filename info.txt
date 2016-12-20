@@ -1,0 +1,5 @@
+---
+permalink: /debug_info
+---
+
+{{ site.github | jsonify }}
