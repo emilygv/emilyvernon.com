@@ -12,7 +12,10 @@ markdown: kramdown
 permalink: /blog/:title
 # excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
-future: true
+
+lsi: false
+safe: true
+# future: true
 
 colors:  #in hex code if not noted else
   primary: "#7bcab7" #"#F70031"
@@ -45,13 +48,13 @@ defaults:
 where: Amsterdam, Netherlands
 email: emily@emilyvernon.com
 tel: +31 6 52603180
-repository: emilygv/emilyvernon.com
+# repository: emilygv/emilyvernon.com
 
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-sass-converter
-  - jekyll-github-metadata
+  # - jekyll-github-metadata
 
 social:
   - title: linkedin

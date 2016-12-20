@@ -165,6 +165,7 @@ GEM
     minitest (5.10.1)
     multipart-post (2.0.0)
     net-dns (0.8.0)
+    netrc (0.7.8)
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
     octokit (4.6.2)
@@ -194,7 +195,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 111)
+  github-pages
+  netrc
 
 BUNDLED WITH
    1.13.6
