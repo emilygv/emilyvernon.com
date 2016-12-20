@@ -48,13 +48,11 @@ defaults:
 where: Amsterdam, Netherlands
 email: emily@emilyvernon.com
 tel: +31 6 52603180
-# repository: emilygv/emilyvernon.com
 
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-sass-converter
-  # - jekyll-github-metadata
 
 social:
   - title: linkedin
