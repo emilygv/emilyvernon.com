@@ -17,17 +17,6 @@ lsi: false
 safe: true
 # future: true
 
-colors:  #in hex code if not noted else
-  primary: "#7bcab7" #"#F70031"
-  primary_rgb: "123,202,183" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#ffffff" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
-  footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
-  title_hover: "#ff897f"
-
-
 collections:
   projects:
     output: true

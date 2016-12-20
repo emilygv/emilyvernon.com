@@ -16,6 +16,16 @@
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
+
+// colors:  #in hex code if not noted else
+$color_primary: #7bcab7;
+$color_secondary: #ffffff;
+$color_link: #428bca;
+$color_link_hover: #01b2fe;
+$color_footer_heading: #ffffff;
+$color_footer_content: #bfc9d3;
+$color_title_hover: #ff897f;
+
 /*	################################################################
 	1. GENERAL STRUCTURES
 ################################################################# */
@@ -68,7 +78,7 @@ img {
 }
 
 a {
-    color:{{ site.colors.primary }};
+    color:$color_primary;
     padding: 0;
 	margin: 0;
 	text-decoration: none;
@@ -81,7 +91,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: underline;
-  color:{{ site.colors.primary }};
+  color:$color_primary;
 }
 
 ::-moz-selection  {
@@ -126,25 +136,25 @@ a:focus {
 }
 
 .navbar-default .navbar-brand:hover {
-	color: {{ site.colors.primary }};
+	color:  $color_primary;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: {{ site.colors.primary }};
+	color:  $color_primary;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: {{ site.colors.primary }};
+	color:  $color_primary;
 	background-color: transparent;
 }
 
 .navbar-default {
-	background-color: {{ site.colors.secondary }};
+	background-color:  $color_secondary;
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background: {{ site.colors.secondary }};
+	background:  $color_secondary;
 }
 
 .dropdown-menu > li > a {
@@ -155,8 +165,8 @@ a:focus {
 
 .btn-theme {
   color: #fff;
-  background-color: {{ site.colors.secondary }};
-  border-color: {{ site.colors.secondary }};
+  background-color:  $color_secondary;
+  border-color:  $color_secondary;
   margin: 4px;
 }
 .btn-theme:hover,
@@ -165,8 +175,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: {{ site.colors.primary }};
-  border-color: {{ site.colors.primary }};
+  background-color:  $color_primary;
+  border-color:  $color_primary;
 }
 
 .dmbutton:hover,
@@ -275,7 +285,7 @@ a:focus {
 }
 
 #service i {
-	color: {{ site.colors.primary }};
+	color:  $color_primary;
 	font-size: 60px;
 	padding: 25px;
 }
@@ -336,15 +346,15 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:{{ site.colors.primary }};
-	background-color:rgba({{ site.colors.primary_rgb }},.9);
+	background-color: $color_primary;
+	background-color: rgba($color_primary ,.9);
 	text-align:center;
 }
 
 /* Testimonials Wrap */
 #twrapback {
-    background-color: {{ site.colors.primary }};
-    background-color:rgba({{ site.colors.primary_rgb }},.8);
+    background-color:  $color_primary;
+    background-color: rgba($color_primary ,.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -410,7 +420,7 @@ a:focus {
 }
 
 #footerwrap a {
-	color: {{ site.colors.primary }};
+	color:  $color_primary;
 }
 
 #footerwrap h4 {
@@ -424,7 +434,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: {{ site.colors.primary }}
+	color:  $color_primary
 }
 
 /*	################################################################
@@ -454,7 +464,7 @@ a:focus {
 }
 
 .ctitle {
-	color: {{ site.colors.primary }};
+	color:  $color_primary;
 	font-weight: 500;
 	margin-bottom: 15px;
 }
@@ -470,7 +480,7 @@ csmall {
 }
 
 .badge-theme {
-	background: {{ site.colors.primary }};
+	background:  $color_primary;
 }
 
 /* Contact Page */
@@ -542,10 +552,10 @@ a.anchor{
 
 .carousel-indicators li {
 	background-color: #000 \9;
-	border: 1px solid {{ site.colors.primary }};
+	border: 1px solid  $color_primary;
 }
 .carousel-indicators .active {
-	background-color: {{ site.colors.primary }};
+	background-color:  $color_primary;
 }
 
 .contact-form {
