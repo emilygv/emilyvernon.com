@@ -9,7 +9,7 @@ Some of you might know what a hackathon is, while others will not. At a hackatho
 
 The Dutch Open Hackathon in Rotterdam this year brought together these groups with Polite, Philips, Schiphol, PostNL, Kamer van Koophandel and KLM to create new mobile applications with the APIs (application program interface) and technologies of these businesses. The goal of our 48-hour development period was to introduce new services and opportunities with working prototypes. The Dutch Open Hackathon started with a meet-and-greet and event introduction, moving quickly to concept pitches and team formation. After that, the figurative starting gun fired and everyone got to work. 
 
-Now, many of you might not even sign up for a Hackathon because you think – Well, what would I do there? I know because that is what I thought too. With experience around throwing myself into unfamiliar situations, I knew it would end positively. My wonderings at the time focused on how I would maneuver a world that operates under standards different from my current industry. Without any more blah, blah, here are a footwear designer’s learnings from my first Hackathon. 
+Now, many of you might not even sign up for a Hackathon because you think – *Well, what would I do there?* I know because that is what I thought too. With experience around throwing myself into unfamiliar situations, I knew it would end positively. My wonderings at the time focused on how I would maneuver a world that operates under standards different from my current industry. Without any more blah, blah, here are a footwear designer’s learnings from my first Hackathon. 
 
 **Great concepts can be developed very, very quickly**
 
