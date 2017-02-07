@@ -2,7 +2,7 @@
 layout: project
 title:  "High Shine Metallic"
 date:   2016-11-04 00:00:00
-img: http://farm1.staticflickr.com/458/32722414416_c13ff3575a_b.jpg
+img: http://farm1.staticflickr.com/458/32722414416_3d740a0c40_b.jpg
 carousel:
 - http://farm1.staticflickr.com/404/32722255086_ccffab0a88_b.jpg
 - http://farm1.staticflickr.com/660/32722254636_46dc7674da_b.jpg
