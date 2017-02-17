@@ -12,4 +12,4 @@ tags: "Material"
 client: Converse
 season: "Spring 2016"
 ---
-Floral graphics get a new twist when transformed into a woven material. The abstraction of the three patterns reconfigures the graphic into something completely new. 
+Okay, I know - denim footwear. It can be a controversial material for a product many times worn with denim pants. By changing the texture through weaving, the  material transends its usual stigma to become a crafted product. 
