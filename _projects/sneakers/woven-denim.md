@@ -12,4 +12,4 @@ tags: "Material"
 client: Converse
 season: "Spring 2016"
 ---
-Okay, I know - denim footwear. It can be a controversial material for a product many times worn with denim pants. By changing the texture through weaving, the  material transends its usual stigma to become a crafted product. 
+Okay, I know - denim footwear. It can be a controversial material. By changing the texture through weaving, the  material transends its usual stigma to become a crafted product. 
