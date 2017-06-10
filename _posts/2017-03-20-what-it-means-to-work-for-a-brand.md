@@ -1,7 +1,7 @@
 ---
 published: true
 title: What it Means to Work for a Brand
-img: "http://farm1.staticflickr.com/779/32301996410_f658f203ff_b.jpg"
+img: "http://farm5.staticflickr.com/4262/35049485242_274ca2ab9c_b.jpg"
 ---
 **Pledging your time and talents to a brand influences your identity. It’s a joint undertaking as both you and the brand believe in the suitable match. The points of compatibility are much like the ones in a personal relationship, however more complex. A brand is a myth before a being. By recognising your place within a brand ecosystem, your personal purpose can be contextualised and optimised for you and the brand.**
 
