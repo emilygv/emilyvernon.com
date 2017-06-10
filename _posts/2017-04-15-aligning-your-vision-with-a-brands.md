@@ -1,9 +1,9 @@
 ---
 published: true
 title: Aligning Your Vision with a Brands'
-img: "http://farm5.staticflickr.com/4262/35049485242_274ca2ab9c_b.jpg"
+img: "http://farm5.staticflickr.com/4211/34370636824_07628310a8_b.jpg"
 ---
-The most unspoken dilemma when working for a brand is rearranging your own vision. Before joining a company, you have an existing relationship with the brand. Much like getting acquainted with someone whose appearances caught your initial attention, the brand’s intention could diverge from your perception. Fully formulating these thoughts helps to prepare for future positions in leadership, as well as reconfigure your current approach.
+**The most unspoken dilemma when working for a brand is rearranging your own vision. Before joining a company, you have an existing relationship with the brand. Much like getting acquainted with someone whose appearances caught your initial attention, the brand’s intention could diverge from your perception. Fully formulating these thoughts helps to prepare for future positions in leadership, as well as reconfigure your current approach.**
 
 Throughout my career, I met numerous designers who joined a company after years of idolising a brand’s work. They could recite past product, key influencers and milestone moments as intuitively as their native alphabet. Such perceptions, which fuse personal history with the brand’s crafted image, led them to work there in the first place. 
 
