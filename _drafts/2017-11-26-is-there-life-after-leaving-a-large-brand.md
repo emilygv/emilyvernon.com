@@ -2,7 +2,7 @@
 published: true
 title: Is There Life After Leaving a Large Brand?
 ---
-**YES. Everyone’s path differs in terms of career development. Some start off at large brands, as I did, knowing early in their job lives the extent that companies go to make you comfortable. Others work their way up and then appreciate the added benefits they receive. When you start off with one of the big boys, leaving can be more daunting. Larger brands know how to tie themselves securely onto the limbs of your life.**
+**YES. Everyone’s path differs in terms of career development. Some start off at large brands as I did, knowing early in their job lives the extent that companies go to make you comfortable. Others work their way up and then appreciate the added benefits they receive. When you start off with one of the big boys, leaving can be more daunting. Larger brands know how to tie themselves securely onto the limbs of your life.**
 
 We don’t realise how much work can casually infiltrate your daily routine until the decision stands on the table to depart. The comforts that then becomes dependancies will always make you reconsider. When leaving a large brand, there’s a bundle of added worries next to the already daunting risk you’re willing to take. It’s those benefits that get people talking and questioning your decision.
 
