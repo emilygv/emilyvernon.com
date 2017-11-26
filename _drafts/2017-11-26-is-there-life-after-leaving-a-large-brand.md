@@ -2,15 +2,13 @@
 published: true
 title: Is There Life After Leaving a Large Brand?
 ---
-Yes. 
-
-Everyone’s path differs in terms of career development. Some start off at large brands, as I did, knowing early in their job lives the extent that companies go to make you comfortable. Others work their way up and then appreciate the added benefits they receive. When you start off with one of the big boys, leaving can be more daunting. Larger brands know how to tie themselves securely onto the limbs of your life.
-
-Leaving a larger brand felt scary at first because it mean forfeiting a robust support system and safety net. Next to changing workplaces, teams and projects there is a flip in your health care provider, pension plan, gym membership, public transit subscription, bank contact and even physiotherapist. Now, of course these added adjustments depend on the company, but when you leave a large brand, it’s on you to reconfigure your - now scattered - life logistics. 
+**YES. Everyone’s path differs in terms of career development. Some start off at large brands, as I did, knowing early in their job lives the extent that companies go to make you comfortable. Others work their way up and then appreciate the added benefits they receive. When you start off with one of the big boys, leaving can be more daunting. Larger brands know how to tie themselves securely onto the limbs of your life.**
 
 We don’t realise how much work can casually infiltrate your daily routine until the decision stands on the table to depart. The comforts that then becomes dependancies will always make you reconsider. When leaving a large brand, there’s a bundle of added worries next to the already daunting risk you’re willing to take. It’s those benefits that get people talking and questioning your decision.
 
-But what people fail to realise is that when you’re reconsidering your life without said large brand, it wasn’t a choice any longer. A certain spark, magic or whatever you want to call it faded over time. A large brand could be as larger as the sun, but still feel like a pebble if the progress required to feel alive diminishes over time. You’re not crazy, as some might think, but just the opposite - completely aware and sane.
+Leaving a larger brand felt scary at first because it mean forfeiting a robust support system and safety net. Next to changing workplaces, teams and projects there is a flip in your health care provider, pension plan, gym membership, public transit subscription, bank contact and even physiotherapist. Now, of course these added adjustments depend on the company, but when you leave a large brand, it’s on you to reconfigure your - now scattered - life logistics. 
+
+But what people fail to realise is that when you’re reconsidering your life without said large brand, it wasn’t a choice any longer. A certain spark, magic or whatever you want to call it faded over time. A large brand could be as larger as the sun, but still feel like a shoe box if the progress required to feel alive diminishes over time. You’re not crazy, as some might think, but just the opposite - completely aware and sane.
 
 When you finally decide to depart, it’s pretty uneventful. The last day your email gets cut earlier than everyone expected and you stop pretending that your internet browsing is for ‘research’. There might be a going away party, those long good-byes and ‘let’s definitely keep in touch’ promises, but in the end it feels like a break up.
 
