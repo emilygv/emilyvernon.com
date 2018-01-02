@@ -1,6 +1,6 @@
 ---
 published: true
-title: The Sneaker Industry: Miss and Don't Miss List
+title: 
 img: "http://farm5.staticflickr.com/4636/25587330208_fb425ab5eb_b.jpg"
 ---
 **Over six months ago I left the sneaker industry to delve into experiential interior design within retail and hospitably. My break from the sneaker world put it into perspective. Though it’s unclear if sneakers are in my future, there are aspects I already miss, and other that I just don’t. Simple as that. Before we get into it, let me just say it’s a youthful industry with bright, bold personalities you will never forget. I still smile when I think of the conversations, travels and ... this is starting to feel like a break-up letter, so let’s get on with it.**
