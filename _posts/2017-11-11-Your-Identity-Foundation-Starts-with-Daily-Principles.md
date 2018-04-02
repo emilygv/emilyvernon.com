@@ -1,5 +1,5 @@
 ---
-published: truejpg
+published: true
 title: Your Identity Foundation Starts with Daily Principles
 img: "http://farm1.staticflickr.com/810/41182060611_dd9e1401b7_b.jpg"
 ---
