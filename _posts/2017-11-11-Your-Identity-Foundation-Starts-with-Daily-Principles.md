@@ -1,7 +1,7 @@
 ---
-published: true
+published: truejpg
 title: Your Identity Foundation Starts with Daily Principles
-img: "http://farm5.staticflickr.com/4683/38749080944_cc67a60078_b.jpg"
+img: "http://farm1.staticflickr.com/810/41182060611_dd9e1401b7_b.jpg"
 ---
 **Each of us makes a statement in the way we live day-to-day. Many times these are absent from our Instagram posts or Facebook pages, as they are more subtle and profound. However, there’s a bravery in practicing our values consistently - even if they seem illusive - while evaluating their validity, and even researching possibilities of improvement. This is the base of our Identity Foundation.**
 
