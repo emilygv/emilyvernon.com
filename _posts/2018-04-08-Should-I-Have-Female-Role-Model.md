@@ -9,7 +9,7 @@ What is so interesting about the role model question is that there are many poss
 
 **So far**. 
 
-After working in a share of competitive environments that attract the boldest and brightest, I’ve met my share of amazing women. Women who know how to manoeuvre the ins and outs of business while remaining true to themselves. But there was never ‘the one’. To find a comparable role model, options are required. It’s not just a few women who needs to succeed, but many - and in their own ways.31728608278_11e3dae7d7_b.jpg 
+After working in a share of competitive environments that attract the boldest and brightest, I’ve met my share of amazing women. Women who know how to manoeuvre the ins and outs of business while remaining true to themselves. But there was never ‘the one’. To find a comparable role model, options are required. It’s not just a few women who needs to succeed, but many - and in their own ways.
 
 The main reasons I would like to find a female role model is that I professionally struggled with tone of voice. Assertive can be read as aggressive, and kindness as submission if framed incorrectly. Monthly, even daily, I reevaluate my approach to both assertiveness and kindness. There is no right answer, which is why I look for examples and insights. 
 
