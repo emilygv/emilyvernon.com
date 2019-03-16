@@ -1,6 +1,7 @@
 ---
 published: true
 title: The Evolutions of a Website
+categories: creative-process
 img: "http://farm9.staticflickr.com/8578/15746879749_daf9f4f92a_b.jpg"
 ---
 
