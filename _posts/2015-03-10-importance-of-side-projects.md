@@ -1,6 +1,7 @@
 ---
 published: true
 title: The Importance of Side Projects
+categories: creative-process
 img: "http://farm9.staticflickr.com/8727/16778085842_e6d6192d8e_b.jpg"
 ---
 
