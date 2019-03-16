@@ -1,6 +1,7 @@
 ---
 published: true
 title: Apps for New Music Journalist
+categories: extracurricular
 img: "http://farm1.staticflickr.com/453/18877194713_d7720d37c5_b.jpg"
 ---
 
