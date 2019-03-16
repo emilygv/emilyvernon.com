@@ -1,6 +1,7 @@
 ---
 published: true
 title: Sailing Made Me a Better Person in the Workplace
+categories: work-life
 img: "http://farm2.staticflickr.com/1914/31728608278_11e3dae7d7_b.jpg"
 ---
 **When I learned to sail, my expectations included perfecting techniques and staying alive. Little did I know that sailing is more than playing with sails, complaining about wind and being splashed by water. It’s an entire lifestyle that includes a community, mindset and refreshing perspective that any office employee would benefit from.**
