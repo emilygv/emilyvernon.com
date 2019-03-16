@@ -1,6 +1,7 @@
 ---
 published: true
 title: The Never-Ending Story of Defining Success
+categories: career-development
 img: "http://farm1.staticflickr.com/779/32301996410_f658f203ff_b.jpg"
 ---
 **Success is as unoriginal as other buzzwords of our time. Like passion, motivation or drive, success only carries meaning when put into context. Your context, my context, her context, his context – they all differ. It’s easy to think most of us want the same results from our career, and on similar timelines. The intertwined relationship between career, life and meaning makes every timeline acceptable.** 
