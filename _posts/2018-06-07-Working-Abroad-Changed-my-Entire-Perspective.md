@@ -2,7 +2,7 @@
 published: true
 title: Working Abroad Changed My Entire Perspective
 categories: work-life
-img: "http://farm5.staticflickr.com/4912/30805698137_9e8fde0740_b.jpg"
+img: "http://farm5.staticflickr.com/4739/38749081034_511de4afcc_b.jpg"
 ---
 **When discussing my time working abroad, many mention similar ambition. But as we all know, it’s easier said than done. This is because it includes uncertainty, discomfort, lots of calls, more emails and countless considerations. And that’s just the work needed for a professional transitions. Working abroad made me more confident to instigate and accept change, as well as widened my entire perspective.**
 
