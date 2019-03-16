@@ -1,6 +1,7 @@
 ---
 published: true
 title: Five Strategies to Conquer Your Fear of Asking
+categories: career-development
 img: "http://farm2.staticflickr.com/1611/25360307404_eab5231c90_b.jpg"
 ---
 **If you never ask the answer is always no. We all heard this one once, twice or hundreds of times in our adult life. But why do we still shy away from actually exercising the question mark? Our fear for loss outweighs our potential for gain, behaviour studies show. This idea around human decision making goes beyond the books, as I observed this in my own (il)logic. If you backed down from a project you wanted to pursue at work or beyond, big chances are it could be traced to asking one person a single question.**
