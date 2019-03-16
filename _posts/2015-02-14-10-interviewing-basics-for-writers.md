@@ -1,6 +1,7 @@
 ---
 published: true
 title: 10 Interviewing Basics for Writers
+categories: content-creation
 img: "http://farm9.staticflickr.com/8629/16526618261_a5e86cd666_b.jpg"
 ---
 
