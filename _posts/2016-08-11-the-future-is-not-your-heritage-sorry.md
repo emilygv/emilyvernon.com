@@ -1,6 +1,7 @@
 ---
 published: true
 title: The Future is Not Your Heritage, Sorry
+categories: strategic-approach
 img: "http://farm6.staticflickr.com/5546/25306686329_6a4a7c9086_b.jpg"
 ---
 
