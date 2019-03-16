@@ -1,6 +1,7 @@
 ---
 published: true
 title: The Real Reasons I Blog
+categories: content-creation
 img: "http://farm2.staticflickr.com/1559/25724877213_77c4a9ab0b_b.jpg"
 ---
 **Who isn’t a blogger these days? Why is this girl posting links to her blog? Why is she even writing in the first place? I wonder the same. Answering such existential blogging questions never comes easily. Over the past five years, I've managed or contributed to eleven blogs, four personal blogs and seven professional.  Of the personal, subjects ranged from train travel across the entire US (not too common) to my first two years in Amsterdam, and now work-related writings. It seems simple: you write, click and it’s published. However, I’ve figured out that my blogging motivations are not around instant gratification.**  
