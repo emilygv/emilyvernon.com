@@ -1,6 +1,7 @@
 ---
 published: true
 title: Parts of a Sneaker
+categories: extracurricular
 img: "http://farm8.staticflickr.com/7415/16502874761_61b2cc31e1_b.jpg"
 ---
 
