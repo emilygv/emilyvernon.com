@@ -1,6 +1,7 @@
 ---
 published: true
 title: Three Types of Materials in Sneaker Design and Footwear
+categories: extracurricular
 img: "http://farm4.staticflickr.com/3716/19605494026_33df1e6d7c_b.jpg"
 ---
 **It might seem like their are a hundred types of materials to choose from when designing a sneaker collections. While in reality, most fall in three basic categories: leather, synthetic and textile. Choosing one over the other depends on a number of factors including price, look, performance and customization. With the different parts and functions of sneaker, it is completely possible to see all three of these on a product. Can you think of what materials you typically see on a sneaker? Mesh, leather, canvas, a sandpaper-like "nubuck" and suede probably could come to mind quite quickly. Well, all of these live in the following categories.**
