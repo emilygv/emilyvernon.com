@@ -24,7 +24,8 @@ When living in the States, I would ask my parents for advice around a wide range
 
 When moving to a new country, there’s a lot you don’t know. For example, ‘how long will I stay’ or ‘is it easy to access a Dutch pension when I’m 70’? Many of these questions have reliable answers, but still no definite resolve. I am often going ahead with a share of uncertainties. This can make many hesitate or hold off on a decision. But over the years, I became more comfortable making the most informed decision possible, while knowing risks were involved. Your life is not as predicable when living outside of known systems.
 
-**Easier overtime**. 
+**Easier overtime**
+
 Much like learning another language, you become more aware of your needs, setbacks and approaches. A second move doesn’t seem as daunting - only easier and even addicting. There’s a thrill with overcoming the unfamiliar and discovering something new. Similarly, there are many aspects about moving abroad that remain mundane. Doing laundry, paying bills or fixing clothes doesn’t give me any greater thrill than doing them at home. When you uncover these aside the greater challenges, a move abroad can appear more familiar.
 
 I get it - moving abroad might or might not be possible for you now. But don’t cross off the option due to doubts in your own abilities. If my twenty-four year-old self could do it, I’m sure you could too. It’s a challenge that has a mix of the mundane and magnificent. Sure, I have no idea what's next. But I would rather live with uncertainty and a greater perspective than crushing dullness and predicability.
