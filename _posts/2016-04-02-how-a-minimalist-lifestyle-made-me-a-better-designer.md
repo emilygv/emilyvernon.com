@@ -1,6 +1,7 @@
 ---
 published: true
 title: How a Minimalist Lifestyle Made Me a Better Designer
+categories: creative-process
 img: "http://farm2.staticflickr.com/1555/26394307165_0348a32305_b.jpg"
 ---
 
