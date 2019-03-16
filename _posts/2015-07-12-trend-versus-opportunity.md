@@ -1,6 +1,7 @@
 ---
 published: true
 title: Trend Versus Opportunity
+categories: strategic-approach
 img: "http://farm1.staticflickr.com/421/19440810328_599d947386_b.jpg"
 ---
 **So you've identified something that is going on, so what? When evaluating if a trend is actually an opportunity, three things are important: consumer, brand and timing. Of course all three hold a stake in the process of building product, but one is the keystone - the brand. A brand is a precious commodity that should not be wasted on minimum risk product or me too's. Moderate business might come from both of these in the short-term, but long-term growth derives from product with value. Thus, that value comes firstly from the brand. To keep that valid and the following product energizing, trends must be used strategically.**
