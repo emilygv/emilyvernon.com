@@ -1,6 +1,7 @@
 ---
 published: true
 title: Fifty Words to Describe Macro Fashion Trends
+categories: strategic-approach
 img: "http://farm1.staticflickr.com/411/19775263845_71e90aafda_b.jpg"
 ---
 
