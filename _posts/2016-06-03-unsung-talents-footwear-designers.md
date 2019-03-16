@@ -1,6 +1,7 @@
 ---
 published: true
 title: The Unsung Talents of Footwear Designers
+categories: creative-process
 img: "http://farm6.staticflickr.com/5798/30295646342_150a7eb648_b.jpg"
 ---
 
