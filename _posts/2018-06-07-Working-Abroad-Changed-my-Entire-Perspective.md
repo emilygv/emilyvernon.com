@@ -8,16 +8,20 @@ img: "http://farm5.staticflickr.com/4912/30805698137_9e8fde0740_b.jpg"
 
 The professional opportunities our generation benefits from exceeds our parents'choices. Working on the other side of the States was considered ambitious or even complicated when my parents graduated university. Today, it seems uneventful (yet still an accomplishment). Any move, whether cross-country or abroad, means getting used to a new job, living environment and governmental system. It’s an adjustment that never stops. Even after living in The Netherlands for seven years, I am still learning. 
 
-**Cultural awareness**. 
+**Cultural awareness**
+
 The best part about working abroad is learning about new cultures. This includes the culture of your new country and the people you meet. It gives you a better perspective of your home country. The many hallmarks I considered ‘normal’ in the States are not abroad. Discussing these with colleagues and friends is an amusing pastime, as there’s always a topic to analyse. It can be everything from common idioms to birthday celebrations. Living versus visiting a new country made me more aware of how these differences shape our overall mindsets.
 
-**Unexpected development**. 
+**Unexpected development**
+
 As mentioned earlier, moving abroad is not easy. Restarting your life, whether it’s finding new friends or your go-to cafe, is a game of trial-and-error. Unlike university where hundreds, even thousands, of freshmen were doing in tandem, your move to another country is not coordinated with a greater group. It means you are processing these frustrations and exciting moments on your own or with a partner. It can feel isolating. But many times this initial loneliness or uncertainty results in unexpected relationships or pastimes.
 
-**More resourceful**. 
+**More resourceful**
+
 When living in the States, I would ask my parents for advice around a wide range of topics. It could be what insurance to buy to which shoe cleaner is the most effective. But their advice did not apply to The Netherlands. Taxes, purchasing a house, hiring a contractor, health insurance, professional culture - it’s all different. Though we would discuss possibilities, I would need to do my own research and ask for advice outside of my familiar circle. I already considered myself independent, but living abroad meant final decisions were really my own.
 
-**Comfortable with uncertainty**. 
+**Comfortable with uncertainty**
+
 When moving to a new country, there’s a lot you don’t know. For example, ‘how long will I stay’ or ‘is it easy to access a Dutch pension when I’m 70’? Many of these questions have reliable answers, but still no definite resolve. I am often going ahead with a share of uncertainties. This can make many hesitate or hold off on a decision. But over the years, I became more comfortable making the most informed decision possible, while knowing risks were involved. Your life is not as predicable when living outside of known systems.
 
 **Easier overtime**. 
