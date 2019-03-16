@@ -1,6 +1,7 @@
 ---
 published: true
 title: Presentation? Get Used to It
+categories: career-development
 img: "http://farm6.staticflickr.com/5544/31145038996_aa90c0fe5c_b.jpg"
 ---
 
