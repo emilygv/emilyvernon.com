@@ -1,6 +1,7 @@
 ---
 published: true
 title: Reclaiming Your Design Identity
+categories: creative-process
 img: "http://farm6.staticflickr.com/5522/30294930352_33c570fb39_b.jpg"
 ---
 
