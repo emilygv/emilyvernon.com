@@ -1,6 +1,7 @@
 ---
 published: true
 title: Getting into Footwear
+categories: extracurricular
 img: "http://farm9.staticflickr.com/8668/16335717427_f7cd5a4224_b.jpg"
 ---
 
