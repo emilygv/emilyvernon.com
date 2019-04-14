@@ -1,7 +1,7 @@
 ---
 published: true
 title: Recognising and Repairing Tribalism in Companies
-categories: work-life
+category: work-life
 img: "http://farm1.staticflickr.com/761/32108913900_8fd4cb07f1_b.jpg"
 ---
 **Company structures mimic society. Both promote greater visions, while humming along to today’s theories on leading and unifying individuals. Within companies we work in smaller teams that many of us consider family. However, our loyalty to our department can insulate us from other perspectives and priorities. By understanding the signals of tribalism within organisations, their unfavorable consequences can be mitigated by any employee.**

@@ -3,12 +3,22 @@ layout: default
 ---
 
 {% include wrap.html %}
+<div class="navbar">
+  <div class="container">
+    <div class="navbar-collapse collapse navbar-left">
+      <ul class="nav navbar-nav">
+        {% for category in site.data.categories %}
+            <li><a href="/insights/{{ category[0]  }}">{{ category[1] }}</a></li>
+        {% endfor %}
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>
 
 <div class="container mtb">
     <div class="row">
         <! -- SINGLE POST -->
         <div class="col-lg-10">
-            <! -- Blog Post  -->
             <p>
                 <img class="img-responsive" src="{{ page.img }}">
             </p>

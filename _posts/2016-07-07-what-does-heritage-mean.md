@@ -1,7 +1,7 @@
 ---
 published: true
 title: What Does Heritage Mean?
-categories: strategic-approach
+category: strategic-approach
 img: "http://farm6.staticflickr.com/5567/30435018915_a489d0eddb_b.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Moral Struggle with your Career Contributing to Consumerism
-categories: creative-process
+category: creative-process
 img: "http://farm5.staticflickr.com/4644/27679997089_32f86bd893_b.jpg"
 ---
 **When you research and design an actual product for mass production, the proximity heightens your awareness. ‘What am I doing’ or ‘What am I contributing to’ taunts you every so often. When comparing lifestyle beliefs with the real world outcomes of your daily work, sometimes it doesn’t line up. For many, including myself, it influenced my next career direction as I weighed my moral beliefs against my contributions to the creative and consuming communities.** 

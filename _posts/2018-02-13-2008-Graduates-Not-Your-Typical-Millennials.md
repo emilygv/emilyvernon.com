@@ -1,7 +1,7 @@
 ---
 published: true
 title: 2008 Graduates - Not Your Typical Millennials
-categories: career-development
+category: career-development
 img: "http://farm2.staticflickr.com/1977/31728608088_6566b46d76_b.jpg"
 ---
 **In 2008, the financial market fell hard on its face, bruising both our collective expectations and confidence in anything. That was the year I and many others graduated. People lost long-held jobs, investments disappeared and lifestyles reflected more austere obligations. As this was no Depression or World War, I was surprised to realise graduating into the recession changed my mindset for the better.**

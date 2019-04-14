@@ -9,7 +9,7 @@ url: "http://emilyvernon.com"
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:title
+permalink: /insights/:categories/:title
 # excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 
@@ -38,7 +38,7 @@ where: Amsterdam, Netherlands
 email: emily@emilyvernon.com
 tel: +31 6 52603180
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-sass-converter

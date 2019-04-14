@@ -1,7 +1,7 @@
 ---
 published: true
 title: Storytelling 101, The Telling
-categories: content-creation
+category: content-creation
 img: "http://farm1.staticflickr.com/744/23082607301_d314c4f1ea_b.jpg"
 ---
 **A story can exist on paper, but many times we are telling the story. Whether our audience includes a new group of friends or footwear buyers, focusing on our presence influences a story’s impact. For all those afraid of getting up in front of an audience, or even for stage savvy individuals, the following advices will result in a more impactful delivery. It’s not easy. You need to be vulnerable, enthusiastic, confidant, animated and aware all at the same time. This dance takes practice, but will amplify your storytelling abilities tenfold.** 

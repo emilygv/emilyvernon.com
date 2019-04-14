@@ -1,10 +1,10 @@
 ---
 published: true
 title: Three Types of Materials in Sneaker Design and Footwear
-categories: extracurricular
+category: Other
 img: "http://farm4.staticflickr.com/3716/19605494026_33df1e6d7c_b.jpg"
 ---
-**It might seem like their are a hundred types of materials to choose from when designing a sneaker collections. While in reality, most fall in three basic categories: leather, synthetic and textile. Choosing one over the other depends on a number of factors including price, look, performance and customization. With the different parts and functions of sneaker, it is completely possible to see all three of these on a product. Can you think of what materials you typically see on a sneaker? Mesh, leather, canvas, a sandpaper-like "nubuck" and suede probably could come to mind quite quickly. Well, all of these live in the following categories.**
+**It might seem like their are a hundred types of materials to choose from when designing a sneaker collections. While in reality, most fall in three basic category: leather, synthetic and textile. Choosing one over the other depends on a number of factors including price, look, performance and customization. With the different parts and functions of sneaker, it is completely possible to see all three of these on a product. Can you think of what materials you typically see on a sneaker? Mesh, leather, canvas, a sandpaper-like "nubuck" and suede probably could come to mind quite quickly. Well, all of these live in the following categories.**
 
 **Leather //** The tanning of animal rawhide results in the material we all know as leather. Typically in sneakers and commercial footwear we are referring to cow leather, but in other instances pig or, on limited occasion, croc and python. Commonly, embosses imitate such exotic textures and finishes. Nubuck and suede, with their more napped or brushed effect, also fall under this category. Leather is chosen for footwear to communication value and craftsmanship, in addition to benefiting from its durable, flexible and lasting qualities. Out of the three categories, leather arguably ages the best and comes with a long list of types, process and textures to never bore the leather consumer.
 

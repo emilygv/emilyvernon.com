@@ -1,7 +1,7 @@
 ---
 published: true
 title: Characteristics of a Sneakerhead
-categories: extracurricular
+category: Other
 img: "http://farm4.staticflickr.com/3753/19662260392_31250bb8d1_b.jpg"
 ---
 **Over the last couple of years I have observed the tellings of a sneakerhead through my interactions with friends as well as current and past colleagues. Their membership in the historically exclusive club is exhibited in varying ways and intensities depending on their age, location and involvement. Their is however a list of timeless similarities between these connoisseurs of product.**

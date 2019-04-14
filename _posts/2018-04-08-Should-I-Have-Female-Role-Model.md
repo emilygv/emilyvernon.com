@@ -1,7 +1,7 @@
 ---
 published: true
 title: Should I Have a Female Role Model?
-categories: career-development
+category: career-development
 img: "http://farm2.staticflickr.com/1904/30805698087_fe694d7d2b_b.jpg"
 ---
 **Someone recently asked me about my role model. I had no good answer for such a weighty question. Go to known figures, like Elon Musk or Beyonce, you look unoriginal. Go with your parents and you look predictable or unworldly. But my ideal role model - a woman I worked with who exhibits an approach I can relate to - is hard to find. But do I need to have a female role model in the first place?**

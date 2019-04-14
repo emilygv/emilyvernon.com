@@ -1,7 +1,7 @@
 ---
 published: true
 title: Reclaiming Your Design Identity
-categories: creative-process
+category: creative-process
 img: "http://farm6.staticflickr.com/5522/30294930352_33c570fb39_b.jpg"
 ---
 
@@ -9,7 +9,7 @@ img: "http://farm6.staticflickr.com/5522/30294930352_33c570fb39_b.jpg"
 
 We’ve all been in a design review, either in school or the real world, where we could identify the designer by his/her work. That’s design identity. Like your everyday identity, it gets celebrated, knock around, second-guessed or cherished depending on where you are. Before we get into it, first take a sigh of relief: it’s impossible for your design identify to stall completely. There are just times it slows down or shoots to new directions. The slow times shouldn’t scary you, and must be considered as training grounds to reach your next desired destination.  
 
-Your design identity is as malleable, yet permanent, as a physical feature. What you do, what you know, who you know and how it’s perceived affects its development and your comfort level. All of these can be cultivated by a variety of approaches and will change your design identity as a happy result. Start by participating in creative extracurricular activities outside of your 9-5. You might already be doing this, however it’s more valuable than you might think. In my case, I write every week though published articles or my own blog posts. By doing this, my social introduction goes from “Designer who works at x” to include other topics, companies and experiences. 
+Your design identity is as malleable, yet permanent, as a physical feature. What you do, what you know, who you know and how it’s perceived affects its development and your comfort level. All of these can be cultivated by a variety of approaches and will change your design identity as a happy result. Start by participating in creative Other activities outside of your 9-5. You might already be doing this, however it’s more valuable than you might think. In my case, I write every week though published articles or my own blog posts. By doing this, my social introduction goes from “Designer who works at x” to include other topics, companies and experiences. 
 
 Let’s face it, creatives are complex. Some dig deep into one specialty, while others explore. Traversing your creative side in other mediums - be it writing, painting, sewing or whatever - is a reminder that you can do anything. Whichever path you chose, remember to reflect on it by discussing or writing about your process, learnings and even struggles. This goes the same with your company work. The design path in any company is full of lessons and content if you’re looking, and every generation figures out new approaches. I’ve taken ownership of my experiences in and outside of work by writing about it.   
 

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "What is a Fashion Trend?"
-categories: strategic-approach
+category: strategic-approach
 img: "http://farm8.staticflickr.com/7654/16570103507_3fe34b8ac9_b.jpg"
 ---
 

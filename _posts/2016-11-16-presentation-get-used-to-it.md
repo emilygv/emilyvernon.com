@@ -1,7 +1,7 @@
 ---
 published: true
 title: Presentation? Get Used to It
-categories: career-development
+category: career-development
 img: "http://farm6.staticflickr.com/5544/31145038996_aa90c0fe5c_b.jpg"
 ---
 
@@ -11,7 +11,7 @@ Recently, I presented to room of over one hundred designers. This does not demon
 
 First of all, I get nervous before presentations just like you. My thoughts pre-occupy with my presentation material and doubts ping pong between my ears. Where we might differ is the way this nervousness gets filtered and directed as I take ahold of the situation. The reaction described above gets channeled as quickly as possible to defeat its negative effects.
 
-You practiced this before, but perhaps in another scenario. Presenting in front of a group requires the same mental preparation as getting out on stage, the play field or starting line. If you participated in any extracurricular activities, you experienced the nervousness involved with presenting. I'm sure you developed techniques either learned, researched or taught to handle yourself in such situations. It's time to apply that learning to this task.
+You practiced this before, but perhaps in another scenario. Presenting in front of a group requires the same mental preparation as getting out on stage, the play field or starting line. If you participated in any Other activities, you experienced the nervousness involved with presenting. I'm sure you developed techniques either learned, researched or taught to handle yourself in such situations. It's time to apply that learning to this task.
 
 Here's the reality: presenting is here to stay. Next week, month or year, you'll have another presentation, and then another. Preparing for your next presentation starts earlier than the night before. My success in that designer audience situation was not luck, but years bundled in practice, classes and reading. I treat presenting like anything else - something that can be learned, developed and managed. 
 

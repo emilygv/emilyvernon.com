@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Importance of Side Projects
-categories: creative-process
+category: creative-process
 img: "http://farm9.staticflickr.com/8727/16778085842_e6d6192d8e_b.jpg"
 ---
 
@@ -11,6 +11,6 @@ I would say many, if not most, designing footwear for a medium to large brand ha
 
 Side projects have been a personal pursuit since starting at a major company, and more so moving to Europe. They have ranged from personal travel blogs to articles for official publications. The transition between “personal” and “official” took years, especially as I write on trains, at night or on the weekends. The idea that journalists sit at a mysterious desk landscaped by discarded papers, empty coffee mugs and office widgets never applied to my scenario. Writing before and after the 9:00-17:00 sets up a contrasting scene and requires a bit of patience – well, actually years of patience. The longer timeline a structure of necessity as I also needed to feed my confidence with smaller, owned projects. 
 
-There are clear values from doing side projects. There you can experiment past current talents and believed limitations. Whether it’s writing, as in my case, or illustration, these extracurricular activities extend the breadth of your work and network. I have been able to participate in the formation of new magazines, world-renowned photography exhibitions and the transformation of beloved publications. Of course my daily work has its thrills, but these outside projects remind me that every month is a learning opportunity. Along the way I have also met some of the most inspiring individuals, realising that creativity has many forms and processes. 
+There are clear values from doing side projects. There you can experiment past current talents and believed limitations. Whether it’s writing, as in my case, or illustration, these Other activities extend the breadth of your work and network. I have been able to participate in the formation of new magazines, world-renowned photography exhibitions and the transformation of beloved publications. Of course my daily work has its thrills, but these outside projects remind me that every month is a learning opportunity. Along the way I have also met some of the most inspiring individuals, realising that creativity has many forms and processes. 
 
 Most importantly - share your side projects! I used to be shy about my writing, rarely talking about my first blog I started upon arriving to Amsterdam. When I finally said “fff it” and began discussing my side projects, the reaction surprised and encouraged me. As if my free time pursuits legitimised my point-of-view and validated my design talents. Colleagues found it intriguing as they too wonder how to do it themselves. Many ask, “Where do you find the time?” It does not become about finding the time, but finding something that you want to dedicate time to evolving. After that and a chuck of work, those side projects begin driving themselves. At some point, your first blog or illustration will be merely a practice round for the greater prospects a side project could offer.

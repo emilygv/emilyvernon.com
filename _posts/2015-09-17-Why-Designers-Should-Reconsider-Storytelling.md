@@ -1,7 +1,7 @@
 ---
 published: true
 title: Why Designers Should Reconsider Storytelling 
-categories: content-creation
+category: content-creation
 img: "http://farm1.staticflickr.com/743/22916857861_a704079ffc_b.jpg"
 ---
 **Storytelling is nothing new to designers. We’ve been taught how to make narratives around concepts, consumers and “the problem” our product or service might provide since Project 01 in school. Then, this was called storyboarding. With its granny pants sex appeal, storyboarding and its broader concept never received proper recognition. Then it joined the business buzzword brigade in 2014, refreshed and repackaged as storytelling.** 

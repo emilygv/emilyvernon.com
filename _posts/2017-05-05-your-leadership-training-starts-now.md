@@ -1,7 +1,7 @@
 ---
 published: true
 title: Your Leadership Training Starts Now
-categories: career-development
+category: career-development
 img: "http://farm5.staticflickr.com/4226/35049475512_cc122af364_b.jpg"
 ---
 **Since our childhood, we regularly assess leadership. Sure, now a boss determines your daily tasks instead of your mom, but both sway your concept of leading. Many of us will one day manage a team or entire company, but feel unprepared when that moment comes. Consider what type of leader you want to be along the way and maybe it will happen faster than expected.**

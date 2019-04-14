@@ -1,7 +1,7 @@
 ---
 published: true
 title: Better Writer Equals Better Designer
-categories: content-creation
+category: content-creation
 img: "http://farm6.staticflickr.com/5680/30835658895_5e80f972e4_b.jpg"
 ---
 

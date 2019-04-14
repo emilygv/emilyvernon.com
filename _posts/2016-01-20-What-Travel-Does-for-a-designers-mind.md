@@ -1,7 +1,7 @@
 ---
 published: true
 title: What Travel Does for a Designer's Mind
-categories: creative-process
+category: creative-process
 img: "http://farm2.staticflickr.com/1693/23960857234_2ac14a64c4_b.jpg"
 ---
 **While traveling for personal means, I believed my underlying purpose was to identify unknown inspirations. Documenting various exotica like the the walls of Buda Castle, findings in Turkish bazaars or colours of Malta seemed like a designer's off-hours requirement. My days carrying DSLR cameras as if I were a documentary photographer fell out of favor when collecting image trinkets rendered little satisfaction. After 25 countries, I discovered how travel strengthened my design mind in ways larger then a high resolution photo.**
