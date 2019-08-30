@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: The Power of New Metaphors
-category: content-creation
-img: "http://farm1.staticflickr.com/791/41182617831_85b1c2134a_b.jpg"
+category: Content creation
+image: "http://farm1.staticflickr.com/791/41182617831_85b1c2134a_b.jpg"
 ---
 **Your life is one long metaphor sprinkled with more mini metaphors. There’s no escape. Whether describing how you ‘ran errands’, climb ‘the corporate ladder’, learn to ‘play by ear’ or believe your ‘life is going nowhere’, you are using metaphors. However, we grow up with such culturally agreed up terms that they slide in and out of conversations with no regard. And they are more than words. Metaphors are sensorial storytellers with a subconscious punch. Let’s investigate these little guys further to see what possibilities lie beneath.** 
 

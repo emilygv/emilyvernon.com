@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: Apps for New Music Journalist
 category: Other
-img: "http://farm1.staticflickr.com/453/18877194713_d7720d37c5_b.jpg"
+image: "http://farm1.staticflickr.com/453/18877194713_d7720d37c5_b.jpg"
 ---
 
 **As mentioned earlier, I don't usually write at an official-looking desk and you don’t have to either! Using an iPhone to do your writing might look like you are either super popular or super tech obsessive. Either way, it’s no matter because everyone is so busy doing something on their iPhone to even notice. Take a look at these three iPhone apps to get you started as a music journalist on-the-go.**

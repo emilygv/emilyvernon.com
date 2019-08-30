@@ -2,7 +2,7 @@
 layout: project
 title:  "Woven Denim"
 date:   2016-12-25 00:00:00
-img: http://farm3.staticflickr.com/2807/32568135730_7b24b0075e_b.jpg
+image: http://farm3.staticflickr.com/2807/32568135730_7b24b0075e_b.jpg
 carousel:
 - http://farm3.staticflickr.com/2419/32568136650_b3d7f810df_b.jpg
 - http://farm3.staticflickr.com/2619/32568136420_89cfd4d07c_b.jpg

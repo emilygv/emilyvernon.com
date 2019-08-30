@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: Parts of a Sneaker
 category: Other
-img: "http://farm8.staticflickr.com/7415/16502874761_61b2cc31e1_b.jpg"
+image: "http://farm8.staticflickr.com/7415/16502874761_61b2cc31e1_b.jpg"
 ---
 
 **Every house has a roof, interior and foundation, as does every sneaker - we just use different terms. Learning these four basic parts of a sneaker first will make the remaining easier to remember and apply. Even with these conversations around product will sound more informed. Instead of, “What does the bottom look like?” you’ll say, “Take a look at that outsole construction” or “This part here (finger wiggle)” will be simply replaced with midsole.**

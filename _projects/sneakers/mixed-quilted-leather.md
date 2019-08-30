@@ -2,7 +2,7 @@
 layout: project
 title:  "Mixed Quilted Leather"
 date:   2015-11-01 00:00:00
-img: http://farm6.staticflickr.com/5613/25317834779_d0715650cf_b.jpg
+image: http://farm6.staticflickr.com/5613/25317834779_d0715650cf_b.jpg
 carousel:
 - http://farm6.staticflickr.com/5459/22775189908_44c927a1ae_b.jpg
 - http://farm6.staticflickr.com/5807/22775190288_e1bcb04ffa_b.jpg

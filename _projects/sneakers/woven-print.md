@@ -2,7 +2,7 @@
 layout: project
 title:  "Woven Print"
 date:   2016-12-21 00:00:00
-img: http://farm1.staticflickr.com/697/32658999561_1cb7a94cf8_b.jpg
+image: http://farm1.staticflickr.com/697/32658999561_1cb7a94cf8_b.jpg
 carousel:
 - http://farm1.staticflickr.com/323/32658690331_df6b9d04f6_b.jpg
 - http://farm1.staticflickr.com/551/32658690061_4bd0133c9f_b.jpg

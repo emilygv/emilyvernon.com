@@ -1,8 +1,8 @@
 - name: Converse
-  img: client01.png
+  image: client01.png
 - name: TREFF
-  img: client02.png
+  image: client02.png
 - name: Glamcult
-  img: client03.png
+  image: client03.png
 - name: Nike
-  img: client04.png
+  image: client04.png

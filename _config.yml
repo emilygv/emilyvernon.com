@@ -2,14 +2,14 @@
 
 # Site settings
 title: Emily Vernon
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Creating strategic design directions by merging brand strategy with consumer experience"
 analytics: "UA-44815610-1"
 baseurl: "" #important: start with /
 url: "http://emilyvernon.com"
 
 # Build settings
 markdown: kramdown
-permalink: /insights/:categories/:title
+permalink: /insights/:slug
 # excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 
@@ -17,31 +17,74 @@ lsi: false
 safe: true
 # future: true
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-    layout: project
+# remote_theme: chrisrhymes/bulma-clean-theme
+
+show_excerpts: true
 
 defaults:
   - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  - scope:
+      path: ""
       type: "posts"
     values:
-      layout: "post"
-  - scope:
-      path: "projects"
-      type: "projects"
-    values:
-      layout: "project"
+      layout: post
+      show_sidebar: false
+  # - scope:
+  #     path: "projects"
+  #     type: "projects"
+  #   values:
+  #     layout: "project"
+
+# collections:
+#   projects:
+#     output: true
+#     permalink: /projects/:path/
+#     layout: project
 
 where: Amsterdam, Netherlands
 email: emily@emilyvernon.com
 tel: +31 6 52603180
 
 plugins:
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-sass-converter
+  - jekyll-avatar
+
+
+
+# Plugins config
+
+repository: emilygv/emilyvernon.com
+
+paginate: 12
+paginate_path: "/insights/page:num/"
+
+readme_index:
+  remove_originals: true
+  with_frontmatter: false
+
+optional_front_matter:
+  remove_originals: true
+
+# sass:
+    # sass_dir: ./_scss
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - tmp
 
 social:
   - title: linkedin
@@ -57,24 +100,25 @@ social:
   - title: rss
     url: http://emilyvernon.com/feed.xml
 
-prose:
-  siteurl: "http://emilyvernon.com"
-  ignore:
-    - /_layouts
-    - /_includes
-  metadata:
-    _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: true
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-      - name: "img"
-        field:
-          label: "Image Url"
-          element: "text"
-          placeholder: "Url of image, Ex: on flickr"
+#
+# prose:
+#   siteurl: "http://emilyvernon.com"
+#   ignore:
+#     - /_layouts
+#     - /_includes
+#   metadata:
+#     _posts:
+#       - name: "published"
+#         field:
+#           label: "Published"
+#           element: "checkbox"
+#           value: true
+#       - name: "title"
+#         field:
+#           element: "text"
+#           label: "title"
+#       - name: "img"
+#         field:
+#           label: "Image Url"
+#           element: "text"
+#           placeholder: "Url of image, Ex: on flickr"

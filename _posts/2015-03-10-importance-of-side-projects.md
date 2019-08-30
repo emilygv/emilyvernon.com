@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: The Importance of Side Projects
-category: creative-process
-img: "http://farm9.staticflickr.com/8727/16778085842_e6d6192d8e_b.jpg"
+category: Creative process
+image: "http://farm9.staticflickr.com/8727/16778085842_e6d6192d8e_b.jpg"
 ---
 
 **When working for a larger company, one with the required parameters and group decisions, creativity becomes structured. The freedom from either an owned business or school project falls flat, and the life of freelancing colleagues seems increasingly more desirable. However, the earlier situation can be used for its benefits. The stability allows for time to experiment with other projects without the pressure of making a living or an immediately sellable product. There is a sense of pure ownership that could be absent from an official job. With this time I have developed my writing, which has progressed naturally, influenced my daily work in footwear and earned a greater respect from colleagues for my enduring dedication.**

@@ -2,7 +2,7 @@
 layout: project
 title:  "TREFF No. 1"
 date:   2015-04-15 00:00:00
-img: http://farm9.staticflickr.com/8763/17203024775_e5cec880a8_b.jpg
+image: http://farm9.staticflickr.com/8763/17203024775_e5cec880a8_b.jpg
 carousel:
 - http://farm9.staticflickr.com/8763/17203024775_e5cec880a8_b.jpg
 category: Journalism

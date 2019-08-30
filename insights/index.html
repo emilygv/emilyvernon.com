@@ -1,0 +1,43 @@
+---
+layout: default
+title: Insights
+subtitle: Blog sub title
+hero_text: Demystifying creative topic for better conversations
+---
+
+<section class="container">
+<h2>{{ page.title }}</h2>
+</section>
+
+<!-- <section class="container">
+{% for category in site.categories %}
+<h4>{{ category[0] }}</h4>
+{% endfor %}
+</section> -->
+
+
+
+<section class="cards container">
+  {% for post in paginator.posts %}
+    {% include post_card.html content=post %}
+  {% endfor %}
+</section>
+
+<section class="pagination container">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <!-- <span class="previous">Previous</span> -->
+    <span class="page_number ">Page: </span>
+  {% endif %}
+  <span class="page_number ">
+    {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</section>

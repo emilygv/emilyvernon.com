@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: The Effect of Company Politics on Creative People
-category: work-life
-img: "http://farm5.staticflickr.com/4912/30805698137_9e8fde0740_b.jpg"
+category: Career development
+image: "http://farm5.staticflickr.com/4912/30805698137_9e8fde0740_b.jpg"
 ---
 **When I graduated from art school and jumped into a corporate job, the concept of company politics seems distant. My belief was that politics happened at boring companies where employees wear ties and filled out Excel sheets. It became clear this plagues various companies, especially brands. Overtime I recognised its negative effect on capable, creative individuals and began to dig deeper.**
 

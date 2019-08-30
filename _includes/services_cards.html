@@ -1,0 +1,13 @@
+<section class="cards">
+{% for service in site.data.services %}
+<article class="service_card">
+    <h2>{{ service.title }}</h2>
+    <p>{{ service.description }}</p>
+    <ul>
+    {% for point in service.points %}
+    <li>{{ point }}</li>
+    {% endfor %}
+    </ul>
+</article>
+{% endfor %}
+</section>

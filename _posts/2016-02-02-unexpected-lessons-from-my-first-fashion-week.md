@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: Unexpected Lessons from My First Ever Fashion Week
 category: Other
-img: "http://farm2.staticflickr.com/1634/25988948625_f1c568ac05_b.jpg"
+image: "http://farm2.staticflickr.com/1634/25988948625_f1c568ac05_b.jpg"
 ---
 **Fashion weeks are not impossible invite-only, secret password, double-encrypted events for fashionista special agents. They're a collection of worthwhile fashion. This January I attended my first full fashion week right in my own *achtertuin*, or backyard. Amsterdam joins the Berlin, Antwerp and Stockholm fashion weeks as secondary, but still industry relevant, catwalk collections. My full, three-day attendance broke down my perceptions of fashion and tested my comfort bubble. It then rewarded me with a memory engraved so deep that I'll be telling my grandchildren about it decades later. So here we go, the three big things I learned about the business, and even myself, at my first fashion week.**
 

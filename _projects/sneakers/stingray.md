@@ -2,7 +2,7 @@
 layout: project
 title:  "Stingray"
 date:   2015-07-01 00:00:00
-img: http://farm1.staticflickr.com/606/23567258115_cf2e275050_b.jpg
+image: http://farm1.staticflickr.com/606/23567258115_cf2e275050_b.jpg
 carousel:
 - http://farm1.staticflickr.com/770/23270531240_442e95b294_b.jpg
 - http://farm6.staticflickr.com/5750/22939242593_216302f3db_b.jpg

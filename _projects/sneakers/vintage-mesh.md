@@ -2,7 +2,7 @@
 layout: project
 title:  "Vintage Mesh"
 date:   2013-06-01 00:00:00
-img: http://farm8.staticflickr.com/7623/16621853758_49432d7bf2_b.jpg
+image: http://farm8.staticflickr.com/7623/16621853758_49432d7bf2_b.jpg
 carousel:
 - https://farm6.staticflickr.com/5559/14713937707_ce90f44db7_b.jpg
 - https://farm6.staticflickr.com/5574/14713937997_67e35ca60f_b.jpg

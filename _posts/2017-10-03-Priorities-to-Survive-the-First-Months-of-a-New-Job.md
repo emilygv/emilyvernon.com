@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: Priorities to Survive the First Months of a New Job
-category: work-life
-img: "http://farm5.staticflickr.com/4683/38749080944_cc67a60078_b.jpg"
+category: Career development
+image: "http://farm5.staticflickr.com/4683/38749080944_cc67a60078_b.jpg"
 ---
 **Your first days on the job are as confusing as ordering at Starbucks for the first time. The continual how’s, who’s and what’s trip up your concentration and confidence while others ‘patiently’ wait for you to figure out the ‘obvious’ system. Your mind even laments leaving the familiar labyrinth you once hopped, skipped and jumped at your last job. However, survival at this new job is more than memorising the rhythms and trying to blend in.**
 

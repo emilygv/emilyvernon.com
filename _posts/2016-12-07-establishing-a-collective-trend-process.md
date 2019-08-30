@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: Establishing a Collective Trend Process
-category: strategic-approach
-img: "http://farm1.staticflickr.com/545/31592357292_2deb6e23a6_b.jpg"
+category: Brand strategy
+image: "http://farm1.staticflickr.com/545/31592357292_2deb6e23a6_b.jpg"
 ---
 
 **For the last three years, I led our trend research in Europe. Many might see trend analysis as either acting like a fashion oracle or collecting pretty images. Well, it is some of that. The process I established transformed a trend analyst into an editor. By gathering content across three functions, our in-house trend analysis focused on making sense of apparel, footwear and consumers from multiple perspectives.** 

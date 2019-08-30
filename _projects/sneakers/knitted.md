@@ -2,7 +2,7 @@
 layout: project
 title:  "Knitted"
 date:   2012-11-01 00:00:00
-img: http://farm8.staticflickr.com/7593/16622222110_6df76bdc1b_b.jpg
+image: http://farm8.staticflickr.com/7593/16622222110_6df76bdc1b_b.jpg
 carousel:
 - https://farm6.staticflickr.com/5590/14713854608_6629b082f3_b.jpg
 - https://farm4.staticflickr.com/3884/14897408761_f7d29a000d_b.jpg

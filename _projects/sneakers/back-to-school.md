@@ -2,7 +2,7 @@
 layout: project
 title:  "Back-to-School"
 date:   2012-09-01 00:00:00
-img: https://farm9.staticflickr.com/8580/15727299897_6c3a9bd179_b.jpg
+image: https://farm9.staticflickr.com/8580/15727299897_6c3a9bd179_b.jpg
 carousel:
 - https://farm6.staticflickr.com/5570/14713938337_f0ee7140f2_b.jpg
 - https://farm4.staticflickr.com/3863/14713871998_7f9cd98d01_b.jpg

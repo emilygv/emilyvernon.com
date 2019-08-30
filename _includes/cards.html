@@ -1,0 +1,5 @@
+<section class="cards">
+  {% for post in site.posts limit:6 %}
+    {% include post_card.html content=post %}
+  {% endfor %}
+</section>

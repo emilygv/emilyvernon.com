@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: How a Minimalist Lifestyle Made Me a Better Designer
-category: creative-process
-img: "http://farm2.staticflickr.com/1555/26394307165_0348a32305_b.jpg"
+category: Creative process
+image: "http://farm2.staticflickr.com/1555/26394307165_0348a32305_b.jpg"
 ---
 
 **Your day-to-day choices unconsciously steer your design process. Whichever habits you break or accept, methods you stick to or question will affect your openness, curiosity and intuition. While many make purposeful changes in either diet, consumption or activities, others do not. It’s a choice. When I chose a minimalist lifestyle, question after question around habits I probably never made knowingly surfaced. I had to edit, let go and move on. It freed my mind and my time to create more while forging a ruthless choice-making mechanism in my design process. Less made me appreciate more.**

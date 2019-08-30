@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="container">
+  {% if page.title %}
+  <header>
+   <h1 itemprop="headline">{{ page.title | escape }}</h1>
+ </header>
+ {% endif %}
+
+ {% if page.image %}
+   <img src="{{ page.image }}" alt="Post image">
+ {% endif %}
+
+
+{{ content }}
+
+</article>

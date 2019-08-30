@@ -2,7 +2,7 @@
 layout: project
 title:  "Pattern"
 date:   2012-08-29 00:00:00
-img: https://farm8.staticflickr.com/7574/15913117825_5e9aec6c0c_b.jpg
+image: https://farm8.staticflickr.com/7574/15913117825_5e9aec6c0c_b.jpg
 carousel:
 - https://farm4.staticflickr.com/3862/14959149725_fa90cc6ed3_b.jpg
 - https://farm4.staticflickr.com/3881/14956044701_aeea037c8e_b.jpg

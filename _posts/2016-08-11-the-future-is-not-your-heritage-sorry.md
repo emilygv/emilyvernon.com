@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: The Future is Not Your Heritage, Sorry
-category: strategic-approach
-img: "http://farm6.staticflickr.com/5546/25306686329_6a4a7c9086_b.jpg"
+category: Brand strategy
+image: "http://farm6.staticflickr.com/5546/25306686329_6a4a7c9086_b.jpg"
 ---
 
 **The most meaningful necklace I received said, “Always Go Forward and Never Turn Back.” Sure, it had some religious connotations, but the message stuck. Every generation cycles though craving past comforts to then seeking future products. In a world of a young, well-informed, future-focused generation, going forward is crucial. True heritage for a fashion brand can make a roadblock from a trampoline and should be approached with as much caution as opportunity.**

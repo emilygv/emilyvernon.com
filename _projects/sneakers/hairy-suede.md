@@ -2,7 +2,7 @@
 layout: project
 title:  "Hairy Suede"
 date:   2013-05-01 00:00:00
-img: https://farm8.staticflickr.com/7491/15725511898_ce46a5b7ef_b.jpg
+image: https://farm8.staticflickr.com/7491/15725511898_ce46a5b7ef_b.jpg
 carousel:
 - https://farm6.staticflickr.com/5578/14877476086_7ca0769bc1_b.jpg
 - https://farm6.staticflickr.com/5573/14713871188_86a750eb13_b.jpg

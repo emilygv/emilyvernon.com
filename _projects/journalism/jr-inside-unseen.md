@@ -2,7 +2,7 @@
 layout: project
 title:  "JR Inside Unseen"
 date:   2013-09-27 00:00:00
-img: https://farm9.staticflickr.com/8660/15889617976_07561d0264_b.jpg
+image: https://farm9.staticflickr.com/8660/15889617976_07561d0264_b.jpg
 carousel:
 - https://farm8.staticflickr.com/7528/15292468724_a44b728b52_b.jpg
 category: Journalism

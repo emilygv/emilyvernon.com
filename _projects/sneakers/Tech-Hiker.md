@@ -2,7 +2,7 @@
 layout: project
 title:  "Tech Hiker"
 date:   2013-11-02 00:00:00
-img: http://farm8.staticflickr.com/7281/16833984682_4c0435b934_b.jpg
+image: http://farm8.staticflickr.com/7281/16833984682_4c0435b934_b.jpg
 carousel:
 - http://farm8.staticflickr.com/7619/16215149413_67c4e3e1d9_b.jpg
 - http://farm8.staticflickr.com/7605/16647740230_0456bcf1f9_b.jpg

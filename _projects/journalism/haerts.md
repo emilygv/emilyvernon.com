@@ -2,7 +2,7 @@
 layout: project
 title:  "Haerts"
 date:   2015-01-23 00:00:00
-img: https://farm9.staticflickr.com/8660/15889617976_07561d0264_b.jpg
+image: https://farm9.staticflickr.com/8660/15889617976_07561d0264_b.jpg
 carousel:
 - http://farm8.staticflickr.com/7604/16749419461_a8b9bb9378_b.jpg
 category: Journalism

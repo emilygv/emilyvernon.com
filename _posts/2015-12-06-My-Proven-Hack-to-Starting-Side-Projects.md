@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: My Proven Hacks to Starting Side Projects
-category: creative-process
-img: "http://farm6.staticflickr.com/5696/23672594206_b128c8b61e_b.jpg"
+category: Creative process
+image: "http://farm6.staticflickr.com/5696/23672594206_b128c8b61e_b.jpg"
 ---
 **Starting a side project can feel like growing a new limb for the first time and expecting perfection. Before even buying the pen to put onto paper, your unborn side project already cultivates concerns over the permanent mark it will leave on your life. This is how I used to feel starting my side projects. A galloping fear that went on for way too long. A healthy mix of age and experience demonstrated that best way to start any side project was to simply... chill out.**
 

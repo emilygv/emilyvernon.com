@@ -2,7 +2,7 @@
 layout: project
 title:  "Summit Nylon"
 date:   2015-01-02 00:00:00
-img: http://farm1.staticflickr.com/331/18508442096_8412249402_b.jpg
+image: http://farm1.staticflickr.com/331/18508442096_8412249402_b.jpg
 carousel:
 - http://farm1.staticflickr.com/371/18536803331_caec015b80_b.jpg
 - http://farm1.staticflickr.com/512/18347135930_e54cc7fd69_b.jpg

@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: Presentation? Get Used to It
-category: career-development
-img: "http://farm6.staticflickr.com/5544/31145038996_aa90c0fe5c_b.jpg"
+category: Career development
+image: "http://farm6.staticflickr.com/5544/31145038996_aa90c0fe5c_b.jpg"
 ---
 
 **I'm here to unravel and reboot your perception of presenting. By combining some tough love with yes-you-can motivation, we'll tame your doubts and train your nerves. Presenting is going to happen - it's a fact you need to cozy up with. Instead of going through a casual panic each time a presentation comes your direction, we'll dress up in our discomforts to understand their temperament.**

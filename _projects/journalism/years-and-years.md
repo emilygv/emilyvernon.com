@@ -2,7 +2,7 @@
 layout: project
 title:  "Years & Years"
 date:   2014-10-5 00:00:00
-img: https://farm8.staticflickr.com/7583/15889633666_25453eaa48_b.jpg
+image: https://farm8.staticflickr.com/7583/15889633666_25453eaa48_b.jpg
 carousel:
 - https://farm9.staticflickr.com/8618/15729611937_d1dca937a1_b.jpg
 category: Journalism

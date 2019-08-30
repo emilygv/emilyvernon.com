@@ -1,11 +1,11 @@
 ---
-published: true
+
 title: 10 Interviewing Basics for Writers
-category: content-creation
-img: "http://farm9.staticflickr.com/8629/16526618261_a5e86cd666_b.jpg"
+category: Content creation
+image: "http://farm9.staticflickr.com/8629/16526618261_a5e86cd666_b.jpg"
 ---
 
-**We all give interviews informally without even noticing. We chat with store employees over the next launches or dive into our last three months with a friend over drinks. As these come naturally and without hesitation, many might not understand the need for formal technique and preparation when conducting actual interviews. Whether talking to an organization director in person or accomplished musician over Skype the ten points below can help when faced with your subject, and the moment.** 
+**We all give interviews informally without even noticing. We chat with store employees over the next launches or dive into our last three months with a friend over drinks. As these come naturally and without hesitation, many might not understand the need for formal technique and preparation when conducting actual interviews. Whether talking to an organization director in person or accomplished musician over Skype the ten points below can help when faced with your subject, and the moment.**
 
 1. Prepare, prepare, prepare.
 2. Have a conversation.

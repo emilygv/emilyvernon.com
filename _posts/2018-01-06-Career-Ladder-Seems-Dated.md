@@ -1,8 +1,8 @@
 ---
-published: true
+
 title: A ‘Career Ladder’ Seem Pretty Damn Dated
-category: career-development
-img: "http://farm1.staticflickr.com/803/41188316091_d0535c3c8e_b.jpg"
+category: Career development
+image: "http://farm1.staticflickr.com/803/41188316091_d0535c3c8e_b.jpg"
 ---
 **Terminology to define careers falls under a metaphoric family that does not describe today’s scene. We typically relate careers to a path, trajectory or ladder that suggests predefined, linear directions where up is the only way. Whether a Millennial or Baby Boomer, we find many around us are looking beyond conquering the top toward other lifestyle-driven goals. Let’s demystify what a career is these days and what the new metaphor is for professional progression.**
 
