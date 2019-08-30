@@ -1,4 +1,5 @@
 ---
+permalink: /about/
 hero_text: An adventurist of all kinds
 image: https://assets-ouch.icons8.com/free-download/772/b78ec61a-60ba-4d73-9490-9cfd41b9bab7.png?filename=pablo-uploading.png
 ---
