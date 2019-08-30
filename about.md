@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 hero_text: An adventurist of all kinds
-image: /assets/page-about.png
+image: /assets/img/page-about.png
 ---
 
 **A lot has happened since growing up in LA and graduating from the Rhode Island School of Design.**
