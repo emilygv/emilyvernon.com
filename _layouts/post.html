@@ -27,11 +27,11 @@ layout: default
     </p>
   </header>
 
-  {% if page.image %}
-    <img src="{{ page.image }}" alt="Post image">
-  {% endif %}
-
-  <div class="entry-content">
+  <div class="content">
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="Post image">
+    {% endif %}
+    
     {{ content }}
   </div>
 </article>

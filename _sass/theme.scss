@@ -251,12 +251,12 @@ article header, article footer {
   padding: 0;
 }
 
-article img {
+.content {
   max-width: 800px;
 }
 
-article p {
-  max-width: 800px;
+.content img {
+  max-width: 100%;
 }
 
 @media (min-width: 980px) {

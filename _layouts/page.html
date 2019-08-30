@@ -9,11 +9,12 @@ layout: default
  </header>
  {% endif %}
 
- {% if page.image %}
-   <img src="{{ page.image }}" alt="Post image">
- {% endif %}
+ <div class="content">
+   {% if page.image %}
+     <img src="{{ page.image }}" alt="Post image">
+   {% endif %}
 
-
-{{ content }}
+   {{ content }}
+ </div>
 
 </article>
