@@ -1,10 +1,10 @@
 ---
 title: Taking a Stand-Up Class for Better Presentation Skills
 category: Career development
-image: "http://farm6.staticflickr.com/5544/31145038996_aa90c0fe5c_b.jpg"
+image: "http://farm66.staticflickr.com/65535/48749360201_605f20e65c_b.jpg"
 ---
 
-**In the past I took professional presentation classes that were dry, generic and uninspiring. Searching for a challenge and novel approach, I took a stand-up class through a local improv group. If you struggle with presentations and are looking for something more upbeat, there are a number of reasons I would recommend a stand-up class. **
+**In the past I took professional presentation classes that were dry, generic and uninspiring. Searching for a challenge and novel approach, I took a stand-up class through a local improv group. If you struggle with presentations and are looking for something more upbeat, there are a number of reasons I would recommend a stand-up class.**
 
 Presentation is a day-to-day reality for many creatives and professions. We think presentations are only in front a room with many people, but I also consider calls, mini reviews and team sharing sessions as presentations. I always enjoyed presenting, but noticed many of my more personality-blessed colleagues afraid or even timid during presentations.
 
