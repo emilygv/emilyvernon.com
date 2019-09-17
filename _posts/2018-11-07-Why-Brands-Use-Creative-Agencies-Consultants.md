@@ -4,8 +4,7 @@ category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/48749292631_a66fb9b469_b.jpg"
 ---
 
-**When I worked for a brand, I always found it odd that we used agencies for some of the most interesting projects. ‘Certainly, that’s why we have internal teams’, I thought. After being on both sides, it became clear brands need agencies for organisational, creative and perspective reasons. As an agency or consultant, it’s valuable to understand these to add greater value and become an indispensable mentor to brands. 
-** 
+**When I worked for a brand, I always found it odd that we used agencies for some of the most interesting projects. ‘Certainly, that’s why we have internal teams’, I thought. After being on both sides, it became clear brands need agencies for organisational, creative and perspective reasons. As an agency or consultant, it’s valuable to understand these to add greater value and become an indispensable mentor to brands.** 
 
 Before diving into this discussion, please note that brands do differ in terms of management, decision-making and capabilities. Some are super agile with change and others are not. This all depends on three things: how new a company is; what needs to be taken down before another process is established; and how stakeholders interact with each other. We are dealing with humans after all.
 
