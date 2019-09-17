@@ -1,5 +1,5 @@
 ---
-title: What is a creative strategist?
+title: What is a Creative Strategist?
 category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/48748120172_803f7633bd_b.jpg"
 ---
