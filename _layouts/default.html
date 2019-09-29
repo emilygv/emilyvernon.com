@@ -11,33 +11,49 @@
 
 
   {%- seo -%}
-  <link rel="stylesheet" href="/assets/css/style.css?{{ site.github.build_revision }}">
+  <link rel="stylesheet" href="/assets/css/style.css?v={{ site.time | date: "%Y%m%d%H%M" }}">
 
   {%- feed_meta -%}
 </head>
 <body>
 
-<header class="container">
-
-  <a class="site-title" rel="home" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-  <nav>
-    {%- for nav in site.data.navigation -%}
-      <a href="{{ nav.url | relative_url }}">{{ nav.title | escape }}</a>
-    {%- endfor -%}
-  </nav>
-
-</header>
 
 <main>
 
-{%- if page.hero_text -%}
-  <div class="hero">
-    <div class="container">
-      <p>{{ page.hero_text }}</p>
+<header class="header-top" style="{% if page.hero_bgcolor %}background-color: {{ page.hero_bgcolor }};{% else %}padding-bottom:  20px;{% endif %}">
+
+    <!-- {% include hero.html %} -->
+    <section class="container pad-top">
+      <a class="site-title" rel="home" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <nav>
+        {% for nav in site.data.navigation %}<a href="{{ nav.url | relative_url }}">{{ nav.title | escape }}</a>{% endfor %}
+      </nav>
+    </section>
+
+{% if page.hero_text or page.hero_image %}
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}" style="
+{% if page.hero_image %} background-image: url('{{ page.hero_image }}');{% endif %}
+{% if page.hero_bgcolor %} background-color: {{ page.hero_bgcolor }};{% endif %}
+" >
+
+
+
+    <div class="hero-body container">
+        <!-- <div class="container"> -->
+          <p>{{ page.hero_text }}</p>
+            <!-- <p class="title is-2">{{ page.title }}</p>
+            <p class="subtitle is-3">{{ page.subtitle }}</p>
+            {% if page.hero_link %}
+                <a href="{{ page.hero_link | prepend: site.baseurl  }}" class="button is-info is-large">{{ page.hero_link_text }}</a>
+            {% endif %} -->
+        <!-- </div> -->
     </div>
-  </div>
-{%- endif -%}
+</section>
+
+{% else %}
+
+{% endif %}
+</header>
 
   {{ content }}
 </main>

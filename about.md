@@ -1,7 +1,8 @@
 ---
 permalink: /about/
 hero_text: An adventurist of all kinds
-image: /assets/img/page-about.png
+hero_image: /assets/img/page-about.png
+hero_bgcolor: pink
 ---
 
 **A lot has happened since growing up in LA and graduating from the Rhode Island School of Design.**
