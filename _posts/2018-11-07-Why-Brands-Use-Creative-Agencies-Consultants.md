@@ -8,7 +8,7 @@ image: "http://farm66.staticflickr.com/65535/48749292631_a66fb9b469_b.jpg"
 
 Before diving into this discussion, please note that brands do differ in terms of management, decision-making and capabilities. Some are super agile with change and others are not. This all depends on three things: how new a company is; what needs to be taken down before another process is established; and how stakeholders interact with each other. We are dealing with humans after all.
 
-With that said, I have discovered that most brands can be painfully slow, but panicked at the same time. This is because a much needed project around starting a social marketing campaign, as an example, is required immediately but took months to agree upon. This is usually where an agency comes in. Agencies need to act quickly, but also seem methodical to take stakeholders along on the journey. When working with an agency, a brand should feel like they are on a breezy joy-ride toward their desired destination.
+With that said, I've discovered that most brands can be painfully slow, but panicked at the same time. This is because a much needed project around starting a social marketing campaign, as an example, is required immediately but took months to agree upon. This is usually where an agency comes in. Agencies need to act quickly, but also seem methodical to take stakeholders along on the journey. When working with an agency, a brand should feel like they are on a breezy joy-ride toward their desired destination.
 
 These are the ten most common reasons (I saw) an agency come into the picture:
 
