@@ -2,7 +2,7 @@
 layout: home
 hero_text: High impact brand strategy & consumer experience
 hero_image: /assets/img/home_page.png
-hero_bgcolor: "#D7E6D2"
+hero_bgcolor: "#d7e6d2"
 ---
 
 ## Latest insights
