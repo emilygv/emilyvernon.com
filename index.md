@@ -1,7 +1,7 @@
 ---
 layout: home
 hero_text: High impact brand strategy & consumer experience
-hero_image: /assets/img/pablo-page-is-under-construction.png
+hero_image: /assets/img/home_page.png
 hero_bgcolor: "#f9d9eb"
 ---
 
