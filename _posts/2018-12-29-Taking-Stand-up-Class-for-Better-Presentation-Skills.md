@@ -10,7 +10,7 @@ Presentation is a day-to-day reality for many creatives and professions. We thin
 
 A typical presentation class will give you templates to organise your ideas, techniques to sound more natural and pointers on facial expressions, as well as body language. It’s probable you will be video recorded multiple times to help analyse and improve your technique. The value of such classes is raising awareness. Presenting is more than delivering information, it’s connecting and communicating with your audience through multiple means.
 
-Though these classes give you easy, simplified rules and guidelines, it still doesn’t help individuals find their personal presentation style. I found the generic advice was a quick fix, but most insights are on the internet. I wanted to find something that focused more on shaping an individual’s approach and onstage personality.
+Though these classes give you easy, simplified rules and guidelines, it still doesn’t help individuals find their personal presentation style. I found the generic advice was a quick fix, but most insights can be found on the internet. I wanted to find something that focused more on shaping an individual’s approach and onstage personality.
 
 A stand-up class helps to develop presence, style, writing and delivery while infusing a little fun and laugher into the mix. I found it harder and more rewarding as a class. The typical format for a stand-up class is an improv warm up, stand-up exercises and practice stand-up performances with feedback. The mix of learning and performing means you could apply feedback quickly. Many stand-up exercises combined coming up with material and presenting it at the same time. 
 
