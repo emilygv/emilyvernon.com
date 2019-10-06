@@ -20,4 +20,4 @@ As a creative strategist, there were times I had to do brand strategy. This happ
 
 # Let’s wrap this up
 
-Brand and creative strategy create cohesion and consistency. It helps to align teams during the long process of decision-making and execution. They both have separate roles, yet overlap especially when creative strategy is starting to set the direction for consumer experiences. This means brand and creative strategists share commonalities and are able to do part of the others work. Whether a long-established or new brand, having both helps with moving your brand into the future.
+Brand strategy and creative strategy create cohesion and consistency. It helps to align teams during the long process of decision-making and execution. They both have separate roles, yet overlap especially when creative strategy is starting to set the direction for consumer experiences. This means brand and creative strategists share commonalities and are able to do part of the others work. Whether a long-established or new brand, having both helps with moving your brand into the future.
