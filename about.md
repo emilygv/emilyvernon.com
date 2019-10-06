@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 hero_text: An adventurist of all kinds
-hero_image: /assets/img/page-about.png
+hero_image: /assets/img/about.png
 hero_bgcolor: pink
 ---
 
