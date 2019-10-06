@@ -8,7 +8,7 @@ image: "http://farm66.staticflickr.com/65535/48749360201_605f20e65c_b.jpg"
 
 Presentation is a day-to-day reality for many creatives and professions. We think presentations are only in front a room with many people, but I also consider calls, mini reviews and team sharing sessions as presentations. I always enjoyed presenting, but noticed many of my more personality-blessed colleagues afraid or even timid during presentations.
 
-A typical presentation class will give you templates to organise your ideas, techniques to sound more natural and pointers on facial expressions, as well as body language. It’s probable you will be video recorded multiple times to help analyse and improve your technique. The value of such classes is raising awareness. Presenting is more than delivering information, it’s connecting and communicating with your audience through multiple means.
+A typical presentation class will give you templates to organise your ideas, techniques to sound more natural and pointers on facial expressions, as well as body language. It is probable you will be video recorded multiple times to help analyse and improve your technique. The value of such classes is raising awareness. Presenting is more than delivering information, it’s connecting and communicating with your audience through multiple means.
 
 Though these classes give you easy, simplified rules and guidelines, it still doesn’t help individuals find their personal presentation style. I found the generic advice was a quick fix, but most insights can be found on the internet. I wanted to find something that focused more on shaping an individual’s approach and onstage personality.
 
