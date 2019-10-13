@@ -1,21 +1,15 @@
 ---
 layout: default
-subtitle: Blog sub title
+title: Insights
 hero_text: Demystifying creative topic for better conversations
 hero_image: /assets/img/insights.png
 hero_bgcolor: "#d4e8d5"
 ---
 
+{% include category_links.html %}
 
-
-<!-- <section class="container">
-{% for category in site.categories %}
-<h4>{{ category[0] }}</h4>
-{% endfor %}
-</section> -->
-
-
-{% include post_cards.html content=paginator.posts %}
+{% assign posts = paginator.posts %}
+{% include post_cards.html posts=posts show_category=true %}
 
 <section class="pagination container">
   {% if paginator.previous_page %}

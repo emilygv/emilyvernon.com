@@ -1,0 +1,8 @@
+<section class="container pad-top">
+{% for category in site.data.categories %}
+  {% assign slug = category | first | slugify %}
+  {% assign name = category | last %}
+  <a name="{{ name }}" href="/insights/{{ slug }}">{{ name }}</a> |
+{% endfor %}
+<a name="All Insights" href="/insights">All Insights</a>
+</section>
