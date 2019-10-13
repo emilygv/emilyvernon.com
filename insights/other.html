@@ -1,0 +1,11 @@
+---
+layout: default
+title: Other Insights
+hero_text: What else ?
+---
+
+<ul>
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}">{{ category | first }} - {{ category[0] }}</a></li>
+{% endfor %}
+</ul>
