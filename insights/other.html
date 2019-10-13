@@ -2,6 +2,7 @@
 layout: default
 title: Other Insights
 hero_text: What else ?
+category: Other
 ---
 
 <ul>
@@ -9,3 +10,5 @@ hero_text: What else ?
   <li><a name="{{ category | first }}">{{ category | first }} - {{ category[0] }}</a></li>
 {% endfor %}
 </ul>
+
+{% include post_cards.html content=site.categories[page.category] %}
