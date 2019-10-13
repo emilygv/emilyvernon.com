@@ -1,0 +1,6 @@
+{% assign posts = include %}
+<section class="cards container">
+  {% for post in posts %}
+    {% include post_card.html content=post %}
+  {% endfor %}
+</section>
