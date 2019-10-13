@@ -15,12 +15,7 @@ hero_bgcolor: "#d4e8d5"
 </section> -->
 
 
-
-<section class="cards container">
-  {% for post in paginator.posts %}
-    {% include post_card.html content=post %}
-  {% endfor %}
-</section>
+{% include post_cards.html content=paginator.posts %}
 
 <section class="pagination container">
   {% if paginator.previous_page %}
