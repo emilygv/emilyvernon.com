@@ -14,7 +14,7 @@ Many times, we assume our audience is as indifferent as teenagers in high school
 
 Point out something obvious and make it sound even more ridiculous. ‘I know what you’re thinking - you would rather be reading your junk mail than listen to my finance presentation’. This is ridiculous because you are saying junk mail is exciting. If you can’t think about the fun part, search google. There are many, many lists around what people think is boring, obvious, odd or unlikeable. In these lists are usually everyday things we sometimes overlook. ‘I know what you’re thinking - this seems more difficult than removing an avocado seed without getting hurt’. If it makes you smile, odds are it would work on others
 
-# Change a common saying, well-known quote or general knowledge
+# Change a common saying or well-known quote
 
 There are common sayings in general culture, work culture and specific professional groups. They can actually get annoying because people use them over and over. But if you twist the expression, it will get people’s attention. These are actually pretty easy to make and can be done with some friends or colleagues when you’re bored. Here’s a couple: ‘It’s okay to drink the kool-aid, as long as it’s spiked’, ‘At first if you don’t succeed, set the bar lower’ or ‘When developing a product, you know the saying - fail fast, and blame someone else’. Just make sure whatever you change is a super common expression so it’s clear and quick to understand. 
 
