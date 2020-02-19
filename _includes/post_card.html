@@ -2,7 +2,7 @@
 {% assign show_category = include.show_category %}
 
 <article>
-    <a href="{{ post.url | relative_url }}"><h2>{{ post.title | escape }}</h2></a>
+    <a href="{{ post.url | relative_url }}"><h3>{{ post.title | escape }}</h3></a>
     {%- if site.show_excerpts -%}
     <p itemprop="description">{{ post.excerpt | strip_html | truncatewords:30 }}</p>
     {%- endif -%}
@@ -16,5 +16,4 @@
       {% endif %}{% endif %}
       <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date_to_string }}</time>
     </p>
-
 </article>

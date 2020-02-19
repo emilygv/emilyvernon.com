@@ -1,9 +1,30 @@
 ---
 layout: home
-hero_text: High impact brand strategy & consumer experience
-hero_image: /assets/img/home.png
-hero_bgcolor: "#d4e8d5"
+hero_text: <span class="highlight">Activate</span> your brand through <span class="highlight">guest & consumer experience</span>.
+# hero_image: /assets/img/home.png
+# hero_bgcolor: "#d4e8d5"
 ---
+
+<div class="statement statement-right">
+    <p>
+      The world is constantly changing. Within <a href="#">hospitality, retail and brands IRL</a>, creating and implementing a <a href="#">guest or consumer journey</a> is becoming increasingly complex.
+     </p>
+</div>
+
+<!-- {% include statement.html content="The world is constantly changing Creating and implementing a guest or consumer journey within hospitality, retail or brands IRL is becoming increasingly complex." %} -->
+
+<img src="/assets/img/consumer_journey_01.png">
+
+<div class="statement statement-left">
+    <p>Hi there I'm Emily, a <a href="/insights/why-brands-use-creative-agencies-consultants" alt="Why Brands Use Creative Agencies or Consultants" title="Why Brands Use Creative Agencies or Consultants">guest and consumer experience (CX) consultant</a> with a background in brand strategy and product design. I bring clarity, creativity and focus to <a href="#">consumer journey development</a>.
+    </p>
+  <!-- <div class="read-more">
+  <a href="mailto:emily@emilyvernon.com" target="_blank">
+    Get in touch
+  </a>
+  <span class="arrow">&urcorn;</span>
+</div> -->
+</div>
 
 ## Latest insights
 
@@ -13,9 +34,13 @@ hero_bgcolor: "#d4e8d5"
   {% endfor %}
 </section>
 
-{% include statement.html content="New consumers, competition and business needs require continual brand reinvention" %}
+<div class="read-more">
+  <a href="/insights/">
+    Read more
+  </a>
+  <span class="arrow">&urcorn;</span>
+</div>
 
+## Working with
 
-## Capabilities
-
-{% include services_cards.html %}
+{% include clients.html %}

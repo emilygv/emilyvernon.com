@@ -5,9 +5,9 @@ layout: default
 
 {% include category_links.html %}
 
-<section class="container">
+<!-- <section class="container">
 <h1>{{ page.category }}</h1>
-</section>
+</section> -->
 
 {% assign posts = site.categories[page.category] %}
 {% include post_cards.html posts=posts show_category=false %}

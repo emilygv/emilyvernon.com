@@ -2,10 +2,11 @@
   url: /about/
 - title: Insights
   url: /insights/
+- title: Services
+  url: /services/
   # dropdown:
   #   - name: Brand strategy
   #     link: /insights/Brand strategy
   #   - name: Creative process
   #     link: /insights/Creative process
-# - title: Contact
-#   url: /contact/
+

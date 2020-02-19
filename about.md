@@ -1,22 +1,49 @@
 ---
+layout: about
 permalink: /about/
-hero_text: An adventurist of all kinds
-hero_image: /assets/img/about.png
-hero_bgcolor: "#d4e8d5"
+hero_text: <span class="highlight">Designer to strategist</span>, LA to Amsterdam & an <span class="highlight">adventurist always</span>.
+# hero_image: /assets/img/about.png
+# hero_bgcolor: "#d4e8d5"
 ---
+## Hi there :)
 
-**A lot has happened since growing up in LA and graduating from the Rhode Island School of Design.**
+<div class="story" markdown="1">
+I am originally from Los Angeles, but <a href="/insights/working-abroad-changed-my-entire-perspective" alt="Working Abroad Changed My Entire Perspective" title="Working Abroad Changed My Entire Perspective">lived and worked in Amsterdam</a> for the past nine years. 
 
-For over ten years I’ve worked in numerous creative industries, countries and expertises. Whether retail or streetwear, the US or the Netherlands, footwear designer or creative strategist, agency or in-house, each expanded my perspective on design.
+Currently, I <a href="/insights/what-is-a-creative-strategist" alt="What is a Creative Strategist?" title="What is a Creative Strategist?">work as a Senior Creative Strategist</a> for UXUS (a FutureBrand company) transforming brands by increasing consumer engagement and brand perception within retail and hospitality spaces, IRL. Over the last three years, my specialties included <a href="#">hotel design strategy and guest experience</a>. 
 
-To better adapt to today’s rapid developments, I challenge my abilities professionally and personally. My extracurricular activities include everything from stand-up comedy to heavy weather sailing. My ultimate, ultimate dream is to own multiple hotels in hard-to-reach destinations after circumnavigating the world by sailboat.
+Before becoming a strategist, I <a href="/insights/getting-into-footwear" alt="Getting into Footwear" title="Getting into Footwear">designed footwear for Converse</a> out of both the global and EMEA offices. My role evolved into leading <a href="/insights/establishing-a-collective-trend-process" alt="Establishing a Collective Trend Process" title="Establishing a Collective Trend Process">regional consumer trend and insights</a> across EMEA, Brazil and APAC, while contributing insights to Nike as well.
 
-It’s a tall order, I know. But I have to make up for my short stature somehow.
+I am happy to chat about <a href="/insights/" alt="Insights" title="Insights">articles, insights or career development</a>.
+</div>
 
-## Extracurricular
+## Last things
 
-- Stand-up comedy
-- Music journalism
-- Sailing & boat renovation
-- Footwear design
-- Boring things
+<div class="cards-3-columns">
+  <article>
+    <h3>Principles</h3>
+      <ul>
+      {% for card in site.data.about.cards.principles %}
+        <li>{{ card.title }}</li>
+        {% endfor %}
+      </ul>
+  </article>
+
+  <article>
+    <h3>Side Projects</h3>
+      <ul>
+       {% for card in site.data.about.cards.side-projects %}
+        <li>{{ card.title }}</li>
+        {% endfor %} 
+      </ul>
+  </article>
+
+  <article>
+    <h3>Reading List</h3>
+    <ul>
+    {% for card in site.data.about.cards.reading-list %}
+        <li>{{ card.title }}</li>
+        {% endfor %} 
+    </ul>
+  </article>
+</div>

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% include category_links.html %}
+
+{% assign posts = paginator.posts %}
+{% include post_cards.html posts=posts show_category=true %}
+
+<section class="pagination container">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="page_number ">Page:</span>
+  {% endif %}
+  <span class="page_number ">
+    {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</section>

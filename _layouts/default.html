@@ -3,13 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <!--[if lt IE 9]>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <![endif]-->
+  <script src="https://kit.fontawesome.com/5642a9d6e5.js" crossorigin="anonymous"></script>
 
-
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700,700i&display=swap" rel="stylesheet">
+  
   {%- seo -%}
   <link rel="stylesheet" href="/assets/css/style.css?v={{ site.time | date: "%Y%m%d%H%M" }}">
 
@@ -17,59 +16,70 @@
 </head>
 <body>
 
-
-<main>
-
-<header class="header-top" style="{% if page.hero_bgcolor %}background-color: {{ page.hero_bgcolor }};{% else %}padding-bottom:  20px;{% endif %}">
+<header class="header-top container" style="{% if page.hero_bgcolor %}background-color: {{ page.hero_bgcolor }};{% else %}{% endif %}">
 
     <!-- {% include hero.html %} -->
-    <section class="container pad-top">
+    <div class="navbar">
       <a class="site-title" rel="home" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-      <nav>
-        {% for nav in site.data.navigation %}<a href="{{ nav.url | relative_url }}">{{ nav.title | escape }}</a>{% endfor %}
-      </nav>
-    </section>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"><span class="nav-icon"></span></label>
+      <ul class="menu">
+        {% for nav in site.data.navigation %}
+          <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
 
-{% if page.hero_text or page.hero_image %}
-<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}" style="
-{% if page.hero_image %} background-image: url('{{ page.hero_image }}');{% endif %}
-{% if page.hero_bgcolor %} background-color: {{ page.hero_bgcolor }};{% endif %}
-" >
+  {% if page.hero_text or page.hero_image %}
+  <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}" style="
+  {% if page.hero_image %} background-image: url('{{ page.hero_image }}');{% endif %}
+  {% if page.hero_bgcolor %} background-color: {{ page.hero_bgcolor }};{% endif %}
+  " >
 
-
-
-    <div class="hero-body container">
+    <div class="hero-body">
         <!-- <div class="container"> -->
           <p>{{ page.hero_text }}</p>
             <!-- <p class="title is-2">{{ page.title }}</p>
-            <p class="subtitle is-3">{{ page.subtitle }}</p>
+            <p class="subtitle is-3">{{ page.subtitle }}</p>            
             {% if page.hero_link %}
                 <a href="{{ page.hero_link | prepend: site.baseurl  }}" class="button is-info is-large">{{ page.hero_link_text }}</a>
             {% endif %} -->
         <!-- </div> -->
     </div>
-</section>
+  </section>
 
 {% else %}
 
 {% endif %}
 </header>
 
+<main> 
+<!-- Changed main to start here, not in header -->
+
   {{ content }}
+
 </main>
 
 <footer class="bg-black">
   <div class="container">
-
     <div class="cards">
-      <div><h3>Let’s keep in touch</h3></div>
-      <div>
-        <p><a href="mailto:emily@emilyvernon.com">emily@emilyvernon.com</a></p>
-        <p><a href="https://linkedin.com/in/emilygvernon">Linkedin</a></p>
-        <p><a href="https://instagram.com/emilygv/">Instagram</a></p>
+      <div class="site-navigation-bottom">
+        <h3>Go on, keep exploring</h3>
+        {% for nav in site.data.navigation %}
+        <a href="{{ nav.url }}">{{ nav.title }}</a>
+        {% endfor %}
       </div>
-      <div><p>&copy; 2019 Emily Vernon</p></div>
-
+      <div class="social">
+        <h3>Staying social</h3>
+{% for sl in site.data.about.social %}
+  <a href="{{ sl.link }}" target="_blank"><i class="{{ sl.icon }}"></i></a>
+{% endfor %}
+       
+        <p class="copyright">&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.
+          Made with <i class="fas fa-heart"></i>in {{ site.data.about.loved_city }}.
+        </p>
+      </div>
+      
     </div>
 </div>
 </footer>
