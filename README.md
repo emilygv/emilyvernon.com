@@ -28,6 +28,7 @@ Read:
 
 ### Update local code with code from Github
 - `git add --all`
+- `git commit -m "description for later"`
 
 ### Push the code to Github
 
