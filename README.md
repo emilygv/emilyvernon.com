@@ -31,6 +31,8 @@ Read:
 - `git commit -m "description for later"`
 
 ### Push the code to Github
+- `git push --set-upstream origin gh-pages` if first time
+- `git push` if already setup
 
 ### Other
 
