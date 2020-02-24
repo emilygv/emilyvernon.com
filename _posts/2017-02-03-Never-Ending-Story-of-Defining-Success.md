@@ -1,5 +1,4 @@
 ---
-
 title: The Never-Ending Story of Defining Success
 category: Career development
 image: "http://farm1.staticflickr.com/779/32301996410_f658f203ff_b.jpg"
@@ -18,6 +17,4 @@ Of course, this is not the case. However, if you don’t define your image of ca
 
 Until you build your own experiences, others will seem more valuable. As each of us engages with alternative concepts around “learning, work and other aspects of life” we create our own beliefs. My working definition of success is, for example, *synergising multiple aspects of creative industries to deliver newness, while building meaningful relationships.* As I live in one of the most beautiful and stimulating cities, having time to engage in side projects, educations and my community adds a greater meaning to my life. If you asked me for that statement ten years ago, it would diverge. I only concluded the value of relationships when I gained experience in a company, or the importance of your environment after moving abroad.
 
-Success has a rolling deadline. Once you deciphered the ultimate definition, something will change in your circumstances. Putting on blinders to the outside world will not solve the need for your own analysis. By constantly reevaluating your beliefs around the expanded idea of success you will have the confidence to undertake new opportunities and challenges when they pop up. 
-
-
+Success has a rolling deadline. Once you deciphered the ultimate definition, something will change in your circumstances. Putting on blinders to the outside world will not solve the need for your own analysis. By constantly reevaluating your beliefs around the expanded idea of success you will have the confidence to undertake new opportunities and challenges when they pop up.

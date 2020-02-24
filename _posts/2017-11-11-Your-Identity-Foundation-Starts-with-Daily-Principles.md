@@ -1,5 +1,4 @@
 ---
-
 title: Your Identity Foundation Starts with Daily Principles
 category: Career development
 image: "http://farm1.staticflickr.com/810/41182060611_dd9e1401b7_b.jpg"

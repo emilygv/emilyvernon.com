@@ -1,5 +1,4 @@
 ---
-
 title: The Effect of Company Politics on Creative People
 category: Career development
 image: "http://farm5.staticflickr.com/4912/30805698137_9e8fde0740_b.jpg"

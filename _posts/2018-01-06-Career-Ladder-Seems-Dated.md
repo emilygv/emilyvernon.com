@@ -1,12 +1,11 @@
 ---
-
 title: A ‘Career Ladder’ Seem Pretty Damn Dated
 category: Career development
-image: "http://farm1.staticflickr.com/803/41188316091_d0535c3c8e_b.jpg"
+image: "https://source.unsplash.com/NDz_JwHHvXA/800x430"
 ---
 **Terminology to define careers falls under a metaphoric family that does not describe today’s scene. We typically relate careers to a path, trajectory or ladder that suggests predefined, linear directions where up is the only way. Whether a Millennial or Baby Boomer, we find many around us are looking beyond conquering the top toward other lifestyle-driven goals. Let’s demystify what a career is these days and what the new metaphor is for professional progression.**
 
-**When It Changed**  
+## When It Changed
  
 You’re probably wondering how we could go decades without adjusting this metaphor. Everyone seemed content  until ten-ish years ago when recessions, new family structures, global awareness and increased story-sharing made many reconsider how they judged others. This freedom allowed people to have more flexible and fluid identities, both personal and professional. With this extra exposure and broken barriers, we could expand in diagonal directions than just ascend. 
 
@@ -14,7 +13,7 @@ The idea of a ‘good job’ also changed. The ‘good jobs’ of today might no
 
 Many have also realised getting to the top has its debts payed in the form of health, relationships or energy. And there is no guarantee the top holds any more security, satisfaction or status than a level below. After watching the Baby Boomers head this direction, their Generation X and Millenial children knew to consider further options. And this is one thing Millenials can proudly be blamed of - exploring the possibilities, combinations and past faux pas’s of what it means to have a career. 
 
-**How it Became a Prototyping Process**  
+## How it Became a Prototyping Process
 
 These days, I find myself balancing instinct with trial as my career develops. Instinct creates the imaginary barriers that help guide my exploration, while trial offers a process to progress within those boundaries. It’s more being able to bounce back and adapt, than dig in and rectify an absolute method. Knowing how to learn, testing out assumptions and gathering clues is a part of the detective work required to charter our sometimes uncharter-able and illogical career developments.
 

@@ -1,7 +1,7 @@
 ---
 title: Freeing Effects of Travel on Creativity
 category: Creative process
-image: "http://farm66.staticflickr.com/65535/49388411166_72478c29de_b.jpg"
+image: "https://source.unsplash.com/Nl-SXO4FAHw/800x430"
 ---
 
 **There’s something about travel. It erases our routines, chores and obligations, leaving behind a clearer, more creative mind. When we try to hold onto this feeling after our travels, this new found creativity fades as easily as it appeared. Let’s look at how travel rewires the brain, improves creativity and how this can be used more purposefully when we plan our next trip.** 

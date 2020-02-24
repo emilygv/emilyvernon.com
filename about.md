@@ -1,6 +1,7 @@
 ---
 layout: about
 permalink: /about/
+title: About Emily Vernon, including her history and principles
 hero_text: <span class="highlight">Designer to strategist</span>, LA to Amsterdam & an <span class="highlight">adventurist always</span>.
 # hero_image: /assets/img/about.png
 # hero_bgcolor: "#d4e8d5"

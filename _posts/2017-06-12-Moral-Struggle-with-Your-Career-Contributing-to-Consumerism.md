@@ -1,5 +1,4 @@
 ---
-
 title: The Moral Struggle with your Career Contributing to Consumerism
 category: Creative process
 image: "http://farm5.staticflickr.com/4644/27679997089_32f86bd893_b.jpg"

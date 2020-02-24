@@ -86,7 +86,6 @@ main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
   padding-bottom: 60px;
   border-top: 1px solid $grey-color-light;
-  // border-bottom: 1px solid $grey-color-light;
 }
 
 img {
@@ -113,14 +112,9 @@ li {
   }
 }
 
-// h1, h2, h3, h4, h5, h6 {
-//   font-weight: $base-font-weight;
-// }
-
 h2 {
   @include rfs(40);
   font-family: $second-font-family;
-  // text-transform: uppercase;
   font-weight: 600;
   font-style: italic;
   padding-top: 2rem;
@@ -228,7 +222,6 @@ header nav {
     line-height: $base-line-height;
     display: inline;
     margin-left: 5vw;
-    // // padding: 5px 10px;
 
     &:not(:last-child) {
       margin-right: 0;
@@ -308,10 +301,6 @@ header nav {
       display: table;
       line-height: 2rem;
     }
-
-    // a:hover {
-      
-    // }
   }
 
   .copyright {
@@ -331,8 +320,8 @@ header nav {
 }
 
 .container {
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: 5vw;
+  padding-left: 5vw;
 
   ul {
     margin-left: 0;
@@ -342,12 +331,14 @@ header nav {
   }
 }
 
-@media screen and (min-width: 768px) {
-  .container {
-    padding-right: 34px;
-    padding-left: 34px;
-    }
-}
+// @media screen and (min-width: 768px) {
+//   .container {
+//     padding: 0;
+//     margin: 0;
+//     // padding-right: 10px;
+//     // padding-left: 10px;
+//     }
+// }
 
 @media screen and (min-width: 980px) {
   .container {
@@ -360,7 +351,7 @@ header nav {
     }
 }
 
-@media screen and (min-width: 1390px) {
+@media screen and (min-width: 1440px) {
   .container {
     padding-left: 250px;
     padding-right: 250px;
@@ -373,15 +364,12 @@ header nav {
   background-color: $color-black;
   color: white;
   font-family: $second-font-family;
-  font-weight: 600;
-  // letter-spacing: 0.04rem;
+  font-weight: 700;
   @include rfs(60);
   margin: 0;
-  // font-style: italic;
   letter-spacing: 0.07rem;
 
   .highlight {
-    // font-style: italic;
     background: $brand-color;
     padding: 0rem 0.5rem 0rem 0.5rem;
   }
@@ -417,6 +405,10 @@ header nav {
   @media screen and (max-width: 760px) {
     width: 90vw; 
     margin: 7vh 0 12vh 0;
+  }
+
+  @media screen and (min-width: 1440px) {
+    width: 52vw; 
   }
 }
 
@@ -506,8 +498,6 @@ header nav {
 
   #active {
     text-decoration: underline;
-    // font-style: italic;
-    // padding: 2px;
   }
 }
 
@@ -522,15 +512,32 @@ article header, article footer {
 
   h1 {
     font-family: $second-font-family;
-    @include rfs(30);
+    @include rfs(32);
   }
-  
 }
 
 .content {
   max-width: 800px;
   font-weight: 400;
   line-height: 1.4rem;
+
+  h2 {
+    @include rfs(26);
+    font-style: normal;
+    padding: 0;
+    line-height: 2rem;
+  }
+
+  h3 {
+    @include rfs(21);
+    font-style: normal;
+    padding: 0;
+    line-height: 1.5rem;
+  }
+
+  dt {
+    font-weight: bold;
+  }
 }
 
 .content img {

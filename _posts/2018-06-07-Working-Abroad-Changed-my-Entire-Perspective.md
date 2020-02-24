@@ -1,5 +1,4 @@
 ---
-
 title: Working Abroad Changed My Entire Perspective
 category: Career development
 image: "http://farm5.staticflickr.com/4902/47342899382_48af04fddf_b.jpg"
@@ -28,4 +27,4 @@ When moving to a new country, there’s a lot you don’t know. For example, ‘
 
 Much like learning another language, you become more aware of your needs, setbacks and approaches. A second move doesn’t seem as daunting - only easier and even addicting. There’s a thrill with overcoming the unfamiliar and discovering something new. Similarly, there are many aspects about moving abroad that remain mundane. Doing laundry, paying bills or fixing clothes doesn’t give me any greater thrill than doing them at home. When you uncover these aside the greater challenges, a move abroad can appear more familiar.
 
-I get it - moving abroad might or might not be possible for you now. But don’t cross off the option due to doubts in your own abilities. If my twenty-four year-old self could do it, I’m sure you could too. It’s a challenge that has a mix of the mundane and magnificent. Sure, I have no idea what's next. But I would rather live with uncertainty and a greater perspective than crushing dullness and predicability.
+I get it - moving abroad might or might not be possible for you now. But don’t cross off the option due to doubts in your own abilities. If my twenty-four year-old self could do it, I’m sure you could too. It’s a challenge that has a mix of the mundane and magnificent. Sure, I have no idea what's next. But I would rather live with uncertainty and a greater perspective than crushing dullness and predictability.

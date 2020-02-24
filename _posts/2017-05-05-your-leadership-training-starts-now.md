@@ -1,5 +1,4 @@
 ---
-
 title: Your Leadership Training Starts Now
 category: Career development
 image: "http://farm5.staticflickr.com/4226/35049475512_cc122af364_b.jpg"
@@ -16,4 +15,4 @@ We quickly forget how it feels to be managed, or mismanaged. Remembering these e
 
 Let me tell you about the type of leader I want to become. My approach in three words would read: inclusive, effective and calm. Whether it’s a team activity or social gathering, making everyone feel welcome is a longstanding belief. Inclusive means letting people know why they might or might not be involved; giving credit where credit is due and creating an open atmosphere to share unedited ideas. An effective leader reads company culture to find its strengths and structure to get things done. It requires conviction, planning and consistency. Calm is the last on the list, but the most important. Most business situations are better handled with a clear mind. An overdose of emotion clouds judgement and leaves negative impressions with collaborators. 
 
-By identifying these traits, I already started working on becoming a leader, much like you can. On the path to learning and enforcing new methods, current behaviours will take time to unlearn. Whether it takes five weeks or five years to consistently demonstrate your leadership approach, a clear goal keeps us focused. It will not happen instantaneously, or without decisiveness. We have all experienced great and not-so-great leadership. Those great leaders we admire and hope to become committed to a leader mindset way before taking on their monumental position. 
+By identifying these traits, I already started working on becoming a leader, much like you can. On the path to learning and enforcing new methods, current behaviours will take time to unlearn. Whether it takes five weeks or five years to consistently demonstrate your leadership approach, a clear goal keeps us focused. It will not happen instantaneously, or without decisiveness. We have all experienced great and not-so-great leadership. Those great leaders we admire and hope to become committed to a leader mindset way before taking on their monumental position.

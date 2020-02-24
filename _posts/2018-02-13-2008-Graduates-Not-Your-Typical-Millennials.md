@@ -1,5 +1,4 @@
 ---
-
 title: 2008 Graduates - Not Your Typical Millennials
 category: Career development
 image: "http://farm2.staticflickr.com/1977/31728608088_6566b46d76_b.jpg"

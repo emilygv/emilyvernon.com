@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /services/
+title: How Emily Vernon can help with your customer experience project
 hero_text: <span class="highlight"> A depth of abilities</span> to address projects with <span class="highlight">varying needs</span>.
 ---
 

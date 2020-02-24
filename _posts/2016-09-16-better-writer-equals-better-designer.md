@@ -1,5 +1,4 @@
 ---
-
 title: Better Writer Equals Better Designer
 category: Content creation
 image: "http://farm6.staticflickr.com/5680/30835658895_5e80f972e4_b.jpg"

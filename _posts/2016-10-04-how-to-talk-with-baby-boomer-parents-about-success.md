@@ -1,5 +1,4 @@
 ---
-
 title: How to Talk with Baby Boomer Parents About Success
 category: Career development
 image: "http://farm6.staticflickr.com/5570/30305440134_8644e868af_b.jpg"

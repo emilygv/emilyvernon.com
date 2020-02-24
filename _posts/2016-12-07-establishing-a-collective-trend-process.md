@@ -1,5 +1,4 @@
 ---
-
 title: Establishing a Collective Trend Process
 category: Brand strategy
 image: "http://farm1.staticflickr.com/545/31592357292_2deb6e23a6_b.jpg"

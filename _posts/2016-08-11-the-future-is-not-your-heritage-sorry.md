@@ -1,5 +1,4 @@
 ---
-
 title: The Future is Not Your Heritage, Sorry
 category: Brand strategy
 image: "http://farm6.staticflickr.com/5546/25306686329_6a4a7c9086_b.jpg"

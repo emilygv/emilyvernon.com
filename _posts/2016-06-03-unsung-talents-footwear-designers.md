@@ -1,5 +1,4 @@
 ---
-
 title: The Unsung Talents of Footwear Designers
 category: Creative process
 image: "http://farm6.staticflickr.com/5798/30295646342_150a7eb648_b.jpg"
@@ -18,4 +17,3 @@ So what do we all do that employs our versatility? Footwear designers curate var
 In the end, we want to take something that covers your feet and make them fit your story. There’s no surprise that footwear, or shoes, is a never-ending source for analogies. “To step into someone else’s shoes”; “wouldn’t want to be in your shoes” and “to fill one’s shoes” are just a few examples. As designers, we’re not just creating a product, but an experience. We know footwear accompanies your entire day and is a long-lasting wardrobe item. We recognise it needs to be durable from a construction and style perspective. With an audience that can raddle off styles and model numbers as if they were names of their own cousins, footwear designers realise our fan base knows what’s going on.
 
 Working in footwear can feel like being a type-casted actor. We’re assumed to only be able to design one product or understand one market. But it’s just the opposite. Sure, we do have some quirks like looking at everyone’s feet on the metro or inspecting the construction of a shoe lining in store. Nonetheless, footwear designers know a wide range of principles and skills. It’s not only in our job description to do so, but also our inherent sensibility. Whichever creative field you’re in, if you’re feeling uninspired, stuck or need another point of view, perhaps it’s time to seek out a footwear designer. 
-
