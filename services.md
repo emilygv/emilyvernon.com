@@ -1,7 +1,8 @@
 ---
 layout: home
 permalink: /services/
-title: How Emily Vernon can help with your customer experience project
+title: The depth of services Emily Vernon provides around guest & customer experience
+description: Experience design, brand strategy, tone of voice and stakeholder management are used to complete projects of varying needs.
 hero_text: <span class="highlight"> A depth of abilities</span> to address projects with <span class="highlight">varying needs</span>.
 ---
 
@@ -11,7 +12,7 @@ hero_text: <span class="highlight"> A depth of abilities</span> to address proje
 
 <div class="read-more">
   <a href="mailto:emily@emilyvernon.com" target="_blank">
-    Request more info
+    Request additional info
   </a>
   <span class="arrow">&urcorn;</span>
 </div>

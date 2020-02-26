@@ -60,7 +60,7 @@ $on-large:         $on-laptop !default;
   clear: both;
 }
 
-html {
+html { 
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -239,7 +239,7 @@ header nav {
 }
 
 .read-more {
-  @include rfs(19);
+  @include rfs(20);
   font-family: $second-font-family;
   color: black;
   font-weight: 700;
@@ -249,8 +249,12 @@ header nav {
     font-size: 1.7rem;
     color: $brand-color;
   }
-}
 
+  a {
+    color: $brand-color;
+  }
+
+}
 
 .bg-black {
   background-color: $color-black;
@@ -340,21 +344,21 @@ header nav {
 //     }
 // }
 
-@media screen and (min-width: 980px) {
-  .container {
-    padding-left: 50px;
-    padding-right: 50px;
-        // max-width: 90vw;
-        // text-align: center;
-        // margin: 0 auto;
-        // padding: 0 auto;
-    }
-}
+// @media screen and (min-width: 980px) {
+//   .container {
+//     padding-left: 50px;
+//     padding-right: 50px;
+//         // max-width: 90vw;
+//         // text-align: center;
+//         // margin: 0 auto;
+//         // padding: 0 auto;
+//     }
+// }
 
 @media screen and (min-width: 1440px) {
   .container {
-    padding-left: 250px;
-    padding-right: 250px;
+    padding-left: 15vw;
+    padding-right: 15vw;
     }
 }
 
@@ -407,8 +411,8 @@ header nav {
     margin: 7vh 0 12vh 0;
   }
 
-  @media screen and (min-width: 1440px) {
-    width: 52vw; 
+  @media screen and (min-width: 1480px) {
+    width: 49vw; 
   }
 }
 
@@ -435,21 +439,25 @@ header nav {
 .statement {
   color: $color-black;
   font-family: $base-font-family;
-  @include rfs(24);
-  font-weight: 600;
+  @include rfs(26);
+  font-weight: 400;
   line-height: 1.8rem;
 
-  a {
-    color: $brand-color;
-    padding-bottom: 1rem;
+  // a {
+  //   color: $brand-color;
+  //   padding-bottom: 1rem;
+  // }
+
+  .emphasis {
+    font-weight: 600;
   }
 }
 
 .statement-right {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  margin-bottom: 10vh;
-  margin-top: 9vh;
+  margin-bottom: 8vh;
+  margin-top: 7vh;
   
   p {
     grid-column: 2 / 3;
@@ -471,7 +479,8 @@ header nav {
   // display: block;
   width: 50%;
   margin: 0;
-  padding-top: 1rem;
+  padding-top: 3vh;
+  padding-bottom: 1vh;
 
   @media screen and (max-width: 670px) {
     width: 100%;
@@ -614,6 +623,7 @@ table {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-column-gap: 30px;
   grid-row-gap: 15px;
+  // padding-bottom: 5vh;
 }
 
 @media screen and (max-width: 330px) {

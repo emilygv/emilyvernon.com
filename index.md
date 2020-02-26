@@ -1,14 +1,17 @@
 ---
 layout: home
-title: Activating brands with guest (GX) & customer experience (CX)
-hero_text: <span class="highlight">Activate</span> your brand through <span class="highlight">guest & consumer experience</span>.
+title: Activating brands with guest & customer experience (GX & CX)
+description: Emily Vernon utilises experience design, management and strategy to create relevant journeys for millennials, Gen Z and the creative class.
+# hero_text: <span class="highlight">Guest & customer experience</span> for brands speaking to <span class="highlight">creatives</span> 
+hero_text: <span class="highlight">Connect with creatives</span> through guest & customer <span class="highlight">experiences</span>
+
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
 ---
 
 <div class="statement statement-right">
     <p>
-      The world is constantly changing. Within <a href="#">hospitality, retail and brands IRL</a>, creating and implementing a <a href="#">guest or customer journey</a> is becoming increasingly complex. <a href="#">We expect more, 24/7</a>. 
+      <span class="emphasis">Everyone expects more, 24/7</span>. Within hotels, retail and brands IRL <span class="emphasis">guest and customer experience (GX & CX)</span> management will be the <span class="emphasis">benchmark of creative-centric brands.</span> Are you ready?
      </p>
 </div>
 
@@ -17,14 +20,14 @@ hero_text: <span class="highlight">Activate</span> your brand through <span clas
 <img src="/assets/img/consumer_journey_01.png">
 
 <div class="statement statement-left">
-    <p>Hi there - I'm Emily, a <a href="/insights/why-brands-use-creative-agencies-consultants" alt="Why Brands Use Creative Agencies or Consultants" title="Why Brands Use Creative Agencies or Consultants">guest and customer experience (CX) consultant</a> with a background in brand strategy and sneaker design. I bring clarity, creativity and focus to <a href="#">customer journey development</a>.
+    <p>Hi there - I'm Emily, a <span class="emphasis">guest and customer experience consultant</span> with a background in brand strategy and sneaker design. I bring <span class="emphasis">clarity, creativity and focus </span> to brands and businesses worldwide.
     </p>
-  <!-- <div class="read-more">
-  <a href="mailto:emily@emilyvernon.com" target="_blank">
-    Get in touch
-  </a>
-  <span class="arrow">&urcorn;</span>
-</div> -->
+    <div class="read-more">
+      <a href="/services/">
+        Further info
+      </a>
+      <span class="arrow">&urcorn;</span>
+    </div>
 </div>
 
 ## Latest insights
@@ -37,7 +40,7 @@ hero_text: <span class="highlight">Activate</span> your brand through <span clas
 
 <div class="read-more">
   <a href="/insights/">
-    Read more
+   Read more
   </a>
   <span class="arrow">&urcorn;</span>
 </div>
