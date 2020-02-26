@@ -2,6 +2,10 @@
 title: The Real Top Ten Qualities of All Strategists 
 category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/48982193096_6c4d4a1d3b_b.jpg"
+further_reading:
+    - Types of Strategist in Creative Industries
+    - Difference Between Creative and Brand Strategy
+    - What is a Creative Strategist?
 ---
 
 **There are many types of strategists within the creative industry, from brand to social media strategists. Even as job descriptions differ, there are similarities in skills and requirements. I’m sure you are all tired of hearing such words as ‘curious’ and ‘collaborative’, so let’s skip these worn out terms for the reality.** 

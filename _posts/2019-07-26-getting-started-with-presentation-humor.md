@@ -2,6 +2,10 @@
 title: Getting Started with Presentation Humor
 category: Career development
 image: "http://farm66.staticflickr.com/65535/49388666027_f7723314dc_b.jpg"
+further_reading:
+    - Presentation? Get Used to It
+    - Structuring Humor for Presentations
+    - Taking a Stand-Up Class for Better Presentation Skills
 ---
 
 **Humor is a great way to grab attention and connect with your audience. But it is also a great way to get you fired or disliked. Humor takes both the right mindset and preparation to get started. This first step is an introduction to get you comfortable with humor and form your approach.** 

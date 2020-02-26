@@ -1,8 +1,11 @@
 ---
-
 title: Storytelling 101, The Story
 category: Content creation
 image: "http://farm6.staticflickr.com/5750/22961236626_94fd0c6a1f_b.jpg"
+further_reading:
+    - Storytelling 101, The Telling
+    - Why Designers Should Reconsider Storytelling 
+    - The Power of New Metaphors
 ---
 **Storytelling liquors up the soul for ideas and possibilities. This method can convert even the toughest of cookies by weaving an idea into a compelling tale, pleasing to both their mind and emotions. We’ve already looked at the benefits of storytelling in the last post, but where to start? Let’s put aside the “telling” part and focus on the story.** 
 

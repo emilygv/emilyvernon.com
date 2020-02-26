@@ -2,6 +2,10 @@
 title: Difference Between Creative and Brand Strategy
 category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/48748883097_2e151fff33_b.jpg"
+further_reading:
+    - Types of Strategist in Creative Industries
+    - The Real Top Ten Qualities of All Strategists
+    - What is a Creative Strategist?
 ---
 
 **It’s getting confusing these days with the many types of strategy required for creative projects. However, the two that overlap often are brand and creative strategy. This is because they work together to ensure the end consumer understands, interacts with and responds to the brand. Let’s look at the differences and crossover of the two disciplines to see where they can add value to your process.** 

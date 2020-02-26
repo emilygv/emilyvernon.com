@@ -2,6 +2,10 @@
 title: What is Customer Experience (CX)?
 category: Customer Experience (CX)
 image: "https://source.unsplash.com/dQyS2pMYtok/800x430"
+further_reading:
+    - What is Guest Experience (GX)?
+    - What does a Customer Experience (CX) Consultant Do?
+    - Customer Journey Mapping Overview
 ---
 
 **Today, there’s a lot of talk around customer experience. However, customer experience has been around for decades, even centuries. Now, customer experience (CX) is a key component of a brand and business strategy. An improved customer experience leads to increased brand perception, product sales and customer loyalty. This overview of customer experience is meant for curious newbies or seasoned professionals looking to improve, kickstart or better understand this thing people call customer experience.** 

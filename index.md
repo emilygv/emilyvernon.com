@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Activating brands with guest & customer experience (GX & CX)
-description: Emily Vernon utilises experience design, management and strategy to create relevant journeys for millennials, Gen Z and the creative class.
+title: Guest and consumer experience (CX) consultant in Amsterdam
+description: I'm Emily, enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
 # hero_text: <span class="highlight">Guest & customer experience</span> for brands speaking to <span class="highlight">creatives</span> 
 hero_text: <span class="highlight">Connect with creatives</span> through guest & customer <span class="highlight">experiences</span>
 

@@ -2,6 +2,10 @@
 title: How to Talk with Baby Boomer Parents About Success
 category: Career development
 image: "http://farm6.staticflickr.com/5570/30305440134_8644e868af_b.jpg"
+further_reading:
+    - The Never-Ending Story of Defining Success
+    - Your Identity Foundation Starts with Daily Principles
+    - Reclaiming Your Design Identity
 ---
 
 **Who else to ask about the wild, wild workforce than your parents. You’re old enough to understand the value of their advice and keen enough to filter it through your own perspective. A road block will materialise at some point, however, one so immovable it must be bigger than just you and your parents. Welcome to the misaligned definitions of success between you and previous generations.**

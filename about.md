@@ -3,7 +3,7 @@ layout: about
 permalink: /about/
 title: About Emily Vernon, including her story and principles
 description: Get to know Emily Vernon better. She is a guest and customer experience consultant in Amsterdam with experience in footwear design and brand strategy.
-hero_text: <span class="highlight">Designer to strategist</span>, LA to Amsterdam & an <span class="highlight">adventurist always</span>.
+hero_text: <span class="highlight">Designer to strategist</span>, LA to Amsterdam & an <span class="highlight">adventurist always</span>
 # hero_image: /assets/img/about.png
 # hero_bgcolor: "#d4e8d5"
 ---

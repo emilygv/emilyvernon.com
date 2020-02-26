@@ -2,6 +2,10 @@
 title: Working Abroad Changed My Entire Perspective
 category: Career development
 image: "http://farm5.staticflickr.com/4902/47342899382_48af04fddf_b.jpg"
+further_reading:
+    - Freeing Effects of Travel on Creativity
+    - What Travel Does for a Designer's Mind
+    - Moved Countries? 5 Professional Reasons Learning the Language is Beneficial
 ---
 **When discussing my time working abroad, many mention similar ambition. But as we all know, it’s easier said than done. This is because it includes uncertainty, discomfort, lots of calls, more emails and countless considerations. And that’s just the work needed for a professional transitions. Working abroad made me more confident to instigate and accept change, as well as widened my entire perspective.**
 

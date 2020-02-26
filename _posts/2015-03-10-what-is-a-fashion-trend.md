@@ -1,8 +1,11 @@
 ---
-
 title: "What is a Fashion Trend?"
 category: Brand strategy
 image: "http://farm8.staticflickr.com/7654/16570103507_3fe34b8ac9_b.jpg"
+further_reading:
+    - Fifty Words to Describe Macro Fashion Trends
+    - Unexpected Lessons from My First Ever Fashion Week
+    - What Does Heritage Mean?
 ---
 
 **The word "trend" gets thrown around frequently, especially as it comes attached with a variety of meanings. In this article we will look at fashion trends, since they inevitably affect footwear preferences. As the use of such information is continually questioned in companies, understanding its core principles can separate the constructive opportunities from useless information.**

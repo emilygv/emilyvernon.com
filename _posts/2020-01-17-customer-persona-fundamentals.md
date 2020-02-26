@@ -2,6 +2,9 @@
 title: Customer Persona Fundamentals
 category: Customer Experience (CX)
 image: "https://source.unsplash.com/QAB-WJcbgJk/800x430"
+further_reading:
+    - Customer Journey Mapping Overview
+    - What does a Customer Experience (CX) Consultant Do?
 ---
 
 **All brands and businesses have customers. Teams across all organisations use data about customers to create projects and make decisions. Sometimes this information is uncentralised or inferred. Let's change that. A customer persona is an effective tool for organisations and teams to consolidate data, create alignment and better develop customer experiences. You can get started today with building a customer persona and getting the right people onboard.** 

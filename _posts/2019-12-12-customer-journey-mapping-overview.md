@@ -2,6 +2,9 @@
 title: Customer Journey Mapping Overview
 category: Customer Experience (CX)
 image: "https://source.unsplash.com/bjemWZcNF34/800x430"
+further_reading:
+    - Customer Persona Fundamentals
+    - What does a Customer Experience (CX) Consultant Do?
 ---
 
 **The infamous customer journey map. You know you need it, you've probably googled it, but then - now what? As a CX consultant, I do these maps all the time, yet realise it can be intimating. This is because building a customer journey map is more than an afternoon of work or a singular map. Creating a customer journey map is a medium to long-term a project in itself. It's the foundational step to agreeing upon, improving and tracking a customer journey within a particular function or organisation.**

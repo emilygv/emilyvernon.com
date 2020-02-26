@@ -355,7 +355,7 @@ header nav {
 //     }
 // }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1550px) {
   .container {
     padding-left: 15vw;
     padding-right: 15vw;
@@ -369,7 +369,7 @@ header nav {
   color: white;
   font-family: $second-font-family;
   font-weight: 700;
-  @include rfs(60);
+  @include rfs(55);
   margin: 0;
   letter-spacing: 0.07rem;
 
@@ -401,19 +401,19 @@ header nav {
 }
 
 .hero-body {
-  margin: 20vh 0 15vh 0;
-  width: 63vw;
-    // flex-grow: 1;
-    // flex-shrink: 0;
+  margin: 17vh 0 15vh 0;
+  width: 62%;
+  // flex-grow: 1;
+  // flex-shrink: 0;
 
   @media screen and (max-width: 760px) {
     width: 90vw; 
     margin: 7vh 0 12vh 0;
   }
 
-  @media screen and (min-width: 1480px) {
-    width: 49vw; 
-  }
+  // @media screen and (min-width: 1500px) {
+  //   width: 50vw; 
+  // }
 }
 
 // .hero.is-small .hero-body {

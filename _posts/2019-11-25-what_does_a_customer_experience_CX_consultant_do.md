@@ -2,6 +2,10 @@
 title: What does a Customer Experience (CX) Consultant Do?
 category: Customer Experience (CX)
 image: "https://source.unsplash.com/zoCDWPuiRuA/800x430"
+further_reading:
+    - Why Brands Use Creative Agencies or Consultants
+    - Customer Persona Fundamentals
+    - Customer Journey Mapping Overview
 ---
 
 **A brand is an experience. This is why customer experience (CX) consultants, managers, designers and strategists are becoming more prevalent and popular amongst brands and businesses. However, the entire practice is still a bit confusing. This is because part of their day-to-day tasks used to exist within traditional departments, while the others are relatively new. Hopefully this brings some clarity to the barrage of conflicting or partial information floating out there in wwwland.**

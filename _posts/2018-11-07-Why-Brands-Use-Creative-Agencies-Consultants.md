@@ -2,6 +2,8 @@
 title: Why Brands Use Creative Agencies or Consultants
 category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/48749292631_a66fb9b469_b.jpg"
+further_reading:
+    - What does a Customer Experience (CX) Consultant Do?
 ---
 
 **When I worked for a brand, I always found it odd that we used agencies for some of the most interesting projects. ‘Certainly, that’s why we have internal teams’, I thought. After being on both sides, it became clear brands need agencies for organisational, creative and perspective reasons. As an agency or consultant, it’s valuable to understand these to add greater value and become an indispensable mentor to brands.** 

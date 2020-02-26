@@ -1,8 +1,11 @@
 ---
-
 title: Fifty Words to Describe Macro Fashion Trends
 category: Brand strategy
 image: "http://farm1.staticflickr.com/411/19775263845_71e90aafda_b.jpg"
+further_reading:
+    - Trend Versus Opportunity
+    - What is a Fashion Trend?
+    - Establishing a Collective Trend Process
 ---
 
 **When presenting macro fashion trends to a team or client, it's not just photographs that communicate your point. Having a poignant title helps many to grasp the overall concept before components and details can be properly addressed and digested. Sometimes, however, find the right words can be time consuming, which is the exact reason why I created a cheat sheet of common words to describe fashion macro trends anyone can use.**

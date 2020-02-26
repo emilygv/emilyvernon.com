@@ -2,6 +2,10 @@
 title: Structuring Humor for Presentations
 category: Career development
 image: "https://source.unsplash.com/imlD5dbcLM4/800x430"
+further_reading:
+    - Getting Started with Presentation Humor
+    - Taking a Stand-Up Class for Better Presentation Skills
+    - Presentation? Get Used to It
 ---
 
 **You’re back and hopefully with your initial homework done. Now that we are familiar with our humor types and can identify the patterns, it’s time to create small humor doses. We are not making jokes. We are using simple structures to make moments that break through the tension and get your audience’s attention.** 

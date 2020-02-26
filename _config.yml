@@ -2,7 +2,7 @@
 
 # Site settings
 title: Emily Vernon
-description: "Guest and consumer experience (CX) consultant in Amsterdam"
+# description: "Guest and consumer experience (CX) consultant in Amsterdam"
 analytics: "UA-44815610-1"
 baseurl: "" #important: start with /
 url: "http://emilyvernon.com"

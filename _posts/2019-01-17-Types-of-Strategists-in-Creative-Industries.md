@@ -2,6 +2,10 @@
 title: Types of Strategist in Creative Industries
 category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/48982137212_08bb0b69a1_b.jpg"
+further_reading:
+    - The Real Top Ten Qualities of All Strategists
+    - Difference Between Creative and Brand Strategy
+    - What is a Creative Strategist?
 ---
 
 **It’s confusing, all of these strategist positions that appeared over the last decade. When starting a creative project, whether marketing or retail, it feels like you need a strategist. But which one(s)? Let’s look into what some of these roles are and how they begin to cross-over.** 

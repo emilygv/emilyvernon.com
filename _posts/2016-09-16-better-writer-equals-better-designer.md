@@ -2,6 +2,10 @@
 title: Better Writer Equals Better Designer
 category: Content creation
 image: "http://farm6.staticflickr.com/5680/30835658895_5e80f972e4_b.jpg"
+further_reading:
+    - Why Designers Should Reconsider Storytelling
+    - Storytelling 101, The Story 
+    - Storytelling 101, The Telling
 ---
 
 **"If choosing between two equally qualified designers," one recruiter once said "I always went with the better writer." For the word Olympians, bask in this good fortune. For everyone else, your starting line is here. Sacrificing 30 minutes from YouTube or Netflix for writing rings in benefits for your design sensibilities.**

@@ -2,13 +2,17 @@
 title: What is a Creative Strategist?
 category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/48748120172_803f7633bd_b.jpg"
+further_reading:
+    - Difference Between Creative and Brand Strategy
+    - Types of Strategist in Creative Industries
+    - The Real Top Ten Qualities of All Strategists
 ---
 
 **Creative strategy is used across multiple industries, whether adverting, marketing or physical environments. But as job descriptions and requirements for each differ, it can be difficult to understand what unites these varying types of creative strategist. We’ll look at the underlying commonalities of creative strategists and how they differ according to industry.** 
 
-Creative strategists are everywhere, from in-house to agency-side, and across all industries. They work within media, advertising, UX, CX, physical experiences and basically any area that a consumer sees or interacts with. Each of these requires speciality knowledge and industry know-how. The latter ensures concepts are relevant or ground-breaking, when needed. However it is important creative strategists also have a wider understanding of consumers, as to optimise their specific channel versus another in the consumer’s journey.
+Creative strategists are everywhere, from in-house to agency-side, and across all industries. They work within media, advertising, UX, CX, physical experiences and basically any area that a consumer sees or interacts with. Each of these requires specialty knowledge and industry know-how. The latter ensures concepts are relevant or ground-breaking, when needed. However it is important creative strategists also have a wider understanding of consumers, as to optimise their specific channel versus another in the consumer’s journey.
 
-I work within a pretty specific corner of creative strategy, which is creative strategy for retail and hospitality. We are responsible for creating physical experiences and environments for consumers that answer specific KPIs in a way that is unique to the brand. Many times we are looking at everything from design language to communication hierarchy in such spaces. Though this differs from the origins of creative strategy, it still involves similar approaches, knowledge and skillset.
+I work within a pretty specific corner of creative strategy, which is creative strategy for retail and hospitality. We are responsible for creating physical experiences and environments for consumers that answer specific KPIs in a way that is unique to the brand. Many times we are looking at everything from design language to communication hierarchy in such spaces. Though this differs from the origins of creative strategy, it still involves similar approaches, knowledge and skill set.
 
 The easiest place to start with understanding creative strategy is the name. Creative strategists work with creative concept and people. This is with the goal to form meaningful consumer experience whether through ads, copy, digital interactions or physical spaces that support greater business initiatives. As they work between brand vision and consumer needs, creative strategists across all fields need to understand both. For this reason, many creative strategist come from creative backgrounds whether design or art direction. 
 
