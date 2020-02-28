@@ -2,6 +2,10 @@
 title: The Moral Struggle with your Career Contributing to Consumerism
 category: Creative process
 image: "http://farm5.staticflickr.com/4644/27679997089_32f86bd893_b.jpg"
+further_reading:
+    - How a Minimalist Lifestyle Made Me a Better Designer
+    - Maybe You Need an Inspiration Purge
+    - Reclaiming Your Design Identity
 ---
 **When you research and design an actual product for mass production, the proximity heightens your awareness. ‘What am I doing’ or ‘What am I contributing to’ taunts you every so often. When comparing lifestyle beliefs with the real world outcomes of your daily work, sometimes it doesn’t line up. For many, including myself, it influenced my next career direction as I weighed my moral beliefs against my contributions to the creative and consuming communities.** 
 

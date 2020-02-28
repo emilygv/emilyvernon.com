@@ -2,6 +2,10 @@
 title: For Anyone (and I mean anyone) Who Wants to Try a Hackathon
 category: Other
 image: "http://farm1.staticflickr.com/274/31664906141_330f38af68_b.jpg"
+further_reading:
+    - My Proven Hacks to Starting Side Projects
+    - Challenging Ourselves Through More Adventurous Travel
+    - Reclaiming Your Design Identity
 ---
 **Hack…a…thon. Yes, you read that correctly - nothing in there suggests either footwear design or trend analysis. I ended up in this project development tech event to learn more about the industry through active participation. Though I enjoy the comforts of understanding a process or its people, my decision to go against my securities supplied irreplaceable lessons over my abilities and their flexibility.** 
 

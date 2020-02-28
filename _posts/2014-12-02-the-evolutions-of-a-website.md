@@ -1,8 +1,11 @@
 ---
-
 title: The Evolutions of a Website
 category: Creative process
 image: "http://farm9.staticflickr.com/8578/15746879749_daf9f4f92a_b.jpg"
+further_reading:
+    - For Anyone (and I mean anyone) Who Wants to Try a Hackathon
+    - Better Writer Equals Better Designer
+    - The Real Reasons I Blog
 ---
 
 **Since 2007 I had a website. The first version made during my middle years at art school mainly ended up as link for potential jobs or internships. My second one two years later still coded from scratch. From the versions in 2007, 2009, 2013 and now 2014, my website's focus and platform changed as my priorities evolved and web technologies such as Jekyll and Github became more popular.**

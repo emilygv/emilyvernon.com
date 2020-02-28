@@ -5,6 +5,7 @@ image: "http://farm66.staticflickr.com/65535/49388411181_de252eaa9c_b.jpg"
 further_reading:
     - Freeing Effects of Travel on Creativity
     - What Travel Does for a Designer's Mind
+    - Sailing Made Me a Better Person in the Workplace
 ---
 
 **Over the years, my method for travelling shifted from big city cultural excursions to out-of-the-way adventures. This made me wonder - are others also reconsidering how they travel? Over the last decade, travellers of all ages became more adventurous, looking for epic versus expected. If you’re already considering hikes over beach relaxation, your up-and-coming travel could become increasingly more unconventional.**

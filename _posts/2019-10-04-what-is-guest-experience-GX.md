@@ -4,6 +4,8 @@ category: Customer Experience (CX)
 image: "https://source.unsplash.com/-D09rH5sTw4/800x430"
 further_reading:
     - What is Customer Experience (CX)?
+    - Customer Persona Fundamentals
+    - Customer Journey Mapping Overview
 ---
 
 **The hotel sector is more competitive than ever. Boutique hotels, Airbnb, new technologies, local culture obsessions and much, much more raised guest expectations. Guests are able to book anything, anywhere across every price range. This means hotels need to differentiate and delight in order to survive. Running a hotel or hotel chain is complex. By focusing on the guest experience (GX), hotels can solve current issues while innovating within their industry.**

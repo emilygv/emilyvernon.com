@@ -4,6 +4,7 @@ category: Customer Experience (CX)
 image: "https://source.unsplash.com/bjemWZcNF34/800x430"
 further_reading:
     - Customer Persona Fundamentals
+    - What is Customer Experience (CX)?
     - What does a Customer Experience (CX) Consultant Do?
 ---
 

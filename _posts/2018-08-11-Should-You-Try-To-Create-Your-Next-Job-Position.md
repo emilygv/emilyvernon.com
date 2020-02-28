@@ -2,6 +2,10 @@
 title: Should You Try to Create Your Next Job Position?
 category: Career development
 image: "http://farm66.staticflickr.com/65535/48747889796_4a13c06eb0_b.jpg"
+further_reading:
+    - Journaling to Ease Job Transitions
+    - Should I Have a Female Role Model?
+    - 2008 Graduates - Not Your Typical Millennials
 ---
 **Numerous times bosses said to me, ‘This is a place where you determine your next job’ or ‘You can create your next job’. After attempting to create my next position at a number of companies, I questioned the reality of these statement. Creating your next opportunity is difficult, very difficult. But as it depends on numerous external factors, your efforts might lead to something unexpected somewhere else.**
 

@@ -3,6 +3,8 @@ title: Why Brands Use Creative Agencies or Consultants
 category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/48749292631_a66fb9b469_b.jpg"
 further_reading:
+    - Types of Strategist in Creative Industries
+    - Difference Between Creative and Brand Strategy
     - What does a Customer Experience (CX) Consultant Do?
 ---
 

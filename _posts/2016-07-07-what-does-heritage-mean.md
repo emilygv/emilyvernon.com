@@ -2,6 +2,10 @@
 title: What Does Heritage Mean?
 category: Brand strategy
 image: "http://farm6.staticflickr.com/5567/30435018915_a489d0eddb_b.jpg"
+further_reading:
+    - What Does Heritage Mean?
+    - Trend Versus Opportunity
+    - Today’s Misconceptions Around Luxury
 ---
 
 **Heritage. If you work within the greater fashion industry, whether its footwear, apparel or marketing, someone mentioned the word heritage. You probably tried it on for size, mixing it with terms like authentic, classic or established. But perhaps something just didn’t feel right. Before throwing around the h-word again in a product’s or campaign’s defense, let’s clarify what heritage actually means in the world of fashion.**

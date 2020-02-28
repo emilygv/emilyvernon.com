@@ -2,6 +2,10 @@
 title: Journaling to Ease Job Transitions
 category: Career development
 image: "http://farm8.staticflickr.com/7892/46672488634_d97b2c6609_b.jpg"
+further_reading:
+    - Priorities to Survive the First Months of a New Job
+    - Should You Try to Create Your Next Job Position?
+    - Is There Life After Leaving a Large Brand?
 ---
 **Changing jobs is challenging for everyone. Whatever the situation, your expectations and perceptions of work and life shift. Yes, the element of ‘change’ can range from moving countries to joining a past employer, but conflicting emotions always arise. Many times our first impressions and thoughts fall away over time. However, these can be your most valuable asset for personal development, as well as the development of others.**
 

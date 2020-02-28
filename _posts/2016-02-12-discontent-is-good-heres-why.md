@@ -1,8 +1,11 @@
 ---
-
 title: Discontent is Good for Creatives, and Here's Why
 category: Creative process
 image: "http://farm2.staticflickr.com/1648/25586731542_79955b7b5a_b.jpg"
+further_reading:
+    - Reclaiming Your Design Identity
+    - What Travel Does for a Designer's Mind
+    - The Importance of Side Projects
 ---
 **To be human is to be discontent. On our shelves stand an army of books aiming to extricate this through gaining happiness. Exercises and poetic quotes around the elusive topic inspire as we read. But these fade in the face of reality. Where is the disconnect? Happiness, especially around your career or personal development, needs to be earned and internalised. One way is through discontent, or that feeling of dissatisfaction around your circumstances. Taking the journey through it will reveal your true priorities while clearing the path for new endeavors.** 
 

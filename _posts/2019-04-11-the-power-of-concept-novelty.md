@@ -2,6 +2,10 @@
 title: The Power of Concept Novelty
 category: Brand strategy
 image: "http://farm66.staticflickr.com/65535/49333527686_c109242a42_b.jpg"
+further_reading:
+    - Storytelling 101, The Story
+    - Storytelling 101, The Telling
+    - Better Writer Equals Better Designer
 ---
 
 **If you’ve ever had the feeling we are recycling concepts over-and-over, trust me, you’re not the only one. Creating something that has never been done before is not easy in any industry, whether you are in consumer goods or streetwear. But with tough stakeholders and even more discerning audiences, it’s about creating concept novelty to excite individuals around elaborate, innovative or even recycled ideas.** 

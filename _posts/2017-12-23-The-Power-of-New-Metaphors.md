@@ -2,6 +2,10 @@
 title: The Power of New Metaphors
 category: Content creation
 image: "https://source.unsplash.com/JYBBcCbRaFc/800x430"
+further_reading:
+    - Storytelling 101, The Story
+    - Why Designers Should Reconsider Storytelling 
+    - Better Writer Equals Better Designer
 ---
 **Your life is one long metaphor sprinkled with more mini metaphors. There’s no escape. Whether describing how you ‘ran errands’, climb ‘the corporate ladder’, learn to ‘play by ear’ or believe your ‘life is going nowhere’, you are using metaphors. However, we grow up with such culturally agreed up terms that they slide in and out of conversations with no regard. And they are more than words. Metaphors are sensorial storytellers with a subconscious punch. Let’s investigate these little guys further to see what possibilities lie beneath.** 
 

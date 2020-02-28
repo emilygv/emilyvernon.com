@@ -2,6 +2,10 @@
 title: Today’s Misconceptions Around Luxury
 category: Brand strategy
 image: "https://source.unsplash.com/SsBI9pweAeA/800x430"
+further_reading:
+    - Trend Versus Opportunity
+    - What Does Heritage Mean?
+    - The Future is Not Your Heritage, Sorry
 ---
 
 **Luxury is becoming even more ubiquitous and attainable than ever. At every turn, it seems like there is a new ‘luxury’ brand or product. This can cloud consumers' understanding of luxury brands. Heck, it is already difficult to determine a luxury versus a premium brand today. These are the five misconceptions confusing consumers and professionals alike.** 

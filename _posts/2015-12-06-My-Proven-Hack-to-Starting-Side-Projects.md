@@ -1,8 +1,11 @@
 ---
-
 title: My Proven Hacks to Starting Side Projects
 category: Creative process
 image: "http://farm6.staticflickr.com/5696/23672594206_b128c8b61e_b.jpg"
+further_reading:
+    - The Importance of Side Projects
+    - Discontent is Good for Creatives, and Here's Why
+    - Maybe You Need an Inspiration Purge
 ---
 **Starting a side project can feel like growing a new limb for the first time and expecting perfection. Before even buying the pen to put onto paper, your unborn side project already cultivates concerns over the permanent mark it will leave on your life. This is how I used to feel starting my side projects. A galloping fear that went on for way too long. A healthy mix of age and experience demonstrated that best way to start any side project was to simply... chill out.**
 

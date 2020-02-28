@@ -2,6 +2,10 @@
 title: A ‘Career Ladder’ Seem Pretty Damn Dated
 category: Career development
 image: "https://source.unsplash.com/NDz_JwHHvXA/800x430"
+further_reading:
+    - Should You Try to Create Your Next Job Position?
+    - Should I Have a Female Role Model?
+    - 2008 Graduates - Not Your Typical Millennials
 ---
 **Terminology to define careers falls under a metaphoric family that does not describe today’s scene. We typically relate careers to a path, trajectory or ladder that suggests predefined, linear directions where up is the only way. Whether a Millennial or Baby Boomer, we find many around us are looking beyond conquering the top toward other lifestyle-driven goals. Let’s demystify what a career is these days and what the new metaphor is for professional progression.**
 

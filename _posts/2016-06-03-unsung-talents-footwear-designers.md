@@ -2,6 +2,10 @@
 title: The Unsung Talents of Footwear Designers
 category: Creative process
 image: "http://farm6.staticflickr.com/5798/30295646342_150a7eb648_b.jpg"
+further_reading:
+    - Establishing a Collective Trend Process
+    - Trend Versus Opportunity
+    - Types of Strategist in Creative Industries
 ---
 
 **“You’re the first footwear designer I’ve ever met” is a typical response. Introductions around my profession confronts me with how small our population really is. The remark resonates with flattery, but also misfortune. Footwear designers get so easily thrown into the niche job category along with floral stylist and gallery curator. However, we prevail as the best kept secret with some of the most multidisciplinary and versatile designers in the creative field.**

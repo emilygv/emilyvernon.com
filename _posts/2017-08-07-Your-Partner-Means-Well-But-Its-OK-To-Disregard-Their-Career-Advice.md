@@ -2,6 +2,10 @@
 title: Your Partner Means Well, But It’s OK To Disregard Their Career Advice
 category: Career development
 image: "http://farm5.staticflickr.com/4591/38578661635_bb1740755d_b.jpg"
+further_reading:
+    - Should You Try to Create Your Next Job Position?
+    - Is There Life After Leaving a Large Brand?
+    - Working Abroad Changed My Entire Perspective
 ---
 **I’ve been dating my boyfriend for four years - sorry all you interested internet people out there. A relationship can contribute both helpful and misleading influences. Those misleading influences are subtle and many times difficult to observe, as your partner in a health relationship, of course, does not intent to cause issues. I’ve observed some of these in myself and realised how to control those influences to make choices for myself, not someone else.**
 

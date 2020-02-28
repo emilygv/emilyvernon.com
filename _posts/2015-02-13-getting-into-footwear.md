@@ -1,8 +1,11 @@
 ---
-
 title: Getting into Footwear
 category: Other
 image: "http://farm9.staticflickr.com/8668/16335717427_f7cd5a4224_b.jpg"
+further_reading:
+    - The Sneaker Industry Miss and Don't Miss List
+    - Parts of a Sneaker
+    - Three Types of Materials in Sneaker Design and Footwear
 ---
 
 **After the statement, “Oh, you’re the first footwear designer I’ve met,” I usually receive the inquiry, "How did you get into that?" It’s a fair question. The footwear, or more specifically, sneaker industry only spans three major companies followed by numerous medium to small enterprises. My storyline is neither linear nor unheard. Many went off-course from other focuses or professions landing in a small “catch-all” - but not in the typical sense – of the sneaker industry. In my case it was not completely intentional, but somehow made sense considering my array of enthusiasms.**

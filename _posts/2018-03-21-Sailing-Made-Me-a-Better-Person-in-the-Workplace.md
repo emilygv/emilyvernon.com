@@ -2,6 +2,10 @@
 title: Sailing Made Me a Better Person in the Workplace
 category: Career development
 image: "https://source.unsplash.com/0nKRq0IknHw/800x430"
+further_reading:
+    - Challenging Ourselves Through More Adventurous Travel
+    - How a Minimalist Lifestyle Made Me a Better Designer
+    - Freeing Effects of Travel on Creativity
 ---
 **When I learned to sail, my expectations included perfecting techniques and staying alive. Little did I know that sailing is more than playing with sails, complaining about wind and being splashed by water. It’s an entire lifestyle that includes a community, mindset and refreshing perspective that any office employee would benefit from.**
 
