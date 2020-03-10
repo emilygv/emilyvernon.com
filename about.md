@@ -7,7 +7,7 @@ hero_text: <span class="highlight">Designer to strategist</span>, LA to Amsterda
 # hero_image: /assets/img/about.png
 # hero_bgcolor: "#d4e8d5"
 ---
-## Hi there :)
+## Nice to e-meet you :)
 
 <div class="story" markdown="1">
 I am originally from Los Angeles, but <a href="/insights/working-abroad-changed-my-entire-perspective" alt="Working Abroad Changed My Entire Perspective" title="Working Abroad Changed My Entire Perspective">lived and worked in Amsterdam</a> for the past nine years. 
@@ -16,7 +16,7 @@ Currently, I <a href="/insights/what-is-a-creative-strategist" alt="What is a Cr
 
 Before becoming a strategist, I <a href="/insights/getting-into-footwear" alt="Getting into Footwear" title="Getting into Footwear">designed footwear for Converse</a> out of both the global and EMEA offices. My role evolved into leading <a href="/insights/establishing-a-collective-trend-process" alt="Establishing a Collective Trend Process" title="Establishing a Collective Trend Process">regional consumer trend and insights</a> across EMEA, Brazil and APAC, while contributing insights to Nike as well.
 
-I am happy to chat about <a href="/insights/" alt="Insights" title="Insights">articles, insights or career development</a>.
+I am happy to chat about <a href="/insights/" alt="Insights" title="Insights">articles, insights or creative process</a>.
 </div>
 
 ## Last things
