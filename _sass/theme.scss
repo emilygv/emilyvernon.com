@@ -421,10 +421,15 @@ a.button.inversed {
 
 .hero-body {
   margin: 15vh 0 13vh 0;
-  width: 64%;
+  width: 66%;
 
   @media screen and (max-width: 760px) {
     width: 90vw; 
+    margin: 7vh 0vw 12vh 0;
+  }
+
+  @media screen and (min-width: 1500px) {
+    width: 60%; 
     margin: 7vh 0vw 12vh 0;
   }
 }
