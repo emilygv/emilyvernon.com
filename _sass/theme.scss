@@ -496,12 +496,12 @@ p.descriptor-text {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 65%; 
+    width: 65%;
 
-    img {
-      max-width: 100%;
-      height: auto;
-    }
+    // img {
+    //   max-width: 100%;
+    //   height: auto;
+    // }
   }
 
   &.reverse {
