@@ -541,7 +541,11 @@ p.descriptor-text {
 
   &.blue {
     .text {
-      background: $brand-color;
+      // background: $brand-color;
+      background-color: #f4f4f4;
+      color: black;
+      margin-right: $border-standard; /*offset the shadow*/
+      box-shadow: $border-standard $border-standard $brand-color;
     }
     .button a:hover {
       color: $brand-color;
