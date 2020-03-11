@@ -23,6 +23,9 @@ Read:
 - https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 - `git clone git@github.com:emilygv/emilyvernon.com.git`
 
+### Call file on desktop
+- `cd Users/TarasTest/Documents/emilyvernon.com`
+
 ### Check status of local code
 - `git status`
 
