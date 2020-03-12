@@ -946,6 +946,7 @@ a {
     max-height: 0;
     margin: 0;
     transition: max-height .2s ease-out;
+    @include rfs(19);
   }
   
   .menu-icon {

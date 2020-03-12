@@ -49,10 +49,11 @@ cards:
 rows:
   - type: image_text_row
     style: blue
-    image_width: 50%
+    image_width: 45%
     text_width: 40%
     image: /assets/img/emily_illustration.png
-    h2: Hello again :) I am originally from Los Angeles, but worked in Amsterdam for the past nine years. 
+    h1: Hello again :) 
+    h2: I am originally from Los Angeles, but worked in Amsterdam for the past nine years. 
     text: |-
       Currently, I work as a Senior Creative Strategist for UXUS (a FutureBrand company) transforming brands by increasing consumer engagement and brand perception within retail and hospitality spaces, IRL. Over the last three years, my specialties included hotel design strategy and guest experience. 
       
