@@ -85,6 +85,7 @@ exclude:
   - Gemfile.lock
   - node_modules
   - tmp
+  - .vscode
 
 social:
   - title: linkedin

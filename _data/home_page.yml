@@ -1,30 +1,29 @@
 rows:
-    -
-        type: image_text_row
-        style: pink
-        image: /assets/img/customer_illustration.png
-        image_width: 60%
-        text_width: 30%
-        h1: Get ahead
-        h2: Before they go elsewhere.
-        button_text: Here's how
-        button_url: /services
-    -
-        type: image_text_row
-        style: blue reverse
-        image_width: 60%
-        text_width: 30%
-        image: /assets/img/experiences_illustration.png
-        h2: The benchmark of creative-centric brands is changing
-        text: Hotels, retail and all brands IRL need to constantly engage and delight their future audiences to increase fanfare, loyalty and sales.
-    -
-        type: image_text_row
-        style: pink
-        image_width: 50%
-        text_width: 40%
-        image: /assets/img/working_illustration.png
-        h1: Hi there - I'm Emily
-        h2: Future-proofing brands & businesses through customer experience (CX).
-        text: I’m a guest and customer experience designer and strategist with a background in brand strategy and sneaker design. My goal is to bring creativity and clarity to customer experience.
-        button_text: Find out more
-        button_url: /about
+  - type: image_text_row
+    style: pink
+    image: /assets/img/customer_illustration.png
+    image_width: 60%
+    text_width: 30%
+    h1: Get ahead
+    h2: Before they go elsewhere.
+    button_text: Here's how
+    button_url: /services
+
+  - type: image_text_row
+    style: blue reverse
+    image_width: 60%
+    text_width: 30%
+    image: /assets/img/experiences_illustration.png
+    h2: The benchmark of creative-centric brands is changing
+    text: Hotels, retail and all brands IRL need to constantly engage and delight their future audiences to increase fanfare, loyalty and sales.
+
+  - type: image_text_row
+    style: pink
+    image_width: 50%
+    text_width: 40%
+    image: /assets/img/working_illustration.png
+    h1: Hi there - I'm Emily
+    h2: Future-proofing brands & businesses through customer experience (CX).
+    text: I’m a guest and customer experience designer and strategist with a background in brand strategy and sneaker design. My goal is to bring creativity and clarity to customer experience.
+    button_text: Find out more
+    button_url: /about
