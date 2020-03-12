@@ -214,7 +214,7 @@ header nav {
   // text-align: right;
 
   a {
-    @include rfs(18);
+    @include rfs(20);
     font-family: $second-font-family;
     text-transform: uppercase;
     font-style: italic;
@@ -354,7 +354,7 @@ header nav {
 /* buttons */
 
 .button-container {
-  @include rfs(22);
+  @include rfs(24);
   font-family: $second-font-family;
   font-weight: 700;
   text-align: right;
@@ -450,41 +450,51 @@ a.button.inversed {
     padding: 3vh 0;
 
     .emphasis-text {
-      @include rfs(40); 
+      @include rfs(44); 
       font-weight: 700; 
       font-style: italic;
       font-family: $second-font-family;
-      padding: 3vh 5vw 1vh 5vw;
+      padding: 3vh 4vw 0vh 4vw;
       margin: 0;
+
+      @media screen and (max-width: 768px) {
+        padding: 2vh 4vw 0vh 4vw;
+      }
     }
 
     .main-text {
-      @include rfs(24); 
+      @include rfs(28); 
       font-weight: 700; 
-      line-height: 2.2rem;
+      line-height: 2.4rem;
       font-family: $second-font-family;
-      padding: 2vh 5vw 1vh 5vw;
+      padding: 1vh 4vw 0vh 4vw;
     
       @media screen and (max-width: 768px) {
         line-height: 2.4rem;
+        padding: 0vh 4vw 0vh 3vw;
       }
     }
 
     .descriptor-text {
-      @include rfs(20); 
+      @include rfs(24); 
       font-weight: 400; 
       font-family: $base-font-family;
-      line-height: 1.8rem;
-      padding: 0vh 5vw 4.5vh 5vw;
+      line-height: 2rem;
+      padding: 0vh 4vw 4.5vh 4vw;
+
+      @media screen and (max-width: 768px) {
+        padding: 0vh 4vw 3.5vh 4vw;
+      }
     }
   
     .button-container {
       float: none; 
       text-align: center;
-      margin: 3vh 2vw 2vh 2vw;
+      margin: 2vh 2vw 2vh 2vw;
 
       @media screen and (max-width: 768px) {
-        margin: 0 5vw;
+        margin: 0vh 4vw;
+        width: 90%;
       }
     }
   }
@@ -494,11 +504,6 @@ a.button.inversed {
     flex-direction: column;
     justify-content: center;
     width: 65%;
-
-    // img {
-    //   max-width: 100%;
-    //   height: auto;
-    // }
   }
 
   &.reverse {
@@ -507,7 +512,8 @@ a.button.inversed {
 
   @media screen and (max-width: 768px) {
     flex-direction: column;
-    margin-top: 5vh;
+    margin-top: 4vh;
+    margin-bottom: 6vh;
 
     .image, .text {
       min-width: 100%;
@@ -516,7 +522,7 @@ a.button.inversed {
     .text {
       display: block;
       max-width: 100%;
-      margin: 8vh 0 0 0;
+      margin: 4vh 0 0 0;
       padding: 5vh 0 5vh 0vw;
     }
 
@@ -537,16 +543,11 @@ a.button.inversed {
 
   &.blue {
     .text {
-      // background: $brand-color;
       background-color: white;
       color: black;
       margin-right: 1rem; /*offset the shadow*/
       box-shadow: 1rem 1rem $brand-color;
       border: $border-standard solid $brand-color;
-
-      // @media screen and (max-width: 768px) {
-      //   margin-right: 2vw;
-      // }
     }
 
     .button a:hover {
@@ -811,19 +812,19 @@ table {
 
 }
 
-.story {
-  font-family: $base-font-family;
-  @include rfs(20);
-  font-weight: 600;
-  max-width: 700px;
-  line-height: 1.4em;
-  letter-spacing: 0.01rem;
-  padding: 0vh 7vw 0 0;
+// .story {
+//   font-family: $base-font-family;
+//   @include rfs(20);
+//   font-weight: 600;
+//   max-width: 700px;
+//   line-height: 1.4em;
+//   letter-spacing: 0.01rem;
+//   padding: 0vh 7vw 0 0;
 
-  a {
-    color: $brand-color;
-  }
-}
+//   a {
+//     color: $brand-color;
+//   }
+// }
 
 .cards-3-columns {
   display: grid;
