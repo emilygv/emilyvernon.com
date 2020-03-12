@@ -1,0 +1,17 @@
+{% if include.posts %}
+{% assign fr_posts = include.posts %}
+<div class="further_reading content">
+  <h2>Further reading</h2>
+<ul>
+
+  {% for post in site.posts %}
+    {% for fr_title in fr_posts %}
+      {% if post.title == fr_title %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+</ul>
+</div>
+{% endif %}

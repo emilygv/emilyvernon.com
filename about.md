@@ -7,17 +7,10 @@ hero_text: <span class="highlight">Designer to strategist</span>, LA to Amsterda
 # hero_image: /assets/img/about.png
 # hero_bgcolor: "#d4e8d5"
 ---
-## Nice to e-meet you :)
 
-<div class="story" markdown="1">
-I am originally from Los Angeles, but <a href="/insights/working-abroad-changed-my-entire-perspective" alt="Working Abroad Changed My Entire Perspective" title="Working Abroad Changed My Entire Perspective">lived and worked in Amsterdam</a> for the past nine years. 
-
-Currently, I <a href="/insights/what-is-a-creative-strategist" alt="What is a Creative Strategist?" title="What is a Creative Strategist?">work as a Senior Creative Strategist</a> for UXUS (a FutureBrand company) transforming brands by increasing consumer engagement and brand perception within retail and hospitality spaces, IRL. Over the last three years, my specialties included <a href="/insights/what-is-guest-experience-gx" alt="What is Guest Experience (GX)" title="What is Guest Experience (GX)">hotel design strategy and guest experience</a>. 
-
-Before becoming a strategist, I <a href="/insights/getting-into-footwear" alt="Getting into Footwear" title="Getting into Footwear">designed footwear for Converse</a> out of both the global and EMEA offices. My role evolved into leading <a href="/insights/establishing-a-collective-trend-process" alt="Establishing a Collective Trend Process" title="Establishing a Collective Trend Process">regional consumer trend and insights</a> across EMEA, Brazil and APAC, while contributing insights to Nike as well.
-
-I am happy to chat about <a href="/insights/" alt="Insights" title="Insights">articles, insights or creative process</a>.
-</div>
+{% for row in site.data.about.rows %}
+{% include image_text_row.html content=row %}
+{% endfor %}
 
 ## Last things
 

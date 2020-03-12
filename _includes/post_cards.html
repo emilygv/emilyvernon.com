@@ -1,5 +1,5 @@
 <section class="cards container">
   {% for post in include.posts %}
-    {% include post_card.html content=post show_category=include.show_category %}
+    {% include post_card.html content=post which_category_to_show=include.show_category %}
   {% endfor %}
 </section>
