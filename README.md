@@ -12,6 +12,13 @@ https://emilyvernon.com
 - `jekyll serve --livereload`
 - `open http://127.0.0.1:4000/`
 
+Or with Docker
+
+```
+#docker run -it --rm -v "${PWD}:/site" -p "4000:4000" --name jekyll oanhnn/gh-pages $@
+docker run -it --rm -v "${PWD}:/usr/src/app" -p "4000:4000" starefossen/github-pages 
+```
+
 ## Publishing
 
 Read:

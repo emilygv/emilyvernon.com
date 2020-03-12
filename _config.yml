@@ -1,25 +1,18 @@
-### GENERAL SETTINGS ###
 
-# Site settings
 title: Emily Vernon
 # description: "Guest and consumer experience (CX) consultant in Amsterdam"
 analytics: "UA-44815610-1"
 baseurl: "" #important: start with /
 url: "http://emilyvernon.com"
 
-# Build settings
 markdown: kramdown
 permalink: /insights/:slug
+show_excerpts: true
 # excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
-
 
 lsi: false
 safe: true
-# future: true
-
 # remote_theme: chrisrhymes/bulma-clean-theme
-
-show_excerpts: true
 
 defaults:
   - scope:
@@ -45,13 +38,7 @@ defaults:
 #     permalink: /projects/:path/
 #     layout: project
 
-where: Amsterdam, Netherlands
-email: emily@emilyvernon.com
-tel: +31 6 52603180
-
 plugins:
-  - jekyll-github-metadata
-  - jekyll-optional-front-matter
   - jekyll-default-layout
   - jekyll-sitemap
   - jekyll-paginate
@@ -60,22 +47,21 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sass-converter
   - jekyll-avatar
-
-
+  # - jekyll-github-metadata
+  # - jekyll-optional-front-matter
 
 # Plugins config
-
 repository: emilygv/emilyvernon.com
 
 paginate: 12
 paginate_path: "/insights/page:num/"
 
-readme_index:
-  remove_originals: true
-  with_frontmatter: false
+# readme_index:
+#   remove_originals: true
+#   with_frontmatter: false
 
-optional_front_matter:
-  remove_originals: true
+# optional_front_matter:
+#   remove_originals: true
 
 # sass:
     # sass_dir: ./_scss
@@ -86,6 +72,11 @@ exclude:
   - node_modules
   - tmp
   - .vscode
+
+where: Amsterdam, Netherlands
+email: emily@emilyvernon.com
+tel: +31 6 52603180
+  
 
 social:
   - title: linkedin
@@ -100,26 +91,3 @@ social:
     url: https://plus.google.com/104794774790907430650
   - title: rss
     url: http://emilyvernon.com/feed.xml
-
-#
-# prose:
-#   siteurl: "http://emilyvernon.com"
-#   ignore:
-#     - /_layouts
-#     - /_includes
-#   metadata:
-#     _posts:
-#       - name: "published"
-#         field:
-#           label: "Published"
-#           element: "checkbox"
-#           value: true
-#       - name: "title"
-#         field:
-#           element: "text"
-#           label: "title"
-#       - name: "img"
-#         field:
-#           label: "Image Url"
-#           element: "text"
-#           placeholder: "Url of image, Ex: on flickr"
