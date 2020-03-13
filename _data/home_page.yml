@@ -11,7 +11,7 @@ rows:
 
   - type: image_text_row
     style: blue reverse
-    image_width: 60%
+    image_width: 57%
     text_width: 30%
     image: /assets/img/experiences_illustration.png
     h2: The benchmark of creative-centric brands is changing

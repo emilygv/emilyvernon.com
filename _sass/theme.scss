@@ -448,17 +448,18 @@ a.button.inversed {
     width: 30%;
     color: white;
     padding: 3vh 0;
-
+  
     .emphasis-text {
       @include rfs(44); 
       font-weight: 700; 
       font-style: italic;
       font-family: $second-font-family;
-      padding: 3vh 4vw 0vh 4vw;
+      padding: 3vh 4vw 1vh 4vw;
       margin: 0;
 
       @media screen and (max-width: 768px) {
-        padding: 2vh 4vw 0vh 4vw;
+        padding-bottom: 0vh;
+        @include rfs(48);
       }
     }
 
@@ -467,11 +468,12 @@ a.button.inversed {
       font-weight: 700; 
       line-height: 2.4rem;
       font-family: $second-font-family;
-      padding: 1vh 4vw 0vh 4vw;
+      padding: 3.5vh 4vw 3vh 4vw;
+      margin: 0;
     
       @media screen and (max-width: 768px) {
-        line-height: 2.4rem;
-        padding: 0vh 4vw 0vh 3vw;
+        line-height: 2.1rem;
+        padding-bottom: 2vh;
       }
     }
 
@@ -480,20 +482,21 @@ a.button.inversed {
       font-weight: 400; 
       font-family: $base-font-family;
       line-height: 2rem;
-      padding: 0vh 4vw 4.5vh 4vw;
+      padding: 0vh 4vw 3.5vh 4vw;
+      margin: 0;
 
       @media screen and (max-width: 768px) {
-        padding: 0vh 4vw 3.5vh 4vw;
+        padding-bottom: 1.5vh;
       }
     }
   
     .button-container {
       float: none; 
       text-align: center;
-      margin: 2vh 2vw 2vh 2vw;
+      margin: 2vh 2vw 3vh 2vw;
 
       @media screen and (max-width: 768px) {
-        margin: 0vh 4vw;
+        margin: 3vh 4vw 0vh 4vw;
         width: 90%;
       }
     }
@@ -508,27 +511,6 @@ a.button.inversed {
 
   &.reverse {
     flex-direction: row-reverse;
-  }
-
-  @media screen and (max-width: 768px) {
-    flex-direction: column;
-    margin-top: 4vh;
-    margin-bottom: 6vh;
-
-    .image, .text {
-      min-width: 100%;
-    }
-
-    .text {
-      display: block;
-      max-width: 100%;
-      margin: 4vh 0 0 0;
-      padding: 5vh 0 5vh 0vw;
-    }
-
-    &.reverse {
-      flex-direction: column;
-    }
   }
 
   &.pink {
@@ -552,6 +534,27 @@ a.button.inversed {
 
     .button a:hover {
       color: $brand-color;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+    margin-top: 4vh;
+    margin-bottom: 6vh;
+
+    .image, .text {
+      min-width: 100%;
+    }
+
+    .text {
+      display: block;
+      max-width: 100%;
+      margin: 4vh 0 0 0;
+      padding: 5vh 0 5vh 0vw;
+    }
+
+    &.reverse {
+      flex-direction: column;
     }
   }
 

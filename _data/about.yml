@@ -49,8 +49,8 @@ cards:
 rows:
   - type: image_text_row
     style: blue
-    image_width: 45%
-    text_width: 40%
+    image_width: 40%
+    text_width: 45%
     image: /assets/img/emily_illustration.png
     h1: Hello again :) 
     h2: I am originally from Los Angeles, but worked in Amsterdam for the past nine years. 
@@ -59,12 +59,11 @@ rows:
       
   - type: image_text_row
     style: pink reverse
-    image_width: 50%
+    image_width: 45%
     text_width: 45%
+    image: /assets/img/about_illustration.png
     h2: I believe in being brave and creative. This means challenging my perception by continuously learning.
     text: |-
       Before becoming a strategist, I designed footwear for Converse from both the global and EMEA offices. My role evolved into leading regional consumer trend and insights across EMEA, Brazil and APAC, while contributing insights to Nike as well. 
 
-      In my free time you can find me doing all sorts of side projects - like learning UI/UX or illustration. I am happy to chat about articles, insights or creative process.
-      
-    
+      In my free time you can find me doing all sorts of things - like learning UX/UI, ink painting or sailing. I am happy to chat about articles, insights or creative process.
