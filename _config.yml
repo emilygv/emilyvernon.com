@@ -1,7 +1,6 @@
 
 title: Emily Vernon
 # description: "Guest and consumer experience (CX) consultant in Amsterdam"
-analytics: "UA-44815610-1"
 baseurl: "" #important: start with /
 url: "http://emilyvernon.com"
 
@@ -77,6 +76,10 @@ where: Amsterdam, Netherlands
 email: emily@emilyvernon.com
 tel: +31 6 52603180
   
+google:
+  analytics: "UA-44815610-1"
+  site_verification: "pX_KiU17pqFQSun5Bhfv9ebFvsXRXoA5nMMG_6BeNvw"
+
 
 social:
   - title: linkedin
