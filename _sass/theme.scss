@@ -454,11 +454,11 @@ a.button.inversed {
       font-weight: 700; 
       font-style: italic;
       font-family: $second-font-family;
-      padding: 3vh 4vw 2vh 4vw;
+      padding: 3vh 4vw 1vh 4vw;
       margin: 0;
 
       @media screen and (max-width: 768px) {
-        padding-bottom: 0vh;
+        padding-top: 1.5vh;
         @include rfs(48);
       }
     }
@@ -468,12 +468,13 @@ a.button.inversed {
       font-weight: 700; 
       line-height: 2.4rem;
       font-family: $second-font-family;
-      padding: 4.5vh 4vw 5vh 4vw;
+      padding: 4.5vh 4vw 3.5vh 4vw;
       margin: 0;
     
       @media screen and (max-width: 768px) {
         line-height: 2.1rem;
-        padding-bottom: 3vh;
+        padding-bottom: 1.7vh;
+        padding-top: 3vh;
       }
     }
 
@@ -482,7 +483,7 @@ a.button.inversed {
       font-weight: 400; 
       font-family: $base-font-family;
       line-height: 2rem;
-      padding: 0vh 4vw 3.5vh 4vw;
+      padding: 0vh 4vw 3vh 4vw;
       margin: 0;
 
       @media screen and (max-width: 768px) {
