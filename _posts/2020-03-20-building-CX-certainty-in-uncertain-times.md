@@ -1,5 +1,5 @@
 ---
-title: Building a Sense of Certainty in Uncertain Times
+title: Building CX Certainty in Uncertain Times
 category: Customer Experience (CX)
 image: "https://source.unsplash.com/BuNWp1bL0nc/800x430"
 further_reading:
