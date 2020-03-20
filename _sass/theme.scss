@@ -241,8 +241,8 @@ header nav {
 .bg-black {
   background-color: $brand-color;
   color: white;
-  padding-top: 6vh;
-  padding-bottom: 7vh;
+  padding-top: 5vmin;
+  padding-bottom: 5vmin;
 
   .cards {
     display: grid;
@@ -262,6 +262,7 @@ header nav {
 
   h3 {
     font-family: $second-font-family;
+    @include rfs(26);
     font-style: italic;
     font-weight: 600;
     letter-spacing: 0.03rem;
@@ -429,8 +430,9 @@ a.button.inversed {
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
-  margin-top: 6vh;
-  margin-bottom: 12vh;
+  margin-top: 6vmin;
+  margin-bottom: 12vmin;
+  padding: 0;
 
   .text {
     display: flex;
@@ -439,7 +441,7 @@ a.button.inversed {
     height: auto;
     width: 30%;
     color: white;
-    padding: 3vh 0;
+    padding: 3vmin 0;
   
     .emphasis-text {
       @include rfs(44); 
@@ -486,10 +488,10 @@ a.button.inversed {
     .button-container {
       float: none; 
       text-align: center;
-      margin: 3vh 2vw 3vh 2vw;
+      margin: 3vmin 2vmin 3vmin 2vmin;
 
       @media screen and (max-width: 768px) {
-        margin: 3vh 4vw 0vh 4vw;
+        margin: 3vmin 4vmin 0vmin 4vmin;
         width: 90%;
       }
     }
@@ -850,12 +852,12 @@ table {
 } 
 
 .clients {
-  padding: 8vh 4vw 8vh 4vw;
+  padding: 6vmin 4vmin 6vmin 4vmin;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   align-items: center;
   grid-column-gap: 1.5rem;
-  grid-row-gap: 3rem;
+  grid-row-gap: 3.5rem;
   margin-right: 1rem; /*offset the shadow*/
   box-shadow: 1rem 1rem $brand-color;
   border: $border-standard solid $brand-color;
@@ -873,7 +875,7 @@ table {
 .header-top {
   background-color: $brand-color;
   padding-bottom: 0;
-  padding-top: 4vh;
+  padding-top: 3vmin;
 }
 
 a {

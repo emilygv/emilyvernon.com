@@ -24,6 +24,7 @@
 
 <header class="header-top">
   <div class="container">
+
     <div class="navbar">
       <a class="site-title" rel="home" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       <input class="menu-btn" type="checkbox" id="menu-btn" />
@@ -37,35 +38,38 @@
 
   {% if page.hero_text or page.hero_image %}
     <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}">
-      {{ page.hero_text }}
-  </section>
+       <p>{{ page.hero_text }}</p>
+    </section>
 
-  {% else %}
-  {% endif %}
+    {% else %}
+    {% endif %}
 
   </div>
 </header>
 
 <main> 
 
-  {{ content }}
+    {{ content }}
 
 </main>
 
 <footer class="bg-black">
   <div class="container">
+
     <div class="cards">
+
       <div class="site-navigation-bottom">
         <h3>Go on, keep exploring</h3>
         {% for nav in site.data.navigation %}
         <a href="{{ nav.url }}">{{ nav.title }}</a>
         {% endfor %}
       </div>
+
       <div class="social">
         <h3>Staying social</h3>
-{% for sl in site.data.about.social %}
-  <a href="{{ sl.link }}" target="_blank"><i class="{{ sl.icon }}"></i></a>
-{% endfor %}
+        {% for sl in site.data.about.social %}
+          <a href="{{ sl.link }}" target="_blank"><i class="{{ sl.icon }}"></i></a>
+        {% endfor %}
        
         <p class="copyright">&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.
           Made with <i class="fas fa-heart"></i>in {{ site.data.about.loved_city }}.
@@ -73,7 +77,8 @@
       </div>
       
     </div>
-</div>
+  
+  </div>
 </footer>
 
 </body>
