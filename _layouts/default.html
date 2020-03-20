@@ -22,9 +22,8 @@
 </head>
 <body>
 
-<header class="header-top container contain">
-
-    <!-- {% include hero.html %} -->
+<header class="header-top">
+  <div class="container">
     <div class="navbar">
       <a class="site-title" rel="home" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       <input class="menu-btn" type="checkbox" id="menu-btn" />
@@ -37,30 +36,17 @@
     </div>
 
   {% if page.hero_text or page.hero_image %}
-  <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}" style="
-  {% if page.hero_image %} background-image: url('{{ page.hero_image }}');{% endif %}
-  {% if page.hero_bgcolor %} background-color: {{ page.hero_bgcolor }};{% endif %}
-  " >
-
-    <div class="hero-body">
-        <!-- <div class="container"> -->
-          <p>{{ page.hero_text }}</p>
-            <!-- <p class="title is-2">{{ page.title }}</p>
-            <p class="subtitle is-3">{{ page.subtitle }}</p>            
-            {% if page.hero_link %}
-                <a href="{{ page.hero_link | prepend: site.baseurl  }}" class="button is-info is-large">{{ page.hero_link_text }}</a>
-            {% endif %} -->
-        <!-- </div> -->
-    </div>
+    <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}">
+      {{ page.hero_text }}
   </section>
 
-{% else %}
+  {% else %}
+  {% endif %}
 
-{% endif %}
+  </div>
 </header>
 
 <main> 
-<!-- Changed main to start here, not in header -->
 
   {{ content }}
 

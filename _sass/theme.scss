@@ -67,8 +67,8 @@ html {
 }
 
 body {
-  margin: 0;
   padding: 0;
+  margin: 0;
   font-family: $base-font-family;
   color: $text-color;
   background-color: $background-color;
@@ -85,7 +85,7 @@ body {
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
   padding-bottom: 60px;
-  border-top: 1px solid $grey-color-light;
+  // border-top: 1px solid $grey-color-light;
 }
 
 img {
@@ -315,6 +315,8 @@ header nav {
 }
 
 .container {
+  max-width: 1400px;
+  margin: auto;
   padding-right: 5vw;
   padding-left: 5vw;
 
@@ -325,31 +327,11 @@ header nav {
     @include rfs(18);
   }
 
-  @media screen and (min-width: 1550px) {
-      padding-left: 15vw;
-      padding-right: 15vw;
-  } 
+  // @media screen and (min-width: 1550px) {
+  //     padding-left: 15vw;
+  //     padding-right: 15vw;
+  // } 
 }
-
-// @media screen and (min-width: 768px) {
-//   .container {
-//     padding: 0;
-//     margin: 0;
-//     // padding-right: 10px;
-//     // padding-left: 10px;
-//     }
-// }
-
-// @media screen and (min-width: 980px) {
-//   .container {
-//     padding-left: 50px;
-//     padding-right: 50px;
-//         // max-width: 90vw;
-//         // text-align: center;
-//         // margin: 0 auto;
-//         // padding: 0 auto;
-//     }
-// }
 
 /* buttons */
 
@@ -406,29 +388,39 @@ a.button.inversed {
   font-family: $second-font-family;
   font-weight: 700;
   @include rfs(55);
-  margin: 0;
   letter-spacing: 0.07rem;
+  padding: 7vh 0 10vh 0;
+  width: 67%;
 
   .highlight {
     color: $brand-color;
     background: white;
     padding: 0rem 0.5rem 0rem 0.5rem;
   }
-}
 
-.hero-body {
-  margin: 15vh 0 13vh 0;
-  width: 66%;
-
-  @media screen and (max-width: 760px) {
-    width: 90vw; 
+  @media screen and (max-width: 730px) {
+    width: 90%; 
     margin: 5vh 0vw 10vh 0;
   }
 
-  @media screen and (min-width: 1500px) {
-    width: 60%;
+  @media screen and (min-width: 1400px) {
+    width: 60%; 
   }
+
 }
+
+// .hero-body {
+//   margin: 15vh 0 13vh 0;
+//   width: 66%;
+
+//   @media screen and (max-width: 760px) {
+//     width: 90vw; 
+//     margin: 5vh 0vw 10vh 0;
+//   }
+
+  // @media screen and (min-width: 1200px) {
+  //   width: 50%;
+  // }
 
 /* home page statements & illustrations */
 
@@ -617,7 +609,8 @@ a.button.inversed {
 /* for posts */
 
 .category-nav {
-  margin: 3vh 0 3vh 0;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
   line-height: 1.7;
   font-family: $second-font-family;
   /* top navigation bar */
@@ -738,7 +731,7 @@ table {
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   grid-column-gap: 30px;
   grid-row-gap: 15px;
 
@@ -770,7 +763,9 @@ table {
 }
 
 .further_reading {
-  margin: 6vh calc(6vw - 1rem); /*offset the shadow*/
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  margin-right: calc(6vw - 1rem); /*offset the shadow*/
   padding: 2vh 3vw;
   max-width: 500px;
   box-shadow: 1rem 1rem $brand-color;
