@@ -390,7 +390,7 @@ a.button.inversed {
   font-weight: 700;
   @include rfs(55);
   letter-spacing: 0.07rem;
-  padding: 7vh 0 10vh 0;
+  padding: 5vmin 0 10vmin 0;
   width: 67%;
 
   .highlight {
@@ -401,7 +401,7 @@ a.button.inversed {
 
   @media screen and (max-width: 730px) {
     width: 90%; 
-    margin: 5vh 0vw 10vh 0;
+    // padding: 5vh 0vw 10vh 0;
   }
 
   @media screen and (min-width: 1400px) {
@@ -765,8 +765,8 @@ table {
 }
 
 .further_reading {
-  margin-top: 5vh;
-  margin-bottom: 5vh;
+  margin-top: 4vh;
+  margin-bottom: 3vh;
   margin-right: calc(6vw - 1rem); /*offset the shadow*/
   padding: 2vh 3vw;
   max-width: 500px;
@@ -875,7 +875,11 @@ table {
 .header-top {
   background-color: $brand-color;
   padding-bottom: 0;
-  padding-top: 3vmin;
+  padding-top: 4vmin;
+
+  @include media-query($on-palm) {
+  padding-top: 7vmin;
+  }
 }
 
 a {

@@ -2,20 +2,23 @@
 {% assign fr_posts = include.posts %}
 
 <div class="container">
-<div class="further_reading content">
-  <h2>Further reading</h2>
-<ul>
+  <div class="further_reading content">
 
-  {% for post in site.posts %}
-    {% for fr_title in fr_posts %}
-      {% if post.title == fr_title %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
+    <h2>Further reading</h2>
+    
+  <ul>
+
+    {% for post in site.posts %}
+      {% for fr_title in fr_posts %}
+        {% if post.title == fr_title %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
-  {% endfor %}
 
-</ul>
-</div>
+  </ul>
+
+  </div>
 </div>
 
 {% endif %}
