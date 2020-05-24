@@ -17,7 +17,7 @@ further_reading:
 
 Before going into any ideas, let’s level set on an important fact - **as a designer, you do strategy in one form or another.** In order to create any design, whether it’s in the physical or digital world, a designer must consider multiple factors. These include brand strategy, visual identities, customer or user preferences, industry standards, expectation drivers, experience benchmarks, executional possibilities etc. **Designing is solving a problem, whether it is functional, aesthetic or both.** 
 
-The following suggestions are meant to amplify and solidify the strategy you already do, as well as provide further options. As a designer, you might be in a multi-functional team with a strategist, UX designer, marketeer, customer/user insights expert - or not. Different industries have different configurations or norms. Hopefully there is something within the variety of ideas that works for your specific scenario.
+**The following suggestions are meant to amplify and solidify the strategy you already do, as well as provide further options.** As a designer, you might be in a multi-functional team with a strategist, UX designer, marketeer, customer/user insights expert - or not. Different industries have different configurations or norms. Hopefully there is something within the variety of ideas that works for your specific scenario.
 
 ## Develop Tools to Inform Your Audience
 
