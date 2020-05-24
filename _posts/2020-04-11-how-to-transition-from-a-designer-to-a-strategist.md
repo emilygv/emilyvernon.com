@@ -6,9 +6,10 @@ further_reading:
     - The Real Top Ten Qualities of All Strategists
     - Better Writer Equals Better Designer
     - Why Designers Should Reconsider Storytelling
+    
 ---
 
-**Over three years ago, I transitioned from a designer to a strategist. Working within the more executional area of design informs my thought process today. I know which concepts are executional, and how to communicate these to different audiences. However, the transition can be a challenge. This is why I wanted to offer some advice for stepping into a strategy role, or using strategy more within your design process. ** 
+**Over three years ago, I transitioned from a designer to a strategist. Working within the more executional area of design informs my thought process today. I know which concepts are executional, and how to communicate these to different audiences. However, the transition can be a challenge. This is why I wanted to offer some advice for stepping into a strategy role, or using strategy more within your design process.** 
 
 **What we'll cover:**
 * TOC
