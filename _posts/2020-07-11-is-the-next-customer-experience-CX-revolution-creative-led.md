@@ -49,4 +49,4 @@ An industry around design thinking commercialised parts of the creative process 
 - Shifts in customer needs and culture at large signals toward greater creative engagement
 - Creativity is valued by companies, but many do not know how to obtain it
 - Creative agencies or individuals can be the change agents necessary
-- With our world upended from a customer and business perspective, this is the time to increase creative initatives
+- With our norms upended, this is the time to increase creative initatives
