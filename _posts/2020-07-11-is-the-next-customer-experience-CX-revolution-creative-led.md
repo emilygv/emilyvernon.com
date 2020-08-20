@@ -1,7 +1,7 @@
 ---
 title: Is the Next Customer Experience (CX) Revolution Creative-Led?
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/88s0zVMLSqc/800x430"
+image: "https://source.unsplash.com/RTnDfYr1G6U/800x430"
 further_reading:
     - Why Brands Use Creative Agencies or Consultants
     - What is Customer Experience (CX)?
