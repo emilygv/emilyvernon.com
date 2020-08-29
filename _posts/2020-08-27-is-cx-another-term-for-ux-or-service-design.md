@@ -50,7 +50,7 @@ Service design is concerned with how a service is orchestrated and executed. **M
 ## Let’s summarise
 
 - Many times these disciplines get confused as they are all ultimately people-centric
-- CX considers the entire end-to-end journey for a customer, and its implication on business operations
+- CX considers the entire end-to-end journey, and its implication on business operations
 - UX considers the digital interactions users have with a singular product or service
 - Service Design (SD) can seem like it’s a bit of both CX and UX, though I believe it is closer to CX
 - Today, companies are adapting their organisational structures to better serve customers/users
