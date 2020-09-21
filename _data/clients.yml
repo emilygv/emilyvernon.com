@@ -7,15 +7,15 @@
 - name: Glamcult
   image: glamcult-logo_transparent.png
   img_height: 30px
-- name: L'Occitane
-  image: loccitane-logo_transparent.png
-  img_height: 30px   
-- name: IHG
-  image: ihg-logo_transparent.png
-  img_height: 50px
-- name: Clinique
-  image: clinique-logo_transparent.png
-  img_height: 30px
+# name: L'Occitane
+# image: loccitane-logo_transparent.png
+# img_height: 30px   
+# name: IHG
+# image: ihg-logo_transparent.png
+# img_height: 50px
+# name: Clinique
+# image: clinique-logo_transparent.png
+# img_height: 30px
 - name: UXUS
   image: UXUS-logo_transparent.png
   img_height: 40px
