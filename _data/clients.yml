@@ -4,9 +4,9 @@
 - name: Converse
   image: converse-logo_transparent.png
   img_height: 25px
-- name: Glamcult
-  image: glamcult-logo_transparent.png
-  img_height: 30px
+# name: Glamcult
+# image: glamcult-logo_transparent.png
+# img_height: 30px
 # name: L'Occitane
 # image: loccitane-logo_transparent.png
 # img_height: 30px   
