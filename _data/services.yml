@@ -1,7 +1,7 @@
-- title: Consumer Experience (CX) Design
-  description: The concept of experience is blurry. Together, we can clarify the scope, create a vision and construct a roadmap around engaging customers or guests at the right place and time. Touchpoint definition is approached from both a consumer and brand perspective.
+- title: Customer Experience (CX) Design
+  description: The concept of experience is blurry. Together, we can clarify the scope, create a vision and construct a roadmap around engaging customers or users at the right place and time. Touchpoint definition is approached from both a customer and brand perspective.
   points:
-    - Consumer journey mapping
+    - Customer journey mapping
     - Service design & rituals
     - Omni-channel strategy
     - Experience scalability
@@ -14,18 +14,18 @@
     - Creative & commercial vision
     - Ideation workshops
 
-- title: Tone of Voice
-  description: Brands talk all the time. This happens throughout the consumer journey, whether it’s in-store, in-person, online or through an app. Better defining and implementing the brand’s tone of voice ensures message suitability and consistency.
+- title: UX/UI Design
+  description: Digital platforms are a key for brands today. By understanding your target user and product USPs, we can identify, ideate and design a desirable, viable interface. This can be a website, application or product display.
+  points:
+    - Research & testing
+    - Wireframing & prototyping
+    - Visual design
+    - Style guides
+    
+- title: Content Strategy
+  description: Brands talk all the time. This happens throughout the customer and user journey, whether it’s in-store, in-person, online or through an app. Better defining and implementing the brand’s tone of voice ensures message suitability and consistency.
   points:
     - Tone of voice creation
     - Communication hierarchy
     - Service messaging
     - Guidelines & documentation
-
-- title: Project Governance
-  description: We've all been there - new stakeholders, corporate hierarchy and siloed teams. Through a number of tools and an informed perspective, I can help facilitate cross-functional communication, partnerships and ideation to ultimately realise your vision.
-  points:
-    - Cross-functional alignment
-    - Stakeholder management
-    - Sell-in presentations
-    - Presentation coaching
