@@ -55,7 +55,7 @@ rows:
     h1: Let's start with the basics :)
     h2: I am originally from Los Angeles, and lived in Amsterdam for the past nine years. 
     text: |-
-      My approach combines being brave and creative. This means challenging my perception by continuously learning. I do all sorts of things - like reading, learning UX, ink painting or sailing worldwide. I am powered by peanut butter and jelly sandwiches.
+      My approach combines being brave and creative. This means challenging my perception by continuously learning. I do all sorts of things - like reading, learning UX/UI, ink painting or sailing worldwide. I am powered by peanut butter and jelly sandwiches.
 
   - type: image_text_row
     style: blue reverse
@@ -64,7 +64,7 @@ rows:
     image: /assets/img/emily_illustration.png 
     h2: Now the professional bit.
     text: |-
-      I worked as a Senior Creative Strategist for UXUS (a FutureBrand company), transforming brands by increasing consumer engagement and brand perception within retail and hospitality spaces, IRL. 
+      I worked as a Senior Creative Strategist for UXUS (a FutureBrand company), transforming brands by increasing customer engagement and brand perception within retail and hospitality spaces, IRL. 
       
       Over the last three years, my specialties included hotel design strategy and guest experience. 
 
