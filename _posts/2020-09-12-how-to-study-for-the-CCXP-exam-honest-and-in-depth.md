@@ -9,7 +9,7 @@ further_reading:
     
 ---
 
-**It’s hard to find an honest review of preparing for the CCXP (Certified Customer Experience Professional) exam. Many initial search engine hits are trying to sell you a masterclass or book. It’s a bit exhausting, especially for a profession that is about creating effective experiences. Through the spirit of open source and shared information, let me walk through how I studied, how long I prepared and what resources I used.**
+**It's hard to find an honest review of preparing for the CCXP (Certified Customer Experience Professional) exam. My initial search engine hits were blog articles ultimatley trying to sell a masterclass or book. It’s a bit exhausting, especially for a profession that is about creating effective experiences. This is why I wanted to help out and provide one perspective on preparing for the exam. Through the spirit of open source and shared information, let me walk through how I studied, how long I prepared and what resources I used.**
 
 **What we'll cover:**
 * TOC
@@ -23,17 +23,17 @@ Studying felt more like a treasure hunt than a straight, well-trodden path. **Un
 
 **Studying for a multiple choice exam is different from increasing your knowledge about a topic.** Most online guides focus on what to read, but don’t address the reality that this is an exam, not a free-form class. **Being successful with multiple choice exams depends on your ability to: (1) thoroughly read and understand the question and (2) identify the best answer from provided options.** As most professionals don’t do multiple choice exams often, it’s worth practicing. 
 
-**I started doing multiple choice questions for the exam halfway through my study period.** This helped to exercise my test-taking abilities, and identify areas or ideas that I needed to study further. Many times I found myself misreading the question or getting distracted, which reminded me to slow down and fully read the content. **Don’t wait until the end of your studies to practice. Even an unsuccessful practice exam attempt is useful feedback.**
+**I started doing multiple choice questions for the exam halfway through my study period.** This helped to exercise my test-taking abilities, and identify areas or ideas that I needed to study further. Many times I found myself misreading the question or getting distracted. These were important reminders to slow down and fully read the content. **Don’t wait until the end of your studies to practice. Even an unsuccessful practice exam attempt is useful feedback.**
 
 ## Fun & frugal tips
 
 **I love self-studying, which is why I did not go for a masterclass.** Furthermore, the sales-y and somewhat old school nature of the exam’s ecosystem made me a bit jaded toward the idea. **However, your study approach will depend on your situation and learning preferences.** If self-learning is not your thing or time does not permit, go for a class that works for you. In my case, I considered self-studying for the CCXP a fun challenge. 
 
-**The best frugal resource I found was online flashcards.** Flashcards are good for building your recognise-the-concept skill, and if they are online, someone else did the heavy lifting for you. On Brainscape, there is a deck called ‘CCXP’. There are 99-100 multiple choice questions per competency. A monthly subscription for Brainscape is 10 dollars, however it was worth the costs as I could study on my phone, on-the-go. **If you are more dedicated than I am, create your own CCXP deck on a Brainscape, Quizlet or StudyBlue and share them with the community.**
+**The best frugal resource I found was online flashcards.** Flashcards are good for building your recognise-the-concept skill, and if they are online, someone else did the heavy lifting. On Brainscape, there is a deck called ‘CCXP’. There are 99-100 multiple choice questions per competency. A monthly subscription for Brainscape is 10 dollars, however it was worth the costs as I could study on my phone, on-the-go. **If you are more dedicated than I am, create your own CCXP deck on a Brainscape, Quizlet or StudyBlue and share them with the community.**
 
 ## How to read for multiple choice exams
 
-**That might sound pretentious, but how you read will determine if you can identify concepts on a multiple choice exam.** This means reading with purpose, versus reading to get through a book. Select only a few key books, between 3-5. **Certain books can and should be reread at different stages of your studying.** It will help to reinforce concepts. 
+**That might sound pretentious, but how you read will determine if you can identify concepts on a multiple choice exam.** This means reading with purpose, versus reading to get through a book. Select only a few key books, around three. **Certain books can and should be reread at different stages of your studying.** It will help to reinforce concepts. 
 
 **While reading for a multiple choice exam you are looking for two key things: (1) terminology (2) definitive opinions.** Throughout my reading and overall studies I kept a vocabulary list. This was particularly valuable when restarting my studies from a three-week break. It helped to refocus my efforts and identify weak points. 
 
@@ -53,7 +53,7 @@ Studying felt more like a treasure hunt than a straight, well-trodden path. **Un
 
 **CX Podcast, by Forrester:** Something to listen to versus read, and is good for walks. Reiterates key ideas and keeps you motivated that the world does need more CX professionals.
 
-**CCXP Exam Simulator:** The questions are way harder and more obscure than ones on the actual exam. For example, I scored 60% on the simulator, but 94% on the CCXP. The exam is good for vocabulary mining and after each exam, I did google searches on particular terms.
+**CCXP Exam Simulator:** The questions are way harder and more obscure than ones on the actual exam. For example, I scored 60% on the simulator, but 94% on the CCXP. The exam is good for vocabulary mining. After each exam I did google searches on particular terms.
 
 **CCXP Exam Preparation, by Michael Barlett:** It’s more of a pamphlet than a book. I reread this many, many times to ensure I understood the absolute base of the CCXP.
 
