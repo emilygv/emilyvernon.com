@@ -35,20 +35,20 @@ Identifying an area to improve can be exciting. You feel like it needs to happen
 
 ## Power of your mood
 
-Perhaps this is a lesson from all work environments, but as small companies are dynamic , it’s even more visible. **The mood I brought to work directly affected my team members.** Even if I did not interact with them, they could sense what I was going through. At times it was so subtle or subconscious, I could not even detect my own mood. This meant emotion management became even more important within a smaller company.
+Perhaps this is a lesson from all work environments, but as small companies are dynamic , it’s even more visible. **The mood I brought to work directly affected my team members.** Even if I did not interact with them, they could sense what I was going through. At times it was so subtle or subconscious, I could not even detect my own mood. **This meant emotion management became even more important within a smaller company.**
 
-This can also be flipped. I found myself affected by other’s moods, and this would impact my productivity. Now, there are some aspects of this that are solvable, and others beyond your reach. My awareness helped to better structure my environment or understand interactions. It also enabled me to help others who were stressed from other people’s moods. A younger designer or strategist could take a negative review, as an example, very personally. Having someone explain their experience and provide context can help process other people’s reactions.
+This can also be flipped. **I found myself affected by other’s moods, and this would impact my productivity.** Now, there are some aspects of this that are solvable, and others beyond your reach. My awareness helped to better structure my environment or understand interactions. It also enabled me to help others who were stressed from other people’s moods. A younger designer or strategist could take a negative review, as an example, very personally. **Having someone to contextualise their experience and provide context can help process other people’s reactions.**
 
-As I started working remotely, it became even more important to exaggerate a positive, optimistic perspective. This came through emojis or gifs, which might seem really ridiculous to some, but it helped others sense what I was feeling in a digestible way. For whatever reason, a sad or happy emoji is easier to understand than someone directly writing those feelings. 
+**As I started working remotely, it became even more important to exaggerate a positive, optimistic perspective.** This came through emojis or gifs, which might seem  ridiculous to some, but it helped others sense what I was feeling in a digestible way. For whatever reason, a sad or happy emoji was easier to understand than someone directly writing those feelings. 
 
 ## Top talent can be anywhere
 
-Many would assume that the best-of-the-best are at well-known or large companies. My co-workers at this small agency were some of the most talented and humble individuals I worked with during my twelve-year career. They were as talented as my colleagues at Converse/Nike, however chose to take another path. Working at a small company challenged my idea of both achievement and work lifestyle. For some, a smaller company environment is a better personality fit. Others, like myself, saw it as a prime opportunity for learning quickly and transitioning into another field. 
+**Many would assume that the best-of-the-best are at well-known or large companies. But this is not the case.** My co-workers at this small agency were some of the most talented and humble individuals I worked with during my twelve-year career. They were as talented as my colleagues at Converse/Nike, however chose to take a different path. **Working at a small company challenged my idea of both achievement and work lifestyle.** For some, a smaller company environment is a better personality fit. Others, like myself, saw it as a prime opportunity for learning quickly and transitioning into another field. **There are many reasons to work for a company, but ensure it's your reason and not someone else's.**
 
 ## Let’s summarise
 
-- (idea)
-- (idea)
-- (idea)
-- (idea)
-- (idea)
+- Working at a small company enabled me to get the skills I desired, regardless of title or company size
+- There is a sense of responisbility and impact when working at a small company
+- Changing the company is possible, however it still takes time for others to see your viewpoint
+- The mood I brought to work directly affected my team members and vice versa
+- Great talent is everywhere, and working at a smaller company can be a better fit for some
