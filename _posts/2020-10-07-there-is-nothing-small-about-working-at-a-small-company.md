@@ -9,7 +9,7 @@ further_reading:
     
 ---
 
-** After working in-house at a large brand for almost nine years, I decided it was time to try a small agency. This agency had under 70 people versus the thousands at Converse/Nike. My nearly four-year experience working at this small agency taught me valuable lessons, and presented refreshing opportunities. If you are looking to improve your intrapreneur skills or understand a business better, going into a smaller company or agency could be the right move.**
+**After working in-house at a large brand for almost nine years, I decided it was time to try a small agency. This agency had under 70 people versus the thousands at Converse/Nike. My nearly four-year experience working at this small agency taught me valuable lessons, and presented refreshing opportunities. If you are looking to improve your intrapreneur skills or understand a business better, going into a smaller company or agency could be the right move.**
 
 **What we'll cover:**
 * TOC
