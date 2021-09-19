@@ -1,0 +1,11 @@
+{% assign text = include.content | markdownify %}
+{% assign title = include.title %}
+
+<div class="feature-info row mb-4 mb-lg-5 mt-4 mt-lg-6">
+  <div class="col-lg-4">
+    <div class="mb-3 mb-lg-0"><h2>{{title}}</h2></div>
+  </div>
+  <div class="col-lg-7">
+    <p class="mb-0">{{text}}</p>
+  </div>
+</div>

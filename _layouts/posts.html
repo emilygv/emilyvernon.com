@@ -1,24 +1,41 @@
 ---
-layout: default
+layout: page
 ---
 
 {% include category_links.html %}
 
-{% assign posts = paginator.posts %}
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
 {% include post_cards.html posts=posts show_category=true %}
 
-<section class="pagination container">
+{% if site.paginate %}
+<nav aria-label="Post pagination">
+  <ul class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a></li>
   {% else %}
-    <span class="page_number ">Page:</span>
+    <li class="page-item disabled"><span class="page-link">Previous</span></li>
   {% endif %}
-  <span class="page_number ">
-    {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <li class="page-item active" aria-current="page"><span class="page-link">{{ page }}</span></li>
+    {% elsif page == 1 %}
+      <li class="page-item"><a class="page-link" href="{{ '/insights/' | relative_url }}">{{ page }}</a></li>
+    {% else %}
+      <li class="page-item"><a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %}
+  {% endfor %}
+
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Next</a></li>
   {% else %}
-    <span class="next ">Next</span>
+    <li class="page-item disabled"><aspan class="page-link">Next</span></li>
   {% endif %}
-</section>
+</ul>
+</nav>
+{% endif %}

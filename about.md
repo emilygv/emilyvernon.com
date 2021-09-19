@@ -1,44 +1,34 @@
 ---
-layout: about
+layout: page
 permalink: /about/
 title: About Emily Vernon, including her story and principles
-description: Get to know Emily Vernon better. She is a guest and customer experience consultant in Amsterdam with experience in footwear design and brand strategy.
-hero_text: <span class="highlight">Designer to strategist</span>, LA to Amsterdam & always <span class="highlight">adventuring</span>
+description: Enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
+hero_text: <mark>Experience lead with</mark> <br><mark class="normal">experiences spanning</mark> <br><mark>continents & industries</mark>
 # hero_image: /assets/img/about.png
 # hero_bgcolor: "#d4e8d5"
 ---
 
-{% for row in site.data.about.rows %}
-{% include image_text_row.html content=row %}
-{% endfor %}
+{% include hero_intro.html
+title= "Hi there - I’m Emily"
+subtitle= "Building companies that empower customers and users to create their ideal lifestyles."
+description= "With a skillset spanning CX, UX/UI, service design and branding, I design engaging digital and physical experiences for brands worldwide."
+image= "/assets/images/about_hero.png"
+%}
+
+{% capture block_text %}
+As a Global Experience Lead, my goal is to enable brands and companies to better engage their audiences through end-to-end experience. 
+
+After spending over a decade working within product design, CX, service design and UX/UI, I know how to drive audience engagement, build brands and bring value to a business. Interacting with your audience at the right time, on the right platform and with the right tone is key.
+
+It’s been an honor to have worked with some of the top brands within creativity, travel, beauty and wellness, including Lego, IHG, Estée Lauder, Nike and currently Reckitt. Collaborations with these brands and others have been featured in Highsnobiety, Hypebeast, Wallpaper*, Transform and Glamcult. 
+
+I holds a BA in industrial design from the Rhode Island School of Design, and practically have a second degree after Googling everything that’s on my mind over the last fifteen years. 
+{% endcapture %}
+
+{% include case_h2_block.html 
+title="Now the professional bit" 
+content=block_text %}
+
 
 ## Last things
-
-<div class="cards-3-columns">
-  <article>
-    <h3>Principles</h3>
-      <ul>
-      {% for card in site.data.about.cards.principles %}
-        <li>{{ card.title }}</li>
-        {% endfor %}
-      </ul>
-  </article>
-
-  <article>
-    <h3>Side Projects</h3>
-      <ul>
-       {% for card in site.data.about.cards.side-projects %}
-        <li>{{ card.title }}</li>
-        {% endfor %} 
-      </ul>
-  </article>
-
-  <article>
-    <h3>Reading List</h3>
-    <ul>
-    {% for card in site.data.about.cards.reading-list %}
-        <li>{{ card.title }}</li>
-        {% endfor %} 
-    </ul>
-  </article>
-</div>
+{% include post_cards.html posts=site.data.last_things %}

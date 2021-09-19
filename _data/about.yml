@@ -1,50 +1,15 @@
 social:
   -
-    icon: far fa-envelope
+    icon: envelope
     link: mailto:emily@emilyvernon.com
   -
-    icon: fab fa-instagram
+    icon: instagram
     link: https://instagram.com/emilygv/
   -
-    icon: fab fa-linkedin-in
+    icon: linkedin
     link: https://linkedin.com/in/emilygvernon
 
 loved_city: Amsterdam
-
-cards:
-  principles:
-    -
-      title: Socialise your process
-    -
-      title: Appreciate creative discomfort
-    -
-      title: Repeat, repeat with patience
-    -
-      title: Add in a little humor
-    -
-      title: Cut the jargon
-  side-projects:
-    -
-      title: Footwear design
-    -
-      title: Music journalism
-    -
-      title: Stand-up comedy
-    -
-      title: Sailing & boat renovation
-    -
-      title: Sumi-e
-  reading-list:
-    -
-      title: Smarter Faster Better
-    -
-      title: Shark's Fin and Sichuan Pepper
-    -
-      title: Metaphors We Live By
-    -
-      title: The Summer Book
-    -
-      title: Ultralearning
 
 rows:
   - type: image_text_row

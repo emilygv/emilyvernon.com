@@ -1,0 +1,38 @@
+{% assign item=include 
+  %}
+{% assign breakout = include.breakout %}
+{% assign class = include.class %}
+
+
+{% unless breakout == false%}
+{% assign breakout = true %}
+{% endunless %}
+
+{% if breakout %}
+<div class="breakout bg-lgrey pt-5 pb-3 mb-3 {{class}}">
+  <div class="container">
+{% endif %}
+<div class="text-primary">
+  <div class="row align-items-center">
+    <div class="col-7 mb-4 mb-lg-0">
+      <h2 class="mb-4 mb-lg-5">{{item.title}}</h2>
+      <p class="fs-lg-2 fs-3 mb-3 mb-lg-5"><strong>{{item.subtitle}}</strong></p>
+      <p class="fs-lg-2 fs-3 fw-500 mb-3 mb-lg-5">{{item.description}}</p>
+      {% if item.button_title %}
+        {% if item.button_link_new_window %}
+        {% assign target = 'target="_blank"' %}
+        {% else %}
+        {% assign target = '' %}
+        {% endif %}
+      <p class="pt-4 text-lg-start"><a href="{{item.button_link}}" {{target}} class="btn btn-outline-primary">{{item.button_title}}</a></p>
+      {% endif %}
+    </div>
+    <div class="col-4 text-center text-lg-start">
+      <img src="{{item.image}}" alt="">
+    </div>
+  </div>
+</div>
+{% if breakout %}
+  </div>
+</div>
+{% endif %}

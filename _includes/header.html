@@ -1,0 +1,23 @@
+<header class="header shadow">
+  <div class="container">
+    <div class="row">
+      <div class="logo col-lg-4"><strong>
+        <a class="site-title" rel="home" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      </strong></div>
+      <div class="nav-menu col-lg-auto ms-lg-auto fs-lg-4 fs-5 d-flex align-items-center" id="nav-menu">
+        <ul class="nav">
+          {% for nav in site.data.navigation %}
+          <li class="nav-item"><a class="nav-link" href="{{ nav.url }}">{{ nav.title }}</a></li>
+          {% endfor %}
+        </ul>
+        
+      </div>
+
+      <div class="toggler" id="toggler">
+        <span></span>
+      </div>
+
+    </div>
+  </div>
+
+</header>

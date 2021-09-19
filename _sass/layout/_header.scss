@@ -1,0 +1,126 @@
+/***** Header *****/
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  z-index: 100;
+  padding: 38px 0;
+  transition: all 0.2s;
+  @include max($lg) {
+    padding: 20px 0;
+  }
+  .logo {
+    color: var(--bs-primary);
+    font-size: 32px;
+    @include max($lg) {
+      font-size: 24px;
+    }
+  }
+  .nav {
+    font-weight: bold;
+    transition: all 0.3s;
+    @include max($lg) {
+      max-height: 0;
+      overflow: hidden;
+      top: 100px;
+      left: 0;
+      width: 100%;
+      background: #fff;
+      display: block;
+    }
+    
+    .nav-item {
+      .nav-link {
+        padding: 6px 0;
+      }
+      &:not(:last-child) {
+        margin-right: 54px;
+      }
+    }
+    
+  }
+  .toggler {
+    display: none;
+    width: 34px;
+    height: 34px;
+    padding: 10px 5px;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: absolute;
+    right: 20px;
+    top: 23px;
+    @include max($lg) {
+      display: block;
+
+    }
+    span {
+      width: 24px;
+      height: 3px;
+      background: $primary;
+      display: block;
+      position: relative;
+      transition: all 0.2s;
+      &:before,
+      &:after {
+        content: "";
+        display: block;
+        position: absolute;
+        width: 24px;
+        height: 3px;
+        left: 0;
+        background: $primary;
+        transition: all 0.2s;
+      }
+      &:before {
+        top: 5px;
+      }
+      &:after {
+        top: 10px;
+      }
+    }
+    &:hover {
+      span {
+        background: $primaryhover;
+        &:before,
+        &:after {
+          background: $primaryhover;
+        }
+      }
+    }
+
+  }
+  @include max($lg) {
+    .nav-menu.active {
+      .nav {
+        max-height: 220px;
+        padding-top: 20px;
+      }
+      .toggler {
+        span {
+          transform: rotate(-45deg);
+          top: 0;
+          margin-top: 5px;
+          &:before {
+            opacity: 0;
+          }
+          &:after {
+            transform: rotate(90deg);
+            top: 0;
+          }
+        }
+      }
+    }
+  }
+}
+
+body.scrolled {
+  .header {
+    padding: 10px 0;
+    .toggler {
+      top: 13px;
+    }
+  }
+}

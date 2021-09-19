@@ -15,7 +15,7 @@ https://emilyvernon.com
 Or with Docker
 
 ```
-#docker run -it --rm -v "${PWD}:/site" -p "4000:4000" --name jekyll oanhnn/gh-pages $@
+docker run -it --rm -v "${PWD}:/src/site" -p "4000:4000" -p "35729:35729" --name jekyll github-pages $@
 docker run -it --rm -v "${PWD}:/usr/src/app" -p "4000:4000" starefossen/github-pages 
 ```
 

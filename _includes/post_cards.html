@@ -1,5 +1,21 @@
-<section class="cards container">
-  {% for post in include.posts %}
-    {% include post_card.html content=post which_category_to_show=include.show_category %}
-  {% endfor %}
+{% assign title = include.title %}
+<section class="section-insights mt-3">
+  {% if title %}
+  <div class="row mb-4 mb-lg-5">
+    <div class="col-lg-8 offset-lg-2">
+      <p class="fs-2 mb-4 text-center"><strong>{{title}}</strong></p>
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="insights-list row g-0">
+    {% for post in include.posts limit:include.limit %}
+      {% include post_card.html content=post %}
+    {% endfor %}
+    {% if include.link %}
+    <div class="d-flex mt-3">
+        <a href="{{ include.link }}" class="btn btn-outline-primary ms-auto">{{ include.link_title }}</a>
+    </div>
+    {% endif %}
+  </div>
 </section>

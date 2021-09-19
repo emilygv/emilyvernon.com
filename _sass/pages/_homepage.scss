@@ -1,0 +1,150 @@
+/***** Homepage *****/
+
+.section-intro {
+  color: $primary;
+  .intro-t {
+    padding: 100px 0 100px;
+    @include max($xxl) {
+      padding: calc(30px + 7vw) 0;
+    }
+    h1 {
+      font-size: 3.2em;
+      line-height: 1.3;
+      margin: 0;
+      @include max($xxl) {
+        font-size: calc(1.46875rem + 2.625vw);
+      }
+      .normal {
+        background: none;
+        color: $primary;
+      }
+    }
+  }
+  .intro-b {
+    background: $lgrey;
+    padding: 89px 0 102px;
+    @include max($xxl) {
+      padding: calc(30px + 2vw) 0 calc(30px + 2vw);
+    }
+  }
+}
+
+.section-industries {
+  padding: 145px 0 80px;
+  @include max($xxl) {
+    padding: calc(30px + 7vw) 0 calc(30px + 2vw);
+  }
+  .industries-list {
+    max-width: 1120px;
+    margin: 0 auto;
+    .industry {
+      padding: 32px 36px 36px;
+    }
+  }
+  .icon-w {
+    min-height: 125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 32px;
+    @include max($lg) {
+      margin-bottom: 24px;
+    }
+  }
+}
+
+.section-workhighlight {
+  padding: 45px 0 100px;
+  border-top: 18px solid $primary;
+  @include max($xxl) {
+    padding: calc(30px + 2vw) 0 calc(30px + 2vw);
+  }
+  
+  .workhighlight-title {
+    p {
+      font-size: 50px;
+      font-weight: 600;
+      line-height: 1.22;
+      @include max($xxl) {
+        font-size: calc(1.4rem + 2vw);
+      }
+    }
+  }
+
+  .work-img {
+    margin-bottom: 141px;
+    @include max($xxl) {
+      margin-bottom: calc(30px + 4vw);
+    }
+  }
+
+  
+}
+
+.section-insights {
+  // padding: 45px 0 100px;
+  // @include max($xxl) {
+    // padding: calc(30px + 2vw) 0 calc(30px + 2vw);
+  // }
+  h2 {
+    font-style: italic;
+    margin-bottom: 45px;
+    @include max($xxl) {
+      margin-bottom: calc(10px + 2vw);
+    }
+  }
+  .insights-list {
+    margin: 0 -10px 90px;
+    @include max($xxl) {
+      margin-bottom: calc(10px + 2vw);
+    }
+    [class^="col-"] {
+      padding: 0 10px;
+    }
+    .insight-title {
+      
+      border-top: 18px solid $primary;
+      padding-top: 18px;
+      margin-bottom: 24px;
+    }
+    .insight-desc {
+      margin-bottom: 38px;
+      @include max($xxl) {
+        margin-bottom: calc(10px + 2vw);
+      }
+    }
+    .insight-date {
+      font-size: 14px;
+      color: $grey7;
+    }
+  } 
+}
+
+.section-workwith {
+  padding: 45px 0 140px;
+  @include max($xxl) {
+    padding: calc(20px + 2vw) 0 calc(30px + 4vw);
+  }
+  h2 {
+    margin-bottom: 36px;
+    @include max($xxl) {
+      margin-bottom: calc(10px + 2vw);
+    }
+  }
+  .workwith-list {
+    padding: 72px 72px 15px 101px;
+    color: $primary;
+    @include max($xxl) {
+      padding: calc(20px + 2vw) calc(20px + 2vw)  calc(10px + 1vw);
+    }
+    [class^="col-"] {
+      font-size: 44px;
+      font-weight: bold;
+      margin-bottom: 54px;
+      @include max($xxl) {
+        font-size: calc(14px + 2vw);
+        margin-bottom: calc(10px + 2vw);
+      }
+    }
+  }
+}

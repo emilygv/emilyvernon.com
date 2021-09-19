@@ -1,31 +1,25 @@
-- title: Customer Experience (CX) Design
-  description: The concept of experience is blurry. Together, we can clarify the scope, create a vision and construct a roadmap around engaging customers or users at the right place and time. Touchpoint definition is approached from both a customer and brand perspective.
-  points:
+- title: Customer Experience
+  description: |-
+    The concept of experience is blurry. Together, we can clarify the scope, create a vision and construct a roadmap around engaging customers or users at the right place and time. Touchpoint definition is approached from both a customer and brand perspective.
     - Customer journey mapping
     - Service design & rituals
     - Omni-channel strategy
     - Experience scalability
 
 - title: Brand Strategy
-  description: Competition is fierce. By better defining the brand’s purpose, personality and attributes, your brand can differentiate within the market. This also serves as a foundation for business expansion and cross-functional projects. 
-  points:
+  description: |-
+    Competition is fierce. By better defining the brand’s purpose, personality and attributes, your brand can differentiate within the market. This also serves as a foundation for business expansion and cross-functional projects. 
     - Brand positioning & narrative
     - Comprehensive brand audits
     - Creative & commercial vision
     - Ideation workshops
 
 - title: UX/UI Design
-  description: Digital platforms are key for brands today. By understanding your target user and product USPs, we can identify, ideate and design a desirable, viable interface. This can be a website, application or product display.
-  points:
+  description: |-
+    Digital platforms are key for brands today. By understanding your target user and product USPs, we can identify, ideate and design a desirable, viable interface. This can be a website, application or product display.
     - Research & testing
     - Wireframing & prototyping
     - Visual design
     - Style guides
     
-- title: Content Strategy
-  description: Brands talk all the time. This happens throughout the customer and user journey, whether it’s in-store, in-person or through an app. Better defining and implementing the brand’s tone of voice ensures message suitability and consistency.
-  points:
-    - Tone of voice creation
-    - Communication hierarchy
-    - Service messaging
-    - Guidelines & documentation
+

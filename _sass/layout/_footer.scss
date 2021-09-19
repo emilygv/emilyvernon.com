@@ -1,0 +1,87 @@
+/***** Footer *****/
+
+.footer {
+  background: $lgrey;
+  padding: 64px 0 82px;
+  color: $primary;
+  @include max($xxl) {
+    padding: calc(20px + 2vw) 0;
+  }
+  .headline {
+    font-size: 36px;
+    font-weight: bold;
+    @include max($xxl) {
+      font-size: calc(14px + 2vw);
+    }
+  }
+  .footer-l {
+    .headline {
+      margin-bottom: 24px;
+      @include max($xxl) {
+        margin-bottom: calc(10px + 2vw);
+      }
+    }
+    .nav {
+      .nav-item {}
+      .nav-link {
+        padding: 0;
+        margin: 0 0 8px;
+        font-size: 24px;
+        font-weight: 600;
+        @include max($xxl) {
+          font-size: calc(12px + 1vw);
+        }
+      }
+    }
+  }
+  .footer-r {
+    .headline {
+      margin-bottom: 16px;
+    }
+    .social {
+      display: flex;
+      align-items: center;
+      margin-bottom: 42px;
+      a {
+        width: 46px;
+        height: 46px;
+        border: 3px solid $primary;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 12px;
+        color: $primary;
+        &:hover {
+          color: #fff;
+          background: $primary;
+        }
+      }
+      .icon {
+        &.icon-envelope {
+          width: 24px;
+          height: 24px;
+        }
+        &.icon-instagram {
+          width: 24px;
+          height: 24px;
+        }
+        &.icon-linkedin {
+          width: 24px;
+          height: 24px;
+        }
+      }
+    }
+
+    .copy {
+      p {
+        font-size: 13px;
+      }
+      .icon {
+        width: 12px;
+        height: 12px;
+      }
+    }
+  }
+  
+}

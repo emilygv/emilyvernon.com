@@ -1,0 +1,15 @@
+{% assign post = include.content %}
+<section class="section-workhighlight mt-3">
+  
+{% include work_item.html content=post %}
+
+{% if include.button %}
+<div class="d-flex mt-5">
+  <a href="{{include.button_link}}" class="btn btn-outline-primary ms-auto">{{include.button}}</a>
+</div>
+{% else %}
+<div class="d-flex mt-5">
+  <a href="{{ post.url | relative_url }}" class="btn btn-outline-primary ms-auto">Read more</a>
+</div>
+{% endif %}
+</section>

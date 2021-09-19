@@ -1,10 +1,8 @@
+- name: Reckitt
 - name: Nike
-  image: nike-logo_transparent.png
-  img_height: 30px
+- name: FutureBrand
 - name: Converse
-  image: converse-logo_transparent.png
-  img_height: 25px
-# name: Glamcult
+- name: Glamcult
 # image: glamcult-logo_transparent.png
 # img_height: 30px
 # name: L'Occitane
@@ -17,8 +15,4 @@
 # image: clinique-logo_transparent.png
 # img_height: 30px
 - name: UXUS
-  image: UXUS-logo_transparent.png
-  img_height: 40px
-- name: FutureBrand
-  image: futurebrand-logo_transparent.png
-  img_height: 30px  
+

@@ -1,0 +1,24 @@
+/***** Layout *****/
+
+.main {
+  padding-top: 122px;
+  transition: all 0.2s;
+  @include max($lg) {
+    padding-top: 75px;
+  }
+}
+
+.container {
+  @include max($lg) {
+    padding: 0 20px;
+  }
+}
+
+body.scrolled {
+  .main {
+    padding-top: 66px;
+    @include max($lg) {
+      padding-top: 55px;
+    }
+  }
+}

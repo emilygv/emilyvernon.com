@@ -1,0 +1,10 @@
+{% assign boxes = include.content | split: "|" %}
+<div class="features-list pt-5 pb-5 mb-3 mb-lg-4 breakout bg-lgrey">
+  <div class="container">
+    <div class="row justify-content-center mb-n4">
+      {% for box in boxes %}
+      {% include info-highlight-box.html content=box %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

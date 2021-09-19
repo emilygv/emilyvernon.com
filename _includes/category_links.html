@@ -1,6 +1,6 @@
-<div class="category-nav container">
+<div class="category-nav my-5">
   <!-- <h2>Sort by -</h2> -->
-<nav>
+<nav class="fw-bold">
 {% for category in site.data.categories %}
   {% assign slug = category | first | slugify %}
   {% assign name = category | last %}

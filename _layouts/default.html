@@ -1,85 +1,21 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en">
+
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="google-site-verification" content="{{ site.google.site_verification }}" />
-
-  <script src="https://kit.fontawesome.com/5642a9d6e5.js" crossorigin="anonymous"></script>
-
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:700,700i&display=swap" rel="stylesheet">
-  
-  {%- seo -%}
-  <link rel="stylesheet" href="/assets/css/style.css?v={{ site.time | date: "%Y%m%d%H%M" }}">
-
-  {%- feed_meta -%}
-
-  {%- if jekyll.environment == 'production' and site.google.analytics -%}
-  {% include google-analytics.html %}
-  {%- endif -%}
-
+  {% include head.html %}
+  <title>Emily Vernon</title>
 </head>
+
 <body>
+{% include header.html %}
 
-<header class="header-top">
-  <div class="container">
-
-    <div class="navbar">
-      <a class="site-title" rel="home" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-      <input class="menu-btn" type="checkbox" id="menu-btn" />
-      <label class="menu-icon" for="menu-btn"><span class="nav-icon"></span></label>
-      <ul class="menu">
-        {% for nav in site.data.navigation %}
-          <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-
-  {% if page.hero_text or page.hero_image %}
-    <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}">
-       <p>{{ page.hero_text }}</p>
-    </section>
-
-    {% else %}
-    {% endif %}
-
-  </div>
-</header>
-
-<main> 
-
-    {{ content }}
-
+<main class="main">
+{{ content }}
 </main>
 
-<footer class="bg-black">
-  <div class="container">
-
-    <div class="cards">
-
-      <div class="site-navigation-bottom">
-        <h3>Go on, keep exploring</h3>
-        {% for nav in site.data.navigation %}
-        <a href="{{ nav.url }}">{{ nav.title }}</a>
-        {% endfor %}
-      </div>
-
-      <div class="social">
-        <h3>Staying social</h3>
-        {% for sl in site.data.about.social %}
-          <a href="{{ sl.link }}" target="_blank"><i class="{{ sl.icon }}"></i></a>
-        {% endfor %}
-       
-        <p class="copyright">&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.
-          Made with <i class="fas fa-heart"></i>in {{ site.data.about.loved_city }}.
-        </p>
-      </div>
-      
-    </div>
-  
-  </div>
-</footer>
+{% include footer.html %}
+{% include scripts.html %}
+<script src="/assets/js/main.js"></script>
 
 </body>
 </html>

@@ -1,5 +1,9 @@
-<div class="clients">
-    {% for client in site.data.clients %}
-    <img height="{{ client.img_height }}" src="/assets/img/clients/{{ client.image }}" alt="{{ client.title }}" title="{{ client.title }}">
-    {% endfor %}
-</div>
+<section class="section-workwith">
+    <div class="workwith-list shadow">
+        <div class="row">
+        {% for client in site.data.clients %}
+            <div class="col-md-6 col-lg-4">{{ client.name }}</div>
+        {% endfor %}
+        </div>
+    </div>
+</section>

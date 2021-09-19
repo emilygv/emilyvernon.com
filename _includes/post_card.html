@@ -1,19 +1,19 @@
 {% assign post = include.content %}
 {% assign show_category = include.which_category_to_show %}
 
-<article>
-    <a href="{{ post.url | relative_url }}"><h3>{{ post.title | escape }}</h3></a>
-    {%- if site.show_excerpts -%}
-    <p itemprop="description">{{ post.excerpt | strip_html | truncatewords:30 }}</p>
-    {%- endif -%}
-    <p class="entry-meta">
-      {% if show_category %}{% if post.categories %}
-        {% for category in post.categories %}
-          <a href="/insights/{{ category | slugify }}">{{category}}</a>
-          {% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-        -
-      {% endif %}{% endif %}
-      <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date_to_string }}</time>
-    </p>
-</article>
+<div class="col-lg-4 mb-4 mb-lg-2">
+  <p class="insight-title fs-2"><strong>
+    {% if post.url %}<a href="{{ post.url | relative_url }}">{% endif %}
+      {{ post.title | escape }}
+    {% if post.url %}</a>{% endif %}</strong></p>
+
+  <p class="insight-desc">
+    {% if post.description %}
+  {{ post.description | markdownify }}
+    {% else %}
+  {{ post.excerpt | strip_html | truncatewords:30 }}
+    {% endif %}
+  </p>
+
+  {% if post.date %}<p class="insight-date">{{ post.date | date_to_string }}</p>{% endif %}
+</div>

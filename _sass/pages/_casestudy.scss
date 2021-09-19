@@ -1,0 +1,92 @@
+/***** Case Study *****/
+
+.bg-lgrey {
+  background: $lgrey;
+}
+
+.content {
+  max-width: 800px;
+  text-align: left;
+  margin-left: 0;
+}
+
+.features-list {
+  // padding: 137px 0;
+  // @include max($lg) {
+    // padding: 3rem 0;
+  // }
+  .feature {
+    padding: 32px 40px;
+    background: #fff;
+    min-height: 220px;
+    width: 100%;
+    @include max($lg) {
+      min-height: 0;
+    }
+    @include max($sm) {
+      padding: 24px 16px;
+    }
+  }
+  .icon-w {
+    min-height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 32px;
+    @include max($lg) {
+      margin-bottom: 24px;
+    }
+  }
+}
+
+.section-casestudy-top {
+  padding-top: 72px;
+  @include max($xxl) {
+    padding-top: 3rem;
+  }
+  .casestudy-top-title {
+    p {
+      font-size: 50px;
+      font-weight: bold;
+      font-style: italic;
+      line-height: 1.22;
+      @include max($xxl) {
+        font-size: calc(1.4rem + 2vw);
+      }
+    }
+  }
+
+  .casestudy-top-img {
+    @include max($xxl) {
+      margin-bottom: calc(30px + 2vw);
+    }
+  }
+
+  
+}
+
+// .section-feature {
+//   h2 {
+    
+//   }
+//   .img {
+
+//   }
+//   &.section-feature-discover {
+    
+//   }
+//   &.section-feature-validate {
+//     .features-list {
+//       padding: 113px 0;
+//       @include max($lg) {
+//         padding: 3rem 0;
+//       }
+//     }
+//   }
+// }
+
+.breakout {
+  width: 100vw;
+  position: relative;
+  left: calc(-1 * (100vw - 100%) / 2);
+}

@@ -1,0 +1,68 @@
+---
+layout: page
+---
+
+<section class="section-casestudy-top">
+
+    <div class="row mb-4">
+      <div class="col-lg-7 mb-2 casestudy-top-title">
+        <p>{{page.title}}</p>
+      </div>
+      <div class="col-lg-4 offset-lg-1">
+        <p class="text-muted fw-500 fs-2 mb-2">{{page.subtitle}}</p>
+        <p class="text-muted">{{page.category}}</p>
+      </div>
+    </div>
+
+    <div class="casestudy-top-img mb-4 mb-md-5 mb-lg-6">
+      <img src="{{page.image}}" alt="{{page.title}}">
+    </div>
+
+    <div class="casestudy-top-info row mb-5 pb-0 pb-lg-4">
+      <div class="col-lg-9">
+
+        <div class="info-item row mb-5 mb-lg-6">
+          <div class="col-lg-4">
+            <div class="fs-2 mb-3 mb-lg-0"><strong>Overview</strong></div>
+          </div>
+          <div class="col-lg-7">
+            <p class="mb-0">{{page.overview | markdownify}}</p>
+          </div>
+        </div>
+
+        <div class="info-item row mb-5 mb-lg-0">
+          <div class="col-lg-4">
+            <div class="fs-2 mb-3 mb-lg-0"><strong>Challenge</strong></div>
+          </div>
+          <div class="col-lg-7">
+            <p class="mb-0">{{page.challange | markdownify}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3">
+        <div class="fs-2 mb-3 mb-lg-4"><strong>Responsibilities</strong></div>
+        <p class="mb-0">
+        {% for item in page.responsibilities %}{{item}}<br>
+        {% endfor %}
+      </p>
+      </div>
+    </div>
+
+</section>
+
+{% include section_icons.html icons="Discover, Define, Design, Validate" breakout=true %}
+
+{{ content }}
+
+<div class="d-flex justify-content-between mt-4 mb-6">
+  <div class="p-2">
+    {% if page.previous.url %}
+    <a href="{{page.previous.url}}" class="fs-4 fw-bold">&laquo; Previous Case Study,  {{page.previous.subtitle}}</a>
+    {% endif %}
+  </div>
+  <div class="p-2">
+    {% if page.next.url %}
+    <a href="{{page.next.url}}" class="fs-4 fw-bold">Next Case Study, {{page.next.subtitle}} &raquo;</a>
+    {% endif %}
+  </div>
+</div>

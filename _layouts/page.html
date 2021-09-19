@@ -2,19 +2,15 @@
 layout: default
 ---
 
-<article class="container">
-  {% if page.title %}
-  <header>
-   <h1 itemprop="headline">{{ page.title | escape }}</h1>
- </header>
- {% endif %}
 
- <div class="content">
-   {% if page.image %}
-     <img src="{{ page.image }}" alt="Post image">
-   {% endif %}
+  <!-- <section class="section-content"> -->
+<div class="container">
 
-   {{ content }}
- </div>
+{% if page.hero_text %}
+{% include hero_intro_text.html content=page.hero_text %}
+{% endif %}
 
-</article>
+{{ content }}
+
+</div>
+<!-- </section> -->

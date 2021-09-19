@@ -1,17 +1,23 @@
 ---
-layout: home
+layout: page
 permalink: /services/
 title: The depth of services Emily Vernon provides around guest & customer experience
 description: Experience design, brand strategy, tone of voice and stakeholder management are used to complete projects of varying needs.
-hero_text: <span class="highlight">Customising</span> project approach according to their <span class="highlight">needs & timeline</span> 
+hero_text: <mark>Customising</mark> <mark class="normal">project <br> approach according to their</mark><br><mark>needs & timeline</mark>
 ---
 
-{% include services_cards.html %}
+{% include section_icons.html icons="Discover, Define, Design, Validate" breakout=true %}
 
-<!-- <img src="/assets/img/services-process.png"> -->
+{% include post_cards.html 
+title="Projects are based in the four phases above and can apply to the following services:"
+posts=site.data.services 
+%}
 
-<div class="button-container">
-  <a href="mailto:emily@emilyvernon.com" class="button" target="_blank">
-    Request more info
-  </a>
-</div>
+
+{% include hero_intro.html
+title= "Every project is a series of conversations"
+image= "/assets/images/services.png"
+button_title= "Get in touch" 
+button_link= "mailto:emily@emilyvernon.com"
+class="mb-6"
+%}

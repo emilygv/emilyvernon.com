@@ -1,0 +1,29 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="footer-l col-lg-7 mb-4 mb-lg-0">
+        <div class="headline">Go on, keep exploring</div>
+        <ul class="nav flex-column">
+          {% for nav in site.data.navigation %}
+          <li class="nav-item"><a class="nav-link" href="{{ nav.url }}">{{ nav.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="footer-r col-lg-5">
+        <div class="headline">Staying social</div>
+
+        <div class="social">
+          {% for sl in site.data.about.social %}
+          <a href="{{ sl.link }}" target="_blank">
+            <svg class='icon icon-{{ sl.icon }}'>
+              <use xlink:href='/assets/images/sprite/sprite.svg#{{ sl.icon }}' />
+            </svg>
+          </a>
+          {% endfor %}
+        </div>
+
+        <p class="copy">&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved. Made with <svg class='icon icon-heart'><use xlink:href='/assets/images/sprite/sprite.svg#heart' /></svg> in {{ site.data.about.loved_city }}.</p>
+      </div>
+    </div>
+  </div>
+</footer>

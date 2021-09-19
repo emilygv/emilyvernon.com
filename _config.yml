@@ -5,6 +5,10 @@ baseurl: "" #important: start with /
 url: "http://emilyvernon.com"
 
 markdown: kramdown
+kramdown:
+  hard_wrap: true
+  gfm_quirks: [paragraph_end]
+
 permalink: /insights/:slug
 show_excerpts: true
 # excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
@@ -31,6 +35,12 @@ defaults:
   #   values:
   #     layout: "project"
 
+collections:
+  casestudies:
+    output: true
+    permalink: /work/:path/
+    layout: casestudy
+
 # collections:
 #   projects:
 #     output: true
@@ -41,7 +51,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-sass-converter

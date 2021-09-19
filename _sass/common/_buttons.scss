@@ -1,0 +1,18 @@
+/***** Buttons *****/
+
+.btn {
+  min-width: 268px;
+  font-weight: bold;
+  @include max($xxs) {
+    width: 100%;
+  }
+  &.btn-outline-primary {
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #2D20C2, #2D20C2), #C4C4C4;
+    box-shadow: $box-shadow;
+    
+    &:hover {
+      background: $primary;
+      color: #fff;
+    }
+  }
+}
