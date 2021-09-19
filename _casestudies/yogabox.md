@@ -5,7 +5,7 @@ subtitle: Yogabox app
 category: Wellbeing
 featured: true
 image: /assets/images/casestudies/yogabox/yogabox_hero_image.jpg
-overview: "**Yogabox provides personalised yoga courses, focused on the therapeutic benefits of better alignment.** Interactive modules, real-time feedback and 1:1 advice ensure yoga students feel more confident. **Interacting with students more often and when they need it more elevates yoga teachers to an advisor role.**"  
+overview: "**Yogabox provides personalised yoga courses, focused on the therapeutic benefits of better alignment.** Interactive modules, real-time feedback and 1:1 advice ensure yoga students feel more confident. **Meaningful nteractions with students elevates yoga teachers to an advisor role. All the work shown is my own.**"  
 challange: "**There is no centralised platform empowering both yoga students and independent yoga teachers.** When following video classes at-home, **yoga students are concerned about misalignment. Yoga teachers are missing personalised connections with students,** and view themselves as more than just fitness instructors."
 responsibilities: [Brand Strategy, Experience Strategy, UX Research, UX Testing, UX Design, UI Design]
 ---
@@ -24,14 +24,14 @@ title="Affinity diagram"
 content="Conducted nine interviews with two distinct user groups for a total of 6.5 hours of video. This resulted in 151 insights gathered and organised." %}
 
 {% capture info-highlight %}
-#### Students are interested in:
+#### Students' interests:
 Personalised experiences
 Feeling transported
 Audio cues & music
 Better body alignment
 Gradual progression
 |
-#### Teachers are interested in:
+#### Teachers' interests:
 One-on-one dialogues
 Creating ‘spaces’
 Creative expression
@@ -70,7 +70,7 @@ content="Yogabox’s ‘unyoganess’, or **break from the expected expression o
 
 {% capture info-highlight %}
 #### Mission/Vision
-Lifelong health starts your physical wellbeing. We provide yoga programs and feedback personalised in real-time, improving alignment and awareness.
+Lifelong health starts with physical wellbeing. We provide yoga personalised in real-time, improving alignment and awareness.
 |
 #### Brand Personality
 Our brand breaks the yoga mold by combining personality with clarity, freeing users from feeling judged or ‘unyogalike’.
@@ -142,10 +142,10 @@ content="**It’s clear the app is about both the experience and program structu
 
 {% capture info-highlight %}
 #### Refine Two Users
-Two user groups bring added insight and value, but also complexity. I would need to focus more on the teachers for the next development phase.
+Two user groups bring added insight and value, but also complexity. I need to focus more on the teachers for the next phase.
 |
 #### Improve Accessibility
-There are many aspects to accessibility, and colour contrast is a foundational necessity. This requires further development to enable users.
+There are many aspects to accessibility. This requires further development to enable all users looking for theraputic benefits.
 |
 #### Explore User Flows
 It’s necessary to understand its role within the greater context. This means always building the user flows before jumping into a design.

@@ -4,7 +4,7 @@ title: Find your ideal remote working location
 subtitle: PostUp app
 category: Travel
 image: /assets/images/casestudies/postup/postup_hero_image.png
-overview: "**Provide immediate access to information specific to remote working in out-of-home spaces.** The suggested places nearby help users find a place quickly, while **location profiles are built with real-time, peer-to-peer and profile-driven data.** The friendly interface and review possibility builds community."  
+overview: "**PostUp provides immediate access to information specific to remote working in out-of-home spaces.** The suggested places nearby help users find a place quickly, while **location profiles are built with real-time, peer-to-peer and profile-driven data. I completed this project as a solo Google Ventures design sprint.**"  
 challange: "**Freelancers and remote workers want to find great coffee shops, free spaces and public spaces to work from.** There is a possibility that the chosen location will not have what they need, or the staff are lukewarm to remote workers. **Currently, they are frustrated by the time spent looking for places to work.**"
 responsibilities: [Design Sprint Moderation, Brand Strategy, Experience Strategy, Customer Experience, UX Research, UX Testing, UX Design, UI Design]
 ---
@@ -55,7 +55,7 @@ content="**Day 3, Design Sprint**: Instead of creating user flows, **key microin
 
 {% include case_h3_block.html 
 title="Style Guide" 
-content="**Day 4, Design Sprint:  Expanded the existing brand colour and graphics to create a friendly, straightforward and ‘fresh start’ visual language. **The palette is energising and calming, helping users when they make prompt decisions. **Iconography plays an important role in making information immediate**, especially amenities and services. " %}
+content="**Day 4, Design Sprint:  Expanded the existing brand colour and graphics to create a friendly, straightforward and ‘fresh start’ visual language.** The palette is energising and calming, helping users when they make prompt decisions. **Iconography plays an important role in making information immediate**, especially amenities and services. " %}
 
 ![](/assets/images/casestudies/postup/postup_style_guide.png)
 
@@ -106,12 +106,12 @@ content="With only one key flow addressed, the **next steps include building out
 
 {% capture info-highlight %}
 #### Faster Process, Solid Results 
-Purchasing a painting by emerging artists even above 5k is still highly emotional. This influences how paintings are shown online and what information would be valued. 
+A design sprint is a short development time. However, the outcome still tested well compared to more involved design projects.
 |
-#### Smaller Details = Caring
+#### Small Details Comes off as Caring
 Travelling to another location includes dealing with weather. Providing weather advice came off as caring to users.
 |
 #### Design Reflects Relevance 
-Like any design discipline, there are trends that date a user interface. Ensure current trends or best practices are used to look relevant.
+Like any design discipline, there are trends that date a user interface. Ensure current trends or best practices are used.
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}

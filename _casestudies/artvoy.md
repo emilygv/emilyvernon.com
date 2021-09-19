@@ -4,7 +4,7 @@ title:  Discover and collect artwork of emerging artists
 subtitle: Artvoy website
 category: Creativity
 image: /assets/images/casestudies/artvoy/artvoy_hero_image.jpg
-overview: "Artvoy is a voyage into art. The platform utilises **curated search, viewing possibilities, flexible payment and ownership options** to attract and convert younger users. Its approachability attracts new art collectors, while **its sense of exploration challenges the more experienced.**"  
+overview: "Artvoy is a voyage into art. The platform utilises **curated search, viewing possibilities, flexible payment and ownership options** to attract and convert younger users. Its approachability attracts new collectors, while **its sense of exploration challenges the more experienced. All the work completed was done as a team of one.**"  
 challange: "**Artvoy sells paintings over 5k on their mobile-web experience.** They find it **difficult to acquire and convert new, younger users. Younger users are abandoning the website without moving any items to their cart.** Additionally, 70% of younger users who place items in their cart do not purchase a piece."
 responsibilities: [Brand Strategy, Experience Strategy, Customer Experience, UX Research, UX Testing, UX Design, UI Design]
 ---

@@ -16,7 +16,7 @@ button_title= "Here's how" button_link= "/services"
 %}
 
 {% include section_icons.html 
-title="We all want to live our best lives. This is why my focus includes the following industries"
+title="We all want to live our best lives. This is why my focus includes the following industries:"
 icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
 
 ## Work Highlight
@@ -27,7 +27,7 @@ icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
 {% endfor %}
 
 {% include blockquote.html 
-content="Emily is an all-round strategy powerhouse, combining in-depth analytical thinking with future-forward creativity" 
+content="Emily is an all-round strategy powerhouse, combining in-depth analytical thinking with future-forward creativity." 
 reference="Asell, Strategy Director"
 %}
 
