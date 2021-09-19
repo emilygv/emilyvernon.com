@@ -12,7 +12,7 @@ title= "Hi there - I’m Emily"
 subtitle= "Building companies that empower customers and users to create their ideal lifestyles."
 description= "With a skillset spanning CX, UX/UI, service design and branding, I design engaging digital and physical experiences for brands worldwide."
 image= "/assets/images/homepage_hero.png"
-button_title= "Here's how" button_link= "/about"
+button_title= "Here's how" button_link= "/services"
 %}
 
 {% include section_icons.html 

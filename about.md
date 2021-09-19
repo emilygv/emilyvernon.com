@@ -9,9 +9,9 @@ hero_text: <mark>Experience lead with</mark> <br><mark class="normal">experience
 ---
 
 {% include hero_intro.html
-title= "Hi there - I’m Emily"
-subtitle= "Building companies that empower customers and users to create their ideal lifestyles."
-description= "With a skillset spanning CX, UX/UI, service design and branding, I design engaging digital and physical experiences for brands worldwide."
+title= "Let’s start with the basics :)"
+subtitle= "I am a Los Angeles original living in Amsterdam for the past ten years."
+description= "My approach combines being brave and creative. This means challenging  perceptions and staying open to ridiculous ideas. Stand-up comedy, offshore sailing and peanut butter and jelly sandwiches keeps me going."
 image= "/assets/images/about_hero.png"
 %}
 
