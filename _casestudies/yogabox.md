@@ -7,8 +7,8 @@ category: Wellbeing
 featured: true
 image: /assets/images/casestudies/yogabox/yogabox_hero_image.jpg
 thumbnail: /assets/images/casestudies/yogabox/yogabox_thumbnail.jpg
-overview: "**Yogabox provides personalised yoga courses, focused on the therapeutic benefits of better alignment.** Interactive modules, real-time feedback and 1:1 advice ensure yoga students feel more confident. **Meaningful nteractions with students elevates yoga teachers to an advisor role. All the work shown is my own.**"  
-challange: "**There is no centralised platform empowering both yoga students and independent yoga teachers.** When following video classes at-home, **yoga students are concerned about misalignment. Yoga teachers are missing personalised connections with students,** and view themselves as more than just fitness instructors."
+challange: "**There is no centralised platform empowering both yoga students and independent yoga teachers.** When following video classes at-home, **yoga students are concerned about misalignment. Yoga teachers are missing personalised connections** with students, and view themselves as more than just fitness instructors. "  
+approach: "**Completed this as a team of one over a series of weeks.** Yogabox provides personalised yoga courses, focused on the therapeutic benefits of better alignment. I wanted to **create a concept for both students and teachers, as empathy, guidance and connection were main tenants for the platform.**"
 responsibilities: [Brand Strategy, Experience Strategy, UX Research, UX Testing, UX Design, UI Design]
 ---
 
@@ -139,7 +139,7 @@ content="**Yogabox brings together the convenience of practicing at home with th
 ## The Debrief
 
 {% include case_h3_block.html 
-title="Next Steps" 
+title="Next Steps <br>& Key Learnings" 
 content="**It’s clear the app is about both the experience and program structure.** By building out one hypothetical course, we could measure its engagement and effectiveness. **This pilot phase would help to test the overall concept and whether both users find it worthwhile to use overtime.** The lessons learned below can be integrated into next steps for the Yogabox." %}
 
 {% capture info-highlight %}

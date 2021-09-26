@@ -2,7 +2,7 @@
 layout: page
 title: Guest & consumer experience (CX) consultant in Amsterdam
 description: Enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
-hero_text: <mark>Lifestyle optimism &</mark> <br><mark class="normal">optimisation through</mark> <br><mark>end-to-end experience</mark>
+hero_text: <mark>Lifestyle optimisation</mark> <br><mark class="normal">through product design</mark> <br><mark>& end-to-end experience</mark>
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
 ---

@@ -6,8 +6,8 @@ project_name: PostUp app
 category: Travel
 image: /assets/images/casestudies/postup/postup_hero_image.png
 thumbnail: /assets/images/casestudies/postup/postup_thumbnail.jpg
-overview: "**PostUp provides immediate access to information specific to remote working in out-of-home spaces.** The suggested places nearby help users find a place quickly, while **location profiles are built with real-time, peer-to-peer and profile-driven data. I completed this project as a solo Google Ventures design sprint.**"  
-challange: "**Freelancers and remote workers want to find great coffee shops, free spaces and public spaces to work from.** There is a possibility that the chosen location will not have what they need, or the staff are lukewarm to remote workers. **Currently, they are frustrated by the time spent looking for places to work.**"
+challange: "**Freelancers and remote workers want to find great coffee shops, free spaces and public spaces to work from.** There is a possibility that the chosen location will not have what they need, or the staff are lukewarm to remote workers. **Currently, they are frustrated by the time spent looking for places to work.**"  
+approach: "**Established an app MVP by completing a solo Google Sprint over a week.** My goal was to try all aspects of the methodology, and identify the most value-add user flow. **The use of sketching throughout the process was an effective way to explore** how to provide information specific to remote working in out-of-home spaces. "
 responsibilities: [Design Sprint Moderation, Brand Strategy, Experience Strategy, Customer Experience, UX Research, UX Testing, UX Design, UI Design]
 ---
 
@@ -103,7 +103,7 @@ content="Through the Google Ventures sprint process, an MVP was created for find
 ## The Debrief
 
 {% include case_h3_block.html 
-title="Next Steps" 
+title="Next Steps <br>& Key Learnings" 
 content="With only one key flow addressed, the **next steps include building out the next flows for another round of testing.** It would also need to go through a round of stakeholder approvals considering the quick process. **As this app would be used on-the-go, it would help to understand if it is easy-to-use in context.**" %}
 
 {% capture info-highlight %}

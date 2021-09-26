@@ -1,13 +1,13 @@
 ---
 layout: casestudy
 title:  Discover and collect artwork of emerging artists
-description: Establishing the brand vision and UX/UI and for the Artvoy website
+description: Establishing the brand vision and UX/UI for the Artvoy website
 project_name: Artvoy website
 category: Creativity
 image: /assets/images/casestudies/artvoy/artvoy_hero_image.jpg
 thumbnail: /assets/images/casestudies/artvoy/artvoy_thumbnail.jpg
-overview: "Artvoy is a voyage into art. The platform utilises **curated search, viewing possibilities, flexible payment and ownership options** to attract and convert younger users. Its approachability attracts new collectors, while **its sense of exploration challenges the more experienced. All the work completed was done as a team of one.**"  
-challange: "**Artvoy sells paintings over 5k on their mobile-web experience.** They find it **difficult to acquire and convert new, younger users. Younger users are abandoning the website without moving any items to their cart.** Additionally, 70% of younger users who place items in their cart do not purchase a piece."
+challange: "**Artvoy sells paintings over 5k on their mobile-web experience.** They find it **difficult to acquire and convert new, younger users. Younger users are abandoning the website without moving any items to their cart.** Additionally, 70% of younger users who place items in their cart do not purchase a piece. "  
+approach: "**Created the concept single-handed over a series of weeks.** As the artworld is changing, I wanted to take into consideration both the user and expert perspective. **By focusing on the research and concept phase, a platform emerged** that attracted and converted younger users by offering flexibility and tailored options."
 responsibilities: [Brand Strategy, Experience Strategy, Customer Experience, UX Research, UX Testing, UX Design, UI Design]
 ---
 
@@ -132,7 +132,7 @@ content="Younger art collectors are provided **curated options to narrow their s
 ## The Debrief
 
 {% include case_h3_block.html 
-title="Next Steps" 
+title="Next Steps <br>& Key Learnings" 
 content="**Artvoy features patterns that deviate from normal ecomm experiences due to the nature of an art purchase at that price.** For this reason, these would require further testing. This could be done through **A/B testing on key pages**. Once launching the site, it would be **beneficial to understand how users are reacting to the three call-to-actions and booking on the product page.**" %}
 
 {% capture info-highlight %}
