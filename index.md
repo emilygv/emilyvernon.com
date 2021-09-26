@@ -23,7 +23,7 @@ icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
 
 {% assign featured_works = site.casestudies | where:"featured", true  %}
 {% for post in featured_works %}
-  {% include workhighlight.html content=post button="See more" button_link="/work" %}
+  {% include section_post.html content=post %}
 {% endfor %}
 
 {% include blockquote.html 

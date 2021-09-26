@@ -9,8 +9,7 @@ layout: page
         <p>{{page.title}}</p>
       </div>
       <div class="col-lg-4 offset-lg-1">
-        <p class="text-muted fw-500 fs-2 mb-2">{{page.subtitle}}</p>
-        <p class="text-muted">{{page.category}}</p>
+        <p class="text-muted fw-500 fs-2 mb-2">{{page.description}}</p>
       </div>
     </div>
 
@@ -57,12 +56,12 @@ layout: page
 <div class="d-flex justify-content-between mt-4 mb-6">
   <div class="p-2">
     {% if page.previous.url %}
-    <a href="{{page.previous.url}}" class="fs-4 fw-bold">&laquo; Previous Case Study,  {{page.previous.subtitle}}</a>
+    <a href="{{page.previous.url}}" class="fs-4 fw-bold">&laquo; Previous Case Study,  {{page.previous.project_name}}</a>
     {% endif %}
   </div>
   <div class="p-2">
     {% if page.next.url %}
-    <a href="{{page.next.url}}" class="fs-4 fw-bold">Next Case Study, {{page.next.subtitle}} &raquo;</a>
+    <a href="{{page.next.url}}" class="fs-4 fw-bold">Next Case Study, {{page.next.project_name}} &raquo;</a>
     {% endif %}
   </div>
 </div>

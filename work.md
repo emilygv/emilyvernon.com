@@ -5,5 +5,5 @@ title: Work
 ---
 
 {% for post in site.casestudies %}
-  {% include workhighlight.html content=post %}
+  {% include section_post.html content=post %}
 {% endfor %}

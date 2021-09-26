@@ -1,10 +1,12 @@
 ---
 layout: casestudy
 title: Personalised yoga therapy for at-home practice
-subtitle: Yogabox app
+description: Leading UX/UI and creative direction for the Yogabox app
+project_name: Yogabox app
 category: Wellbeing
 featured: true
 image: /assets/images/casestudies/yogabox/yogabox_hero_image.jpg
+thumbnail: /assets/images/casestudies/yogabox/yogabox_thumbnail.jpg
 overview: "**Yogabox provides personalised yoga courses, focused on the therapeutic benefits of better alignment.** Interactive modules, real-time feedback and 1:1 advice ensure yoga students feel more confident. **Meaningful nteractions with students elevates yoga teachers to an advisor role. All the work shown is my own.**"  
 challange: "**There is no centralised platform empowering both yoga students and independent yoga teachers.** When following video classes at-home, **yoga students are concerned about misalignment. Yoga teachers are missing personalised connections with students,** and view themselves as more than just fitness instructors."
 responsibilities: [Brand Strategy, Experience Strategy, UX Research, UX Testing, UX Design, UI Design]

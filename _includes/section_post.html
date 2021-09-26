@@ -1,0 +1,14 @@
+{% assign item=include.content %}
+
+{% assign link= item.url | relative_url %}
+
+<section class="section-workhighlight mt-3">
+{% include hero_intro.html
+  content= item
+  focus_image= true
+  breakout= false
+  text_class= ""
+  button_title = "Read more"
+  button_link = link
+  %}
+</section>

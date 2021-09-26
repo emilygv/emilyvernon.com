@@ -1,9 +1,11 @@
 ---
 layout: casestudy
 title: Find your ideal remote working location
-subtitle: PostUp app
+description: Creating the PostUp app’s MVP through a Google Sprint
+project_name: PostUp app
 category: Travel
 image: /assets/images/casestudies/postup/postup_hero_image.png
+thumbnail: /assets/images/casestudies/postup/postup_thumbnail.jpg
 overview: "**PostUp provides immediate access to information specific to remote working in out-of-home spaces.** The suggested places nearby help users find a place quickly, while **location profiles are built with real-time, peer-to-peer and profile-driven data. I completed this project as a solo Google Ventures design sprint.**"  
 challange: "**Freelancers and remote workers want to find great coffee shops, free spaces and public spaces to work from.** There is a possibility that the chosen location will not have what they need, or the staff are lukewarm to remote workers. **Currently, they are frustrated by the time spent looking for places to work.**"
 responsibilities: [Design Sprint Moderation, Brand Strategy, Experience Strategy, Customer Experience, UX Research, UX Testing, UX Design, UI Design]

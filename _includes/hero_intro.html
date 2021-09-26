@@ -1,35 +1,70 @@
-{% assign item=include 
-  %}
+{% assign item=include.content %}
 {% assign breakout = include.breakout %}
 {% assign class = include.class %}
 
+{% unless item %}
+{% assign item=include
+  %}
+{% endunless %}
+
+{% if include.button_title %}
+{% assign button_title = include.button_title %}
+{% else %}
+{% assign button_title = item.button_title %}
+{% endif %}
+
+{% if include.button_link %}
+{% assign button_link = include.button_link %}
+{% else %}
+{% assign button_link = item.button_link %}
+{% endif %}
 
 {% unless breakout == false%}
 {% assign breakout = true %}
 {% endunless %}
 
+{% if item.thumbnail %}
+{% assign image = item.thumbnail %}
+{% else %}
+{% assign image = item.image %}
+{% endif %}
+
+{% if include.focus_image %}
+{% assign col_text = 5 %}
+{% assign col_img = 7 %}
+{% assign col_br = 'md' %}
+{% else %}
+{% assign col_text = 7 %}
+{% assign col_img = 5 %}
+{% assign col_br = 'md' %}
+{% endif %}
+
+{% if include.text_class %}
+{% assign text_class = include.text_class %}
+{% else %}
+{% assign text_class = "text-primary" %}
+{% endif %}
+
 {% if breakout %}
-<div class="breakout bg-lgrey pt-5 pb-3 mb-3 {{class}}">
+<div class="breakout bg-lgrey py-5 mb-3 {{class}}">
   <div class="container">
 {% endif %}
-<div class="text-primary">
-  <div class="row align-items-center">
-    <div class="col-7 mb-4 mb-lg-0">
-      <h2 class="mb-4 mb-lg-5">{{item.title}}</h2>
-      <p class="fs-lg-2 fs-3 mb-3 mb-lg-5"><strong>{{item.subtitle}}</strong></p>
-      <p class="fs-lg-2 fs-3 fw-500 mb-3 mb-lg-5">{{item.description}}</p>
-      {% if item.button_title %}
-        {% if item.button_link_new_window %}
-        {% assign target = 'target="_blank"' %}
-        {% else %}
-        {% assign target = '' %}
-        {% endif %}
-      <p class="pt-4 text-lg-start"><a href="{{item.button_link}}" {{target}} class="btn btn-outline-primary">{{item.button_title}}</a></p>
+<div class="row align-items-center {{text_class}}">
+  <div class="col-12 col-{{col_br}}-{{col_text}}">
+    <h2 class="mb-4 mb-lg-5 pt-0">{{item.title | escape}}</h2>
+    {% if item.subtitle %}<p class="fs-lg-2 fs-3 mb-3 mb-lg-5"><strong>{{item.subtitle}}</strong></p>{% endif %}
+    {% if item.description %}<p class="fs-lg-2 fs-3 fw-500 mb-3 mb-lg-5">{{item.description}}</p>{% endif %}
+    {% if button_title %}
+      {% if item.button_link_new_window %}
+      {% assign target = 'target="_blank"' %}
+      {% else %}
+      {% assign target = '' %}
       {% endif %}
-    </div>
-    <div class="col-4 text-center text-lg-start">
-      <img src="{{item.image}}" alt="">
-    </div>
+    <p class="pt-4 text-lg-start"><a href="{{button_link}}" {{target}} class="btn btn-outline-primary">{{button_title}}</a></p>
+    {% endif %}
+  </div>
+  <div class="col-12 col-{{col_br}}-{{col_img}}">
+    <img src="{{image}}" alt="">
   </div>
 </div>
 {% if breakout %}
