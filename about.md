@@ -20,7 +20,7 @@ As a Global Experience Lead, my goal is to enable brands and companies to better
 
 After spending over a decade working within product design, CX, service design and UX/UI, I know how to drive audience engagement, build brands and bring value to a business. Interacting with your audience at the right time, on the right platform and with the right tone is key.
 
-It’s been an honor to have worked with some of the top brands within creativity, travel, beauty and wellness, including Lego, IHG, Estée Lauder, Nike and currently Reckitt. Collaborations with these brands and others have been featured in Highsnobiety, Hypebeast, Wallpaper*, Transform and Glamcult. 
+It’s been an honor to have worked with some of the top brands within creative, travel, beauty and wellness, including Lego, IHG, Estée Lauder, Nike and currently Reckitt. Collaborations with these brands and others have been featured in Highsnobiety, Hypebeast, Wallpaper*, Transform and Glamcult. 
 
 I hold a BA in industrial design from the Rhode Island School of Design, and practically have a second degree after Googling everything that’s on my mind over the last fifteen years. 
 {% endcapture %}
