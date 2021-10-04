@@ -134,7 +134,7 @@ content="**Yogabox brings together the convenience of practicing at home with th
 
 ![](/assets/images/casestudies/yogabox/yogabox_final_version.png)
 
-{% include figma_link.html link= "#" %}
+{% include figma_link.html link= "https://www.figma.com/proto/PXTn7WsnP9QklfCvazO3KQ/Yogabox?node-id=179%3A5229&scaling=scale-down&page-id=179%3A4255&starting-point-node-id=769%3A2&show-proto-sidebar=1" %}
 
 ## The Debrief
 
