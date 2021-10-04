@@ -56,7 +56,7 @@ content="**Day 3, Design Sprint**: Instead of creating user flows, **key microin
 ![](/assets/images/casestudies/postup/postup_interaction_storyboard.png)
 
 {% include case_h3_block.html 
-title="Style Guide" 
+title="Design System" 
 content="**Day 4, Design Sprint:  Expanded the existing brand colour and graphics to create a friendly, straightforward and ‘fresh start’ visual language.** The palette is energising and calming, helping users when they make prompt decisions. **Iconography plays an important role in making information immediate**, especially amenities and services. " %}
 
 ![](/assets/images/casestudies/postup/postup_style_guide.png)
