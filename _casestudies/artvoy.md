@@ -61,7 +61,7 @@ reference="Suska, Art Gallery Manager" %}
 
 {% include case_h3_block.html 
 title="Brand Strategy" 
-content="Today, aspects of art purchasing or enjoyment are unclear or out-of-reach, especially for our New to Art users. O**ur brand platform looks to counter this through our approachability, dynamism and reliability.** We believe art should be enjoyed by the younger generation, who grew up with **different expectations around owning or discovering art.**" %}
+content="Today, aspects of art purchasing or enjoyment are unclear or out-of-reach, especially for our New to Art users. **Our brand platform looks to counter this through our approachability, dynamism and reliability.** We believe art should be enjoyed by the younger generation, who grew up with **different expectations around owning or discovering art.**" %}
 
 {% capture info-highlight %}
 #### Mission/Vision
