@@ -67,7 +67,7 @@ reference="Hannah, Yoga Teacher" %}
 ## Define
 
 {% include case_h3_block.html 
-title="Brand Strategy" 
+title="Design System" 
 content="Yogabox’s ‘unyoganess’, or **break from the expected expression of yoga, helps to create a space without judgement**. Yogabox contributes a new perspective to the wellness and fitness space by **bringing a sense of approachability, optimism and interactivity to yoga**. The name takes cues from both bento and subscription boxes, reflecting the **modularity, convenience and personalisation.**" %}
 
 {% capture info-highlight %}
