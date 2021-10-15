@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title:  Engaging and encouraging job interview preparation
-description: 
+title: Building engaging stories for job interviews
+description: Collaborating on a new feature for Savviest’s job platform
 project_name: Savviest feature
 category: Creativity
 image: /assets/images/casestudies/artvoy/artvoy_hero_image.jpg
@@ -120,7 +120,7 @@ Users were unsure of the difference between practice and record, as well as what
 
 {% include case_h3_block.html 
 title="Overview" 
-content="Younger art collectors are provided **curated options to narrow their search, enabling them to find the painting that will enhance their life.** There is a degree of flexibility during consideration and purchase. Services like monthly payment plans and renting **provides a lower barrier to acquiring art**, while appointment bookings speak to the desire to see paintings in-person. " %}
+content="By focusing on the red routes, **we were able to create a focused concept around building and practicing your stories.** This emphasis on modular content reflected the Savviest platform, and **enabled users to have better conversations during job interviews.** The key deliverable was wireframes, however we also did five high fidelty screens to demonstrate the final execution." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_final_version.jpg)
 
