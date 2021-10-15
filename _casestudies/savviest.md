@@ -15,31 +15,31 @@ responsibilities: [Workshop Moderation, Stakeholder Management, Experience Strat
 
 {% include case_h3_block.html 
 title="Meet Users and Experts" 
-content="Both art collectors and gallery owners agreed that **art purchases of that scale are still emotionally-driven and seen as a way to enhance life.** Art purchases of this type are not regarded as investments. Users **buy on aesthetics and want to make a spontaneous purchase. Trust, credibility and communicating value are key** to convert users on a new platform." %}
+content="**There are two sides to interviewing: the interviewee and interviewer. For this reason, we spoke to both users and experts.** Our users were individuals currently or recently going through job interviews, while experts included hiring managers, career coaches and recruiters. **We were able to analyse how users prepped versus what hiring managers looked for in a candidate.**" %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_context.jpg)
 
 ![](/assets/images/casestudies/artvoy/artvoy_affinity_map.jpg)
 {% include img_caption.html 
 title="Affinity diagram" 
-content="90 insights were gathered and organised after conducting nine interviews with both potential users and art experts for a total of 7 hours of video." %}
+content="Conducted five of ten interviews across users and experts for a total of 4 hours of video. The stickers are votes from the team in terms of important or interesting points." %}
 
 {% capture info-highlight %}
 #### Users emphasised:
-Art is a means to express yourself and tell your story. Many viewed art as meaningful home decor, even taking pieces home to try in their home before purchasing.
+Building confidence for interviews by creating a toolbox of questions and answers. Their best interviews felt like conversations.
 |
 #### Experts emphasised:
-Findability is a challenge for gallery owners and paintings lose their magic online. Selling a painting takes time, where some clients prefer to see a piece in-person.
+The importance of doing your homework, as it can make an interview feel more like a conversation.
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
 
 {% include blockquote.html 
-content="The art I collect reflects who I am and where I’ve been. My collection is a mix of European, South African and Dutch." 
-reference="Corey, Art Collector" %}
+content="Since I started preparing for interviews, my confidence has  increased. I don’t need to come up with something on-the-spot." 
+reference="Donovan, Data Analyst" %}
 
 {% include case_h3_block.html 
 title="Sharpen User Understanding" 
-content="**New to Art and Art Collectors are the two personas** of young art collectors. **New to Art users feel hesitant about their ability to select artwork**, and are open to learning more about art and art collecting. **Existing Art Collectors are looking to find pieces to complement or even challenge their existing collection**, while discovering new artists." %}
+content="Savviest had a general understanding of its demographics, however **we needed to better understand the types of users who would benefit from this platform.** For this reason, we chose archetypes over personas. This helped us **focus on key user needs. We used insights from the user and expert interviews to form our archetypes.**" %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_user_persona_01.png)
 
@@ -47,34 +47,31 @@ content="**New to Art and Art Collectors are the two personas** of young art col
 
 {% include case_h3_block.html 
 title="Competitor Landscape" 
-content="**The opportunity lies in helping users make decisions.** This is varied across the broader competitor set, where **other experiences such as purchasing a house or furniture can be used as inspiration.** Secondly, users want to ensure the artwork and **platform is legitimate, and overall purchase worry-free.**" %}
+content="**There are a range of interview preparation platforms available.** Some are specialised and others within a greater job search readiness platform. After evaluating these two areas, we learned **platforms focused on questions or coaching. The idea of creating conversations and shaping your stories was not addressed.**" %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_competitor_research.png)
 
 ![](/assets/images/casestudies/artvoy/artvoy_feature_comparison.png)
 
 {% include blockquote.html 
-content="Clients are interested in how a painting will look in their home. We even photoshopped paintings into their spaces." 
-reference="Suska, Art Gallery Manager" %}
+content="I find that interactive training is more beneficial. The ideas resonate better and they take more away." 
+reference="Lynda, Career Coach & Recruiter" %}
 
 ## Define
 
 {% include case_h3_block.html 
-title="Design System" 
-content="Today, aspects of art purchasing or enjoyment are unclear or out-of-reach, especially for our New to Art users. **Our brand platform looks to counter this through our approachability, dynamism and reliability.** We believe art should be enjoyed by the younger generation, who grew up with **different expectations around owning or discovering art.**" %}
+title="Product Strategy" 
+content="**We created a Lean Concept Canvas after the workshops with stakeholders to review the results.** This helped to focus our efforts for the MVP. Our stakeholders were keen to roll out features overtime, and launch with the most impactful solution. **Savviest’s content focus, yet personal approach is a unique space to develop within interview preparation.**" %}
 
 {% capture info-highlight %}
-#### Mission/Vision
-Offer young art collectors a platform to discover and enjoy emerging artists through a flexible, reliable and inspiring experience.
+#### Unique Value Proposition
+Flexible, holistic stories transforming job interviews into enjoyable conversations.
 |
-#### Brand Personality
-Our brand looks to bring dynamism and accessibility to art collecting, while still reflecting the awe and wonder of the artworld. 
+#### Unfair Advantage
+Savviest provides accessible tools that tailor content to a specific job and users interact with the platform overtime.
 |
-#### Brand Attributes
-Cultured: reflects the artworld
-Shrewd: breadth of knowledge
-Passion: energy and engagement
-Reliable: creates trust
+#### Problem Statement
+How might we help users confidently create and tailor their stories for job interviews? 
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
 
@@ -84,7 +81,7 @@ Reliable: creates trust
 
 {% include case_h3_block.html 
 title="Structure + Flow" 
-content="**In order to improve conversion, three flows were considered. Conversion happens overtime**, where users mentioned the value and desire to see paintings in-person. **The site map looked to overcome catalog-heavy art platforms** by integrating inspiration, advice and the ability to learn more about art to encourage enjoyable exploration." %}
+content="As the interview feature was included as a part of an existing platform, **we needed to understand how it would fit in and reflect the existing UI patterns.** This was done through sketching and analysing the current user experience. It was necessary to **access the interview preparation features through both the job tracker and the main navigation**, much like the resume or cover letter builders." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_site_map_user_flows.png)
 
@@ -94,28 +91,28 @@ content="**In order to improve conversion, three flows were considered. Conversi
 
 {% include case_h3_block.html 
 title="Overview" 
-content="Conducted two user tests, one for wireframes and the other for the high-fidelity prototype. Looked to uncover usability issues within the red routes. **Ensuring the product search was clear, appointment booking was appropriate to the overall customer journey and monthly payment process provided the needed information were key focuses.** Tested on five users per round of testing." %}
+content="**The two red routes were tested with five recent or current job seekers who reflected our archetypes.** This included users who are moving up or pivoting from other careers. **These were split between our team of two, and insight consolidated in a Google doc and affinity map.** The latter was a more interactive way to share with the greater team." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_initial_screens.jpg)
 
 {% capture info-highlight %}
-#### 1. Obviously Art 
-Though the inspirational sections were helpful, users wanted to see art on the homepage.
+#### 1. Notes is Considered Interview  Preparation as Well
+The call-to-action, ‘Prep for Interview’ was not clear as users also considered note taking part of the prep process.
 |
-#### 2. Clear Search Diagram
-More clarity was desired on the diagram’s meaning or how it related to result categories.
+#### 2. Relevant Storybuilding Prompts
+Walking through prompts for building out interview answers was exciting for users, but did not seem to match with the proposed STAR structure.
 |
-#### 3. Encourage Exploration
-Ensure users are able to continue exploring when finished with certain tasks or searches.
+#### 3. Expects Personalised Question Sets
+Seeing question sets not recommended to them firstly was confusing, and users expected and valued personalisation.
 |
-#### 4. Importance of Dimensions
-Users wanted to see dimensions earlier on, as it is an important consideration for art purchases.
+#### 4. Likes Writing Own Questions
+Users liked writing their own questions, as they knew which ones would be asked or had ones specifically on their mind.
 |
-#### 5. Repeat Bookings
-If users were booking multiple viewings, the existing flow took too much time.
+#### 5. Writing Answers and Practicing is Not Always Sequential
+Users wanted to practice individual questions, or jump into a round of running through questions before writing answers.
 |
-#### 6. Clear Monthly Payment
-Improve information available on monthly payments to avoid confusion during the process.
+#### 6. Clarify Practice Options 
+Users were unsure of the difference between practice and record, as well as what practice entailed. 
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
 
@@ -133,7 +130,7 @@ content="Younger art collectors are provided **curated options to narrow their s
 
 {% include case_h3_block.html 
 title="Next Steps <br>& Key Learnings" 
-content="**Artvoy features patterns that deviate from normal ecomm experiences due to the nature of an art purchase at that price.** For this reason, these would require further testing. This could be done through **A/B testing on key pages**. Once launching the site, it would be **beneficial to understand how users are reacting to the three call-to-actions and booking on the product page.**" %}
+content="It was necessary to think about both the ideal and ability of the start-up. For the time allocated, we were able to do one round of testing, however **this would require another round of user testing. We were able to explore improving the job profile and making it more mobile-friendly, but this should be further development.** A product roadmap would help with all points mentioned." %}
 
 {% capture info-highlight %}
 #### High-Ticket is Still Emotional
