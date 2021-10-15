@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 layout: casestudy
 title: Building engaging stories for job interviews
 description: Collaborating on a new feature for Savviest’s job platform
