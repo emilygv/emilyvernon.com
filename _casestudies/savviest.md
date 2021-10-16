@@ -85,7 +85,7 @@ content="As the interview feature was included as a part of an existing platform
 
 ![](/assets/images/casestudies/savviest/savviest-sketch_screens.jpg)
 
-![](/assets/images/casestudies/savviest/ssavviest-user_flows.png)
+![](/assets/images/casestudies/savviest/savviest-user_flows.png)
 
 ## Validate
 
