@@ -89,7 +89,7 @@ content="As the interview feature was included as a part of an existing platform
 
 {% include case_h3_block.html 
 title="Overview" 
-content="**The two red routes were tested with five recent or current job seekers who reflected our archetypes.** This included users who are moving up or pivoting from other careers. **These were split between our team of two, and insight consolidated in a Google doc and affinity map.** The latter was a more interactive way to share with the greater team." %}
+content="**The three red routes were tested with five recent or current job seekers who reflected our archetypes.** This included users who are moving up or pivoting from other careers. **These were split between our team of two, and insight consolidated in a Google doc and affinity map.** The latter was a more interactive way to share with the greater team." %}
 
 ![](/assets/images/casestudies/savviest/savviest-user_testing-screens.jpg)
 
