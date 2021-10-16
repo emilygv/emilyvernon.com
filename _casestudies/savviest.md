@@ -135,13 +135,13 @@ title="Next Steps <br>& Key Learnings"
 content="It was necessary to think about both the ideal and ability of the start-up. For the time allocated, we were able to do one round of testing, however **this would require another round of user testing. We were able to explore improving the job profile and making it more mobile-friendly, but this should be further development.** A product roadmap would help with all points mentioned." %}
 
 {% capture info-highlight %}
-#### High-Ticket is Still Emotional
-Purchasing a painting by emerging artists even above 5k is still emotional. This influences how paintings are shown and what information is valued. 
+#### Factoring in Collaboration Time
+While project planning, time for collaboration was not taken into account. It is necessary to ensure there is extra time for sharing work.
 |
-#### Conversions can Include Offline
-Many users still valued seeing a painting in-person. This means the time to convert is longer, and should be accommodated within a digital platform. 
+#### Prioritising Features
+Within a smaller start-up, the need to prioritise is key. It was helpful to have discussions from both an experience and dev side.
 |
-#### Social Media’s Influence 
-Instagram made it easier to view curations, interior design ideas and artistic process. This level of accessible is valued within higher price purchases as well. 
+#### Unifying Styles
+As a UX/UI team, our collaboration was strong, however we could improve aligning visual styles to create a more consistent wireframe.
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
