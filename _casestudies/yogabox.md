@@ -90,7 +90,7 @@ Supportive: build trust
 ## Design
 
 {% include case_h3_block.html 
-title="Structure + Flow" 
+title="Structure & Flow" 
 content="**Students were the focus for conceptual app development.** Getting started with the app, and continuing to use it while improving yoga alignment was important to understand. Five flows (four student and one teacher) were explored, in addition to a site map specific to students. **The most important aspects included clarity of flow and information to ensure the concept was immediate.**" %}
 
 ![](/assets/images/casestudies/yogabox/yogabox_user_flows.png)
