@@ -17,9 +17,7 @@ responsibilities: [Workshop Moderation, Stakeholder Management, Experience Strat
 title="Meet Users and Experts" 
 content="**There are two sides to interviewing: the interviewee and interviewer. For this reason, we spoke to both users and experts.** Our users were individuals currently or recently going through job interviews, while experts included hiring managers, career coaches and recruiters. **We were able to analyse how users prepped versus what hiring managers looked for in a candidate.**" %}
 
-![](/assets/images/casestudies/artvoy/artvoy_context.jpg)
-
-![](/assets/images/casestudies/artvoy/artvoy_affinity_map.jpg)
+![](/assets/images/casestudies/savviest/savviest-affinity_map.png)
 {% include img_caption.html 
 title="Affinity diagram" 
 content="Conducted five of ten interviews across users and experts for a total of 4 hours of video. The stickers are votes from the team in terms of important or interesting points." %}
@@ -41,17 +39,19 @@ reference="Donovan, Data Analyst" %}
 title="Sharpen User Understanding" 
 content="Savviest had a general understanding of its demographics, however **we needed to better understand the types of users who would benefit from this platform.** For this reason, we chose archetypes over personas. This helped us **focus on key user needs. We used insights from the user and expert interviews to form our archetypes.**" %}
 
-![](/assets/images/casestudies/artvoy/artvoy_user_persona_01.png)
+![](/assets/images/casestudies/savviest/savviest-user_archetype_01.jpg)
 
-![](/assets/images/casestudies/artvoy/artvoy_user_persona_02.png)
+![](/assets/images/casestudies/savviest/savviest-user_archetype_02.jpg)
+
+![](/assets/images/casestudies/savviest/savviest-user_archetype_03.jpg)
 
 {% include case_h3_block.html 
 title="Competitor Landscape" 
 content="**There are a range of interview preparation platforms available.** Some are specialised and others within a greater job search readiness platform. After evaluating these two areas, we learned **platforms focused on questions or coaching. The idea of creating conversations and shaping your stories was not addressed.**" %}
 
-![](/assets/images/casestudies/artvoy/artvoy_competitor_research.png)
+![](/assets/images/casestudies/savviest/savviest-competitor_overview.jpg)
 
-![](/assets/images/casestudies/artvoy/artvoy_feature_comparison.png)
+![](/assets/images/casestudies/savviest/savviest-competitor_table.png)
 
 {% include blockquote.html 
 content="I find that interactive training is more beneficial. The ideas resonate better and they take more away." 
@@ -75,7 +75,7 @@ How might we help users confidently create and tailor their stories for job inte
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
 
-![](/assets/images/casestudies/artvoy/artvoy_style_guide.jpg)
+![](/assets/images/casestudies/savviest/savviest-product_positioning.png)
 
 ## Design
 
@@ -83,9 +83,7 @@ How might we help users confidently create and tailor their stories for job inte
 title="Structure + Flow" 
 content="As the interview feature was included as a part of an existing platform, **we needed to understand how it would fit in and reflect the existing UI patterns.** This was done through sketching and analysing the current user experience. It was necessary to **access the interview preparation features through both the job tracker and the main navigation**, much like the resume or cover letter builders." %}
 
-![](/assets/images/casestudies/artvoy/artvoy_site_map_user_flows.png)
-
-![](/assets/images/casestudies/artvoy/artvoy_sketch.png)
+![](/assets/images/casestudies/savviest/savviest-sketch_screens.jpg)
 
 ## Validate
 
@@ -93,7 +91,7 @@ content="As the interview feature was included as a part of an existing platform
 title="Overview" 
 content="**The two red routes were tested with five recent or current job seekers who reflected our archetypes.** This included users who are moving up or pivoting from other careers. **These were split between our team of two, and insight consolidated in a Google doc and affinity map.** The latter was a more interactive way to share with the greater team." %}
 
-![](/assets/images/casestudies/artvoy/artvoy_initial_screens.jpg)
+![](/assets/images/casestudies/savviest/savviest-user_testing-screens.jpg)
 
 {% capture info-highlight %}
 #### 1. Notes is Considered Interview  Preparation as Well
@@ -122,9 +120,7 @@ Users were unsure of the difference between practice and record, as well as what
 title="Overview" 
 content="By focusing on the red routes, **we were able to create a focused concept around building and practicing your stories.** This emphasis on modular content reflected the Savviest platform, and **enabled users to have better conversations during job interviews.** The key deliverable was wireframes, however we also did five high fidelty screens to demonstrate the final execution." %}
 
-![](/assets/images/casestudies/artvoy/artvoy_final_version.jpg)
-
-{% include figma_link.html link= "https://www.figma.com/proto/2wO79gWoFPlEYadDIbHXCF/Artvoy?node-id=754%3A391&scaling=min-zoom&page-id=754%3A390&starting-point-node-id=754%3A391&show-proto-sidebar=1" %}
+{% include figma_link.html link= "https://www.figma.com/proto/EtpQmFAPPc6IkbMNjBCVYh/Interview-Prep-Project-Work?node-id=335%3A11338&scaling=scale-down&page-id=70%3A75&starting-point-node-id=335%3A11338&show-proto-sidebar=1" %}
 
 ## The Debrief
 
