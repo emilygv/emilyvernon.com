@@ -135,7 +135,7 @@ title="Next Steps <br>& Key Learnings"
 content="It was necessary to think about both the ideal and ability of the start-up. For the time allocated, we were able to do one round of testing, however **this would require another round of user testing. We were able to explore improving the job profile and making it more mobile-friendly, but this should be further development.** A product roadmap would help with all points mentioned." %}
 
 {% capture info-highlight %}
-#### Factoring in Collaboration Time
+#### Collaboration Planning
 While project planning, time for collaboration was not taken into account. It is necessary to ensure there is extra time for sharing work.
 |
 #### Prioritising Features
