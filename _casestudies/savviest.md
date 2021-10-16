@@ -96,7 +96,7 @@ content="**The three red routes were tested with five recent or current job seek
 ![](/assets/images/casestudies/savviest/savviest-user_testing-screens.jpg)
 
 {% capture info-highlight %}
-#### 1. Notes is Considered Interview  Preparation as Well
+#### 1. Notes Considered Interview Prep
 The call-to-action, ‘Prep for Interview’ was not clear as users also considered note taking part of the prep process.
 |
 #### 2. Relevant Storybuilding Prompts
@@ -108,7 +108,7 @@ Seeing question sets not recommended to them firstly was confusing, and users ex
 #### 4. Likes Writing Own Questions
 Users liked writing their own questions, as they knew which ones would be asked or had ones specifically on their mind.
 |
-#### 5. Writing Answers and Practicing is Not Always Sequential
+#### 5. Writing and Practicing Not Always Sequential
 Users wanted to practice individual questions, or jump into a round of running through questions before writing answers.
 |
 #### 6. Clarify Practice Options 
