@@ -96,7 +96,9 @@ Seating availability feature was valued but partially unclear, as users did not 
 title="Overview" 
 content="Through the Google Ventures sprint process, an MVP was created for finding remote work locations. **The intuitive experience and information structure enables users to find a location quickly, even between meetings. A fresh, uplifting and clean look & feel makes the app and its options feel friendly.** This is important as remote workers want to feel welcome." %}
 
-![](/assets/images/casestudies/postup/postup_final_version.png) 
+![](/assets/images/casestudies/postup/postup-final_01.png) 
+
+![](/assets/images/casestudies/postup/postup-final_02.png) 
 
 {% include figma_link.html link= "https://www.figma.com/proto/dgQN8UBm4t4dQPTyb3MEX8/PostUp?node-id=1%3A563&scaling=scale-down&page-id=0%3A1&starting-point-node-id=24%3A104&show-proto-sidebar=1" %}
 
