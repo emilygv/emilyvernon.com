@@ -105,7 +105,7 @@ content="Through the Google Ventures sprint process, an MVP was created for find
 ## The Debrief
 
 {% include case_h3_block.html 
-title="Next Steps <br>& Key Learnings" 
+title="Next Steps <br>and Learnings" 
 content="With only one key flow addressed, the **next steps include building out the next flows for another round of testing.** It would also need to go through a round of stakeholder approvals considering the quick process. **As this app would be used on-the-go, it would help to understand if it is easy-to-use in context.**" %}
 
 {% capture info-highlight %}
