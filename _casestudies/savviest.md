@@ -14,7 +14,7 @@ responsibilities: [Workshop Moderation, Stakeholder Management, Experience Strat
 ## Discover
 
 {% include case_h3_block.html 
-title="Meet Users & Experts" 
+title="Meet Users and Experts" 
 content="**There are two sides to interviewing: the interviewee and interviewer. For this reason, we spoke to both users and experts.** Our users were individuals currently or recently going through job interviews, while experts included hiring managers, career coaches and recruiters. **We were able to analyse how users prepped versus what hiring managers looked for in a candidate.**" %}
 
 ![](/assets/images/casestudies/savviest/savviest-affinity_map.png)
@@ -80,7 +80,7 @@ How might we help users confidently create and tailor their stories for job inte
 ## Design
 
 {% include case_h3_block.html 
-title="Structure & Flow" 
+title="Structure and Flow" 
 content="As the interview feature was included as a part of an existing platform, **we needed to understand how it would fit in and reflect the existing UI patterns.** This was done through sketching and analysing the current user experience. It was necessary to **access the interview preparation features through both the job tracker and the main navigation**, much like the resume or cover letter builders." %}
 
 ![](/assets/images/casestudies/savviest/savviest-sketch_screens.jpg)
