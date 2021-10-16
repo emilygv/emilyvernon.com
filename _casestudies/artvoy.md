@@ -137,7 +137,7 @@ content="Younger art collectors are provided **curated options to narrow their s
 
 {% include case_h3_block.html 
 title="Next Steps <br>and Learnings" 
-content="**Artvoy features patterns that deviate from normal ecomm experiences due to the nature of an art purchase at that price.** For this reason, these would require further testing. This could be done through **A/B testing on key pages**. Once launching the site, it would be **beneficial to understand how users are reacting to the three call-to-actions and booking on the product page.**" %}
+content="**Artvoy features patterns that deviate from normal ecomm experiences due to the nature of an art purchase at that price.** For this reason, these would require further testing. This could be done through **A/B and tree testing**. Once launching the site, it would be **beneficial to understand how users are reacting to the three call-to-actions and booking on the product page.**" %}
 
 {% capture info-highlight %}
 #### High-Ticket is Still Emotional
