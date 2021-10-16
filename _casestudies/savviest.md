@@ -120,6 +120,12 @@ Users were unsure of the difference between practice and record, as well as what
 title="Overview" 
 content="By focusing on the red routes, **we were able to create a focused concept around building and practicing your stories.** This emphasis on modular content reflected the Savviest platform, and **enabled users to have better conversations during job interviews.** The key deliverable was wireframes, however we also did five high fidelty screens to demonstrate the final execution." %}
 
+![](/assets/images/casestudies/savviest/savviest-red_route-01.png)
+
+![](/assets/images/casestudies/savviest/savviest-red_route-02.png)
+
+![](/assets/images/casestudies/savviest/savviest-red_route-03.png)
+
 {% include figma_link.html link= "https://www.figma.com/proto/EtpQmFAPPc6IkbMNjBCVYh/Interview-Prep-Project-Work?node-id=335%3A11338&scaling=scale-down&page-id=70%3A75&starting-point-node-id=335%3A11338&show-proto-sidebar=1" %}
 
 ## The Debrief
