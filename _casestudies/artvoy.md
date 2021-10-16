@@ -14,7 +14,7 @@ responsibilities: [Brand Strategy, Experience Strategy, Customer Experience, UX 
 ## Discover
 
 {% include case_h3_block.html 
-title="Meet Users and Experts" 
+title="Meet Users & Experts" 
 content="Both art collectors and gallery owners agreed that **art purchases of that scale are still emotionally-driven and seen as a way to enhance life.** Art purchases of this type are not regarded as investments. Users **buy on aesthetics and want to make a spontaneous purchase. Trust, credibility and communicating value are key** to convert users on a new platform." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_context.jpg)
@@ -83,7 +83,7 @@ Reliable: creates trust
 ## Design
 
 {% include case_h3_block.html 
-title="Structure + Flow" 
+title="Structure & Flow" 
 content="**In order to improve conversion, three flows were considered. Conversion happens overtime**, where users mentioned the value and desire to see paintings in-person. **The site map looked to overcome catalog-heavy art platforms** by integrating inspiration, advice and the ability to learn more about art to encourage enjoyable exploration." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_site_map_user_flows.png)
