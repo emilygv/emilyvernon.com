@@ -84,7 +84,7 @@ Reliable: creates trust
 
 {% include case_h3_block.html 
 title="Structure and Flow" 
-content="**In order to improve conversion, three red route flows were considered. Conversion happens overtime**, where users mentioned the value and desire to see paintings in-person. **The site map looked to overcome catalog-heavy art platforms** by integrating inspiration, advice and the ability to learn more about art to encourage enjoyable exploration." %}
+content="**In order to improve conversion, three red routes were considered. Conversion happens overtime**, where users mentioned the value and desire to see paintings in-person. **The site map looked to overcome catalog-heavy art platforms** by integrating inspiration, advice and the ability to learn more about art to encourage enjoyable exploration." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_site_map_user_flows.png)
 
