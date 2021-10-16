@@ -84,7 +84,7 @@ Reliable: creates trust
 
 {% include case_h3_block.html 
 title="Structure & Flow" 
-content="**In order to improve conversion, three flows were considered. Conversion happens overtime**, where users mentioned the value and desire to see paintings in-person. **The site map looked to overcome catalog-heavy art platforms** by integrating inspiration, advice and the ability to learn more about art to encourage enjoyable exploration." %}
+content="**In order to improve conversion, three red route flows were considered. Conversion happens overtime**, where users mentioned the value and desire to see paintings in-person. **The site map looked to overcome catalog-heavy art platforms** by integrating inspiration, advice and the ability to learn more about art to encourage enjoyable exploration." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_site_map_user_flows.png)
 
@@ -125,7 +125,11 @@ Improve information available on monthly payments to avoid confusion during the 
 title="Overview" 
 content="Younger art collectors are provided **curated options to narrow their search, enabling them to find the painting that will enhance their life.** There is a degree of flexibility during consideration and purchase. Services like monthly payment plans and renting **provides a lower barrier to acquiring art**, while appointment bookings speak to the desire to see paintings in-person. " %}
 
-![](/assets/images/casestudies/artvoy/artvoy_final_version.jpg)
+![](/assets/images/casestudies/artvoy/artvoy-final_01.jpg)
+
+![](/assets/images/casestudies/artvoy/artvoy-final_02.jpg)
+
+![](/assets/images/casestudies/artvoy/artvoy-final_03.jpg)
 
 {% include figma_link.html link= "https://www.figma.com/proto/2wO79gWoFPlEYadDIbHXCF/Artvoy?node-id=754%3A391&scaling=min-zoom&page-id=754%3A390&starting-point-node-id=754%3A391&show-proto-sidebar=1" %}
 
