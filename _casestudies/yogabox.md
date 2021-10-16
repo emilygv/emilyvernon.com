@@ -143,13 +143,13 @@ title="Next Steps <br>and Learnings"
 content="**It’s clear the app is about both the experience and program structure.** By building out one hypothetical course, we could measure its engagement and effectiveness. **This pilot phase would help to test the overall concept and whether both users find it worthwhile to use overtime.** The lessons learned below can be integrated into next steps for the Yogabox." %}
 
 {% capture info-highlight %}
-#### Refine Two Users
+#### Two User Challenge
 Two user groups bring added insight and value, but also complexity. I need to focus more on the teachers for the next phase.
 |
 #### Improve Accessibility
 There are many aspects to accessibility. This requires further development to enable all users looking for theraputic benefits.
 |
-#### Explore User Flows
-It’s necessary to understand its role within the greater context. This means always building the user flows before jumping into a design.
+#### Define Personalisation
+This means different things to different users, and it is necessary to define the degree and type of personalisation required.
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
