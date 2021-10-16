@@ -8,7 +8,7 @@ image: /assets/images/casestudies/savviest/savviest-hero_image.jpg
 thumbnail: /assets/images/casestudies/savviest/savviest-thumbnail.jpg
 challange: "**Savviest is an ai-enhanced job seeking preparation platform.** They offer a resume and cover letter builder and optimiser, in addition to job search and professional coaching. **To better serve their users, Savviest is interested in creating a interview preparation tool to create a more holistic ecosystem.**"  
 approach: "**Collaborated with another UX/UI designer**, while checking-in twice a week with the Savviest team. **The two of us worked on all aspects of the process, but chose a lead per task.** This allowed us to divide the work, while still making responsibilities clear. Savviest had a solid base to build from for this feature."
-responsibilities: [Workshop Moderation, Stakeholder Management, Experience Strategy, Customer Experience, UX Research, UX Testing, UX Design, UI Design]
+responsibilities: [Workshop Moderation, Stakeholder Management, Experience Strategy, UX Research, UX Testing, UX Design, UI Design]
 ---
 
 ## Discover
