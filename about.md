@@ -11,7 +11,7 @@ hero_text: <mark>An experience lead</mark> <br><mark class="normal">with a story
 {% include hero_intro.html
 title= "Let’s start with the basics :)"
 subtitle= "I am a Los Angeles original living in Amsterdam for the past ten years."
-description= "My approach combines being brave and creative. This means challenging  perceptions and staying open to ridiculous ideas. Stand-up comedy, offshore sailing and peanut butter and jelly sandwiches keeps me going."
+description= "My approach combines being brave and creative. This means challenging perceptions and staying open to ridiculous ideas. Stand-up comedy, offshore sailing and peanut butter and jelly sandwiches keeps me going."
 image= "/assets/images/about_hero.png"
 %}
 
@@ -22,7 +22,7 @@ After spending over a decade working within product design, CX, service design a
 
 It’s been an honor to have worked with some of the top brands within creative, travel, beauty and wellness, including Lego, IHG, Estée Lauder, Nike and currently Reckitt. Collaborations with these brands and others have been featured in Highsnobiety, Hypebeast, Wallpaper*, Transform and Glamcult. 
 
-I hold a BA in industrial design from the Rhode Island School of Design, and practically have a second degree after Googling everything that’s on my mind over the last fifteen years. 
+I hold a BA in industrial design from the Rhode Island School of Design, UX/UI certification from Springboard and practically have a second degree after Googling everything that’s on my mind over the last fifteen years. 
 {% endcapture %}
 
 {% include case_h2_block.html 
