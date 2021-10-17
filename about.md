@@ -16,7 +16,7 @@ image= "/assets/images/about_hero.png"
 %}
 
 {% capture block_text %}
-As a Global Experience Lead, my goal is to enable brands and companies to better engage their audiences through end-to-end experience, whether in-person or online.
+As a Global Experience Lead, my goal is to enable brands and companies to better engage their audiences through end-to-end experience, from in-person or online.
 
 After spending over a decade working within product design, CX, service design and UX/UI, I know how to drive audience engagement, build brands and bring value to a business. Interacting with your audience at the right time, on the right platform and with the right tone is key.
 
