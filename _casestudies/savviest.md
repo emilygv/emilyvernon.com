@@ -134,7 +134,7 @@ content="By focusing on the red routes, **we were able to create a focused conce
 
 {% include case_h3_block.html 
 title="Next Steps <br>and Learnings" 
-content="It was necessary to think about both the ideal and ability of the start-up. For the time allocated, we were able to do one round of testing, however **this would require another round of user testing. We were able to explore improving the job profile and making it more mobile-friendly, but this should be further development.** A product roadmap would help with all points mentioned." %}
+content="It was necessary to think about both the ideal and ability of the start-up. For the time allocated, we were able to do one round of testing, however **this would require another round of user testing. We were able to explore improving the job profile and making it more mobile-friendly, but this should be further developed.** A product roadmap would help with all points mentioned." %}
 
 {% capture info-highlight %}
 #### Collaboration Planning
