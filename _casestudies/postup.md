@@ -98,8 +98,6 @@ content="Through the Google Ventures sprint process, an MVP was created for find
 
 ![](/assets/images/casestudies/postup/postup-final_01.png) 
 
-![](/assets/images/casestudies/postup/postup-final_02.png) 
-
 {% include figma_link.html link= "https://www.figma.com/proto/dgQN8UBm4t4dQPTyb3MEX8/PostUp?node-id=1%3A563&scaling=scale-down&page-id=0%3A1&starting-point-node-id=24%3A104&show-proto-sidebar=1" %}
 
 ## The Debrief
