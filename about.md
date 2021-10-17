@@ -22,7 +22,7 @@ After spending over a decade working within product design, CX, service design a
 
 It’s been an honor to have worked with some of the top brands within creative, travel, beauty and wellness, including Lego, IHG, Estée Lauder, Nike and currently Reckitt. Collaborations with these brands and others have been featured in Highsnobiety, Hypebeast, Wallpaper*, Transform and Glamcult. 
 
-I hold a BA in industrial design from the Rhode Island School of Design, UX/UI certification from Springboard and practically have a second degree after Googling everything that’s on my mind over the last fifteen years. 
+I hold a BA in Industrial Design from the Rhode Island School of Design, UX/UI certification from Springboard and General ham radio license. The latter will come in handy - one day.
 {% endcapture %}
 
 {% include case_h2_block.html 
