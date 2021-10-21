@@ -84,8 +84,14 @@ title="Structure and Flow"
 content="As the interview feature was included as a part of an existing platform, **we needed to understand how it would fit in and reflect the existing UI patterns.** This was done through sketching and analysing the current user experience. It was necessary to **access the interview preparation features through both the job tracker and the main navigation**, much like the resume or cover letter builders." %}
 
 ![](/assets/images/casestudies/savviest/savviest-sketch_screens.jpg)
+{% include img_caption.html 
+title="Your Storybuilder" 
+content="Enabling users to select relevant question sets for job interviews, and build or reuse their stories for each question." %}
 
 ![](/assets/images/casestudies/savviest/savviest-user_flows.png)
+{% include img_caption.html 
+title="Practice Makes Conversation" 
+content="Flashcard-inspired practice rounds that encourage users to improve their confidence level per question." %}
 
 ## Validate
 
