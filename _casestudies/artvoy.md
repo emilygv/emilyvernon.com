@@ -131,11 +131,11 @@ title="Booking In-Page"
 content="An interactive search bar and search results spectrum make it easier for users to narrow down selection." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy-final_02.jpg)
-title="Interactive Search" 
+{% title="Interactive Search" 
 content="In order to make repetitive bookings easier, this is done in-page, much like Zillow." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy-final_03.jpg)
-title="Payment Options" 
+{% title="Payment Options" 
 content="To encourage spontaneous purchases, monthly payments and rentals are available." %}
 
 {% include figma_link.html link= "https://www.figma.com/proto/2wO79gWoFPlEYadDIbHXCF/Artvoy?node-id=754%3A391&scaling=min-zoom&page-id=754%3A390&starting-point-node-id=754%3A391&show-proto-sidebar=1" %}
