@@ -133,10 +133,19 @@ title="Overview"
 content="**Yogabox brings together the convenience of practicing at home with the benefits of 1:1 instruction.** Students are able to trial their personalised yoga classes, while understanding the value of the platform in the long-term. Personalisation comes through **curated course modules plus purposeful 1:1 appointments.**" %}
 
 ![](/assets/images/casestudies/yogabox/yogabox-final_01.png)
+{% include img_caption.html 
+title="Welcoming Trial Program" 
+content="Users are able to see the value of the program through an initial assessment, practice and introductory course." %}
 
 ![](/assets/images/casestudies/yogabox/yogabox-final_02.png)
+{% include img_caption.html 
+title="Personalised Courses" 
+content="Real-time practice feedback and personalised course packages create therapeutic personalisation." %}
 
 ![](/assets/images/casestudies/yogabox/yogabox-final_03.png)
+{% include img_caption.html 
+title="Teacher Dashboard" 
+content="The platform enables teachers to track tasks and converse with yoga students." %}
 
 {% include figma_link.html link= "https://www.figma.com/proto/PXTn7WsnP9QklfCvazO3KQ/Yogabox?node-id=179%3A5229&scaling=scale-down&page-id=179%3A4255&starting-point-node-id=769%3A2&show-proto-sidebar=1" %}
 
