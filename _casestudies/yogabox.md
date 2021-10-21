@@ -135,12 +135,12 @@ content="**Yogabox brings together the convenience of practicing at home with th
 ![](/assets/images/casestudies/yogabox/yogabox-final_01.png)
 {% include img_caption.html 
 title="Welcoming Trial Program" 
-content="Users are able to see the value of the program through an initial assessment, practice and introductory course." %}
+content="Users are able to see the value of the app through an initial assessment, practice and introductory course." %}
 
 ![](/assets/images/casestudies/yogabox/yogabox-final_02.png)
 {% include img_caption.html 
-title="Personalised Courses" 
-content="Real-time practice feedback and personalised course packages create therapeutic personalisation." %}
+title="Personalised Experience" 
+content="Real-time practice feedback and tailored course packages helps users with their specific goals." %}
 
 ![](/assets/images/casestudies/yogabox/yogabox-final_03.png)
 {% include img_caption.html 
