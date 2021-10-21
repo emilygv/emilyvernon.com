@@ -84,14 +84,8 @@ title="Structure and Flow"
 content="As the interview feature was included as a part of an existing platform, **we needed to understand how it would fit in and reflect the existing UI patterns.** This was done through sketching and analysing the current user experience. It was necessary to **access the interview preparation features through both the job tracker and the main navigation**, much like the resume or cover letter builders." %}
 
 ![](/assets/images/casestudies/savviest/savviest-sketch_screens.jpg)
-{% include img_caption.html 
-title="Your Storybuilder" 
-content="Enabling users to select relevant question sets for job interviews, and build or reuse their stories for each question." %}
 
 ![](/assets/images/casestudies/savviest/savviest-user_flows.png)
-{% include img_caption.html 
-title="Practice Makes Conversation" 
-content="Flashcard-inspired practice rounds that encourage users to improve their confidence level per question." %}
 
 ## Validate
 
@@ -129,8 +123,14 @@ title="Overview"
 content="By focusing on the red routes, **we were able to create a focused concept around building and practicing your stories.** This emphasis on modular content reflected the Savviest platform, and **enabled users to have better conversations during job interviews.** The key deliverable was wireframes, however we also did five high fidelty screens to demonstrate the final execution." %}
 
 ![](/assets/images/casestudies/savviest/savviest-final_01.jpg)
+{% include img_caption.html 
+title="Your Storybuilder" 
+content="Enabling users to select relevant question sets for job interviews, and build or reuse their stories for each question." %}
 
 ![](/assets/images/casestudies/savviest/savviest-final_02.jpg)
+{% include img_caption.html 
+title="Practice Makes Conversation" 
+content="Flashcard-inspired practice rounds that encourage users to improve their confidence level per question." %}
 
 {% include figma_link.html link= "https://www.figma.com/proto/EtpQmFAPPc6IkbMNjBCVYh/Interview-Prep-Project-Work?node-id=335%3A11338&scaling=scale-down&page-id=70%3A75&starting-point-node-id=335%3A11338&show-proto-sidebar=1" %}
 
