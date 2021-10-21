@@ -131,7 +131,7 @@ title="Interactive Search"
 content="An interactive search bar and search results spectrum make it easier for users to narrow down selection." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy-final_02.jpg)
-{% include img_caption.html
+{% include img_caption.html 
 title="Booking In-Page" 
 content="In order to make repetitive bookings easier, this is done in-page, much like Zillow." %}
 
