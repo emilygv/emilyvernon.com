@@ -87,6 +87,12 @@ Supportive: build trust
 
 ![](/assets/images/casestudies/yogabox/yogabox_style_guide.png)
 
+{% include case_h3_block.html 
+title="Red Routes" 
+content="With a new platform and concept, it is important to identify the right user flows to prototype. **By mapping the red routes for students, I was able to identify the most used routes or key business drivers.** Though some of the starred routes below are out of the frequently used by all zone, they are **critical in portraying the platform's long-term value to new users.**" %}
+
+![](/assets/images/casestudies/yogabox/yogabox_red_routes.png)
+
 ## Design
 
 {% include case_h3_block.html 
