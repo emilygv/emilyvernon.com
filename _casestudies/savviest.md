@@ -63,6 +63,8 @@ reference="Lynda, Career Coach & Recruiter" %}
 title="Product Strategy" 
 content="**We created a Lean Concept Canvas after the workshops with stakeholders to review the results.** This helped to focus our efforts for the MVP. Our stakeholders were keen to roll out features overtime, and launch with the most impactful solution. **Savviest’s content focus, yet personal approach is a unique space to develop within interview preparation.**" %}
 
+![](/assets/images/casestudies/savviest/savviest-product_positioning.png)
+
 {% capture info-highlight %}
 #### Unique Value Proposition
 Flexible, holistic stories transforming job interviews into enjoyable conversations.
@@ -74,8 +76,6 @@ Savviest provides accessible tools that tailor content to a specific job and use
 How might we help users confidently create and tailor their stories for job interviews? 
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
-
-![](/assets/images/casestudies/savviest/savviest-product_positioning.png)
 
 ![](/assets/images/casestudies/savviest/savviest-impact_effort-chart.png)
 
