@@ -77,6 +77,8 @@ How might we help users confidently create and tailor their stories for job inte
 
 ![](/assets/images/casestudies/savviest/savviest-product_positioning.png)
 
+![](/assets/images/casestudies/savviest/savviest-impact_effort-chart.png)
+
 ## Design
 
 {% include case_h3_block.html 
