@@ -4,7 +4,6 @@ title: Personalised yoga therapy for at-home practice
 description: Leading UX/UI and creative direction for the Yogabox app
 project_name: Yogabox app
 category: Wellbeing
-featured: true
 image: /assets/images/casestudies/yogabox/yogabox_hero_image.jpg
 thumbnail: /assets/images/casestudies/yogabox/yogabox_thumbnail.jpg
 challange: "**There is no centralised platform empowering both yoga students and independent yoga teachers.** When following video classes at-home, **yoga students are concerned about misalignment. Yoga teachers are missing personalised connections** with students, and view themselves as more than just fitness instructors. "  
