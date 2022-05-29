@@ -1,4 +1,5 @@
 {% assign icons = include.icons | downcase  | split: ',' %}
+{% assign titles = include.titles | split: ',' %}
 {% assign title = include.title %}
 {% assign breakout = include.breakout %}
 
@@ -19,6 +20,7 @@
 <div class="row mb-{{mb}}">
   {% for item in icons %}
   {% assign icon = item | strip %}
+  {% assign icon_t = titles[forloop.index0] | strip %}
   <div class="col-lg-3 col-6 px-3 pb-2">
     <div class="shadow text-center bg-white p-5 h-100">
       <div class="icon-w pb-4">
@@ -26,7 +28,7 @@
           <use xlink:href='/assets/images/sprite/sprite.svg#{{icon}}' />
         </svg>
       </div>
-      <div class="fs-3">{{icon | capitalize}}</div>
+      <div class="fs-3">{{icon_t}}</div>
     </div>
   </div>
   {% endfor %}
