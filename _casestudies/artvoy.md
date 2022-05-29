@@ -4,6 +4,7 @@ title:  Discover and collect artwork of emerging artists
 description: Establishing the brand vision and UX/UI for the Artvoy website
 project_name: Artvoy website
 category: Creativity
+featured: true
 image: /assets/images/casestudies/artvoy/artvoy_hero_image.jpg
 thumbnail: /assets/images/casestudies/artvoy/artvoy_thumbnail.jpg
 challange: "**Artvoy sells paintings over 5k on their mobile-web experience.** They find it **difficult to acquire and convert new, younger users. Younger users are abandoning the website without moving any items to their cart.** Additionally, 70% of younger users who place items in their cart do not purchase a piece. "  
