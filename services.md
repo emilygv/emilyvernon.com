@@ -6,7 +6,10 @@ description: Experience design, brand strategy, tone of voice and stakeholder ma
 hero_text: <mark>Customising approach</mark> <mark class="normal"> <br> according to project's</mark><br><mark>needs & timeline</mark>
 ---
 
-{% include section_icons.html icons="Analyse, Articulate, Apply, Assess" breakout=true %}
+{% include section_icons.html 
+titles="Analyse, Articulate, Apply, Assess" 
+icons="Discover, Define, Design, Validate" 
+breakout=true %}
 
 {% include post_cards.html 
 title="Projects are based in the four phases above and can apply to the following services:"
