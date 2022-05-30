@@ -27,6 +27,6 @@ content="Though tablet was the key device, ensured elements scaled appropriately
 title="Vertical Scroll Table" 
 content="Chose a vertical versus horizontal scroll as it helped to see information for one order at once." %}
 
-{% include figma_link.html link= "https://www.figma.com/proto/2wO79gWoFPlEYadDIbHXCF/Artvoy?node-id=754%3A391&scaling=min-zoom&page-id=754%3A390&starting-point-node-id=754%3A391&show-proto-sidebar=1" %}
+{% include figma_link.html link= "https://www.figma.com/proto/DaSR8rMIdrrghQffVXnGnD/Bringly?node-id=170%3A631&scaling=min-zoom&page-id=5%3A210&starting-point-node-id=170%3A631&show-proto-sidebar=1" %}
 
 {% include info-highlight.html content=info-highlight %}
