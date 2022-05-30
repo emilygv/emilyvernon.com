@@ -17,7 +17,7 @@ button_title= "Here's how" button_link= "/services"
 
 {% include section_icons.html 
 title="We all want to live our best lives. This is why my focus includes the following industries:"
-titles="Creativity, Travel, Beauty, Wellbeing" 
+titles="Work, Travel, Luxury, Wellbeing" 
 icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
 
 ## Work Highlight
