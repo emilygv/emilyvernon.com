@@ -17,12 +17,12 @@ responsibilities: [Design Systems Audit, Competitor Research, Project Management
 title="Overview" 
 content="As Bringly is a start-up, they are building and improving overtime. My approach took this into consideration to **elevate their existing brand and visual language, while improving the user experience.** This resulted in a portal that felt familiar and prioritised information hierarchy." %}
 
-![](/assets/images/casestudies/bringly/bringly-final_01.png)
+![](/assets/images/casestudies/bringly/bringly-final_02.png)
 {% include img_caption.html 
 title="Responsive Design" 
 content="Though tablet was the key device, ensured elements scaled appropriately and identified breaking points." %}
 
-![](/assets/images/casestudies/bringly/bringly-final_02.png)
+![](/assets/images/casestudies/bringly/bringly-final_01.png)
 {% include img_caption.html 
 title="Vertical Scroll Table" 
 content="Chose a vertical versus horizontal scroll as it helped to see information for one order at once." %}
