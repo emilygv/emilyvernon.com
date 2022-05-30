@@ -12,7 +12,7 @@ approach: "**Created the concept single-handed over a series of weeks.** As the 
 responsibilities: [Brand Strategy, Experience Strategy, Customer Experience, UX Research, UX Testing, UX Design, UI Design]
 ---
 
-## Discover
+## Analyse
 
 {% include case_h3_block.html 
 title="Meet Users and Experts" 
@@ -58,7 +58,7 @@ content="**The opportunity lies in helping users make decisions.** This is varie
 content="Clients are interested in how a painting will look in their home. We even photoshopped paintings into their spaces." 
 reference="Suska, Art Gallery Manager" %}
 
-## Define
+## Articulate
 
 {% include case_h3_block.html 
 title="Design System" 
@@ -81,7 +81,7 @@ Reliable: creates trust
 
 ![](/assets/images/casestudies/artvoy/artvoy_style_guide.jpg)
 
-## Design
+## Apply
 
 {% include case_h3_block.html 
 title="Structure and Flow" 
@@ -91,7 +91,7 @@ content="**In order to improve conversion, three red routes were considered. Con
 
 ![](/assets/images/casestudies/artvoy/artvoy_sketch.png)
 
-## Validate
+## Assess
 
 {% include case_h3_block.html 
 title="Overview" 
