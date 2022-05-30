@@ -21,7 +21,7 @@ content="As there was no design system, **I audited the updated website and exis
 
 {% include case_h3_block.html 
 title="Competitor Analysis" 
-content="**I looked at both B2B and B2C platforms, as B2B users are still your B2C users. This was important for creating new deliveries, as users are familiar with postal or e-commerce flows.** Best-in-class examples of the former, as well as B2B package or food deliveries were referenced for how information was inputted, as well as for map usage." %}
+content="**I looked at both B2B and B2C platforms, as B2B users are still B2C users. This was important for creating new deliveries, as users are familiar with postal or e-commerce flows.** Best-in-class examples of the former, as well as B2B package or food deliveries were referenced for information input and map usage." %}
 
 ![](/assets/images/casestudies/bringly/bringly_competitor_analysis.jpg)
 
@@ -29,7 +29,7 @@ content="**I looked at both B2B and B2C platforms, as B2B users are still your B
 
 {% include case_h3_block.html 
 title="Two Options" 
-content="The existing version had the strength of being a no-scroll, one pager. However, many e-commerce delivery pages have a vertical scroll. For this reason, I suggested showing **two versions: one page with a scroll and the other a step-by-step with no scroll. The one page scroll was chosen for its simplicity, while ensuring data input could be tracked, much like an e-commerce checkout page.**" %}
+content="The existing version had the strength of being a no-scroll, one pager. However, many e-commerce delivery pages have a vertical scroll. For this reason, I suggested showing **two versions: one page with a scroll and the other a step-by-step with no scroll. The one page scroll was chosen for its simplicity, and familiarity to an e-commerce experience.**" %}
 
 ![](/assets/images/casestudies/bringly/bringly_two_options.jpg)
 
@@ -45,7 +45,7 @@ content="The B2B portal was an opportunity to **build and simplify the  design s
 
 {% include case_h3_block.html 
 title="Before and After" 
-content="Though both of these pages look like a single pager, **there are multiple interactions occurring. These were taken into consideration to create an experience that felt interactive and responsive to input.** The order of information was key for both creating deliveries and the table for tracking deliveries." %}
+content="Though both of these pages look simple, **there are multiple interactions occurring. These were taken into consideration to create an experience that felt interactive and responsive to input.** The order of information was key for both creating deliveries and the table for tracking deliveries." %}
 
 ![](/assets/images/casestudies/bringly/bringly_before_after_delivery.png)
 
