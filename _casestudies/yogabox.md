@@ -11,7 +11,7 @@ approach: "**Completed this as a team of one over a series of weeks.** Yogabox p
 responsibilities: [Brand Strategy, Experience Strategy, UX Research, UX Testing, UX Design, UI Design]
 ---
 
-## Discover
+## Analyse
 
 {% include case_h3_block.html 
 title="Meet our Users" 
@@ -63,7 +63,7 @@ content="**Within the wider competitor landscape there is an opportunity to crea
 content="One-on-one is about building something together. It’s more of an exchange. You are having a dialogue." 
 reference="Hannah, Yoga Teacher" %}
 
-## Define
+## Articulate
 
 {% include case_h3_block.html 
 title="Design System" 
@@ -92,7 +92,7 @@ content="With a new platform and concept, it is important to identify the right 
 
 ![](/assets/images/casestudies/yogabox/yogabox_red_routes.png)
 
-## Design
+## Apply
 
 {% include case_h3_block.html 
 title="Structure and Flow" 
@@ -102,7 +102,7 @@ content="**Students were the focus for conceptual app development.** Getting sta
 
 ![](/assets/images/casestudies/yogabox/yogabox_site_map.png)
 
-## Validate
+## Assess
 
 {% include case_h3_block.html 
 title="Overview" 
