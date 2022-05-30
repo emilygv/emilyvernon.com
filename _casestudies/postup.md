@@ -11,7 +11,7 @@ approach: "**Established an app MVP by completing a solo Google Sprint over a we
 responsibilities: [Design Sprint Moderation, Brand Strategy, Experience Strategy, Customer Experience, UX Research, UX Testing, UX Design, UI Design]
 ---
 
-## Discover
+## Analyse
 
 {% include case_h3_block.html 
 title="Meet our Users" 
@@ -35,7 +35,7 @@ content="**Day 2, Design Sprint: PostUp can learn from experiences within differ
 
 ![](/assets/images/casestudies/postup/postup_analogous_experiences.jpg)
 
-## Define
+## Articulate
 
 {% include case_h3_block.html 
 title="Critical Screens" 
@@ -47,7 +47,7 @@ content="**Day 2, Design Sprint: The most critical screen is reviewing a potenti
 content="Information out there is time-consuming to dig through, with a lot of jumping back-and-forth between sites." 
 reference="Chelsea, Freelance Graphic Designer" %}
 
-## Design
+## Apply
 
 {% include case_h3_block.html 
 title="Interactions" 
@@ -61,7 +61,7 @@ content="**Day 4, Design Sprint:  Expanded the existing brand colour and graphic
 
 ![](/assets/images/casestudies/postup/postup_style_guide.png)
 
-## Validate
+## Assess
 
 {% include case_h3_block.html 
 title="Overview" 
