@@ -41,6 +41,16 @@ content="The B2B portal was an opportunity to **build and simplify the  design s
 
 ![](/assets/images/casestudies/bringly/bringly_design_system.png)
 
+## Assess
+
+{% include case_h3_block.html 
+title="Before & After" 
+content="Though both of these pages look like a single pager, **there are multiple interactions occurring. These were taken into consideration to create an experience that felt interactive and responsive to input.** The order of information was key for both creating deliveries and the table for tracking deliveries." %}
+
+![](/assets/images/casestudies/bringly/bringly_before_after_delivery.png)
+
+![](/assets/images/casestudies/bringly/bringly_before_after_table.png)
+
 ## The Result
 
 {% include case_h3_block.html 
