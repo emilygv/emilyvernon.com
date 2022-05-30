@@ -3,7 +3,7 @@ layout: page
 permalink: /services/
 title: The depth of services Emily Vernon provides around guest & customer experience
 description: Experience design, brand strategy, tone of voice and stakeholder management are used to complete projects of varying needs.
-hero_text: <mark>A strategy-based approach</mark> <mark class="normal"> <br>& broad toolbox</mark><br><mark>to solve complex problems</mark>
+hero_text: <mark>A strategy-based</mark> <mark class="normal"> <br>approach & broad toolbox</mark><br><mark>for complex problems</mark>
 ---
 
 {% include section_icons.html 
