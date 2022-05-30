@@ -25,6 +25,22 @@ content="**I looked at both B2B and B2C platforms, as B2B users are still your B
 
 ![](/assets/images/casestudies/bringly/bringly_competitor_analysis.jpg)
 
+## Articulate
+
+{% include case_h3_block.html 
+title="Two Options" 
+content="The existing version had the strength of being a no-scroll, one pager, making it easy for the user to input and check data. For this reason, I suggested showing **two versions: one page with a scroll and the other a step-by-step with no scroll. The one page scroll was chosen for its simplicity, while ensuring data input could be tracked, much like an e-commerce checkout page.**" %}
+
+![](/assets/images/casestudies/bringly/bringly_two_options.jpg)
+
+## Apply
+
+{% include case_h3_block.html 
+title="Design System" 
+content="The B2B portal was an opportunity to **build and simplify the  design system.** All icons were customized, colour contrasts improved and components created to work across different devices. **Improving error messages and their indications was a priority to solve for common customer service inquiries.**" %}
+
+![](/assets/images/casestudies/bringly/bringly_design_system.png)
+
 ## The Result
 
 {% include case_h3_block.html 
