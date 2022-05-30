@@ -11,7 +11,7 @@ approach: "**Collaborated with another UX/UI designer**, while checking-in twice
 responsibilities: [Workshop Moderation, Stakeholder Management, Experience Strategy, UX Research, UX Testing, UX Design, UI Design]
 ---
 
-## Discover
+## Analyse
 
 {% include case_h3_block.html 
 title="Meet Users and Experts" 
@@ -57,7 +57,7 @@ content="**There are a range of interview preparation platforms available.** Som
 content="I find that interactive training is more beneficial. The ideas resonate better and they take more away." 
 reference="Lynda, Career Coach & Recruiter" %}
 
-## Define
+## Articulate
 
 {% include case_h3_block.html 
 title="Product Strategy" 
@@ -79,7 +79,7 @@ How might we help users confidently create and tailor their stories for job inte
 
 ![](/assets/images/casestudies/savviest/savviest-impact_effort-chart.png)
 
-## Design
+## Apply
 
 {% include case_h3_block.html 
 title="Structure and Flow" 
@@ -89,7 +89,7 @@ content="As the interview feature was included as a part of an existing platform
 
 ![](/assets/images/casestudies/savviest/savviest-user_flows.png)
 
-## Validate
+## Assess
 
 {% include case_h3_block.html 
 title="Overview" 
