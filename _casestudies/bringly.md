@@ -11,6 +11,20 @@ approach: "In order to work within a certain scope, **it was necessary to focus 
 responsibilities: [Design Systems Audit, Competitor Research, Project Management, UX Design, UI Design]
 ---
 
+## Analyse
+
+{% include case_h3_block.html 
+title="Design System Audit" 
+content="As there was no design system, **I audited the updated website while referencing the existing B2B portal. The website created an ownable approach to sustainability** through a delivery lens, from the use of colours to graphics. **The variety of component executions could be streamlined and updated** with the necessary states and error messages." %}
+
+![](/assets/images/casestudies/bringly/bringly_design_audit.png)
+
+{% include case_h3_block.html 
+title="Competitor Analysis" 
+content="**I looked at both B2B and B2C platforms, as B2B users are still your B2C users. This was important for creating new deliveries, as consumers are familiar with postal or e-commerce flows.** Best-in-class examples of the former, as well as B2B package or food deliveries were referenced for how information was inputted and verified, as well as for map usage." %}
+
+![](/assets/images/casestudies/bringly/bringly_competitor_analysis.jpg)
+
 ## The Result
 
 {% include case_h3_block.html 
