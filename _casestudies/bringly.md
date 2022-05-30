@@ -15,13 +15,13 @@ responsibilities: [Design Systems Audit, Competitor Research, Project Management
 
 {% include case_h3_block.html 
 title="Design System Audit" 
-content="As there was no design system, **I audited the updated website while referencing the existing B2B portal. The website created an ownable approach to sustainability** through a delivery lens, from the use of colours to graphics. **The variety of component executions could be streamlined and updated** with the necessary states and error messages." %}
+content="As there was no design system, **I audited the updated website and existing B2B portal. The website created an ownable approach to sustainability,** from the use of colours to graphics. **The variety of component executions could be streamlined and updated** with the necessary states and error messages." %}
 
 ![](/assets/images/casestudies/bringly/bringly_design_audit.png)
 
 {% include case_h3_block.html 
 title="Competitor Analysis" 
-content="**I looked at both B2B and B2C platforms, as B2B users are still your B2C users. This was important for creating new deliveries, as consumers are familiar with postal or e-commerce flows.** Best-in-class examples of the former, as well as B2B package or food deliveries were referenced for how information was inputted and verified, as well as for map usage." %}
+content="**I looked at both B2B and B2C platforms, as B2B users are still your B2C users. This was important for creating new deliveries, as users are familiar with postal or e-commerce flows.** Best-in-class examples of the former, as well as B2B package or food deliveries were referenced for how information was inputted, as well as for map usage." %}
 
 ![](/assets/images/casestudies/bringly/bringly_competitor_analysis.jpg)
 
@@ -29,7 +29,7 @@ content="**I looked at both B2B and B2C platforms, as B2B users are still your B
 
 {% include case_h3_block.html 
 title="Two Options" 
-content="The existing version had the strength of being a no-scroll, one pager, making it easy for the user to input and check data. For this reason, I suggested showing **two versions: one page with a scroll and the other a step-by-step with no scroll. The one page scroll was chosen for its simplicity, while ensuring data input could be tracked, much like an e-commerce checkout page.**" %}
+content="The existing version had the strength of being a no-scroll, one pager. However, many e-commerce delivery pages have a vertical scroll. For this reason, I suggested showing **two versions: one page with a scroll and the other a step-by-step with no scroll. The one page scroll was chosen for its simplicity, while ensuring data input could be tracked, much like an e-commerce checkout page.**" %}
 
 ![](/assets/images/casestudies/bringly/bringly_two_options.jpg)
 
