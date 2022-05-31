@@ -69,4 +69,20 @@ content="Chose a vertical versus horizontal scroll as it helped to see informati
 
 {% include figma_link.html link= "https://www.figma.com/proto/DaSR8rMIdrrghQffVXnGnD/Bringly?node-id=170%3A631&scaling=min-zoom&page-id=5%3A210&starting-point-node-id=170%3A631&show-proto-sidebar=1" %}
 
+## The Debrief
+
+{% include case_h3_block.html 
+title="Next Steps <br>and Learnings" 
+content="The next step is implementation. This project was done with a limited budget, which means best practices vs user testing informed the approach. However, not all is lost. **The team can also assess success and further improve through customer service inquiries.**" %}
+
+{% capture info-highlight %}
+#### Scope Clarity Through Visuals
+What screens or flows that were and were not included in the scope could be improved by including visuals.
+|
+#### Micro Interactions with Tables
+Designing an easy-to-use table includes a number of small decisions that could impact the user experience. 
+|
+#### Thinking Through Design Systems
+The design system was built and added to as screens were developed. It took multiple rounds to refine and align components.
+{% endcapture %}
 {% include info-highlight.html content=info-highlight %}
