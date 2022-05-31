@@ -76,13 +76,13 @@ title="Next Steps <br>and Learnings"
 content="The next step is implementation. This project was done with a limited budget, which means best practices vs user testing informed the approach. However, not all is lost. **The team can also assess success and further improve through customer service inquiries.**" %}
 
 {% capture info-highlight %}
-#### Scope Clarity Through Visuals
-What screens or flows that were and were not included in the scope could be improved by including visuals.
+#### Scope Clarity with Visuals
+What screens or flows included and not included in the scope could be improved by including visuals.
 |
-#### Micro Interactions with Tables
-Designing an easy-to-use table includes a number of small decisions that could impact the user experience. 
+#### Micro Interactions, Tables
+Designing an easy-to-use table includes a number of small decisions that impacts the user experience. 
 |
 #### Thinking Through Design Systems
-The design system was built and added to as screens were developed. It took multiple rounds to refine and align components.
+The design system was built and added to as screens were developed. It took multiple rounds to refine.
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
