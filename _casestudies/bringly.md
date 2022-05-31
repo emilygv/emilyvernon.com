@@ -28,10 +28,12 @@ content="**I looked at both B2B and B2C platforms, as B2B users are still B2C us
 ## Articulate
 
 {% include case_h3_block.html 
-title="Two Options" 
+title="Two Options, Delivery Creation" 
 content="The existing version had the strength of being a no-scroll, one pager. However, many e-commerce delivery pages have a vertical scroll. For this reason, I suggested showing **two versions: one page with a scroll and the other a step-by-step with no scroll. The one page scroll was chosen for its simplicity, and familiarity to an e-commerce experience.**" %}
 
 ![](/assets/images/casestudies/bringly/bringly_two_options.jpg)
+
+![](/assets/images/casestudies/bringly/bringly_option_1_screens.png)
 
 ## Apply
 
