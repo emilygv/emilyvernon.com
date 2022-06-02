@@ -23,19 +23,19 @@ further_reading:
 
 “Design thinking”, according to IDEO CEO Tim Brown, “is a **human-centered approach to innovation that draws from the designer’s toolkit** to integrate the needs of the people, the possibilities of technology, and the requirements for business success”. Today the value of design thinking is understood across multiple industries, and the design process has been promoted to a business process. **Thanks to IDEO’s Tim Brown and many others, it’s become a buzz-term within the creative world.** 
 
-**Like any buzz-term, people say it without fully grasping the meaning. This is understandable** - we’re all trying our best to keep up with the forever changing professional dictionary - but it means **design agencies need to emphasis the value of design thinking for their clients.** This also helps to elevate the work, communicate value and manage expectations. Yes, agencies **need to take time upfront during a project (maybe more time than expected) to better understand the audience, context and cultural significance.**
+**Like any buzz-term, people say it without fully grasping the meaning. This is understandable** - we’re all trying our best to keep up with the forever changing professional dictionary - but it means **design agencies need to emphasis the value of design thinking for their clients.** This also helps to elevate the work, communicate value and manage expectations.
 
-**As creatives, we know our work sounds a little like magic.** We all wish this were the case, but today brands and journeys are more complex. Human-centricity, brand universes and design thinking’s effect on business innovation are more important. **This is why there are four themes emerging from this informal agency mission study including: emotional connection, brand connection, creative talent and creative impact.** 
+**As creatives, we know our work sounds a little like magic.** We all wish this were the case, but today brands and journeys are more complex. Human-centricity, brand universes and design thinking’s affect on business innovation are more important. **This is why there are four themes emerging from this informal agency mission study including: emotional connection, brand connection, creative talent and creative impact.** 
 
 Let’s take a look at some examples and then we’ll catch-up afterwards. 
 
-## Emotional Connection
+## Emotional connection
 
 UXUS: UXUS **transforms emotion** into enhanced commercial outcomes through world-class physical retail & hospitality design.
 
 Design Bridge: We combine a healthy dose of intuition with intelligence to bring brands to life through great ideas that reach out, engage and **emotionally connect** with people.
 
-## Brand Connection
+## Brand connection
 
 Amplify: Joining the dots between **people, brands + culture.**
 
@@ -45,17 +45,17 @@ Design Studio: We create brands the world loves. **We make every experience peop
 
 Franklyn: We create brands with a soul. We’re not God, but we do believe that **good design can lead to a spiritual experience.**
 
-## Creative Talent
+## Creative talent
 
 Ogilvy: We continue that rich legacy through borderless creativity—operating, innovating, and creating at the **intersection of talent and capabilities.**
 
 Rosie Lee: We believe that creativity is something worth standing for. We strive for creative excellence. **We believe in people.** We want every day to be different. We need every project to be different.
 
-## Creative Impact
+## Creative impact
 
 Qindle: We **embrace creativity to solve** real industry challenges.
 
-Fitch: Designing the future online, offline and in person. **We don't predict the future, we influence it** and we design it
+Fitch: Designing the future online, offline and in person. **We don't predict the future, we influence it** and we design it.
 
 Landor: **Extraordinary brand transformation**, by design. We are a global brand transformation company, here to make an **extraordinary difference**: for our clients, our employees & the world around us.
 
@@ -63,7 +63,7 @@ Red Antler: We set off in 2007 with a mission to build brands that shift categor
 
 Superunion: Superunion is a revolutionary creative company. We believe in **the power of ideas to create positive, meaningful change.**
 
-## Mixed Feelings
+## Mixed feelings
 
 There are two feelings you might be having after reading through all of this - **wow, we are all the same, what’s the point? or there is a unified movement within design, experience and branding.** I feel a bit of both. However us creatives are forever optimists, where I believe our missions and ideas will continue to evolve as our clients, audiences and contexts change. **There will be new problems to solve, new values to address.**
 
