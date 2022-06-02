@@ -1,80 +1,52 @@
 ---
 title: From CX Professional to UX/UI Bootcamp
 category: Career development
-image: "https://source.unsplash.com/MRvBKn_ZlMM/800x430"
+image: "https://source.unsplash.com/zvmZiw3vdsQ/800x430"
 further_reading:
-    - Why Brands Use Creative Agencies or Consultants
-    - Types of Strategist in Creative Industries
+    - Reclaiming Your Design Identity
+    - How to Transition from a Designer to a Strategist
     - Is CX another term for UX or Service Design? No, Not quite.
     
 ---
 
-**While working on pitches at UXUS, I realised our portfolio and mission could better communicate our expertise. What we were doing within customer experience, brand experience and interior design was hidden under a design-only lens. I researched other agencies’ missions, only to find they all sounded the same. So what’s going on?**
+**In October 2020, I signed up for a UX/UI bootcamp with Springboard. This was something I wanted to do for a while, but could never find the time or right program to join. Like some, the extra time presented in lockdown meant this was both possible and beneficial. Keeping my mind busy was a good way to progress while the world stopped around me. It was also a valuable time to grow as a CX professional.**
 
 **What we'll cover:**
 * TOC
 {:toc}
 
-**Let’s first clarify the scope here. This is a subset of agencies within branding and experience.** The categories and focuses would probably change if we were talking about digital, motion or other specific creative industries. **There are hundreds of notable agencies worldwide in this area, and this represents a small sampling.** My humble blog post is not an intense investigation - more a provocation to start the conversation. 
+## How it could be helpful for CXers
 
-**Many times, agencies are formed out of either circumstance or a reaction to the current design scene.** This includes creatives who are tired of the status quo, whether at a particular agency or the industry as a whole. Thus, agency missions reflect this at the time of writing. **These missions evolve over time as projects, audiences, contexts and clients evolve. Awareness around the impact of design also drove change within agencies’ missions.**
+**The field of customer experience (CX) is rapidly evolving.** Its scope of bridging departments and connecting customer/user experience is becoming more elaborate with the increase in platforms and ways a customer/user can interact with your brand. **Today, digital is key within customer experience, but it’s easy to be left behind or feel it’s a world too difficult to learn.** 
 
-**Decades ago, design was perceived as something visual and separate from decision-making in top floor boardrooms.** But as industries started to change quicker than business analysis could keep up, companies realised a more ‘out-of-the-box’ approach was needed for keeping up and reacting to industry or audience changes. **Hence the pedestalization of design thinking.** 
+In multiple companies I’ve observed ‘comfortable solution’ syndrome. This is when leaders solve a problem with a medium they are most comfortable with. **With complexity increasing these days across all businesses, jumping to a particular channel without some sort of familiarity or a clear strategy is ineffective.** It is important that leaders across CX are comfortable with all channels. Without this comfort level, leaders default to the area they are strongest in, so they can lead with confidence.
 
-“Design thinking”, according to IDEO CEO Tim Brown, “is a **human-centered approach to innovation that draws from the designer’s toolkit** to integrate the needs of the people, the possibilities of technology, and the requirements for business success”. Today the value of design thinking is understood across multiple industries, and the design process has been promoted to a business process. **Thanks to IDEO’s Tim Brown and many others, it’s become a buzz-term within the creative world.** 
+**I don’t want to be a ‘comfortable solution’ leader.** There is such a joy in working with different people when you can find a common language, as well as earn the respect of others. By doing a UX/UI course, I can better collaborate with experts in the digital field. This doesn’t mean I have to know everything, but **know enough to confidently make decisions, ask the right questions and dig for further information.** 
 
-**Like any buzz-term, people say it without fully grasping the meaning. This is understandable** - we’re all trying our best to keep up with the forever changing professional dictionary - but it means **design agencies need to emphasis the value of design thinking for their clients.** This also helps to elevate the work, communicate value and manage expectations.
+## Why a UX/UI bootcamp versus learning it myself
 
-**As creatives, we know our work sounds a little like magic.** We all wish this were the case, but today brands and journeys are more complex. Human-centricity, brand universes and design thinking’s affect on business innovation are more important. **This is why there are four themes emerging from this informal agency mission study including: emotional connection, brand connection, creative talent and creative impact.** 
+It’s different for each CX professional how far they want to learn a particular subject, especially considering that we need to know so many aspects of customer/user experience. **In my case, I wanted an in-depth foundation in both user experience (UX) and user interface (UI) design.** This means I wanted to go beyond what is necessary for a CX professional. As my background is visual design, UI was also a key interest. 
 
-Let’s take a look at some examples and then we’ll catch-up afterwards. 
+For over twelve years I worked in the creative field, building upon my art school education. I was able to pivot from footwear designer to experience strategist without any formal training. **It became clear working with clients that understanding the entire customer/user ecosystem was key.** While working agency-side, my specialty was branding and customer experience within a physical context. To understand the digital experience, UX/UI was a great expertise to know. 
 
-## Emotional connection
+For years I dabbled in UX/UI. Whether it was Meetups or designing and coding my own website, **I learned UX/UI in whatever ways possible. However, my confidence reached its max with this approach.** Without practicing and understanding key best practices, I feared looking like a novice. It became clear that in order to advance my knowledge in UX/UI, I needed a more structured approach. This is when I decided to look for a bootcamp, aka course. 
 
-UXUS: UXUS **transforms emotion** into enhanced commercial outcomes through world-class physical retail & hospitality design.
+My main evaluators to find a course were curriculum, course structure, product depth, time required and professional application. The final contestants for a UX/UI bootcamp were Springboard and Ironhack. **I went with Springboard as it was self-paced, included mentorship, featured career counseling and resulted in 3-4 portfolio projects.** Being able to go back into an educational mindset was exciting after working as a professional for over a decade. 
 
-Design Bridge: We combine a healthy dose of intuition with intelligence to bring brands to life through great ideas that reach out, engage and **emotionally connect** with people.
+## The biggest, relevant CX lessons so far
 
-## Brand connection
+**Appreciate your experience, but put aside your ego.** Being a CXer means I understand the basic principles of UX. However, to get the most out of my course I needed to tell my ego to step aside. Sure, I thought there were better, more realistic ways to complete a task. But as this was a course, not a professional setting, I did not need to prove myself to anyone. 
 
-Amplify: Joining the dots between **people, brands + culture.**
+**Trust the process.** Though familiar with the basics of UX, I did not know the in-depth process. Much like the above point, I needed to trust the methods presented to me. My mentor was very adamant in taking the project step-by-step instead of jumping to conclusions. It feels very much like resisting the urge to flip to the end of a book to know how the story ends. 
 
-Futurebrand: We help businesses grow even when times change by better **connecting brand purpose to everyday experience.**
+**Experiment with new tools and processes on your own time.** When working in a professional team, it can be difficult to deviate from the norm. We get swept up by existing processes and can struggle to introduce new ways. It can feel like our efforts will not be worthwhile. This is why trying new tools and processes outside of work is valuable, even essential. It allows you to try new things without pressure, and experiment as long as you like until it’s ready to roll out. 
 
-Design Studio: We create brands the world loves. **We make every experience people have with your business meaningful.** We build brands with purpose, brands that impact the lives of millions, and brands that last.
-
-Franklyn: We create brands with a soul. We’re not God, but we do believe that **good design can lead to a spiritual experience.**
-
-## Creative talent
-
-Ogilvy: We continue that rich legacy through borderless creativity—operating, innovating, and creating at the **intersection of talent and capabilities.**
-
-Rosie Lee: We believe that creativity is something worth standing for. We strive for creative excellence. **We believe in people.** We want every day to be different. We need every project to be different.
-
-## Creative impact
-
-Qindle: We **embrace creativity to solve** real industry challenges.
-
-Fitch: Designing the future online, offline and in person. **We don't predict the future, we influence it** and we design it.
-
-Landor: **Extraordinary brand transformation**, by design. We are a global brand transformation company, here to make an **extraordinary difference**: for our clients, our employees & the world around us.
-
-Red Antler: We set off in 2007 with a mission to build brands that shift categories and **add value to people's lives. It's quite magical.**
-
-Superunion: Superunion is a revolutionary creative company. We believe in **the power of ideas to create positive, meaningful change.**
-
-## Mixed feelings
-
-There are two feelings you might be having after reading through all of this - **wow, we are all the same, what’s the point? or there is a unified movement within design, experience and branding.** I feel a bit of both. However us creatives are forever optimists, where I believe our missions and ideas will continue to evolve as our clients, audiences and contexts change. **There will be new problems to solve, new values to address.**
-
-**Instead of becoming bogged down in our jadedness, which I am also guilty of, let’s imagine where we might go.** Maybe there will be a time when design thinking and business strategy are inseparable. Perhaps artists rise-up as disruptors within corporations or politics. Maybe sustainability and environmental impact will become norms for all companies. Designers will become CEOs, and CEOs designers. 
-
-**Sure our life is a bit of same-sameness, but those shining irregularities are worth paying attention to and exploring. It might just become your next mission statement.** 
+**Become a part of your new community, even if it feels ‘too early’.** This is probably one of the most important when learning a new skill, whether it’s for a professional or personal reason. In my case, it meant reaching out to UX/UI professionals, scheduling individual mentoring sessions, as well as joining conferences, whether virtual or in-person. It helps to feel supported and motivated while learning a new skill, as well as understanding its practical application in the real world.
 
 ## Let’s summarise
 
-- Design agency missions are starting to sound the same with a range of themes
-- This is because agency leaders are reacting to the status quo and context
-- The four main themes are emotion/brand connection and creative talent/impact
-- This can raise mixed feelings, but there are both positives and negatives
-- If we look at the irregularities, we might find tomorrow's mission statements
+- As a CX professional, I decided to sign up for a UX/UI bootcamp
+- In multiple companies I observed ‘comfortable solution’ syndrome within leaders
+- UX/UI is a good method for having more confidence in digital products
+- There are different ways to learn UX/UI, and a bootcamp was a good option
+- There are many things CXers can learn from doing a UX/UI bootcamp
