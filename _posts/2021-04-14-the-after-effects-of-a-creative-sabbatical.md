@@ -1,52 +1,52 @@
 ---
 title: The After Effects of a Creative Sabbatical, 1 Year Beyond
 category: Career development
-image: "https://source.unsplash.com/zvmZiw3vdsQ/800x430"
+image: "https://source.unsplash.com/7Zb7kUyQg1E/800x430"
 further_reading:
-    - Reclaiming Your Design Identity
-    - How to Transition from a Designer to a Strategist
-    - Is CX another term for UX or Service Design? No, Not quite.
+    - Journaling to Ease Job Transitions
+    - Working Abroad Changed My Entire Perspective
+    - Freeing Effects of Travel on Creativity
     
 ---
 
-**In October 2020, I signed up for a UX/UI bootcamp with Springboard. This was something I wanted to do for a while, but could never find the time or right program to join. Like some, the extra time presented in lockdown meant this was both possible and beneficial. Keeping my mind busy was a good way to progress while the world stopped around me. It was also a valuable time to grow as a CX professional.**
+**In February and March 2020, I took a creative sabbatical for two months. It was a crossroad of circumstances as my husband had a work opportunity in Australia, and my work surprisingly accepted. I could already realise the benefits during the trip, but it was also one year later that I could see the path taken developed into something much more.**
 
 **What we'll cover:**
 * TOC
 {:toc}
 
-## How it could be helpful for CXers
+**A creative sabbatical is indeed a luxury.** It means taking time off of work, finding the funds to do so and sometimes convincing others that it’s a logical idea. To be honest, without the opportunity presented, I probably would not have taken a creative sabbatical. **Committing to two months off is usually not the first solution for issues within work or life.**
 
-**The field of customer experience (CX) is rapidly evolving.** Its scope of bridging departments and connecting customer/user experience is becoming more elaborate with the increase in platforms and ways a customer/user can interact with your brand. **Today, digital is key within customer experience, but it’s easy to be left behind or feel it’s a world too difficult to learn.** 
+My two months in Sydney gave me new-found confidence. **Changing both environments and habits showed a different side of myself that would be otherwise hard to find in my day-to-day life.** This was both in my career direction, how I interacted with others and expanding into a new field. When you are on the treadmill that is life, you can adjust the speed but it's hard to **see if you should be on a treadmill in the first place.**
 
-In multiple companies I’ve observed ‘comfortable solution’ syndrome. This is when leaders solve a problem with a medium they are most comfortable with. **With complexity increasing these days across all businesses, jumping to a particular channel without some sort of familiarity or a clear strategy is ineffective.** It is important that leaders across CX are comfortable with all channels. Without this comfort level, leaders default to the area they are strongest in, so they can lead with confidence.
+## Redirected my career, find my community
 
-**I don’t want to be a ‘comfortable solution’ leader.** There is such a joy in working with different people when you can find a common language, as well as earn the respect of others. By doing a UX/UI course, I can better collaborate with experts in the digital field. This doesn’t mean I have to know everything, but **know enough to confidently make decisions, ask the right questions and dig for further information.** 
+Experience, whether digital, physical or brand is a growing field. Each year it’s changing and finding new solutions to both business/brand and audience complexities. **When working agency-side as a strategist, I didn’t know what part of the experience industry I was in. It caused a bit of an identity crisis.** Was I in branding? Is this a type of service design? Could you consider it user experience? Not knowing your field makes the job and community search more challenging. 
 
-## Why a UX/UI bootcamp versus learning it myself
+**While on sabbatical in Sydney, I could join all these communities to figure out which one was my fit.** I went to meetups in design thinking, branding, UX, content design, customer experience and even data science. Quickly, I learned that data science was not the place for me, yet there was something in UX, branding and customer experience. When working, taking the time to join all of these meetings would have been difficult. On sabbatical, it could become a focus. 
 
-It’s different for each CX professional how far they want to learn a particular subject, especially considering that we need to know so many aspects of customer/user experience. **In my case, I wanted an in-depth foundation in both user experience (UX) and user interface (UI) design.** This means I wanted to go beyond what is necessary for a CX professional. As my background is visual design, UI was also a key interest. 
+**By figuring out my place in the experience spectrum, I could move forward.** Since that trip, I did a certification in customer experience, started a course in UX/UI and changed jobs. It was easy to figure out what type of training was necessary to build off of my current work with a longer time to reflect. This also helped when writing the content for my new website. 
 
-For over twelve years I worked in the creative field, building upon my art school education. I was able to pivot from footwear designer to experience strategist without any formal training. **It became clear working with clients that understanding the entire customer/user ecosystem was key.** While working agency-side, my specialty was branding and customer experience within a physical context. To understand the digital experience, UX/UI was a great expertise to know. 
+## Improved UX/UI understanding through coding
 
-For years I dabbled in UX/UI. Whether it was Meetups or designing and coding my own website, **I learned UX/UI in whatever ways possible. However, my confidence reached its max with this approach.** Without practicing and understanding key best practices, I feared looking like a novice. It became clear that in order to advance my knowledge in UX/UI, I needed a more structured approach. This is when I decided to look for a bootcamp, aka course. 
+**I designed and coded my first website in 2008, and on this trip I decided to do it once again.** Since then the internet and developing norms changed, especially with websites becoming more user friendly and responsive to different devices. Though I understood HTML and CSS, it required learning and relearning. Some of you developers could build my website in a couple of days, tops. However, every feature, page or component took hours on my side to research, build and rebuild. 
 
-My main evaluators to find a course were curriculum, course structure, product depth, time required and professional application. The final contestants for a UX/UI bootcamp were Springboard and Ironhack. **I went with Springboard as it was self-paced, included mentorship, featured career counseling and resulted in 3-4 portfolio projects.** Being able to go back into an educational mindset was exciting after working as a professional for over a decade. 
+There is a debate amongst UX/UI designers around the value of learning how to code. **In my case, it made me more confident while taking an intensive UX/UI course starting in October 2020.** Through extensive research developing my own website, I already learned some of the common best practices within UX/UI. This included the value of creating reusable components or modular elements within a design, as well as how to speak with developers more effectively. Ultimately, this side project gave me more confidence when going into a new field. 
 
-## The biggest, relevant CX lessons so far
+## Myself off of burnout
 
-**Appreciate your experience, but put aside your ego.** Being a CXer means I understand the basic principles of UX. However, to get the most out of my course I needed to tell my ego to step aside. Sure, I thought there were better, more realistic ways to complete a task. But as this was a course, not a professional setting, I did not need to prove myself to anyone. 
+**Looking back on my agency experience, I realised I was burnt out a number of times.** This affected how I spoke with others and socialised after work, and was hard to understand as it was happening. I thought my burnt out state was my normal state. **While in Sydney, I could see another side of myself - one that was not tired or exhausted. It gave me more assurance that I was indeed a social person.**
 
-**Trust the process.** Though familiar with the basics of UX, I did not know the in-depth process. Much like the above point, I needed to trust the methods presented to me. My mentor was very adamant in taking the project step-by-step instead of jumping to conclusions. It feels very much like resisting the urge to flip to the end of a book to know how the story ends. 
+**Many of my past colleagues would describe me as a nice person, but also one who is excessively focused.** Often I would put work before socialising. This behavior is a bit of a self-fulling prophecy and makes you question your ability to build meaningful relationships with others. While in Sydney, I was doing my own projects, but at a very different pace. This meant I had energy to socialise and go to meetups. Another side of myself started to show through, one who was easy-going, less anxious and more spontaneous.
 
-**Experiment with new tools and processes on your own time.** When working in a professional team, it can be difficult to deviate from the norm. We get swept up by existing processes and can struggle to introduce new ways. It can feel like our efforts will not be worthwhile. This is why trying new tools and processes outside of work is valuable, even essential. It allows you to try new things without pressure, and experiment as long as you like until it’s ready to roll out. 
+With this knowledge I could make changes to my life, knowing how much my personality changed according to my work stress. **My goal going into my new job was keeping tabs on my stress level to ensure I could develop enjoyable working relationships with others.** This was an unexpected learning from my sabbatical and I felt like a new person. 
 
-**Become a part of your new community, even if it feels ‘too early’.** This is probably one of the most important when learning a new skill, whether it’s for a professional or personal reason. In my case, it meant reaching out to UX/UI professionals, scheduling individual mentoring sessions, as well as joining conferences, whether virtual or in-person. It helps to feel supported and motivated while learning a new skill, as well as understanding its practical application in the real world.
+There is so much we can learn while working. But there is also a ton we can learn while not working. Two months might not be realistic, but perhaps one month or even two weeks is more durable. **Whichever it is, taking time to change your focus, find a side project and reconsider your habits can reveal a different you.** Luckily, one year later I am still living with this new me. 
 
 ## Let’s summarise
 
-- As a CX professional, I decided to sign up for a UX/UI bootcamp
-- In multiple companies I observed ‘comfortable solution’ syndrome within leaders
-- UX/UI is a good method for having more confidence in digital products
-- There are different ways to learn UX/UI, and a bootcamp was a good option
-- There are many things CXers can learn from doing a UX/UI bootcamp
+- A creative sabbatical is indeed a luxury, and can be tough to do
+- Changing both environments and habits showed a different side of myself 
+- I could fine-tune my career by joining different communities
+- Taking the time to design and code my website brought confidence
+- Even a small sabbatical can help to reveal a different you
