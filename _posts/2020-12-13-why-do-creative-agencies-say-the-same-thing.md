@@ -1,7 +1,7 @@
 ---
 title: Why do Creative Agencies Say the Same Thing?
 category: Creative process
-image: "https://source.unsplash.com/kCa6cRVtgWI/800x430"
+image: "https://source.unsplash.com/MRvBKn_ZlMM/800x430"
 further_reading:
     - Why Brands Use Creative Agencies or Consultants
     - Types of Strategist in Creative Industries
