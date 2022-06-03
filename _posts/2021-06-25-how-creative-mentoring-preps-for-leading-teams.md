@@ -9,8 +9,7 @@ further_reading:
     
 ---
 
-**After over ten years of working within design and strategy I did not feel ready to mentor others. It was only after a strategy community was looking for more female mentors that I stepped up. My expectations were neutral, but after a couple of sessions realised creative mentoring was a way to both reconnect with the community and prepare for leading distributed teams.
-**
+**After over ten years of working within design and strategy I did not feel ready to mentor others. It was only after a strategy community was looking for more female mentors that I stepped up. My expectations were neutral, but after a couple of sessions realised creative mentoring was a way to both reconnect with the community and prepare for leading distributed teams.**
 
 **What we'll cover:**
 * TOC
