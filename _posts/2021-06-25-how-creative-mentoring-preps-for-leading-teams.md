@@ -1,52 +1,59 @@
 ---
 title: How Creative Mentoring Preps for Leading Teams
 category: Career development
-image: "https://source.unsplash.com/7Zb7kUyQg1E/800x430"
+image: "https://source.unsplash.com/eF7HN40WbAQ/800x430"
 further_reading:
     - Journaling to Ease Job Transitions
-    - Working Abroad Changed My Entire Perspective
-    - Freeing Effects of Travel on Creativity
+    - Should You Try to Create Your Next Job Position?
+    - The Effect of Company Politics on Creative People
     
 ---
 
-**In February and March 2020, I took a creative sabbatical for two months. It was a crossroad of circumstances as my husband had a work opportunity in Australia, and my work surprisingly accepted. I could already realise the benefits during the trip, but it was also one year later that I could see the path taken developed into something much more.**
+**After over ten years of working within design and strategy I did not feel ready to mentor others. It was only after a strategy community was looking for more female mentors that I stepped up. My expectations were neutral, but after a couple of sessions realised creative mentoring was a way to both reconnect with the community and prepare for leading distributed teams.
+**
 
 **What we'll cover:**
 * TOC
 {:toc}
 
-**A creative sabbatical is indeed a luxury.** It means taking time off of work, finding the funds to do so and sometimes convincing others that it’s a logical idea. To be honest, without the opportunity presented, I probably would not have taken a creative sabbatical. **Committing to two months off is usually not the first solution for issues within work or life.**
+As we move further and further away from the post-university or pre-professional days, our past career path looks easier. Not only that, but we assume - somehow - that opportunities are more abundant and networking easier. **Professional progression has improved, however mentoring brought to light that some issues are persistent.** We all still don't know what we are doing most of the time, and job searching is still a pain. 
 
-My two months in Sydney gave me new-found confidence. **Changing both environments and habits showed a different side of myself that would be otherwise hard to find in my day-to-day life.** This was both in my career direction, how I interacted with others and expanding into a new field. When you are on the treadmill that is life, you can adjust the speed but it's hard to **see if you should be on a treadmill in the first place.**
+A leader's job includes both creating the path and leading the team. While we are doing these two big tasks, we can forget the personal struggles team members are feeling everyday. While mentoring, you are both guiding and reflecting. **As we get better about communicating our careers to others, others are trying to figure out how to manoeuvre the professional world.** We might have one team as a leader, but each is comprised of a range of different individuals. 
 
-## Redirected my career, find my community
+Mentoring is a way to reconnect with individuals to understand the topics most significant to them. By doing this, you can address these 1:1 or with larger teams. **As people, we want to impact society, find our purpose and participate in relevant communities.** Some big ideas that along the way can feel too big. This is where 1:1 conversations help to break them down into realistic steps.
 
-Experience, whether digital, physical or brand is a growing field. Each year it’s changing and finding new solutions to both business/brand and audience complexities. **When working agency-side as a strategist, I didn’t know what part of the experience industry I was in. It caused a bit of an identity crisis.** Was I in branding? Is this a type of service design? Could you consider it user experience? Not knowing your field makes the job and community search more challenging. 
+## Creating spaces for honest conversations
 
-**While on sabbatical in Sydney, I could join all these communities to figure out which one was my fit.** I went to meetups in design thinking, branding, UX, content design, customer experience and even data science. Quickly, I learned that data science was not the place for me, yet there was something in UX, branding and customer experience. When working, taking the time to join all of these meetings would have been difficult. On sabbatical, it could become a focus. 
+When I was starting out, mentoring was more formal. Most mentorship opportunities were through work. **As cool as this sounds, work mentorship programs made the experience feel formal and consequential.** How can I be honest with someone desks away from my manager? It helps to speak with people outside of your organisation for both perspective and feeling less judged. I could only be so honest knowing they still worked with my team or stakeholders. 
 
-**By figuring out my place in the experience spectrum, I could move forward.** Since that trip, I did a certification in customer experience, started a course in UX/UI and changed jobs. It was easy to figure out what type of training was necessary to build off of my current work with a longer time to reflect. This also helped when writing the content for my new website. 
+Anyone later in their career has a few strong memories of their early career and then a blurry recollection of the rest. By connecting with others, those feelings come back, especially as you watch someone process them in front of you. **Work is so connected with life - from our own purpose to lifestyle options - that it’s impossible (yes, impossible) to isolate one from the other.** When we are grappling with professional problems, we are also processing life’s problems. 
 
-## Improved UX/UI understanding through coding
+There is a lot of professional advice out there, from blogs to webinars, articles to videos. There is valuable information and different methodologies through any and all of these channels. You would think, ‘all the information is available, what is a mentor for?’ I found some mentees asking foundational questions about portfolio, resume and training. **With so much information out there, it helps to hear how someone else already applied and found success in a specific field.** This is not only true for practical things, but how to manoeuvre a range of situations within a professional context. 
 
-**I designed and coded my first website in 2008, and on this trip I decided to do it once again.** Since then the internet and developing norms changed, especially with websites becoming more user friendly and responsive to different devices. Though I understood HTML and CSS, it required learning and relearning. Some of you developers could build my website in a couple of days, tops. However, every feature, page or component took hours on my side to research, build and rebuild. 
+## Career trajectories are still confusing 
 
-There is a debate amongst UX/UI designers around the value of learning how to code. **In my case, it made me more confident while taking an intensive UX/UI course starting in October 2020.** Through extensive research developing my own website, I already learned some of the common best practices within UX/UI. This included the value of creating reusable components or modular elements within a design, as well as how to speak with developers more effectively. Ultimately, this side project gave me more confidence when going into a new field. 
+If I look back to my twenty-year old self entering the workforce after studying in art school, a career felt confusing. School is about perfection within a very finite environment, while now I could literally go anywhere, do anything. **There's a lot to navigate - from salary negotiation to career progression. I like many people figured out along the way.** My conversations with many mentees revolve around how I got to where I am today. Looking back it had some sort of logic to it, but it was really about climbing one mountain to then see what was the next one to climb.
 
-## Myself off of burnout
+**I met fascinating individuals with different career paths. Some were just starting out and others were pivoting careers later in life.** When I say, ‘later in life’, it’s 40. Yes, 40. This is nothing compared to our lifespans, yet is still something you need to rationalise to others. I will never forget what this mentee said, ‘Why should I be penalised for knowing myself better?’ You realise everyone is feeling their way through their lifestyle, professional strengths and personal needs. It made me realise, and hope, teams will be more varied in terms of career trajectory. We should leverage those experiences versus try to explain them away. 
 
-**Looking back on my agency experience, I realised I was burnt out a number of times.** This affected how I spoke with others and socialised after work, and was hard to understand as it was happening. I thought my burnt out state was my normal state. **While in Sydney, I could see another side of myself - one that was not tired or exhausted. It gave me more assurance that I was indeed a social person.**
+We are all still scoping the landscape as we build our careers, but indeed the beginning feels far more overwhelming. For anyone out there, just know the start of your career is bound to be confusing, job searches painful and confidence low. No, it's not just you. Like spicy food, some people can hid or tolerate the pain better. Without that external validation around your work and thought process, it can be difficult to know if you’re going in the right direction. **You are going in the right direction, it just might be altered along the way as you learn from those successes and failures.**
 
-**Many of my past colleagues would describe me as a nice person, but also one who is excessively focused.** Often I would put work before socialising. This behavior is a bit of a self-fulling prophecy and makes you question your ability to build meaningful relationships with others. While in Sydney, I was doing my own projects, but at a very different pace. This meant I had energy to socialise and go to meetups. Another side of myself started to show through, one who was easy-going, less anxious and more spontaneous.
+## Collaborating and community finding
 
-With this knowledge I could make changes to my life, knowing how much my personality changed according to my work stress. **My goal going into my new job was keeping tabs on my stress level to ensure I could develop enjoyable working relationships with others.** This was an unexpected learning from my sabbatical and I felt like a new person. 
+Collaboration sounds easy, and we ‘collaborate’ throughout our lives. When we were much younger, it was called play, working together or forming a group. If  you have the right team members, it can be. But we collaborate professional with or without the right team. **Many times, there is no powerpoint or guide on how to collaborate with different functions.** This was reflected in some of the questions I received. One was, ‘how do you brief or collaborate with creative teams as a strategist’ This was a surprise. As a designer, I speak to designers like I would like to be spoken to. Without that experience, interacting with creatives could seem intimidating for a strategist. 
 
-There is so much we can learn while working. But there is also a ton we can learn while not working. Two months might not be realistic, but perhaps one month or even two weeks is more durable. **Whichever it is, taking time to change your focus, find a side project and reconsider your habits can reveal a different you.** Luckily, one year later I am still living with this new me. 
+**As leaders, we need to help guide collaboration from all angles.** This includes explaining what we do as a team to other functions, and informing our own team on how other functions operate. We know this in terms of bridging functions, but there are times we forget that individuals on our team might need advice on how to do this themselves. It helps them also feel more connected to an internal community and able to 
+
+**This applies not only internally between teams, but also how to find our creative communities.** I also received a number of questions around communities. This included where to find communities, both in the physical and digital world. Today, it seems like there is a community for everything. When trying to figure out my own career pivot, I joined multiple communities and meet-ups to see what felt right. For years I joined UX/UI and digital communities even before working in this industry. Communities have a profound affect on our careers, lives and the information we are exposed to. 
+
+## What's next after mentoring
+
+After mentoring for multiple organisations I ask myself - what's next? I believer there are other mentors to bring new perspectives and there must be bigger ways where I can impact the community. **My goal is to use these learnings more within my leadership roles and to join more committees dedicated to improving the employee experience.** Change happens from all angles, it might be time to makes lives better by improving their environment. 
 
 ## Let’s summarise
 
-- A creative sabbatical is indeed a luxury, and can be tough to do
-- Changing both environments and habits showed a different side of myself 
-- I could fine-tune my career by joining different communities
-- Taking the time to design and code my website brought confidence
-- Even a small sabbatical can help to reveal a different you
+- Mentoring brings to light that some issues are persistent within life and careers
+- As people, we want to impact society, find our purpose and participate in relevant communities
+- Creating safe spaces for honest conversations is the first step
+- Navigating careers can be confusing and everyone's path is different
+- Enabling collaboration and community finding is important as a leader
