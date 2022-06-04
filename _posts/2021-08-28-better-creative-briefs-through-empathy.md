@@ -9,44 +9,64 @@ further_reading:
     
 ---
 
-**In February and March 2020, I took a creative sabbatical for two months. It was a crossroad of circumstances as my husband had a work opportunity in Australia, and my work surprisingly accepted. I could already realise the benefits during the trip, but it was also one year later that I could see the path taken developed into something much more.**
+**The brief is either your favourite part of the process or another to-do on your never-ending list. As someone who has both written and received briefs, I understand the potential and burden the entire process. We might never find the solution to the perfect brief, but there are some lessons to improve before someone gets hurt.**
 
 **What we'll cover:**
 * TOC
 {:toc}
 
-**A creative sabbatical is indeed a luxury.** It means taking time off of work, finding the funds to do so and sometimes convincing others that it’s a logical idea. To be honest, without the opportunity presented, I probably would not have taken a creative sabbatical. **Committing to two months off is usually not the first solution for issues within work or life.**
+## Receiving a brief feels like
 
-My two months in Sydney gave me new-found confidence. **Changing both environments and habits showed a different side of myself that would be otherwise hard to find in my day-to-day life.** This was both in my career direction, how I interacted with others and expanding into a new field. When you are on the treadmill that is life, you can adjust the speed but it's hard to **see if you should be on a treadmill in the first place.**
+**Receiving a creative brief is a mix of anticipation and dread.** The dread comes from the different ways you receive briefs and unclarity they hold. As you are waiting for the brief, the wheels are already spinning in your head around how to solve and then bring value to a client. You know there will be hint around the direction or solution, but also many gaps to fill.
 
-## Redirected my career, find my community
+When I was agency-side as a strategist, there were **elements of the brief I found useful. This included the objective, requirements and insights.** This created a brand, business and customer/user context. Curated insights pointed to the team’s level of understanding and also provided a narrative starting point for my research. 
 
-Experience, whether digital, physical or brand is a growing field. Each year it’s changing and finding new solutions to both business/brand and audience complexities. **When working agency-side as a strategist, I didn’t know what part of the experience industry I was in. It caused a bit of an identity crisis.** Was I in branding? Is this a type of service design? Could you consider it user experience? Not knowing your field makes the job and community search more challenging. 
+I would read a brief - even the simplest, shortest of briefs - dozens of times. This is where I would extract key information to start shaping a strategy or research approach. Provided documents were just as important to supplement the brief and go digging for insights. **Strategy always starts with an anchor, and that anchor is usually a compelling consumer/user insight.**
 
-**While on sabbatical in Sydney, I could join all these communities to figure out which one was my fit.** I went to meetups in design thinking, branding, UX, content design, customer experience and even data science. Quickly, I learned that data science was not the place for me, yet there was something in UX, branding and customer experience. When working, taking the time to join all of these meetings would have been difficult. On sabbatical, it could become a focus. 
+## Writing a brief feels like
 
-**By figuring out my place in the experience spectrum, I could move forward.** Since that trip, I did a certification in customer experience, started a course in UX/UI and changed jobs. It was easy to figure out what type of training was necessary to build off of my current work with a longer time to reflect. This also helped when writing the content for my new website. 
+I love writing briefs. **Writing a brief feels like a balancing act between too much information, too little information, inspiration and function.** It is a great tool and excuse to align team members and stakeholders around the purpose of a project. However you need the time and motivation to do it justice.
 
-## Improved UX/UI understanding through coding
+My approach to brief writing is, ‘what would I want to receive as a strategist on the other end?’ **The brief should not provide the answer to complex projects, but a direction to explore.** An agency was hired for a reason, and their perspective is important to the project. Briefs feel like an accomplishment in themselves, so I do want it to be taken seriously.
 
-**I designed and coded my first website in 2008, and on this trip I decided to do it once again.** Since then the internet and developing norms changed, especially with websites becoming more user friendly and responsive to different devices. Though I understood HTML and CSS, it required learning and relearning. Some of you developers could build my website in a couple of days, tops. However, every feature, page or component took hours on my side to research, build and rebuild. 
+**The disappointment comes as a client when you feel the brief has not been read throughly and main question not answered.** As a strategist, a brief was both a starting and continual reference point for a project. It should be checked as the project progresses to ensure it’s staying on track. As a client, if I need to cite the brief months into the project, it hasn’t really been digested. 
 
-There is a debate amongst UX/UI designers around the value of learning how to code. **In my case, it made me more confident while taking an intensive UX/UI course starting in October 2020.** Through extensive research developing my own website, I already learned some of the common best practices within UX/UI. This included the value of creating reusable components or modular elements within a design, as well as how to speak with developers more effectively. Ultimately, this side project gave me more confidence when going into a new field. 
+## What I include in a brief
 
-## Myself off of burnout
+**Project context:** brief narrative tying together industry, brand and audience insights
+**Objective and requirements:** what do we want to achieve and key points to keep in mind
+**Spark of inspiration:** a key theme, idea or question to explore
+**Brand overview:** the brand and how it is relevant to this situation
+**Audience profile:** who are we speaking to and what are their needs
+**Solution context:** giving more information around solution's potential use
+**Competitor examples:** what's the industry playing field look like
+**Further information:** detailed information relevant to that project
+**Timeline:** How long do you have to suffer through, I mean, complete the project
 
-**Looking back on my agency experience, I realised I was burnt out a number of times.** This affected how I spoke with others and socialised after work, and was hard to understand as it was happening. I thought my burnt out state was my normal state. **While in Sydney, I could see another side of myself - one that was not tired or exhausted. It gave me more assurance that I was indeed a social person.**
+## Where ambiguity exists
 
-**Many of my past colleagues would describe me as a nice person, but also one who is excessively focused.** Often I would put work before socialising. This behavior is a bit of a self-fulling prophecy and makes you question your ability to build meaningful relationships with others. While in Sydney, I was doing my own projects, but at a very different pace. This meant I had energy to socialise and go to meetups. Another side of myself started to show through, one who was easy-going, less anxious and more spontaneous.
+Within my line of work, there is a desired, key format for the solutions. This can be a store, packaging solution or digital platform, as examples. However, this is usually a mechanism for a greater goal - such as storytelling, engagement or audience acquisition. **To define and separate the project and greater objectives usually took sometime as a strategist, and was many times combined within a brief.**
 
-With this knowledge I could make changes to my life, knowing how much my personality changed according to my work stress. **My goal going into my new job was keeping tabs on my stress level to ensure I could develop enjoyable working relationships with others.** This was an unexpected learning from my sabbatical and I felt like a new person. 
+There are **sections in the brief I wish brands provided. These included, what we don’t know or want to learn more about, and our real ambitions and project expectations.** My job as a strategist was not to complete the project (that’s the easy part), but make the client look good. By providing the right tools and insights to a client, I can definitely make you look like a star.
 
-There is so much we can learn while working. But there is also a ton we can learn while not working. Two months might not be realistic, but perhaps one month or even two weeks is more durable. **Whichever it is, taking time to change your focus, find a side project and reconsider your habits can reveal a different you.** Luckily, one year later I am still living with this new me. 
+If you are making something visual, the most challenging part is a client team’s visual expectation. Many projects faulted when strategy becomes design. This is because **everyone's definition of simple design concepts such as minimalism, clean or even ‘lab’ differs.** Providing agreed upon competitor examples, inspiration or audience brand references is immensely helpful to reduce strategy to design disappointment. 
+
+## The importance of the rebrief and scope
+
+I am sure the perfect brief is out there. However, **a good briefing is beyond the brief itself. It is the whole process - from the document to conversation.** Briefs are still very subjective. An ideal brief for one person might not be the same for another. And as a client, you only provide what you feel is relevant. 
+
+There are tips and tricks for that perfect brief, but people are not robots and clients not programmers. Sorry folks, humans are involved in this process. **Most of the time I try to provide a brief WIP.** This helps to offer a preview on what's coming, ask for any missing info and allow time for scope conversations. The latter is super important, as you will then know how they understood the project to run.
+
+Within a project, there is a rebrief the brief phase. This can be called many things from immerse to understand. It generally means the brief will be read, supplemental insights used and a first approach presented. **Within a rebrief as a client, I am looking for clarity of idea, something interesting and project enthusiasm.** In a way, it's like a first date after texting back and forth for a couple of weeks.
+
+## Remember how cultures have different bargaining traditions?
+
+Well, that's the same for a brief. It's a creative negotiation. **As a client, I expect to be challenged and questions by the agency. As an agency, I expect to think the client is boring and can do more.** We all need to look at the brief as a process or phase that we all can improve upon. My ultimate piece of advice - know how it feels on the other side of the brief and you'll already improve the process.  
 
 ## Let’s summarise
 
-- A creative sabbatical is indeed a luxury, and can be tough to do
-- Changing both environments and habits showed a different side of myself 
-- I could fine-tune my career by joining different communities
-- Taking the time to design and code my website brought confidence
-- Even a small sabbatical can help to reveal a different you
+- We can improve the briefing process by understanding how people feel
+- As a strategist, I always felt anticipation and dread around the brief
+- As a client, I felt like briefs were a balancing act 
+- Scope and rebriefing are important parts to the briefing process
+- Sorry, there is no perfect brief, as humans are involved
