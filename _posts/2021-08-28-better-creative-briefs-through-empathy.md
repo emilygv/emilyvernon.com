@@ -9,7 +9,7 @@ further_reading:
     
 ---
 
-**The brief is either your favourite part of the process or another to-do on your never-ending list. As someone who has both written and received briefs, I understand the potential and burden the entire process. We might never find the solution to the perfect brief, but there are some lessons to improve before someone gets hurt.**
+**The brief is either your favourite part of the process or another to-do on your never-ending list. As someone who has both written and received briefs, I understand the potential and burden within the entire process. We might never find the solution to the perfect brief, but there are some lessons to learn before someone gets hurt.**
 
 **What we'll cover:**
 * TOC
@@ -38,14 +38,14 @@ My approach to brief writing is, ‘what would I want to receive as a strategist
 **Spark of inspiration:** a key theme, idea or question to explore
 **Brand overview:** the brand and how it is relevant to this situation
 **Audience profile:** who are we speaking to and what are their needs
-**Solution context:** giving more information around solution's potential use
+**Solution context:** giving more information around a solution's potential use
 **Competitor examples:** how does the industry playing field look like
 **Further information:** detailed information relevant to that project
 **Timeline:** how long do you have to suffer through, I mean, complete the project
 
 ## Where ambiguity exists
 
-Within my line of work, there is a desired, key format for the solutions. This can be a store, packaging solution or digital platform, as examples. However, this is usually a mechanism for a greater goal - such as storytelling, engagement or audience acquisition. **To define and separate the project and greater objectives usually took sometime as a strategist, and was many times combined within a brief.**
+Within my line of work, there is a desired, key format for the solution. This can be a store, packaging solution, campaign or digital platform, as examples. However, this is usually a mechanism for a greater goal - such as storytelling, engagement or audience acquisition. **To define and separate the project and greater objectives usually took sometime as a strategist, and was many times combined within a brief.**
 
 There are **sections in the brief I wish brands provided. These included, what we don’t know or want to learn more about, and our real ambitions and project expectations.** My job as a strategist was not to complete the project (that’s the easy part), but make the client look good. By providing the right tools and insights to a client, I can definitely make you look like a star.
 
@@ -57,7 +57,7 @@ I am sure the perfect brief is out there. However, **a good briefing is beyond t
 
 There are tips and tricks for that perfect brief, but people are not robots and clients not programmers. Sorry folks, humans are involved in this process. **Most of the time I try to provide a WIP brief.** This helps to offer a preview on what's coming, ask for any missing info and allow time for scope conversations. The latter is super important, as you will then know how they understood the project to run.
 
-Within a project, there is a rebrief the brief phase. This can be called many things from immerse to understand. It generally means the brief will be read, supplemental insights used and a first approach presented. **Within a rebrief as a client, I am looking for clarity of idea, something interesting and project enthusiasm.** In a way, it's like a first date after texting back and forth for a couple of weeks.
+Within a project, there is a rebrief-the-brief phase. This can be called many things from immerse to understand. It generally means the brief will be read, supplemental insights used and a first approach presented. **Within a rebrief as a client, I am looking for clarity of idea, something interesting and project enthusiasm.** In a way, it's like a first date after texting back and forth for a couple of weeks.
 
 ## Remember how cultures have different bargaining traditions?
 
@@ -69,4 +69,4 @@ Well, that's the same for a brief. It's a creative negotiation. **As a client, I
 - As a strategist, I always felt anticipation and dread around the brief
 - As a client, I felt like briefs were a balancing act 
 - Scope and rebriefing are important parts to the briefing process
-- Sorry, there is no perfect brief, as humans are involved
+- Sorry, there is no perfect brief as humans are involved
