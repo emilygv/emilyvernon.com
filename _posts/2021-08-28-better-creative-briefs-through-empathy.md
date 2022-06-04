@@ -29,7 +29,7 @@ I love writing briefs. **Writing a brief feels like a balancing act between too 
 
 My approach to brief writing is, ‘what would I want to receive as a strategist on the other end?’ **The brief should not provide the answer to complex projects, but a direction to explore.** An agency was hired for a reason, and their perspective is important to the project. Briefs feel like an accomplishment in themselves, so I do want it to be taken seriously.
 
-**The disappointment comes as a client when you feel the brief has not been read throughly and main question not answered.** As a strategist, a brief was both a starting and continual reference point for a project. It should be checked as the project progresses to ensure it’s staying on track. As a client, if I need to cite the brief months into the project, it hasn’t really been digested. 
+**The disappointment comes as a client when you feel the brief has not been read thoroughly and main question not answered.** As a strategist, a brief was both a starting and continual reference point for a project. It should be checked as the project progresses to ensure it’s staying on track. As a client, if I need to cite the brief months into the project, it hasn’t really been digested. 
 
 ## What I include in a brief
 
@@ -39,9 +39,9 @@ My approach to brief writing is, ‘what would I want to receive as a strategist
 **Brand overview:** the brand and how it is relevant to this situation
 **Audience profile:** who are we speaking to and what are their needs
 **Solution context:** giving more information around solution's potential use
-**Competitor examples:** what's the industry playing field look like
+**Competitor examples:** how does the industry playing field look like
 **Further information:** detailed information relevant to that project
-**Timeline:** How long do you have to suffer through, I mean, complete the project
+**Timeline:** how long do you have to suffer through, I mean, complete the project
 
 ## Where ambiguity exists
 
@@ -49,19 +49,19 @@ Within my line of work, there is a desired, key format for the solutions. This c
 
 There are **sections in the brief I wish brands provided. These included, what we don’t know or want to learn more about, and our real ambitions and project expectations.** My job as a strategist was not to complete the project (that’s the easy part), but make the client look good. By providing the right tools and insights to a client, I can definitely make you look like a star.
 
-If you are making something visual, the most challenging part is a client team’s visual expectation. Many projects faulted when strategy becomes design. This is because **everyone's definition of simple design concepts such as minimalism, clean or even ‘lab’ differs.** Providing agreed upon competitor examples, inspiration or audience brand references is immensely helpful to reduce strategy to design disappointment. 
+If you are making something visual, the most challenging part is a client team’s visual expectation. Many projects faltered when strategy becomes design. This is because **everyone's definition of simple design concepts such as minimalism, clean or even ‘lab’ differs.** Providing agreed upon competitor examples, inspiration or audience brand references is immensely helpful to reduce strategy to design disappointment. 
 
 ## The importance of the rebrief and scope
 
 I am sure the perfect brief is out there. However, **a good briefing is beyond the brief itself. It is the whole process - from the document to conversation.** Briefs are still very subjective. An ideal brief for one person might not be the same for another. And as a client, you only provide what you feel is relevant. 
 
-There are tips and tricks for that perfect brief, but people are not robots and clients not programmers. Sorry folks, humans are involved in this process. **Most of the time I try to provide a brief WIP.** This helps to offer a preview on what's coming, ask for any missing info and allow time for scope conversations. The latter is super important, as you will then know how they understood the project to run.
+There are tips and tricks for that perfect brief, but people are not robots and clients not programmers. Sorry folks, humans are involved in this process. **Most of the time I try to provide a WIP brief.** This helps to offer a preview on what's coming, ask for any missing info and allow time for scope conversations. The latter is super important, as you will then know how they understood the project to run.
 
 Within a project, there is a rebrief the brief phase. This can be called many things from immerse to understand. It generally means the brief will be read, supplemental insights used and a first approach presented. **Within a rebrief as a client, I am looking for clarity of idea, something interesting and project enthusiasm.** In a way, it's like a first date after texting back and forth for a couple of weeks.
 
 ## Remember how cultures have different bargaining traditions?
 
-Well, that's the same for a brief. It's a creative negotiation. **As a client, I expect to be challenged and questions by the agency. As an agency, I expect to think the client is boring and can do more.** We all need to look at the brief as a process or phase that we all can improve upon. My ultimate piece of advice - know how it feels on the other side of the brief and you'll already improve the process.  
+Well, that's the same for a brief. It's a creative negotiation. **As a client, I expect to be challenged and questioned by the agency. As an agency, I expect to think the client is boring and can do more.** We all need to look at the brief as a process or phase that we all can improve upon. My ultimate piece of advice - know how it feels on the other side of the brief and you'll already improve the process.  
 
 ## Let’s summarise
 
