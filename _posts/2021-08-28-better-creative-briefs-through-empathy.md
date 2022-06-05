@@ -1,5 +1,5 @@
 ---
-title: Better Creative Briefs through Empathy
+title: Better Creative Briefs Through Empathy
 category: Brand strategy
 image: "https://source.unsplash.com/2zDXqgTzEFE/800x430"
 further_reading:
