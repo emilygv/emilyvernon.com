@@ -15,19 +15,19 @@ responsibilities: [Design Systems Audit, Competitor Research, Project Management
 
 {% include case_h3_block.html 
 title="Experience Audit" 
-content="**Key user interactions could be improved within the new delivery flow (the project's red route) as well as tracking deliveries and creating new locations.** The delivery creation flow could be better organised according to both B2B and B2C experiences. Determining the possibility for or type of delivery was left until the end, even though the data was entered in earlier." %}
+content="**Key user interactions could be improved within the new delivery flow (the project's red route), as well as tracking deliveries and creating new locations.** The delivery creation flow could be better organised according to both B2B and B2C experiences. Determining the possibility for or type of delivery was left until the end, even though the data was entered in earlier." %}
 
 ![](/assets/images/casestudies/bringly/experience_audit_delivery_creation.png)
 
 {% capture info-highlight %}
 #### 1. Map Takes Up Valuable Space
-Map has little functional value and takes up valuable space. It was introduced for its visual impact, yet distracts the user.
+Map has little functional value and takes up valuable space. It was initially introduced for its visual impact, yet distracts the user.
 |
 #### 2. Information Hierarchy and Error Messaging
-To aid the user in quick information input, create sections for the different form fields and clearer, accompanying error messages.
+To aid the user in quick information input and understanding, create sections and better system for clearer error messaging.
 |
 #### 3. Earlier Indication of Delivery Possibilities
-Package size and address determines which type of delivery is possible and 'Type of delivery' should be higher up in the form.
+Package size and address determines which type of delivery is possible, where 'Type of delivery' should be earlier in the form.
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
 
