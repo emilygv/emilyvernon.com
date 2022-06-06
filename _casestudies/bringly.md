@@ -31,6 +31,20 @@ Package size and address determines which type of delivery is possible, where 'T
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
 
+![](/assets/images/casestudies/bringly/experience_audit_tracking_location_add.png)
+
+{% capture info-highlight %}
+#### 4. Change Column Order 
+Revise order of columns to prioritise information for the user, where the tracking information and delivery status should be the most left columns.
+|
+#### 5. Improve Iconography and Location for Task
+Tasks are currently mixed in-between static information and iconography unclear. Both can be improved.
+|
+#### 6. Add Location Button to Mirror Location’s Page
+The floating button for ‘Add Location’ is not intuitive for the user, as it can be overlooked. 
+{% endcapture %}
+{% include info-highlight.html content=info-highlight %}
+
 {% include case_h3_block.html 
 title="Design System Audit" 
 content="As there was no design system, **I audited the updated website and existing B2B portal. The website created an ownable approach to sustainability,** from the use of colours to graphics. **The variety of component executions could be streamlined and updated** with the necessary states and error messages." %}
