@@ -13,6 +13,20 @@ responsibilities: [Design Systems Audit, Competitor Research, Project Management
 
 ## Analyse
 
+![](/assets/images/casestudies/bringly/bringly_design_audit.png)
+
+{% capture info-highlight %}
+#### 1. Dual Prompt
+The prompt ‘I’m Interested’ for PostUps near you was chosen half of the time, where ‘Search’ was the other option.
+|
+#### 2. Next Navigation
+Next arrow cause confusion, and a number of users though it was to get directions.
+|
+#### 3. Icon Clarity
+Main navigation icons were not immediately recognised by users, especially the web icon.
+{% endcapture %}
+{% include info-highlight.html content=info-highlight %}
+
 {% include case_h3_block.html 
 title="Design System Audit" 
 content="As there was no design system, **I audited the updated website and existing B2B portal. The website created an ownable approach to sustainability,** from the use of colours to graphics. **The variety of component executions could be streamlined and updated** with the necessary states and error messages." %}
