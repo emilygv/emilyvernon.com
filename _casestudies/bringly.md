@@ -15,7 +15,7 @@ responsibilities: [Design Systems Audit, Competitor Research, Project Management
 
 {% include case_h3_block.html 
 title="Experience Audit" 
-content="**Key user interactions could be improved within the new delivery flow, the focus, as well as tracking deliveries and creating new locations.** The delivery creation flow could be better organised according to both B2B and B2C experiences. Determining the possibility for or type of delivery was left until the end, even though the data was entered in earlier." %}
+content="**Key user interactions could be improved within the new delivery flow (the project's red route) as well as tracking deliveries and creating new locations.** The delivery creation flow could be better organised according to both B2B and B2C experiences. Determining the possibility for or type of delivery was left until the end, even though the data was entered in earlier." %}
 
 ![](/assets/images/casestudies/bringly/experience_audit_delivery_creation.png)
 
