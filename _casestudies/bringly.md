@@ -13,17 +13,21 @@ responsibilities: [Design Systems Audit, Competitor Research, Project Management
 
 ## Analyse
 
-![](/assets/images/casestudies/bringly/bringly_design_audit.png)
+{% include case_h3_block.html 
+title="Experience Audit" 
+content="**Key user interactions could be improved within the new delivery flow, the focus, as well as tracking deliveries and creating new locations.** The delivery creation flow could be better organised according to both B2B and B2C experiences. Determining the possibility for or type of delivery was left until the end, even though the data was entered in earlier." %}
+
+![](/assets/images/casestudies/bringly/experience_audit_delivery_creation.png)
 
 {% capture info-highlight %}
-#### 1. Dual Prompt
-The prompt ‘I’m Interested’ for PostUps near you was chosen half of the time, where ‘Search’ was the other option.
+#### 1. Map Takes Up Valuable Space
+Map has little functional value and takes up valuable space. It was introduced for its visual impact, yet distracts the user.
 |
-#### 2. Next Navigation
-Next arrow cause confusion, and a number of users though it was to get directions.
+#### 2. Information Hierarchy and Error Message
+To aid the user in quick information input, create sections for the different form fields and clearer, accompanying error messages.
 |
-#### 3. Icon Clarity
-Main navigation icons were not immediately recognised by users, especially the web icon.
+#### 3. Earlier Indication of Delivery Possibilities
+Package size and address determines which type of delivery is possible and 'Type of delivery' should be higher up in the form.
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
 
