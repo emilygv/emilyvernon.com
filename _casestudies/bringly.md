@@ -23,7 +23,7 @@ content="**Key user interactions could be improved within the new delivery flow 
 #### 1. Map Takes Up Valuable Space
 Map has little functional value and takes up valuable space. It was introduced for its visual impact, yet distracts the user.
 |
-#### 2. Information Hierarchy and Error Message
+#### 2. Information Hierarchy and Error Messaging
 To aid the user in quick information input, create sections for the different form fields and clearer, accompanying error messages.
 |
 #### 3. Earlier Indication of Delivery Possibilities
