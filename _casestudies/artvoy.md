@@ -95,7 +95,7 @@ content="**In order to improve conversion, two red routes were considered. Conve
 
 {% include case_h3_block.html 
 title="Overview" 
-content="Conducted two user tests, one for wireframes and the other for the high-fidelity prototype. Looked to uncover usability issues within the red routes. **Ensuring the product search was clear, appointment booking was appropriate to the overall customer journey and monthly payment process provided the needed information were key focuses.** Tested on five users per round of testing." %}
+content="Conducted two user tests, one for wireframes and the other for the high-fidelity prototype. Looked to uncover usability issues within the red routes. **Ensuring the product search was clear, appointment booking was appropriate to the overall customer journey and monthly payment process provided the needed information were key focuses.** Tested on five users per round." %}
 
 ![](/assets/images/casestudies/artvoy/artvoy_initial_screens.jpg)
 
