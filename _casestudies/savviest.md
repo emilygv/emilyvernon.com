@@ -14,6 +14,12 @@ responsibilities: [Workshop Moderation, Stakeholder Management, Experience Strat
 ## Analyse
 
 {% include case_h3_block.html 
+title="What is Savviest" 
+content="For a couple of weeks, I tried out the product. **The comprehensive ecosystem was helpful to keep everything together - especially if you are applying to multiple jobs.** Instead of copy-pasting text from multiple Google Docs into your new resume or cover letter, it could be generated. **There was a strength in the modularity of context within Savviest.**" %}
+
+![](/assets/images/casestudies/savviest/savviest-screenshots.png)
+
+{% include case_h3_block.html 
 title="Meet Users and Experts" 
 content="**There are two sides to interviewing: the interviewee and interviewer. For this reason, we spoke to both users and experts.** Our users were individuals currently or recently going through job interviews, while experts included hiring managers, career coaches and recruiters. **We were able to analyse how users prepped versus what hiring managers looked for in a candidate.**" %}
 
@@ -47,7 +53,7 @@ content="Savviest had a general understanding of its demographics, however **we 
 
 {% include case_h3_block.html 
 title="Competitor Landscape" 
-content="**There are a range of interview preparation platforms available.** Some are specialised and others within a greater job search readiness platform. After evaluating these two areas, we learned **platforms focused on questions or coaching. The idea of creating conversations and shaping your stories was not addressed.**" %}
+content="**There are a range of interview preparation platforms available.** Some are specialised and others within a greater job search readiness platform. After evaluating these two areas, we learned **platforms focused on questions or coaching. Shaping and practicing your stories (a concept between Prep and Improve) was not addressed.**" %}
 
 ![](/assets/images/casestudies/savviest/savviest-competitor_overview.jpg)
 
