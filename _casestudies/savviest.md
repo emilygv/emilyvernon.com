@@ -49,8 +49,6 @@ content="Savviest had a general understanding of its demographics, however **we 
 
 ![](/assets/images/casestudies/savviest/savviest-user_archetype_02.jpg)
 
-![](/assets/images/casestudies/savviest/savviest-user_archetype_03.jpg)
-
 {% include case_h3_block.html 
 title="Competitor Landscape" 
 content="**There are a range of interview preparation platforms available.** Some are specialised and others within a greater job search readiness platform. After evaluating these two areas, we learned **platforms focused on questions or coaching. Shaping and practicing your stories (a concept between Prep and Improve) was not addressed.**" %}
