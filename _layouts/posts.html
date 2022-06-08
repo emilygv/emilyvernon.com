@@ -4,15 +4,17 @@ layout: page
 
 {% include category_links.html %}
 
-{% if site.paginate %}
-  {% assign posts = paginator.posts %}
+{{ content }}
+
+{% if site.paginate and paginator %}
+  {% assign xposts = paginator.posts %}
 {% else %}
-  {% assign posts = site.posts %}
+  {% assign xposts = site.posts %}
 {% endif %}
 
-{% include post_cards.html posts=posts show_category=true %}
+{% include post_cards.html posts=xposts show_category=true %}
 
-{% if site.paginate %}
+{% if site.paginate and paginator %}
 <nav aria-label="Post pagination">
   <ul class="pagination">
   {% if paginator.previous_page %}
