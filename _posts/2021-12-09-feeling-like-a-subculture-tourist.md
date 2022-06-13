@@ -56,7 +56,7 @@ Unless we are from that subculture, it's difficult to make decisions about an au
 ## Let’s summarise
 
 - Throughout my career, I've joined numerous interest-based subcultures
-- These are communities with shared beliefs, expressions, traditions and lifestyles unlike greater society
-- There's a strength in understanding different lifestyles and their influence on the creative industry
+- These are communities with shared beliefs, expressions, traditions and lifestyles
+- There's a strength in understanding their influence on the creative industry
 - Mainstream is indeed breaking down to some degree, but it is still there
 - Every aesthetic starts with an emotion, idea around identity and desired lifestyle
