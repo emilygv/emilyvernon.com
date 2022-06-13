@@ -9,64 +9,54 @@ further_reading:
     
 ---
 
-**The brief is either your favourite part of the process or another to-do on your never-ending list. As someone who has both written and received briefs, I understand the potential and burden within the entire process. We might never find the solution to the perfect brief, but there are some lessons to learn before someone gets hurt.**
+**As a designer and strategist, it is important to understand subcultures. The varying references, ideas and lifestyles inform projects from beauty to fashion, streetwear to luxury. Today, it feels the subculture scene is paradoxically plentiful, yet globally consolidated. Either way, these communities still influence main society, and also have a profound impact on individuals in creative industries.**
 
 **What we'll cover:**
 * TOC
 {:toc}
 
-## Receiving a brief feels like
+## Feeling like a subculture tourist
 
-**Receiving a creative brief is a mix of anticipation and dread.** The dread comes from the different ways you receive briefs and unclarity they hold. As you are waiting for the brief, the wheels are already spinning in your head around how to solve and then bring value to a client. You know there will be hint around the direction or solution, but also many gaps to fill.
+**Throughout my career, I've joined numerous interest-based subcultures for both work or projects.** These include everything from sneakerheads to denimheads, skintellectuals to bikers, punk to one-bagger. As designers and strategists, we try to transport ourselves into other people's lives. I found by trying to go to events, sample products or follow thought-leaders in certain communities my understanding of audience behaviour felt more intuitive.
 
-When I was agency-side as a strategist, there were **elements of the brief I found useful. This included the objective, requirements and insights.** This created a brand, business and customer/user context. Curated insights pointed to the team’s level of understanding and also provided a narrative starting point for my research. 
+**I call myself a tourist, as in my attempts to understand and immerse, I never quite fit in. My understanding could still be considered surface level.** Try going to a denim event in stretch denim or having no idea what a cafe racer was at a motorcycle convention. With a career spanning streetwear, music journalism and agency-side, paired with a personality that is anything but cool, it's been a growing experience.
 
-I would read a brief - even the simplest, shortest of briefs - dozens of times. This is where I would extract key information to start shaping a strategy or research approach. Provided documents were just as important to supplement the brief and go digging for insights. **Strategy always starts with an anchor, and that anchor is usually a compelling consumer/user insight.**
+## What is a subculture?
 
-## Writing a brief feels like
+Let’s look at what a subculture is. **This is a community with shared beliefs, expressions, traditions and lifestyles unlike greater society.** These exist both online and offline, local or worldwide. Many times subcultures are associated with younger generations, but can be cross-generational if centered around an interest or identity. That is to say, we usually think of punk, hipster and goth versus cosplay, biker or sneakerhead even though these are all subcultures. 
 
-I love writing briefs. **Writing a brief feels like a balancing act between too much information, too little information, inspiration and function.** It is a great tool and excuse to align team members and stakeholders around the purpose of a project. However you need the time and motivation to do it justice.
+It does not stop there. It's worth pointing out these communities can also span religion, occupation, academia or sexual orientation. **There are debates around subculture vs scene, tribe, counterculture or movement.** Furthermore, I realise the topic can also get quite controversial and there's great emotional depth in the subject. Both are valuable conversations best left for another time, and more than 1000 words. 
 
-My approach to brief writing is, ‘what would I want to receive as a strategist on the other end?’ **The brief should not provide the answer to complex projects, but a direction to explore.** An agency was hired for a reason, and their perspective is important to the project. Briefs feel like an accomplishment in themselves, so I do want it to be taken seriously.
+In general, if it's greater than an aesthetic or consumer behavior, and a gathering place or events are involved, I would say we are close to subculture. **We want to build upon the fact that there's a strength in understanding different lifestyles and their influence on the creative industry.** The multi-dimensional aspects are important as brands themselves are also (or trying to be) multi-dimensional communities.  
 
-**The disappointment comes as a client when you feel the brief has not been read thoroughly and main question not answered.** As a strategist, a brief was both a starting and continual reference point for a project. It should be checked as the project progresses to ensure it’s staying on track. As a client, if I need to cite the brief months into the project, it hasn’t really been digested. 
+## Does mainstream even still exist?
 
-## What I include in a brief
+**Trend forecasters can't keep up with the, sometimes self-proclaimed, subcultures appearing today.** It seems like everyday there is something new on TikTok, Reddit, YouTube or - gasp - in your IRL locality. Furthermore, our audiences participate in different subcultures and change subcultures as their beliefs evolve. 
 
-**Project context:** brief narrative tying together industry, brand and audience insights
-**Objective and requirements:** what do we want to achieve and key points to keep in mind
-**Spark of inspiration:** a key theme, idea or question to explore
-**Brand overview:** the brand and how it is relevant to this situation
-**Audience profile:** who are we speaking to and what are their needs
-**Solution context:** giving more information around a solution's potential use
-**Competitor examples:** how does the industry playing field look like
-**Further information:** detailed information relevant to that project
-**Timeline:** how long do you have to suffer through, I mean, complete the project
+Subcultures create a substantial community challenging mainstream ideas. **You might be asking - with so many subcultures these days, is there a dominant or mainstream culture?** Mainstream is indeed breaking down to some degree, but it is still there. Take a look at your country's long-standing beliefs, as an example, which are many times represented in mass media and can be identified by an external perspective. 
+ 
+**Subcultures are a form of experimentation, resistance and attempt to understand society.** There is a lot of repurposing, reusing and reinterpreting of ideas and themes. In the end, people are looking for ways to genuinely express themselves and feel included. 'Love and belonging', as Maslow showed us, is pretty important. To some of us, it can feel like this is getting tougher in our digital, phygital, connected, meta age.
 
-## Where ambiguity exists
+## From subculture to mainstream
 
-Within my line of work, there is a desired, key format for the solution. This can be a store, packaging solution, campaign or digital platform, as examples. However, this is usually a mechanism for a greater goal - such as storytelling, engagement or audience acquisition. **To define and separate the project and greater objectives usually took sometime as a strategist, and was many times combined within a brief.**
+Characteristics and beliefs from subcultures are many times adopted into mainstream, and commercialised. **You might be thinking, 'yep, those evil corporates simplifying complex identities for consumption' - you got it.** There are examples where this works okay and other times it's a disaster. Fashion designers, you know who you are.
 
-There are **sections in the brief I wish brands provided. These included, what we don’t know or want to learn more about, and our real ambitions and project expectations.** My job as a strategist was not to complete the project (that’s the easy part), but make the client look good. By providing the right tools and insights to a client, I can definitely make you look like a star.
+While the aesthetic and sonic aspects are easier to mainstream-ise, it's more interesting to understand the reasoning behind beliefs and rituals. **This is because those ideas evolve overtime.** When I think about brand experience, it’s about framing change and creating the approach to make it happen. As creatives, we need to think about solving today's problems while anticipating future needs.
 
-If you are making something visual, the most challenging part is a client team’s visual expectation. Many projects faltered when strategy becomes design. This is because **everyone's definition of simple design concepts such as minimalism, clean or even ‘lab’ differs.** Providing agreed upon competitor examples, inspiration or audience brand references is immensely helpful to reduce strategy to design disappointment. 
+Let’s take an easy example. When you work within fashion or footwear, you are projecting years and seasons out. While most people are looking at Kim Kardashian, designers are looking beyond. This means tracking subcultures helps to understand what will affect us tomorrow. **But fashion is not all surface, as every aesthetic starts with an emotion, idea around identity and desired lifestyle.** We usually look at lifestyle first to then understand an aesthetic.
 
-## The importance of the rebrief and scope
+## Creatives are always exploring and experimenting
 
-I am sure the perfect brief is out there. However, **a good briefing is beyond the brief itself. It is the whole process - from the document to conversation.** Briefs are still very subjective. An ideal brief for one person might not be the same for another. And as a client, you only provide what you feel is relevant. 
+**Even to this day my subculture trips affect who I am.** At Converse, I worked with a number of sneakerheads. Their knowledge and selectiveness around sneakers was inspiring. When working on Clinique for China, beauty products were initially not my thing. Putting my preferences aside, I tried existing and competitor products, watched YouTube videos and followed influencers. Years later I am still particular about footwear and watch science-focused skincare YouTube videos. 
 
-There are tips and tricks for that perfect brief, but people are not robots and clients not programmers. Sorry folks, humans are involved in this process. **Most of the time I try to provide a WIP brief.** This helps to offer a preview on what's coming, ask for any missing info and allow time for scope conversations. The latter is super important, as you will then know how they understood the project to run.
+If you're able to get over feeling out-of-place, there's a lot you can learn from first-hand experiences. These help to contextualise qualitative or quantitative insights, and internalise customer journeys or empathy maps. **This is because as designers and strategists we are inevitably still creating through our lens.** Furthermore, we are also looking at a brand identified audience through our desired journey versus their everyday life journey.
 
-Within a project, there is a rebrief-the-brief phase. This can be called many things from immerse to understand. It generally means the brief will be read, supplemental insights used and a first approach presented. **Within a rebrief as a client, I am looking for clarity of idea, something interesting and project enthusiasm.** In a way, it's like a first date after texting back and forth for a couple of weeks.
-
-## Remember how cultures have different bargaining traditions?
-
-Well, that's the same for a brief. It's a creative negotiation. **As a client, I expect to be challenged and questioned by the agency. As an agency, I expect to think the client is boring and can do more.** We all need to look at the brief as a process or phase that we all can improve upon. My ultimate piece of advice - know how it feels on the other side of the brief and you'll already improve the process.  
+Unless we are from that subculture, it's difficult to make decisions about an audience intuitively. However, by taking the time to join their community - even as a tourist - **we then feel more comfortable with the vocabulary, have a better idea of what questions to ask and understand our own knowledge limitation better.** Tourism gets a bad wrap sometimes, but showing up and trying is half the game. 
 
 ## Let’s summarise
 
-- We can improve the briefing process by understanding how people feel
-- As a strategist, I always felt anticipation and dread around the brief
-- As a client, I felt like briefs were a balancing act 
-- Scope and rebriefing are important parts to the briefing process
-- Sorry, there is no perfect brief as humans are involved
+- Throughout my career, I've joined numerous interest-based subcultures
+- These are communities with shared beliefs, expressions, traditions and lifestyles unlike greater society
+- There's a strength in understanding different lifestyles and their influence on the creative industry
+- Mainstream is indeed breaking down to some degree, but it is still there
+- Every aesthetic starts with an emotion, idea around identity and desired lifestyle
