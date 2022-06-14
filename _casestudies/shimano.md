@@ -4,7 +4,7 @@ title:  Cycling, fishing and rowing for all enthusiasts
 description: Leading experience strategy for the Shimano Experience Center
 project_name: Shimano experience center
 category: Creativity
-featured: true
+featured: false
 image: /assets/images/casestudies/shimano/shimano_hero_image.jpg
 thumbnail: /assets/images/casestudies/shimano/shimano_thumbnail.jpg
 challange: "Shimano is known for the technical quality of its equipment. However, **the brand lacked an emotional connection to its users.** The Experience Center is a part of a bigger complex. **It should promote adventure to a wide audience**, as visitors range from experts to enthusiasts."  
