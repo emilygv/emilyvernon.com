@@ -4,7 +4,7 @@ title:  Over-the-top storytelling for kids of all ages
 description: Moderating design sprints for Lego’s flagship location 
 project_name: Lego Amsterdam flagship
 category: Creativity
-featured: true
+featured: false
 image: /assets/images/casestudies/lego/lego_hero_image.jpg
 thumbnail: /assets/images/casestudies/lego/lego_thumbnail.jpg
 challange: "Every Lego store looks to top the previous store in terms of storytelling, experience and design. **Our team was tasked to help run design workshops to ensure the store reflected the locality in a fun, genuine way.** This is because visitors to the Kalverstraat location were both local and tourist."  
