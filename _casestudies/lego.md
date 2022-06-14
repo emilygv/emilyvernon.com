@@ -1,7 +1,7 @@
 ---
 layout: casestudy
 title:  Over-the-top storytelling for kids of all ages
-description: Moderating design sprints for Lego’s flagship location 
+description: Moderating design sprints for Lego’s Amsterdam flagship 
 project_name: Lego Amsterdam flagship
 category: Creativity
 featured: false
