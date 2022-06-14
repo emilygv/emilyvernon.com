@@ -1,6 +1,6 @@
 ---
 layout: casestudy
-title:  Luxury hotel benchmark reinvented
+title: Luxury hotel benchmark reinvented
 description: Leading experience strategy for a global five-star hotel chain
 project_name: Regent hotels and resorts 
 category: Creativity
