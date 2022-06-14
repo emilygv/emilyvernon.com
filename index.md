@@ -20,7 +20,7 @@ title="We all want to live our best lives. This is why my focus includes the fol
 titles="Work, Travel, Luxury, Wellbeing" 
 icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
 
-## Work Highlight
+## Work Highlights
 
 {% assign featured_works = site.casestudies | where:"featured", true  %}
 {% for post in featured_works %}
