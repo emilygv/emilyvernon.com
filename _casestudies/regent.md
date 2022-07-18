@@ -5,6 +5,7 @@ description: Leading experience strategy for a global five-star hotel chain
 project_name: Regent hotels and resorts 
 category: Creativity
 featured: false
+skip_section_icons: true
 image: /assets/images/casestudies/regent/regent_hero_image.jpg
 thumbnail: /assets/images/casestudies/regent/regent_thumbnail.jpg
 challange: "**IHG acquired Regent Hotels and Resorts, looking to redefine and expand the brand.** This was the first five-star luxury brand within their portfolio. **We needed to help define the experience, design and guidelines for both the internal teams and hotel owners.** This included both hotel and resort definition."  
