@@ -49,10 +49,12 @@ layout: page
 
 </section>
 
+{% if page.skip_section_icons != true %}
 {% include section_icons.html 
 titles="Analyse, Articulate, Apply, Assess" 
 icons="Discover, Define, Design, Validate" 
 breakout=true %}
+{% endif %}
 
 {{ content }}
 
