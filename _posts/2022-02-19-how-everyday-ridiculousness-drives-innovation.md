@@ -9,54 +9,56 @@ further_reading:
     
 ---
 
-**As a designer and strategist, it is important to understand subcultures. The varying references, ideas and lifestyles inform projects from beauty to fashion, streetwear to luxury. Today, it feels the subculture scene is paradoxically plentiful, yet globally consolidated. Either way, these communities still influence main society, and also have a profound impact on individuals in creative industries.**
+**For years, I’ve been fascinated with humor and everyday ridiculousness. Both are simple and poignant in their ability to address unspoken ideas. These are what fuel stand-up comedy jokes, as well as crazy, yet wonderful business ideas. The answer for your next problem is not as far as you think - it’s many times hidden between the lines of our boring, stressful lives.**
 
 **What we'll cover:**
 * TOC
 {:toc}
 
-## Feeling like a subculture tourist
+Have you ever been talking with someone and both started laughing? Maybe you chuckled at the situation you were in, or a comment about that long, arduous work meeting earlier. This is when you know hiding between the laughter is an interesting idea. This is because humorous ideas have key characteristics of a good idea: immediacy, emotional resonance, truth and ridiculousness. 
 
-**Throughout my career, I've joined numerous interest-based subcultures for both work or projects.** These include everything from sneakerheads to denimheads, skintellectuals to bikers, punk to one-bagger. As designers and strategists, we try to transport ourselves into other people's lives. I found by trying to go to events, sample products or follow thought-leaders in certain communities my understanding of audience behaviour felt more intuitive.
+Sure, we all are rational animals trying to be responsible adults. But ridiculousness is just the adult way of saying playful - while still sounding credible. Ridiculousness is always worth exploring. This is because once ridiculous ideas are executed and adapted, they don’t look so unrealistic any longer. Many times we shy away from such ideas, so as to not look foolish or crazy in-front of our colleagues. I am here to say, looking foolish is okay, even inspirational.
 
-**I call myself a tourist, as in my attempts to understand and immerse, I never quite fit in. My understanding could still be considered surface level.** Try going to a denim event in stretch denim or having no idea what a cafe racer was at a motorcycle convention. With a career spanning streetwear, music journalism and agency-side, paired with a personality that is anything but cool, it's been a growing experience.
+## Ugly, intriguing ideas over perfect ones
 
-## What is a subculture?
+There’s a saying - leaders are crazy until they have two followers. Two is not such a big number in the grand scheme of things. Some of the craziest ideas and craziest leaders live in venture capitalism, so let’s look there first. One entrepreneur and angel investor mentioned his mission was to groom ugly ducklings not to find the black swans. Rare perfection is hard (if not impossible) to identify as a start-up, while ugly ideas are starting points. It’s not always about that illusive great idea, but one compelling, even intriguing point to get going. 
 
-Let’s look at what a subculture is. **This is a community with shared beliefs, expressions, traditions and lifestyles unlike greater society.** These exist both online and offline, local or worldwide. Many times subcultures are associated with younger generations, but can be cross-generational if centered around an interest or identity. That is to say, we usually think of punk, hipster and goth versus cosplay, biker or sneakerhead even though these are all subcultures. 
+We look at companies today and think they had the best idea in the onset. But this is rarely the case, where many brands, companies and products went through relentless iterations. A good idea is made overtime and during this process the ridiculous starts to sound normal. Let’s look at some of our favourite things and tell me if the concept sounds sane:
 
-It does not stop there. It's worth pointing out these communities can also span religion, occupation, academia or sexual orientation. **There are debates around subculture vs scene, tribe, counterculture or movement.** Furthermore, I realise the topic can also get quite controversial and there's great emotional depth in the subject. Both are valuable conversations best left for another time, and more than 1000 words. 
+**Twitter:** You have a lot to say, but only have 280 characters
+**Airbnb:** Let online strangers stay at your home
+**Cheesecake Factory:** Lot’s of food in a Disneyland design. And it’s not a factory
+**Tea:** Create a flavoured water with expensive leaves
+**Snuggie:** I know someone out there who owns one, and you I want one too
+**Ferby:** Let’s keep it there, I know some of you are already traumatised
 
-In general, if it's greater than an aesthetic or consumer behavior, and a gathering place or events are involved, I would say we are close to subculture. **We want to build upon the fact that there's a strength in understanding different lifestyles and their influence on the creative industry.** The multi-dimensional aspects are important as brands themselves are also (or trying to be) multi-dimensional communities.  
+Each of these is immediate and almost humorous, however evolved from normal everyday needs. Twitter used to be a side project of a podcasting company, Odeo, as a short message service within groups. Snuggie was an evolution to The Slanket, which a college student created out of desperation after needing to take his arms from under his blanket to work a TV remote. I know, hard life. Ferby speaks a mix of languages one of the creators learned in the navy. Now, Ferby is on the catwalks. What is going on in the world?
 
-## Does mainstream even still exist?
+## Why we don’t do ridiculous
 
-**Trend forecasters can't keep up with the, sometimes self-proclaimed, subcultures appearing today.** It seems like everyday there is something new on TikTok, Reddit, YouTube or - gasp - in your IRL locality. Furthermore, our audiences participate in different subcultures and change subcultures as their beliefs evolve. 
+On the flipside, I’ve seen great ideas that were completely ridiculous. This is different from ridiculous ideas that are great, like the ones above. Usually these ‘great ideas’ are trying too hard to solve a problem. For example, at Web Summit there was an app that immediately scheduled a meeting when the slots opened for both people. Great idea, but didn’t want it. Seems logical, but also not enjoyable at all.
 
-Subcultures create a substantial community challenging mainstream ideas. **You might be asking - with so many subcultures these days, is there a dominant or mainstream culture?** Mainstream is indeed breaking down to some degree, but it is still there. Take a look at your country's long-standing beliefs, as an example, which are many times represented in mass media and can be identified by an external perspective. 
- 
-**Subcultures are a form of experimentation, resistance and attempt to understand society.** There is a lot of repurposing, reusing and reinterpreting of ideas and themes. In the end, people are looking for ways to genuinely express themselves and feel included. 'Love and belonging', as Maslow showed us, is pretty important. To some of us, it can feel like this is getting tougher in our digital, phygital, connected, meta age.
+At some point as human beings we become increasingly self-conscious, aware of social norms and afraid of judgment. When we become adults our imagination and playfulness fades into efficiency and logic. But we are constantly looking for our playful selves - there are books, yoga poses and workshops to connect us to our inner three year old. Why is it so hard at work?
 
-## From subculture to mainstream
+I’ve worked with a number of clients that could live in the ridiculous, and the most notable was Lego. Their designers and team members could suspend judgment and let an idea linger. I remember one saying, “Don’t worry, we’ll figure out how to make it work”. They were more interested in the idea when ideating than the practical execution. It’s rare to work with a client that had to reassure me (a previous agency strategist) that something could be done. Usually it’s the other way around.
 
-Characteristics and beliefs from subcultures are many times adopted into mainstream, and commercialised. **You might be thinking, 'yep, those evil corporates simplifying complex identities for consumption' - you got it.** There are examples where this works okay and other times it's a disaster. Fashion designers, you know who you are.
+There are different categories of ridiculous in our everyday lives that we can use for innovation and ideation. I think the examples help to understand how these already exist today:
 
-While the aesthetic and sonic aspects are easier to mainstream-ise, it's more interesting to understand the reasoning behind beliefs and rituals. **This is because those ideas evolve overtime.** When I think about brand experience, it’s about framing change and creating the approach to make it happen. As creatives, we need to think about solving today's problems while anticipating future needs.
+**Quantifiable:** Using only 144 characters, walking 2000 miles, 1 million pixels of ad space
+**Incongruous:** Trusting strangers, animals that talk, tech company called Apple
+**Lovable Ugly:** Craigslist, Cheesecake Factory, your aunt’s birthday gift
+**Scifi Ambition:** SpaceX, Thanos (oh, wait …), Christopher Nolan
 
-Let’s take an easy example. When you work within fashion or footwear, you are projecting years and seasons out. While most people are looking at Kim Kardashian, designers are looking beyond. This means tracking subcultures helps to understand what will affect us tomorrow. **But fashion is not all surface, as every aesthetic starts with an emotion, idea around identity and desired lifestyle.** We usually look at lifestyle first to then understand an aesthetic.
+## How humour can help
 
-## Creatives are always exploring and experimenting
+Humour is about finding ideas with common ground. With stand-up you are testing hundreds of ideas to see what gets the most laughs and is the most easily understood. In my head I always have ridiculous ideas and this might be a result of doing stand-up for a couple of years. Stores with difficult to find entrances, restaurants with horrible customer service and ugly diners. This is because people are intrigued by the ridiculousness and its novelty. 
 
-**Even to this day my subculture trips affect who I am.** At Converse, I worked with a number of sneakerheads. Their knowledge and selectiveness around sneakers was inspiring. When working on Clinique for China, beauty products were initially not my thing. Putting my preferences aside, I tried existing and competitor products, watched YouTube videos and followed influencers. Years later I am still particular about footwear and watch science-focused skincare YouTube videos. 
-
-If you're able to get over feeling out-of-place, there's a lot you can learn from first-hand experiences. These help to contextualise qualitative or quantitative insights, and internalise customer journeys or empathy maps. **This is because as designers and strategists we are inevitably still creating through our lens.** Furthermore, we are also looking at a brand identified audience through our desired journey versus their everyday life journey.
-
-Unless we are from that subculture, it's difficult to make decisions about an audience intuitively. However, by taking the time to join their community - even as a tourist - **we then feel more comfortable with the vocabulary, have a better idea of what questions to ask and understand our own knowledge limitation better.** Tourism gets a bad wrap sometimes, but showing up and trying is half the game. 
+Novelty can get a bad rap, but it does drive conversations. If it gets coverage, it can create connections as people are talking about it. They can also give us hope. Many people think, “I could have thought about that’ or ‘I could have done that’. Well, you could if you just let yourself be more ridiculous. Crazy ideas make you want to try things, because they are free of judgment. Think about hula hoops, Airbnb or our favourite Ferby. These are all things we want to have or do, only if we have the excuse to. 
 
 ## Let’s summarise
 
-- Throughout my career, I've joined numerous interest-based subcultures
-- These are communities with shared beliefs, expressions, traditions and lifestyles
-- There's a strength in understanding their influence on the creative industry
-- Mainstream is indeed breaking down to some degree, but it is still there
-- Every aesthetic starts with an emotion, idea around identity and desired lifestyle
+- Humorous ideas have key characteristics of a good idea
+- It’s not always about an illusive great idea, but one compelling starting point 
+- At some point as human beings we become increasingly self-conscious
+- People are intrigued by the ridiculousness and its novelty
+- We can be more ridiculous, as its inspiring and freeing
