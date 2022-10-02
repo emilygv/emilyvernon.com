@@ -23,12 +23,12 @@ Sure, we all are rational animals trying to be responsible adults. **But ridicul
 
 There’s a saying - leaders are crazy until they have two followers. Two is not such a big number in the grand scheme of things. Some of the craziest ideas and craziest leaders live in venture capitalism, so let’s look there first. **One entrepreneur and angel investor mentioned his mission was to groom ugly ducklings not to find the black swans.** Rare perfection is hard (if not impossible) to identify as a start-up, while ugly ideas are starting points. It’s not always about that illusive great idea, but one compelling, even intriguing point to get going. 
 
-We look at companies today and think they had the best idea in the onset. **But this is rarely the case, where many brands, companies and products went through relentless iterations.** A good idea is made overtime and during this process the ridiculous starts to sound normal. **Let’s look at some of our favourite things and tell me if the concept sounds sane:**
+We look at companies today and think they had the best idea at the onset. **But this is rarely the case, where many brands, companies and products went through relentless iterations.** A good idea is made overtime and during this process the ridiculous starts to sound normal. **Let’s look at some of our favourite things and tell me if the concept sounds sane:**
 
 **Twitter:** You have a lot to say, but only have 280 characters
 **Airbnb:** Let online strangers stay at your home
 **Cheesecake Factory:** Lots of food in a Disneyland design. And it’s not a factory
-**Tea:** Create a flavoured water with expensive leaves
+**Tea:** Create flavoured water with expensive leaves
 **Snuggie:** I know someone out there owns one, and you want one too
 **Ferby:** Let’s keep it there, I know some of you are already traumatised
 
