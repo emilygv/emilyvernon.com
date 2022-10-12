@@ -15,13 +15,13 @@ further_reading:
 * TOC
 {:toc}
 
-Let me also admit, I also believed my millennial-ness would be an asset. Yes, cue the eye roll. As a creative who is highly aware of cultivating diverse thinking, perspective and backgrounds, it seemed like a logical assumption. Let me tell you, this is a topic more complex than any I worked on in the past and my millennial-ness was only a minor benefit.
+Let me also admit, I believed my millennial-ness would be an asset. Yes, cue the eye roll. **As a creative who is highly aware of cultivating diverse thinking, perspective and backgrounds, it seemed like a logical assumption.** Let me tell you, this is a topic more complex than any I worked on in the past and my millennial-ness was only a minor benefit.
 
-As a project-based learner, I am someone who learns by doing. This usually means self-educating on-the-go, and uncovering missing pieces of information along the way. It’s like a never-ending night of improv. However, this was different from trying to tie up my understanding of a subject into a neat blog post. Like many others, I am figuring out how to better address diversity, equity and inclusion day-by-day, and learning my shortcomings in the meantime. 
+As a project-based learner, I am someone who learns by doing. **This usually means self-educating on-the-go, and uncovering missing pieces of information along the way.** It’s like a never-ending night of improv. However, this was different from trying to tie up my existing understanding into a neat blog post. **Like many others, I am figuring out how to better address diversity, equity and inclusion day-by-day, and learning my shortcomings in the meantime. **
 
 ## My false sense of ‘millenial-ness’
 
-As one of the younger and more culturally in-tune members, it seemed like a topic I could easily discuss. It’s been a conversation across all aspects of life - from work to friend groups, podcasts to Instagram feeds. For sure ideas and self-reflections would just roll off of my tongue with the utmost brilliance. I know some of you are thinking - is she a millennial? Yes, but at least I’m a self-aware millennial. 
+As one of the younger and more creatively in-tune members, it seemed like a topic I could easily discuss. It’s been a conversation across all aspects of life - from work to friend groups, podcasts to Instagram feeds. For sure ideas and self-reflections would just roll off of my tongue with the utmost brilliance. I know some of you are thinking - is she a millennial? Yes, but at least I’m a self-aware millennial. 
 
 This was not the case during our first meeting. During our kickoff, each of the nine committee members described their reason for joining the committee, and their backstory. Many worked at well-known, global companies and had stories of personal hardship around the topic. Even after rehearsing my little monologue while walking through the streets of Amsterdam, mine came off a little trite. I could feel myself judging myself as I spoke as I said such things as, ‘creating a future I want to live in’. This is completely true, but when you hear yourself say it and cannot come up with a better phrase, it’s a bit of a cringe. 
 
