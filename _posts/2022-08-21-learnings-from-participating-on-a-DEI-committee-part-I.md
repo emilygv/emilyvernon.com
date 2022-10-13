@@ -41,7 +41,7 @@ For a year - wow, it was actually two - I started reading, participating in easy
 
 It was two years into my committee participation when a project came across my email. **A leader was needed for the DEI Playbook for CX project.** I didn’t think I was qualified nor prepared. However, I was inspired by a recent TechFleet experience, where everyone was doing agile together for the first time. **I thought, ‘this was the project I had been waiting for to learn more about DEI and become more engaged’.**
 
-There are some people who will have more confidence in this subject than others. In my case, it took time to find the right project and have enough confidence from listening for two years to then jump in. If you’re in a similar spot, don’t get discouraged. **Keep listening, keep learning and keep an eye out for that potential opportunity to contribute. **
+There are some people who will have more confidence in this subject than others. In my case, it took time to find the right project and have enough confidence from listening for two years to then jump in. If you’re in a similar spot, don’t get discouraged. **Keep listening, keep learning and keep an eye out for that potential opportunity to contribute.**
 
 ## Let’s summarise
 
