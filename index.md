@@ -10,7 +10,7 @@ hero_text: <mark>Customer experience</mark> <br><mark class="normal">for brands 
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "Leading the change from lifestyle brands to lifestyle-enabling businesses."
-description= "Utilising a blend of methodologies across customer experience, service design, UX/UI and brand strategy to create end-to-end experiences."
+description= "Utilising a blend of methodologies across customer experience, UX/service design and brand strategy to create end-to-end experiences in B2C and B2B."
 image= "/assets/images/homepage_hero.png"
 button_title= "Here's how" button_link= "/services"
 %}
