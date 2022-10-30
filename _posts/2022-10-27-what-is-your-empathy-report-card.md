@@ -9,44 +9,58 @@ further_reading:
     
 ---
 
-**Let’s start with a backstory. Almost two years ago I signed up for a Diversity, Equity and Inclusion Committee within a worldwide CX organisation, CXPA. This is two years ago when DEI was coming more into the spotlight. Learning and making an impact were the main reasons for this decision. Furthermore, I felt my experience within corporate and non-corporate organisations, as well as living in multiple countries could help with this effort.**
+**More often, brands and companies respond to larger cultural moments versus the traditional purchase moments or everyday occasions. Today, customer and brand experience is about human centricity versus customer/user-centricity, however this requires a proactive approach to genuinely add value. Identifying what type of empathy you and your team use through an empathy report card can be helpful.**
 
 **What we'll cover:**
 * TOC
 {:toc}
 
-Let me also admit, I believed my millennial-ness would be an asset. Yes, cue the eye roll. **As a creative who is highly aware of cultivating diverse thinking, perspective and backgrounds, it seemed like a logical assumption.** Let me tell you, this is a topic more complex than any I worked on in the past and my millennial-ness was only a minor benefit.
+When we consider a customer experience empathetically, it’s still on a functional journey level. What does the customer/user want to achieve, and how are they feeling throughout the process. The fact that customer experience is being adopted on a wider scale across multiple industries is fantastic. My intent is to discuss the next wave of customer experience, which includes operationalised (if you will) empathy to make it more impactful to the function and overall brand journey.
 
-As a project-based learner, I am someone who learns by doing. **This usually means self-educating on-the-go, and uncovering missing pieces of information along the way.** It’s like a never-ending night of improv. However, this was different from trying to tie up my existing understanding into a neat blog post. **Like many others, I am figuring out how to better address diversity, equity and inclusion day-by-day, and learning my shortcomings in the meantime.**
+## Elevating to human centricity
 
-## My false sense of ‘millenial-ness’
+We are living in a post-functional era, where we expect more than services and experience to work. Beyond price and quality, 63% of individuals surveyed by Accenture look for a brand that has ethical values and demonstrates authenticity in everything it does. This is because what we find meaningful has been shaped by the chaotic cultural landscape within the last five years. Value-add is understanding the human experience - what we experience day-to-day or on a greater cultural and societal level. 
 
-As one of the younger and more creatively in-tune members, it seemed like a topic I could easily discuss. **It’s been a conversation across all aspects of life - from work to friend groups, podcasts to Instagram feeds.** For sure ideas and self-reflections would just roll off of my tongue with the utmost brilliance. I know some of you are thinking - is she a millennial? Yes, but at least I’m a self-aware millennial. 
+When we think about brands that do this well, it’s usually ones rooted in overt human potential - Nike, Patagonia, Lego or Tesla. When working with Reckitt, an FMCG/CPG company, I was impressed by their construct where there is not only a purpose and vision, but fight as well. It means there is a clear call-to-action in terms of those higher level human needs. It was also the reason why I wanted to help with their professional business, after working in more illustrative industries such as streetwear, beauty or hospitality. 
 
-This was not the case during our first meeting. **During our kickoff, each of the nine committee members described their reason for joining the committee, and their backstory.** Many worked at well-known, global companies and had stories of personal hardship around the topic. Even after rehearsing **my little monologue while walking through the streets of Amsterdam, mine came off a little trite.** I could feel myself judging myself as I spoke as I said such things as, ‘creating a future I want to live in’. This is completely true, but when you hear yourself say it and cannot come up with a better phrase, it’s a bit cringe. 
+To better understand our audiences as humans, we need to look at feelings in a more structured way. Around each customer/user, or human, are three altitudes of feelings. There’s the higher level feelings toward societal and cultural shifts; the mid-level feelings around our day-to-day needs; and a closer level feelings around a functional journey. To engage customers/users today, we need to consider what relevant feelings exist in each of those empathy altitudes.
 
-I recognised that I needed to better understand my stories and interactions to help others. **Learning, internalising and taking action are all different phases within development.** My knowledge might be solid on the topic, but my experiences and those of others not internalised. This meant I could not take action to improve the system without understanding my own experiences. **This was a wake up call to how surface level my understanding was.** Now this might sound a bit harsh, but that’s how I felt. 
+## What is an empathy report card?
 
-## Big tasks are hard at first
+To get there, we need to turn empathy from a trait into a skill. This is where the idea of dimensionalising and operationalising empathy comes in. As humans, we’ve been practicing empathy since there were other humans. The idea of empathy as we know it today is still quite young, where there is potential to better structure empathy for different team members, stakeholders and companies. As the concept becomes more mature, so does the depth and sophistication of our tools.
 
-Additionally, going about changing a system to be more diverse and inclusive is way more complex than it might seem. **Organisation and businesses of all sorts struggle indeed to untangle their structures, services and communities to identify tangible change.** Unlike other committees that are more focused, for example an Onboarding Committee, DEI can affect every crevice of your organisation. **Where to start?** Well, nowhere and everywhere at the same time.
+When you want to turn your inclination for good public speaking into a skill, you go through a series of exercises. In terms of understanding someone’s feelings through a design thinking lens, there are five different types of empathy exercises we can do. These include:
 
-One difficult aspect that arose was available data. **Not every organisation has been collecting data to understand the baseline or where we were starting from.** Additionally, it wasn’t even clear what were key metrics or goals that are industry-wide. This is probably because we are all trying to figure this out in parallel. Hopefully as more success happens and case studies become more apparent, we can better suggest how to go about Diversity, Equity and Inclusion in companies and organisations. 
+**Immerse:** going into an audience/user’s environment
+**Connect:** talking to audience/users 1:1 or in a group
+**Research:** read articles and accounts
+**Imagine:** project how an audience/user might react
+**Assess:** did we apply our knowledge correctly
 
-As mentioned before, our committee is full of very smart people who have done CX transformations or changed organisations. Though we have approaches to use from CX, somehow we had to rediscover it as we looked at our own organisation. We mulled over quick wins versus researched strategies and assumed changes versus community input. **I knew we could do better, and this was something that came with time.** It took almost a year to create our CXPA statement around Diversity, Equity and Inclusion as an example.
+I’ve noticed businesses and teams are structured to be better at certain empathy types than others. While working at Converse as a footwear designer and being exposed to Nike and JD Sports, teams were very good at Immerse. People lived the streetwear culture, followed influencers, went to events, participated in athletics or transitioned from working in retail to corporate. Within Reckitt, Assess was quite important to see if our understanding translated properly into a design or service. 
 
-## So what did I do?
+## Creating your own empathy report card
 
-For a year - wow, it was actually two - I started reading, participating in easy projects and attending meetings. **When looking back and being honest with myself, my involvement was quite casual and at times distant.** Even with the experience, my expertise and authority still felt quite basic. We all know imposter syndrome is a thing, but there is a real difference when it is imposter syndrome around a life-changing topic. Put me in a room any day with a group of distracted CEOs and new design presentation, but I never want to be unprepared with people's feelings.
+To operationalise empathy, it’s about understanding its impact and how your business is using empathy. With an empathy report card, you can see what type of empathy your business or team does well, and what needs further exploration. The previous example being a footwear company versus FMCG/CPG. Furthermore, to see the value of empathy within an organization, it’s important to connect feelings to actions. What our customer/users feel affects what they think, affects what they say and do. 
 
-It was two years into my committee participation when a project came across my email. **A leader was needed for the DEI Playbook for CX publication.** I didn’t think I was qualified nor prepared. However, I was inspired by a recent TechFleet experience, where everyone was doing agile together for the first time. **I thought, ‘this was the project I had been waiting for to learn more about DEI and become more engaged’.**
+This does not need to be complex. An empathy report card should include the following columns:
 
-There are some people who will have more confidence in this subject than others. In my case, it took time to find the right project and have enough confidence from listening for two years to then jump in. If you’re in a similar spot, don’t get discouraged. **Keep listening, keep learning and keep an eye out for that potential opportunity to contribute.**
+**Empathy type,** with the rows Immerse, Connect, Research, Imagine and Assess
+**Activities done,** toward the specific empathy type
+**Effectiveness score,** from 1-5 (5 being the best) on usage and usefulness
+**Things to improve,** what conversations or studies need to done to increase usage
+**Status,** use to track improvement whether ‘To do’, ‘In Progress’ and ‘Improved’
+
+I started to look at my own work within B2B through this empathy report card structure. There I realised that my insights into our customers’ feelings were over-indexing on the last three categories, Research, Imagine and Assess. This meant I could be making assumptions leading going down the wrong path, and started exploring to see if I could take a more Immersive and Connect approach. An empathy report card can keep us on-track as we build our understanding of our customers, users and/or patrons. It should not be scary like a grade school report card, but informative much like a dashboard.
+
+## Conclusion
+
+The customer/user journey today is changing, where value comes from the cumulative emotional journey with a brand or company. This means we need to shift from customer-centricity to human-centricity to speak to what us humans find valuable today. The foundation for this is understanding your customer/user, or human’s, altitudes of empathy, as well as evaluating what types of empathy your company or team uses with an empathy report card. Empathy has a great potential within businesses, and creating more structure and conventions can help it feel tangible, actionable and proactive as brands shift from helping customers to humans.
 
 ## Let’s summarise
 
-- Almost two years ago I joined a Diversity, Equity and Inclusion Committee
-- I realised how surface level my understand was within DEI 
-- It took time for our organisation to unravel such a large subject
-- Imposter syndrome felt more real when dealing with a life-changing topic
-- When the right project came around, I was more engaged
+- By operationalising empathy, we can make it more useful
+- There is shift from customer-centricity to human-centricity that requires better tools
+- An empathy report card breaks down empathy into five distinct empathy types
+- An empathy report card is simple with only five columns
+- Companies and teams are better at certain types of empathy than others
