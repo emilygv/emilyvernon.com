@@ -17,7 +17,7 @@ further_reading:
 
 **When we consider a customer experience empathetically, it’s still on a functional journey level.** What does the customer/user want to achieve, and how are they feeling throughout the process. The fact that customer experience is being adopted on a wider scale across multiple industries is fantastic. **My intent is to discuss the next wave of customer experience, which includes operationalised (if you will) empathy to make it more impactful to the function and overall brand journey.**
 
-## Elevating to human centricity
+## Elevating to human-centricity
 
 **We are living in a post-functional era,** where we expect more than services and experience to work. Beyond price and quality, **63% of individuals surveyed by Accenture look for a brand that has ethical values and demonstrates authenticity in everything it does.** This is because what we find meaningful has been shaped by the chaotic cultural landscape within the last five years. **Value-add is understanding the human experience - what we experience day-to-day or on a greater cultural and societal level.** 
 
@@ -41,7 +41,7 @@ When you want to turn your inclination for good public speaking into a skill, yo
 
 ## Creating your own empathy report card
 
-To operationalise empathy, it’s about understanding its impact and how your business is using empathy. **With an empathy report card, you can see what type of empathy your business or team does well, and what needs further exploration.** The previous example being a footwear company versus FMCG/CPG. Furthermore, to see the value of empathy within an organization, it’s important to connect feelings to actions. What our customer/users feel affects what they think, affects what they say and do. 
+To operationalise empathy, it’s about understanding its impact and how your business is using empathy. **With an empathy report card, you can see what type of empathy your business or team does well, and what needs further exploration.** The previous example being a footwear company versus FMCG/CPG. Furthermore, to see the value of empathy within an organisation, it’s important to connect feelings to actions. What our customer/users feel affects what they think, affects what they say and do. 
 
 This does not need to be complex. An empathy report card should include the following columns:
 
