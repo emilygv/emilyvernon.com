@@ -2,15 +2,15 @@
 layout: page
 title: Guest & consumer experience (CX) consultant in Amsterdam
 description: Enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
-hero_text: <mark>Customer experience</mark> <br><mark class="normal">for brands improving</mark> <br><mark>how we live, work & play</mark>
+hero_text: <mark>Kick-starting growth</mark> <br><mark class="normal">in brands & business</mark> <br><mark>with misfits like you</mark>
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
 ---
 
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
-subtitle= "Leading the change from lifestyle brands to lifestyle-enabling businesses."
-description= "Utilising a blend of customer experience, UX/service design and brand strategy to create end-to-end experiences in B2C and B2B."
+subtitle= "Growth and scale is an increasing need. Where to start and who has the time?"
+description= "As a corporate dropout, I understand the complexity around going into new markets, innovating on services, scaling brands and jump-starting partnerships."
 image= "/assets/images/homepage_hero.png"
 button_title= "Here's how" button_link= "/services"
 %}
@@ -20,7 +20,7 @@ title="We all want to live our best lives. This is why my focus includes the fol
 titles="Work, Hospitality, Luxury, Wellbeing" 
 icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
 
-## Work Highlights
+## See for yourself
 
 {% assign featured_works = site.casestudies | where:"featured", true  %}
 {% for post in featured_works %}
@@ -37,6 +37,6 @@ reference="Asell, Strategy Director"
 
 {% include post_cards.html posts=site.posts limit=3 link="/insights/" link_title="Keep reading" %}
 
-## Working with
+## Join the list
 
 {% include clients.html %}
