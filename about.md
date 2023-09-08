@@ -10,7 +10,7 @@ hero_text: <mark>An experience lead</mark> <br><mark class="normal">with a story
 
 {% include hero_intro.html
 title= "Let’s start with the basics :)"
-subtitle= "I am a Los Angeles original living in Amsterdam and Lisbon for the past ten years."
+subtitle= "After living in the US and EU, I am now sail the world - while working."
 description= "My approach combines being brave and creative. This means challenging perceptions and staying open to ridiculous ideas. Stand-up comedy, offshore sailing and peanut butter and jelly sandwiches keeps me going."
 image= "/assets/images/about_hero.png"
 %}
