@@ -9,10 +9,10 @@ hero_text: <mark>Kick-starting growth</mark> <br><mark class="normal">in brands 
 
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
-subtitle= "Growth and scale is an increasing need. Where to start and who has the time?"
-description= "As a corporate dropout, I understand the complexity around going into new markets, innovating on services, scaling brands and jump-starting partnerships."
+subtitle= "Growth and scale is an increasing need. But where to start and who has the time?"
+description= "As a corporate dropout, I understand the complexity around going into new markets, innovating on services, scaling brands and jump-starting partnerships. You're not alone."
 image= "/assets/images/homepage_hero.png"
-button_title= "Here's how" button_link= "/services"
+button_title= "The approach" button_link= "/services"
 %}
 
 {% include section_icons.html 
