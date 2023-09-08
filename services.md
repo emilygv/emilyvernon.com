@@ -21,6 +21,6 @@ posts=site.data.services
 title= "Every project is a series of conversations"
 image= "/assets/images/services.png"
 button_title= "Get in touch" 
-button_link= "mailto:emily@emilyvernon.com"
+button_link= "https://calendly.com/emilygvernon/30min"
 class="mb-6"
 %}
