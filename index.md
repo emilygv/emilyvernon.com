@@ -29,7 +29,7 @@ icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
 
 {% include blockquote.html 
 content="Emily is an all-round strategy powerhouse, combining in-depth analytical thinking with future-forward creativity." 
-reference="Asell, Strategy Director"
+reference="Asell, Strategy + Experience Director"
 %}
 
 
