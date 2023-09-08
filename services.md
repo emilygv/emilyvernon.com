@@ -18,9 +18,9 @@ posts=site.data.services
 
 
 {% include hero_intro.html
-title= "Every project is a series of conversations"
+title= "Tell me more about your challenges"
 image= "/assets/images/services.png"
 button_title= "Get in touch" 
-button_link= "https://calendly.com/emilygvernon/30min"
+button_link= "mailto:emily@emilyvernon.com"
 class="mb-6"
 %}
