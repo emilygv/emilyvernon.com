@@ -12,7 +12,7 @@ title= "Hi there - I’m Emily"
 subtitle= "Growth and scale is an increasing need. But where to start and who has the time?"
 description= "As a corporate dropout, I understand the complexity around going into new markets, innovating on services, scaling brands and jump-starting partnerships. You're not alone."
 image= "/assets/images/homepage_hero.png"
-button_title= "The approach" button_link= "/services"
+button_title= "My approach" button_link= "/services"
 %}
 
 {% include section_icons.html 
