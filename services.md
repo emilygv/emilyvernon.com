@@ -7,12 +7,12 @@ hero_text: <mark>Strategy-led approach</mark> <mark class="normal"> <br>& broad 
 ---
 
 {% include section_icons.html 
-titles="Analyse, Articulate, Apply, Assess" 
+titles="Possibilities, Prioritise, Test, Scale" 
 icons="Discover, Define, Design, Validate" 
 breakout=true %}
 
 {% include post_cards.html 
-title="Projects are based in the four phases above and can apply to the following services:"
+title="Helping your teams by filling the gaps and building a springboard"
 posts=site.data.services 
 %}
 
