@@ -17,7 +17,7 @@ button_title= "My approach" button_link= "https://calendly.com/emilygvernon/30mi
 
 {% include section_icons.html 
 title="We all want to live our best lives. This is why my focus includes the following industries:"
-titles="Work, Hospitality, Luxury, Wellbeing" 
+titles="B2B, Hospitality, Luxury, Wellbeing" 
 icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
 
 ## See for yourself
