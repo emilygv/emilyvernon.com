@@ -4,7 +4,7 @@ title: Luxury hotel benchmark reinvented
 description: Leading experience strategy for a global five-star hotel chain
 project_name: Regent hotels and resorts 
 category: Creativity
-featured: false
+featured: true
 skip_section_icons: true
 image: /assets/images/casestudies/regent/regent_hero_image.jpg
 thumbnail: /assets/images/casestudies/regent/regent_thumbnail.jpg
