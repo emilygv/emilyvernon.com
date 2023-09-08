@@ -1,8 +1,8 @@
 - name: Reckitt
 - name: Nike
-- name: FutureBrand
+- name: Clinique
 - name: Converse
-- name: Glamcult
+- name: Rite Aid
 # image: glamcult-logo_transparent.png
 # img_height: 30px
 # name: L'Occitane
@@ -14,5 +14,5 @@
 # name: Clinique
 # image: clinique-logo_transparent.png
 # img_height: 30px
-- name: UXUS
+- name: IHG
 
