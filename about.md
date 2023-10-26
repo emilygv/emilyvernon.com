@@ -12,7 +12,7 @@ hero_text: <mark>An experience lead</mark> <br><mark class="normal">with a story
 title= "Let’s start with the basics :)"
 subtitle= "After living in the US and EU, I am now sail the world - while working. Life's an experiment."
 description= "My approach combines being brave and creative. This means challenging perceptions and staying open to ridiculous ideas. Stand-up comedy, offshore sailing and peanut butter and jelly sandwiches keeps me going."
-image= "/assets/images/about_hero.png"
+image= "/assets/images/about_hero2.png"
 class= "bg-lgrey"
 %}
 
