@@ -68,7 +68,7 @@ reference="Santi - Global Marketing Director, Reckitt"
 {% include hero_intro.html
 title= "Tell me more about your challenges"
 subtitle= "Book a discovery call to see how I can help you kick-start business growth."
-image= "/assets/images/services.png"
+image= "/assets/images/services_conversation.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
 class="mb-6"
