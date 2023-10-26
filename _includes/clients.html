@@ -1,8 +1,8 @@
 <section class="section-workwith">
     <div class="workwith-list shadow">
         <div class="row">
-        {% for client in site.data.clients %}
-            <div class="col-md-6 col-lg-4">{{ client.name }}</div>
+        {% for item in include.items %}
+            <div class="col-md-6 col-lg-4">{{ item.name }}</div>
         {% endfor %}
         </div>
     </div>

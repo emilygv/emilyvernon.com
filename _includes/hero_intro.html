@@ -1,6 +1,7 @@
 {% assign item=include.content %}
 {% assign breakout = include.breakout %}
 {% assign class = include.class %}
+{% assign image_on_left = include.image_on_left %}
 
 {% unless item %}
 {% assign item=include
@@ -21,6 +22,10 @@
 
 {% unless breakout == false%}
 {% assign breakout = true %}
+{% endunless %}
+
+{% unless image_on_left == true%}
+{% assign image_on_left = false %}
 {% endunless %}
 
 {% if item.thumbnail %}
@@ -46,10 +51,15 @@
 {% endif %}
 
 {% if breakout %}
-<div class="breakout bg-lgrey py-5 mb-3 {{class}}">
+<div class="breakout py-5 mb-3 {{class}}">
   <div class="container">
 {% endif %}
 <div class="row align-items-center {{text_class}}">
+  {% if image_on_left %}
+  <div class="col-12 col-{{col_br}}-{{col_img}}">
+    <img src="{{image}}" alt="">
+  </div>
+  {% endif %}
   <div class="col-12 col-{{col_br}}-{{col_text}}">
     <h2 class="mb-4 mb-lg-5 pt-0">{{item.title | escape}}</h2>
     {% if item.subtitle %}<p class="fs-lg-2 fs-3 mb-3 mb-lg-5"><strong>{{item.subtitle}}</strong></p>{% endif %}
@@ -63,9 +73,11 @@
     <p class="pt-4 text-lg-start"><a href="{{button_link}}" {{target}} class="btn btn-outline-primary">{{button_title}}</a></p>
     {% endif %}
   </div>
+  {% if image_on_left == false %}
   <div class="col-12 col-{{col_br}}-{{col_img}}">
     <img src="{{image}}" alt="">
   </div>
+  {% endif %}
 </div>
 {% if breakout %}
   </div>

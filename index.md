@@ -8,17 +8,39 @@ hero_text: <mark>Kick-starting growth</mark> <br><mark class="normal">in brands 
 ---
 
 {% include hero_intro.html
-title= "Hi there - I’m Emily"
-subtitle= "Growth and scale is an increasing need. But where to start and who has the time?"
-description= "As a corporate dropout, I understand the complexity around going into new markets, innovating on services, scaling brands and jump-starting partnerships. You're not alone."
+title= "Navigating a better way"
+subtitle= "Growth and scale is an increasing need - but where to start and who has the time?"
+description= "Your team wants to improve its market share, customer satisfaction and brand awareness through brand and experience. Let’s get the process set-up together."
+class= "bg-lgrey"
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
+button_link_new_window= true
 %}
 
-{% include section_icons.html 
+<!-- {% include section_icons.html 
 title="We all want to live our best lives. This is why my focus includes the following industries:"
 titles="B2B, Hospitality, Luxury, Wellbeing" 
-icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
+icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %} -->
+
+{% include hero_intro.html
+title= "Hi there - I’m Emily"
+subtitle= "For over fifteen years, I served on creative special task teams for leading brands."
+description= "I helped my clients set-up global businesses, regional product creation teams, service platforms, branded experiences and global brand systems."
+image= "/assets/images/about_hero.png"
+image_on_left= true
+button_title= "Get to know me" button_link= "/about/"
+%}
+
+{% include post_cards.html
+title= "Explore packages below to see how I can help your brand and business thrive:"
+posts=site.data.service_package_intros 
+link="/services/" link_title="Learn more"
+%}
+
+{% include blockquote.html 
+content="Emily is an all-round strategy powerhouse, combining in-depth analytical thinking with future-forward creativity." 
+reference="Asell - Strategy + Experience Director UXUS/McCann"
+%}
 
 ## See for yourself
 
@@ -27,10 +49,7 @@ icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %}
   {% include section_post.html content=post %}
 {% endfor %}
 
-{% include blockquote.html 
-content="Emily is an all-round strategy powerhouse, combining in-depth analytical thinking with future-forward creativity." 
-reference="Asell, Strategy + Experience Director"
-%}
+
 
 
 ## Latest insights
@@ -39,4 +58,4 @@ reference="Asell, Strategy + Experience Director"
 
 ## Join the list
 
-{% include clients.html %}
+{% include clients.html items=site.data.clients %}
