@@ -15,7 +15,7 @@ breakout=true %} -->
 title= "Lasting creative growth"
 subtitle= "Embedding change by considering your three p - people, process and product."
 description= "Growth through brand, experience and service requires a short-term boost and long-term mindset. My tailored packages address it all."
-image= "/assets/images/services.png"
+image= "/assets/images/services_hero.png"
 class="bg-lgrey"
 %}
 
