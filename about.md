@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About Emily Vernon, including her story and principles
 description: Enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
-hero_text: <mark>An experience lead</mark> <br><mark class="normal">with a story spanning</mark> <br><mark>continents & industries</mark>
+hero_text: <mark>Exploring cultures &</mark> <br><mark class="normal">countries, while</mark> <br><mark>building a business</mark>
 # hero_image: /assets/img/about.png
 # hero_bgcolor: "#d4e8d5"
 ---
