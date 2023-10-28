@@ -49,9 +49,6 @@ reference="Asell - Strategy + Experience Director UXUS/McCann"
   {% include section_post.html content=post %}
 {% endfor %}
 
-
-
-
 ## Latest insights
 
 {% include post_cards.html posts=site.posts limit=3 link="/insights/" link_title="Keep reading" %}
@@ -59,3 +56,12 @@ reference="Asell - Strategy + Experience Director UXUS/McCann"
 ## Join the list
 
 {% include clients.html items=site.data.clients %}
+
+{% include hero_intro.html
+title= "Integrate DEI within customer experience"
+subtitle= "With a global team, we created one of the first publications on this topic."
+image= "/assets/images/services_conversation.png"
+button_title= "Download now" button_link= "https://calendly.com/emilygvernon/30min"
+button_link_new_window= true
+class="mb-6"
+%}
