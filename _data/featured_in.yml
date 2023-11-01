@@ -1,4 +1,9 @@
-- name: Balance the grind
-- name: Business Insider
-- name: FMCG CEO Magazine
-
+- 
+  name: Balance the grind
+  image: /assets/img/balance_the_grind-logo.png
+- 
+  name: Business Insider
+  image: /assets/img/business_insider-logo.png
+- 
+  name: FMCG CEO Magazine
+  image: /assets/img/FMCG-CEO-logo.png

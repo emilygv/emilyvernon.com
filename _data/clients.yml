@@ -1,18 +1,19 @@
-- name: Reckitt
-- name: Nike
-- name: Clinique
-- name: Converse
-- name: Rite Aid
-# image: glamcult-logo_transparent.png
-# img_height: 30px
-# name: L'Occitane
-# image: loccitane-logo_transparent.png
-# img_height: 30px   
-# name: IHG
-# image: ihg-logo_transparent.png
-# img_height: 50px
-# name: Clinique
-# image: clinique-logo_transparent.png
-# img_height: 30px
-- name: IHG
+- 
+  name: Clinique
+  image: /assets/img/clinique-logo.png
+- 
+  name: Nike
+  image: /assets/img/nike-logo.png
+- 
+  name: Converse
+  image: /assets/img/converse-logo.png
+- 
+  name: Shimano
+  image: /assets/img/shimano-logo.png
+- 
+  name: Reckitt
+  image: /assets/img/reckitt-logo.png
+- 
+  name: IHG
+  image: /assets/img/IHG-logo.png
 
