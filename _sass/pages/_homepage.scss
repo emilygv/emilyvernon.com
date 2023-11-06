@@ -53,6 +53,12 @@
   }
 }
 
+.container h2 + hr {
+  height: 18px;
+  color: $primary;
+  opacity: 1;
+}
+
 .section-workhighlight {
   padding: 45px 0 100px;
   border-top: 18px solid $primary;

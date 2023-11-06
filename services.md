@@ -36,6 +36,8 @@ reference="Rich - EMEA Product Director, Converse"
 
 ## Service packages
 
+---
+
 {% include hero_intro.html
 title= "Sandbox to sandcastle"
 subtitle= "You’re tasked to ‘innovate’ and ‘grow the business’, but your team is overloaded."
