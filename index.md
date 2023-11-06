@@ -31,6 +31,10 @@ image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
 %}
 
+## Worked with clients
+
+{% include clients.html items=site.data.clients %}
+
 {% include post_cards.html
 title= "Explore packages below to see how I can help your brand and business thrive:"
 posts=site.data.service_package_intros 
@@ -52,10 +56,6 @@ reference="Asell - Strategy + Experience Director UXUS/McCann"
 ## Latest insights
 
 {% include post_cards.html posts=site.posts limit=3 link="/insights/" link_title="Keep reading" %}
-
-## Join the list
-
-{% include clients.html items=site.data.clients %}
 
 {% include hero_intro.html
 title= "Integrate DEI within customer experience"
