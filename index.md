@@ -22,6 +22,10 @@ title="We all want to live our best lives. This is why my focus includes the fol
 titles="B2B, Hospitality, Luxury, Wellbeing" 
 icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %} -->
 
+## Worked with clients
+
+{% include clients.html items=site.data.clients %}
+
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "For over fifteen years, I served on creative special task teams for leading brands."
@@ -30,10 +34,6 @@ image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
 %}
-
-## Worked with clients
-
-{% include clients.html items=site.data.clients %}
 
 {% include post_cards.html
 title= "Explore packages below to see how I can help your brand and business thrive:"
