@@ -17,11 +17,6 @@ button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30mi
 button_link_new_window= true
 %}
 
-<!-- {% include section_icons.html 
-title="We all want to live our best lives. This is why my focus includes the following industries:"
-titles="B2B, Hospitality, Luxury, Wellbeing" 
-icons="Creativity, Travel, Beauty, Wellbeing" breakout=false %} -->
-
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "For over fifteen years, I served on creative special task teams for leading brands."

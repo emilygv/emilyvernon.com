@@ -127,10 +127,10 @@
 }
 
 .section-workwith {
-  padding: 45px 0 140px;
-  @include max($xxl) {
-    padding: calc(20px + 2vw) 0 calc(30px + 4vw);
-  }
+  // padding: 45px 0 140px;
+  // @include max($xxl) {
+    padding: calc(20px + 2vw) 0 calc(20px + 2vw);
+  // }
   h2 {
     margin-bottom: 36px;
     @include max($xxl) {
