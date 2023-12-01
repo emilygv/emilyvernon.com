@@ -667,6 +667,14 @@ progress {
   margin-top: var(--bs-gutter-y);
 }
 
+.row {
+  align-items: center;
+}
+
+.row img {
+  width: 70%
+}
+
 .col {
   flex: 1 0 0%;
 }
@@ -11703,6 +11711,8 @@ sup {
 img {
   border-style: none;
 }
+
+
 
 button, input, optgroup, select, textarea {
   font-family: inherit;
