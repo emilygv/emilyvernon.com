@@ -54,7 +54,7 @@ link="/services/" link_title="Learn more"
 
 {% include hero_intro.html
 title= "Integrate DEI within customer experience"
-subtitle= "With a global team, we created one of the first publications on this topic."
+subtitle= "With a global team, we created one of the first publications on this pivotal topic."
 image= "/assets/images/home_download.png"
 button_title= "Download now" button_link= "https://cxpa.users.membersuite.com/shop/store/7e91ed05-00ce-c0fc-9454-0b45e57a1e88/detail"
 button_link_new_window= true
