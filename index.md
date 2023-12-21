@@ -2,7 +2,7 @@
 layout: page
 title: Guest & consumer experience (CX) consultant in Amsterdam
 description: Enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
-hero_text: <mark>New market expansion</mark> <br><mark class="normal">through brand innovation</mark> <br><mark>& customer experience</mark>
+hero_text: <mark>New market expansion</mark> <br><mark class="normal">via brand innovation</mark> <br><mark>& customer experience</mark>
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
 ---
