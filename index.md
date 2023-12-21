@@ -10,7 +10,7 @@ hero_text: <mark>New market expansion</mark> <br><mark class="normal">via brand 
 {% include hero_intro.html
 title= "Navigating a better way"
 subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
-description= "Your team wants to improve its market share, customer satisfaction and brand awareness through brand and experience. Let’s get the process set-up together."
+description= "We'll collaborate together on a tailored framework to pilot new services, better manage your brand and optimise experiences to be market-fit."
 class= "bg-lgrey"
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
