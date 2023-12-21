@@ -9,7 +9,7 @@ hero_text: <mark>New market expansion</mark> <br><mark class="normal">through br
 
 {% include hero_intro.html
 title= "Navigating a better way"
-subtitle= "Growth and scale is an increasing need - but where to start and who has the time?"
+subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
 description= "Your team wants to improve its market share, customer satisfaction and brand awareness through brand and experience. Let’s get the process set-up together."
 class= "bg-lgrey"
 image= "/assets/images/homepage_hero.png"
