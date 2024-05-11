@@ -1,5 +1,5 @@
 ---
-title: Bringing other teams into the creative process
+title: Bringing Other Teams into the Creative Process
 category: Creative Process
 image: "https://source.unsplash.com/5QgIuuBxKwM/800x430"
 further_reading:
