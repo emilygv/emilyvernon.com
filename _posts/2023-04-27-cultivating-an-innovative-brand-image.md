@@ -17,7 +17,7 @@ further_reading:
 
 However, innovation isn't just about flashy gadgets; it's about pushing boundaries, exceeding expectations and creating a sense of excitement around your brand. **How do you cultivate an innovative brand image and leave a lasting impression on your customers?** Here's a roadmap to guide you.
 
-## Creating a culture around continuous improvement
+## A culture around continuous improvement
 
 Innovation doesn't happen in a vacuum. **It thrives in an environment that fosters curiosity, exploration and a willingness to challenge the status quo.** Encourage your team to ask questions, experiment with new ideas and embrace calculated risks. 
 
@@ -27,7 +27,7 @@ Companies like Google famously dedicate 20% of employee time to passion projects
 
 For instance, Netflix utilises sophisticated data analytics to recommend shows and movies that align perfectly with your viewing habits, creating a hyper-personalised and innovative entertainment experience. **All of these examples show both business outcomes and a brand reputation boost.**
 
-## Focus on customer needs (and their future needs)
+## Focus on current and future needs
 
 Innovation isn't about creating products or services in a bubble. True innovation **solves real problems and anticipates future customer needs.**
 
@@ -43,7 +43,9 @@ The commercialisation of the lithium-ion battery in 1991 by Sony, and then 1992 
 
 For instance, Warby Parker revolutionised the eyewear industry with their try-at-home program, offering a convenient and innovative solution for customers who dislike traditional in-store experiences.
 
-**Sustainability is no longer a niche concern; it's a core value for many consumers.** Companies that embrace sustainable practices are not only doing good for the environment but also creating innovative products that resonate with a growing segment of the market. Patagonia, a leader in outdoor apparel, exemplifies this concept by utilising recycled materials and prioritising responsible manufacturing practices.
+**Sustainability is no longer a niche concern; it's a core value for many consumers.** 
+
+Companies that embrace sustainable practices are not only doing good for the environment but also creating innovative products that resonate with a growing segment of the market. Patagonia, a leader in outdoor apparel, exemplifies this concept by utilising recycled materials and prioritising responsible manufacturing practices.
 
 ## Communicate your innovation journey
 
