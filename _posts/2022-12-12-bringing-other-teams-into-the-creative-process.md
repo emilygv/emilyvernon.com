@@ -1,6 +1,6 @@
 ---
 title: Bringing Other Teams into the Creative Process
-category: Creative Process
+category: Creative process
 image: "https://source.unsplash.com/5QgIuuBxKwM/800x430"
 further_reading:
     - Better Creative Briefs Through Empathy
