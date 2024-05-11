@@ -1,6 +1,6 @@
 ---
 title: Demystifying Personalisation in Customer Experience
-category: Customer experience (CX)
+category: Customer Experience (CX)
 image: "https://source.unsplash.com/seqi0r02obU/800x430"
 further_reading:
     - Customer Persona Fundamentals
