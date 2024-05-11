@@ -63,7 +63,7 @@ This is especially helpful if you are managing multiple projects and don’t wan
 
 ## Conclusion
 
-**By fostering an approachable environment, leveraging diverse strengths and employing collaborative techniques, you can transform your team into valuable, creative collaborators**. The result? Marketing campaigns, websites, services and beyond that resonate with your audience, answer business needs and leave a lasting impression. 
+By fostering an approachable environment, leveraging diverse strengths and employing collaborative techniques, **you can transform your team into valuable, creative collaborators.** The result? Marketing campaigns, websites, services and beyond that resonate with your audience, answer business needs and leave a lasting impression. 
 
 ## Let’s summarise
 
