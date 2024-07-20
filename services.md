@@ -39,7 +39,7 @@ reference="Rich - EMEA Product Director, Converse"
 ---
 
 {% include hero_intro.html
-title= "Sandbox to sandcastle"
+title= "Growth launchpad"
 subtitle= "You’re tasked to ‘innovate’ and ‘grow the business’, but your team is overloaded."
 description= "We will ideate, pilot and sustain growth initiatives by building stakeholder trust, empowering your teams and focusing on the right things, fast."
 image= "/assets/images/services_package_01.png"
