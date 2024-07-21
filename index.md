@@ -20,7 +20,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "I am a global brand consultant focused on new market expansion and exploration."
-description= "Through service platforms, customer experiences and brand ecosystems online and offline I help my mid to large size corporate clients scale globally."
+description= "Through service platforms, customer experiences and brand ecosystems online and offline I help my mid to large size corporate clients scale."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
