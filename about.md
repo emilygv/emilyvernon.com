@@ -21,7 +21,7 @@ After spending over a decade working within customer experience, UX/service desi
 
 It’s been an honor to have worked with some of the top brands within B2B, hospitality, luxury and wellbeing including Lego, IHG, Estée Lauder, Nike and Reckitt B2B. Collaborations with these brands and others have been featured in Highsnobiety, Hypebeast, Wallpaper*, Transform and Glamcult.
 
-As a Global Brand Strategy Consultant, my goal is to enable businesses to navigate a better way, while growing market share, brand awareness and customer satisfaction. 
+As a global brand strategy consultant, my goal is to enable businesses to navigate a better way, while growing market share, brand awareness and customer satisfaction. 
 
 I hold a BA in Industrial Design from the Rhode Island School of Design, UX/UI certification from Springboard and General ham radio license. The latter will come in handy - one day.
 {% endcapture %}
