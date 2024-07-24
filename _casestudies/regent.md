@@ -22,10 +22,10 @@ breakout=true %}
 title="Experience guidelines" 
 content="Providing design, experience and service guidance for all existing and new locations." %}
 
-![](/assets/images/casestudies/bringly/bringly-final_01.png)
-{% include img_caption.html 
-title="Key screens" 
-content="After making an order, tracking existing orders was key for users and required a clearer information structure." %}
+{% include blockquote.html 
+content="Our impressive new positioning and brand identity will allow us to continue to take the brand to the world’s best destinations" 
+reference="Keith Barr - Former CEO IHG"
+%}
 
 ## Outcome
 
