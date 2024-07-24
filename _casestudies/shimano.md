@@ -37,8 +37,8 @@ content="**The Shimano Experience Center is a hub for the entire community, from
 {% capture info-highlight %}
 #### Created center to host events and workshops
 |
-#### Received 4.6 star review on Google from visitors
-|
 #### Attracted local and global visitors for activities
+|
+#### Received 4.6 star review on Google from visitors
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
