@@ -4,7 +4,7 @@ title:  Cycling, fishing and rowing for all enthusiasts
 description: Leading experience strategy for the Shimano Experience Center
 project_name: Shimano experience center
 category: Creativity
-featured: false
+featured: true
 skip_section_icons: true
 image: /assets/images/casestudies/shimano/shimano_hero_image.jpg
 thumbnail: /assets/images/casestudies/shimano/shimano_thumbnail.jpg
