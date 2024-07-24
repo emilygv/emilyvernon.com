@@ -1,6 +1,6 @@
 ---
 layout: casestudy
-title: Luxury hotel benchmark reinvented
+title: Reinventing a luxury hotel benchmark
 description: Spearheading experience strategy for the relaunch of Regent Hotels
 project_name: Regent hotels and resorts 
 category: Creativity
