@@ -12,4 +12,32 @@ approach: "Luxury is an interesting space. We did extensive site visits and luxu
 responsibilities: [Workshop Moderation, Stakeholder Management, Competitor Research, Experience Audit, Brand Strategy, Experience Strategy, Guest Experience Mapping, Touchpoint Creation, Service Design, Guideline Creation]
 ---
 
+{% include section_icons.html 
+titles="Workshop + Audit, Experience Strategy, Guest  Journey, Service Guidelines" 
+icons="Discover, Define, Design, Validate"
+breakout=true %}
+
+![](/assets/images/casestudies/regent/Guideline_Example.png)
+{% include img_caption.html 
+title="Experience guidelines" 
+content="Providing design, experience and service guidance for all existing and new locations." %}
+
+![](/assets/images/casestudies/bringly/bringly-final_01.png)
+{% include img_caption.html 
+title="Key screens" 
+content="After making an order, tracking existing orders was key for users and required a clearer information structure." %}
+
+## Outcome
+
+{% include case_h3_block.html 
+title="Learnings +<br>Results" 
+content="**Regent Hotels continues to expand globally, where they are doubling their Regent footprint.** Our approach and guidelines created a standard for both hotels and resorts. **Though each location should have it’s own style and interpretation of the approach, a standard ensures the guest experience and brand expression will be the same level worldwide.**" %}
+
+{% capture info-highlight %}
+#### Helped establish IHG’s luxury presence
+|
+#### Created distinct brand experience and services
+|
+#### Enabled brand growth through guidelines
+{% endcapture %}
 {% include info-highlight.html content=info-highlight %}
