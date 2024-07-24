@@ -12,11 +12,10 @@ approach: "**Audit the Feasibility website’s visual design (UI) and usability 
 responsibilities: [Experience Strategy, User Personas, UX Audit + Design, Accessibility Audit, Competitor Audit, Case Studies, Project Management]
 ---
 
-## Analyse
-
-{% include case_h3_block.html 
-title="Experience Audit" 
-content="**Key user interactions could be improved within the new delivery flow (the project's red route), as well as tracking deliveries and creating new locations.** The delivery creation flow could be better organised according to both B2B and B2C experiences. Determining the possibility for or type of delivery was left until the end, even though the data was entered in earlier." %}
+{% include section_icons.html 
+titles="User Definition, Experience Audit, Case Study Development, UX/UI Design" 
+icons="Discover, Define, Design, Validate"
+breakout=true %}
 
 ![](/assets/images/casestudies/vestega/work_01.jpg)
 {% include img_caption.html 
@@ -28,10 +27,6 @@ content="The audit covered key findings, user needs, competitors, usability, acc
 title="Mock-ups" 
 content="Applied learnings from the audit to created new screens, improving upon key aspects of the UX and UI." %}
 
-{% include section_icons.html 
-titles="User Definition, Experience Audit, Case Study Development, UX/UI Design" 
-icons="Discover, Define, Design, Validate" 
-breakout=true %}
 
 ## Outcome
 
@@ -41,5 +36,5 @@ content="**The minimum viable product and target user was clear, which is a huge
 
 {% include section_icons.html 
 titles="Informed stakeholder decision making, Saved time and resources by identifying issues, Clarified user experience for future projects" 
-icons="Assess, Analyse, Apply" 
+icons="Design, Discover, Validate" 
 breakout=true %}
