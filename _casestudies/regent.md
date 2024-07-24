@@ -31,7 +31,7 @@ reference="Keith Barr - Former CEO IHG"
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
-content="**Regent Hotels continues to expand globally, where they are doubling their current footprint.** Our approach and guidelines created a standard for both hotels and resorts. **Though each location should have it’s own style and interpretation of the approach, a standard ensures the guest experience and brand expression will be the same level worldwide.**" %}
+content="**Regent Hotels continues to expand globally, where they are doubling their current footprint.** Our approach and guidelines created a standard for both hotels and resorts. **Though each location should have its own style and interpretation of the approach, a standard ensures the guest experience and brand expression will be the same level worldwide.**" %}
 
 {% capture info-highlight %}
 #### Helped establish IHG’s luxury presence
