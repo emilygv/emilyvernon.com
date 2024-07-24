@@ -4,7 +4,7 @@ title: Making property investment assessment easier
 description: Auditing the user experience for better decision-making
 project_name: Vestega
 category: Creativity
-image: /assets/images/casestudies/vestega/vestega_hero.jpg
+image: /assets/images/casestudies/vestega/VT_hero.jpg
 thumbnail: /assets/images/casestudies/vestega/vestega_thumbnail.jpg
 skip_section_icons: true
 challange: "Vestega uses data innovation to **optimise land and property investment for local authorities**. Their Feasibility platform helps to determine if a property has potential for social housing. However, **it was not living up to their promise ‘intuitive, user-friendly data at the touch of a button’**."
