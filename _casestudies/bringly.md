@@ -35,9 +35,9 @@ title="Learnings +<br>Results"
 content="**Pairing audit learnings with UX/UI best practices enabled the start-up to move quicker.** This is key when teams are building, iterating and releasing products often. By focusing on the key aspects of the experience - deliveries and tracking - **we were able to make a large impact with a focused deliverable.**" %}
 
 {% capture info-highlight %}
-#### Helped retain a large, European retail client
-|
 #### Created brand consistency across platforms
+|
+#### Helped retain a large, European retail client
 |
 #### Improved credibility through  a better experience
 {% endcapture %}
