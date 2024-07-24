@@ -19,7 +19,7 @@ breakout=true %}
 
 ![](/assets/images/casestudies/regent/Guideline_Example.png)
 {% include img_caption.html 
-title="Experience guidelines" 
+title="Experience guidelines, illustrative example" 
 content="Providing design, experience and service guidance for all existing and new locations." %}
 
 {% include blockquote.html 
