@@ -20,7 +20,7 @@ breakout=true %}
 
 ![](/assets/images/casestudies/shimano/Zoning_Diagram.jpg)
 {% include img_caption.html 
-title="Zoning" 
+title="Zoning, illustrative example" 
 content="Creating specific areas in the Experience Center to take visitors on a journey through Shimano." %}
 
 ![](/assets/images/casestudies/shimano/Touchpoint_Images.jpg)
