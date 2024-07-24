@@ -18,7 +18,8 @@
   .feature {
     padding: 32px 40px;
     background: #fff;
-    min-height: 220px;
+    // min-height: 220px;
+    text-align: center;
     width: 100%;
     @include max($lg) {
       min-height: 0;
