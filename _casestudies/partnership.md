@@ -19,7 +19,7 @@ breakout=true %}
 
 ![](/assets/images/casestudies/partnership/Guideline_Example.jpg)
 {% include img_caption.html 
-title="Brand guidelines" 
+title="Brand guidelines, illustrative example" 
 content="Co-created guidelines to ensure consistency in design and messaging." %}
 
 ![](/assets/images/casestudies/partnership/Assets_Comms.jpg)
