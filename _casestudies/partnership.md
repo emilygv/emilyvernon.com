@@ -4,8 +4,8 @@ title: Building a B2B partnership for everyday hygiene
 description: Collaborating to launch a custom range and comms strategy
 project_name: Partnership
 category: Creativity
-image: /assets/images/casestudies/partnership/bringly_hero_image.jpg
-thumbnail: /assets/images/casestudies/partnership/bringly_thumbnail.jpg
+image: /assets/images/casestudies/partnership/ED_Hero.jpg
+thumbnail: /assets/images/casestudies/partnership/ED_Thumbnail.jpg
 skip_section_icons: true
 challange: "Essity and Reckitt both have their respective strengths in B2B and B2C FMCG. **We wanted to create a partnership that brought value to our B2B customers, while elevating the strengths of each brand.** It’s not enough to have a partnership - the different B2B audiences should also understand the story and reason to believe. "
 approach: "Working closely together was key to create a range of products, assets and a partnership narrative. **We had to establish both the visual design and messaging principles to bring the brands together.** As the range was central to the partnership, these were addressed first followed by messaging and then guidelines."
