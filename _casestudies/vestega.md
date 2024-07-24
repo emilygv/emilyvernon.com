@@ -38,3 +38,12 @@ content="**The minimum viable product and target user was clear, which is a huge
 titles="Informed stakeholder decision making, Saved time and resources by identifying issues, Clarified user experience for future projects" 
 icons="Design, Discover, Validate" 
 breakout=true %}
+
+{% capture info-highlight %}
+#### Informed stakeholder decision making
+|
+#### Saved time and resources by identifying issues
+|
+#### Clarified user experience for future projects
+{% endcapture %}
+{% include info-highlight.html content=info-highlight %}
