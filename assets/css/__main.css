@@ -12554,8 +12554,9 @@ body.scrolled .header .toggler {
 .features-list .feature {
   padding: 32px 40px;
   background: #fff;
-  min-height: 265px;
+  /* min-height: 265px; */
   width: 100%;
+  text-align: center;
 }
 
 @media screen and (max-width: 991px) {

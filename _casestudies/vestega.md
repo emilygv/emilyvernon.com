@@ -34,11 +34,6 @@ content="Applied learnings from the audit to created new screens, improving upon
 title="Learnings +<br>Results" 
 content="**The minimum viable product and target user was clear, which is a huge advantage for a start-up.** However, the platform did not enable evaluating potential sites concurrently, making it cumbersome for users. **After reviewing the audit’s findings with key stakeholders, it was decided the platform should be rebuilt.** The audit also echoed feedback from users." %}
 
-{% include section_icons.html 
-titles="Informed stakeholder decision making, Saved time and resources by identifying issues, Clarified user experience for future projects" 
-icons="Design, Discover, Validate" 
-breakout=true %}
-
 {% capture info-highlight %}
 #### Informed stakeholder decision making
 |
