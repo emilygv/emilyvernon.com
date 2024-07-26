@@ -53,10 +53,10 @@ link="/services/" link_title="Learn more"
 {% include post_cards.html posts=site.posts limit=3 link="/insights/" link_title="Keep reading" %}
 
 {% include hero_intro.html
-title= "Integrate DEI within customer experience"
-subtitle= "With a global team, we created one of the first publications on this pivotal topic."
+title= "Join the Brandvoy email newsletter"
+subtitle= "A fresh perspective on brand building by infusing lessons from sailing the world."
 image= "/assets/images/home_download.png"
-button_title= "Download now" button_link= "https://cxpa.users.membersuite.com/shop/store/7e91ed05-00ce-c0fc-9454-0b45e57a1e88/detail"
+button_title= "Sign up" button_link= "https://subscribepage.io/wdA18u"
 button_link_new_window= true
 class="mb-6"
 %}
