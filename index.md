@@ -55,7 +55,7 @@ link="/services/" link_title="Learn more"
 {% include hero_intro.html
 title= "Join the Brandvoy email newsletter"
 subtitle= "A fresh perspective on brand building by infusing lessons from sailing the world."
-image= "/assets/images/home_download.png"
+image= "/assets/images/Brandvoy_newsletter.png"
 button_title= "Sign up" button_link= "https://subscribepage.io/wdA18u"
 button_link_new_window= true
 class="mb-6"
