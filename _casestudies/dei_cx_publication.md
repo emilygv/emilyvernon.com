@@ -1,6 +1,6 @@
 ---
 layout: casestudy
-title: Building inclusion into customer experience
+title: Integrating inclusion into customer experience
 description: Serving as the editor-in-chief for a pioneering CXPA publication
 project_name: CXPA
 category: Creativity
