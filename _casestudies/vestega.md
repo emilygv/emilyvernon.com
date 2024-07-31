@@ -1,6 +1,6 @@
 ---
 layout: casestudy
-title: Making property investment assessment easier
+title: Optimising property investment assessment
 description: Auditing the user experience for better decision-making
 project_name: Vestega
 category: Creativity
