@@ -8,12 +8,11 @@ hero_text: <mark>New market expansion</mark> <br><mark class="normal">via brand 
 ---
 
 {% include hero_intro.html
-title= "Navigating a better way"
-subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
-description= "We'll collaborate together on a tailored framework to pilot new services, better manage your brand and optimise experiences to be market-fit."
+title= "Join the Brandvoy email newsletter"
+subtitle= "A fresh perspective on brand building by infusing lessons from sailing the world."
 class= "bg-lgrey"
-image= "/assets/images/homepage_hero.png"
-button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
+image= "/assets/images/Brandvoy_newsletter.png"
+button_title= "Sign up" button_link= "https://subscribepage.io/wdA18u"
 button_link_new_window= true
 %}
 
@@ -36,10 +35,11 @@ reference="Asell - Strategy + Experience Director UXUS/McCann"
 %}
 
 {% include hero_intro.html
-title= "Join the Brandvoy email newsletter"
-subtitle= "A fresh perspective on brand building by infusing lessons from sailing the world."
-image= "/assets/images/Brandvoy_newsletter.png"
-button_title= "Sign up" button_link= "https://subscribepage.io/wdA18u"
+title= "Navigating a better way"
+subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
+description= "We'll collaborate together on a tailored framework to pilot new services, better manage your brand and optimise experiences to be market-fit."
+image= "/assets/images/homepage_hero.png"
+button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
 class="mb-6"
 %}
