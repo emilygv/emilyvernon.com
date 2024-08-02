@@ -35,6 +35,16 @@ content="Emily is an all-round strategy powerhouse, combining in-depth analytica
 reference="Asell - Strategy + Experience Director UXUS/McCann"
 %}
 
+{% include hero_intro.html
+title= "Navigating a better way"
+subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
+description= "We'll collaborate together on a tailored framework to pilot new services, better manage your brand and optimise experiences to be market-fit."
+class= "bg-lgrey"
+image= "/assets/images/homepage_hero.png"
+button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
+button_link_new_window= true
+%}
+
 {% include post_cards.html
 title= "Explore packages below to see how I can help your brand and business thrive:"
 posts=site.data.service_package_intros 
