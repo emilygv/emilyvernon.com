@@ -36,13 +36,12 @@ reference="Asell - Strategy + Experience Director UXUS/McCann"
 %}
 
 {% include hero_intro.html
-title= "Navigating a better way"
-subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
-description= "We'll collaborate together on a tailored framework to pilot new services, better manage your brand and optimise experiences to be market-fit."
-class= "bg-lgrey"
-image= "/assets/images/homepage_hero.png"
-button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
+title= "Join the Brandvoy email newsletter"
+subtitle= "A fresh perspective on brand building by infusing lessons from sailing the world."
+image= "/assets/images/Brandvoy_newsletter.png"
+button_title= "Sign up" button_link= "https://subscribepage.io/wdA18u"
 button_link_new_window= true
+class="mb-6"
 %}
 
 {% include post_cards.html
@@ -61,12 +60,3 @@ link="/services/" link_title="Learn more"
 ## Latest insights
 
 {% include post_cards.html posts=site.posts limit=3 link="/insights/" link_title="Keep reading" %}
-
-{% include hero_intro.html
-title= "Join the Brandvoy email newsletter"
-subtitle= "A fresh perspective on brand building by infusing lessons from sailing the world."
-image= "/assets/images/Brandvoy_newsletter.png"
-button_title= "Sign up" button_link= "https://subscribepage.io/wdA18u"
-button_link_new_window= true
-class="mb-6"
-%}
