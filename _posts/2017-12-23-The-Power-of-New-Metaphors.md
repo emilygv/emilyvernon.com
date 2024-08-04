@@ -1,7 +1,7 @@
 ---
 title: The Power of New Metaphors
 category: Content creation
-image: "https://source.unsplash.com/JYBBcCbRaFc/800x430"
+image: "/assets/unsplash/JYBBcCbRaFc.jpg"
 further_reading:
     - Storytelling 101, The Story
     - Why Designers Should Reconsider Storytelling 

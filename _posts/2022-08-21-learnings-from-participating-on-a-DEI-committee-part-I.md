@@ -1,7 +1,7 @@
 ---
 title: Learnings from Participating on a DEI Committee, Part I
 category: Career development
-image: "https://source.unsplash.com/eTgMFFzroGc/800x430"
+image: "/assets/unsplash/eTgMFFzroGc.jpg"
 further_reading:
     - Your Identity Foundation Starts with Daily Principles
     - Your Leadership Training Starts Now

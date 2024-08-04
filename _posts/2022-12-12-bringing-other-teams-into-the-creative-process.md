@@ -1,7 +1,7 @@
 ---
 title: Bringing Other Teams into the Creative Process
 category: Creative process
-image: "https://source.unsplash.com/5QgIuuBxKwM/800x430"
+image: "/assets/unsplash/5QgIuuBxKwM.jpg"
 further_reading:
     - Better Creative Briefs Through Empathy
     - Why Brands Use Creative Agencies or Consultants

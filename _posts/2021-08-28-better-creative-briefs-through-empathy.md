@@ -1,7 +1,7 @@
 ---
 title: Better Creative Briefs Through Empathy
 category: Brand strategy
-image: "https://source.unsplash.com/2zDXqgTzEFE/800x430"
+image: "/assets/unsplash/2zDXqgTzEFE.jpg"
 further_reading:
     - Why Brands Use Creative Agencies or Consultants
     - Why do Creative Agencies Say the Same Thing?

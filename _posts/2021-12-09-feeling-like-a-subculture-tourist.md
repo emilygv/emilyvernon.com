@@ -1,7 +1,7 @@
 ---
 title: Feeling like a Subculture Tourist
 category: Brand strategy
-image: "https://source.unsplash.com/pOXHU0UEDcg/800x430"
+image: "/assets/unsplash/pOXHU0UEDcg.jpg"
 further_reading:
     - The Real Top Ten Qualities of All Strategists
     - Trend Versus Opportunity

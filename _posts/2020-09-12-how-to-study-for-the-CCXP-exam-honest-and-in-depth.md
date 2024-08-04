@@ -1,7 +1,7 @@
 ---
 title: How to Study for the CCXP Exam, Honest and In-Depth
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/DUmFLtMeAbQ/800x430"
+image: "/assets/unsplash/DUmFLtMeAbQ.jpg"
 further_reading:
     - What is Customer Experience (CX)?
     - Customer Journey Mapping Overview

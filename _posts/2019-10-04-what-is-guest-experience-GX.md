@@ -1,7 +1,7 @@
 ---
 title: What is Guest Experience (GX)?
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/-D09rH5sTw4/800x430"
+image: "/assets/unsplash/-D09rH5sTw4.jpg"
 further_reading:
     - What is Customer Experience (CX)?
     - Customer Persona Fundamentals

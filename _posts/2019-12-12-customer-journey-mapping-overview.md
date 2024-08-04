@@ -1,7 +1,7 @@
 ---
 title: Customer Journey Mapping Overview
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/bjemWZcNF34/800x430"
+image: "/assets/unsplash/bjemWZcNF34.jpg"
 further_reading:
     - Customer Persona Fundamentals
     - What is Customer Experience (CX)?

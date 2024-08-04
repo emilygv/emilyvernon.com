@@ -1,7 +1,7 @@
 ---
 title: Springboard UX/UI Course as a Seasoned Design Professional
 category: Career development
-image: "https://source.unsplash.com/qC2n6RQU4Vw/800x430"
+image: "/assets/unsplash/qC2n6RQU4Vw.jpg"
 further_reading:
     - From CX Professional to UX/UI Bootcamp
     - Is CX another term for UX or Service Design? No, Not quite.

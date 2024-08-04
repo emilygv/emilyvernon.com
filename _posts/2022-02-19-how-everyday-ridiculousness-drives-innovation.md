@@ -1,7 +1,7 @@
 ---
 title: How Everyday Ridiculousness Drives Innovation
 category: Brand strategy
-image: "https://source.unsplash.com/5jnC4ht2zoQ/800x430"
+image: "/assets/unsplash/5jnC4ht2zoQ.jpg"
 further_reading:
     - The Power of Concept Novelty
     - Trend Versus Opportunity

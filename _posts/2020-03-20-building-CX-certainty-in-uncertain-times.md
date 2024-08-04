@@ -1,7 +1,7 @@
 ---
 title: Building CX Certainty in Uncertain Times
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/BuNWp1bL0nc/800x430"
+image: "/assets/unsplash/BuNWp1bL0nc.jpg"
 further_reading:
     - What is Customer Experience (CX)?
     - Customer Persona Fundamentals

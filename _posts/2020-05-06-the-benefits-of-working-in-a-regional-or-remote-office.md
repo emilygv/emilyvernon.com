@@ -1,7 +1,7 @@
 ---
 title: The Benefits of Working in a Regional or Remote Office
 category: Career development
-image: "https://source.unsplash.com/i4NvXf1ZqQI/800x430"
+image: "/assets/unsplash/i4NvXf1ZqQI.jpg"
 further_reading:
     - Working Abroad Changed My Entire Perspective
     - How to Transition from a Designer to a Strategist

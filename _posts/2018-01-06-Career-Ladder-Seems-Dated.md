@@ -1,7 +1,7 @@
 ---
 title: A ‘Career Ladder’ Seem Pretty Damn Dated
 category: Career development
-image: "https://source.unsplash.com/NDz_JwHHvXA/800x430"
+image: "/assets/unsplash/NDz_JwHHvXA.jpg"
 further_reading:
     - Should You Try to Create Your Next Job Position?
     - Should I Have a Female Role Model?

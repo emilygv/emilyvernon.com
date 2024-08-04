@@ -1,7 +1,7 @@
 ---
 title: How Creative Mentoring Preps for Leading Teams
 category: Career development
-image: "https://source.unsplash.com/eF7HN40WbAQ/800x430"
+image: "/assets/unsplash/eF7HN40WbAQ.jpg"
 further_reading:
     - Journaling to Ease Job Transitions
     - Should You Try to Create Your Next Job Position?

@@ -1,7 +1,7 @@
 ---
 title: The After Effects of a Creative Sabbatical, 1 Year Beyond
 category: Career development
-image: "https://source.unsplash.com/7Zb7kUyQg1E/800x430"
+image: "/assets/unsplash/7Zb7kUyQg1E.jpg"
 further_reading:
     - Journaling to Ease Job Transitions
     - Working Abroad Changed My Entire Perspective

@@ -1,7 +1,7 @@
 ---
 title: Sailing Made Me a Better Person in the Workplace
 category: Career development
-image: "https://source.unsplash.com/0nKRq0IknHw/800x430"
+image: "/assets/unsplash/0nKRq0IknHw.jpg"
 further_reading:
     - Challenging Ourselves Through More Adventurous Travel
     - How a Minimalist Lifestyle Made Me a Better Designer

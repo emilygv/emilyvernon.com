@@ -1,7 +1,7 @@
 ---
 title: Freeing Effects of Travel on Creativity
 category: Creative process
-image: "https://source.unsplash.com/Nl-SXO4FAHw/800x430"
+image: "/assets/unsplash/Nl-SXO4FAHw.jpg"
 further_reading:
     - What Travel Does for a Designer's Mind
     - Challenging Ourselves Through More Adventurous Travel

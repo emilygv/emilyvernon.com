@@ -1,7 +1,7 @@
 ---
 title: What does a Customer Experience (CX) Consultant Do?
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/zoCDWPuiRuA/800x430"
+image: "/assets/unsplash/zoCDWPuiRuA.jpg"
 further_reading:
     - Why Brands Use Creative Agencies or Consultants
     - Customer Persona Fundamentals

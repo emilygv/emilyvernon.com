@@ -1,7 +1,7 @@
 ---
 title: What is your Empathy Report Card?
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/vVSleEYPSGY/800x430"
+image: "/assets/unsplash/vVSleEYPSGY.jpg"
 further_reading:
     - Customer Persona Fundamentals
     - Building CX Certainty in Uncertain Times

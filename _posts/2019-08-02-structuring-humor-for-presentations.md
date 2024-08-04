@@ -1,7 +1,7 @@
 ---
 title: Structuring Humor for Presentations
 category: Career development
-image: "https://source.unsplash.com/imlD5dbcLM4/800x430"
+image: "/assets/unsplash/imlD5dbcLM4.jpg"
 further_reading:
     - Getting Started with Presentation Humor
     - Taking a Stand-Up Class for Better Presentation Skills

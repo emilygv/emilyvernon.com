@@ -1,7 +1,7 @@
 ---
 title: Is CX another term for UX or Service Design? No, Not quite.
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/GFpxQ2ZyNc0/800x430"
+image: "/assets/unsplash/GFpxQ2ZyNc0.jpg"
 further_reading:
     - Difference Between Creative and Brand Strategy
     - Types of Strategist in Creative Industries

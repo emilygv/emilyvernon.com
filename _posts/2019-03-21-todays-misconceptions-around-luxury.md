@@ -1,7 +1,7 @@
 ---
 title: Today’s Misconceptions Around Luxury
 category: Brand strategy
-image: "https://source.unsplash.com/SsBI9pweAeA/800x430"
+image: "/assets/unsplash/SsBI9pweAeA.jpg"
 further_reading:
     - Trend Versus Opportunity
     - What Does Heritage Mean?

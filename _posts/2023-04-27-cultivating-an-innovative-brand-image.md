@@ -1,7 +1,7 @@
 ---
 title: Cultivating an Innovative Brand Image 
 category: Brand strategy
-image: "https://source.unsplash.com/uAGTGDJaQU0/800x430"
+image: "/assets/unsplash/uAGTGDJaQU0.jpg"
 further_reading:
     - How Everyday Ridiculousness Drives Innovation
     - The Future is Not Your Heritage, Sorry

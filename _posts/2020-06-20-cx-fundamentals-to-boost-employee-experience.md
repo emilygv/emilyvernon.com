@@ -1,7 +1,7 @@
 ---
 title: CX Fundamentals to Boost Employee Experience 
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/eF7HN40WbAQ/800x430"
+image: "/assets/unsplash/eF7HN40WbAQ.jpg"
 further_reading:
     - What is Customer Experience (CX)?
     - Customer Journey Mapping Overview

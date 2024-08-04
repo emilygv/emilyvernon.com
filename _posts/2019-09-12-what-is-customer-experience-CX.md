@@ -1,7 +1,7 @@
 ---
 title: What is Customer Experience (CX)?
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/dQyS2pMYtok/800x430"
+image: "/assets/unsplash/dQyS2pMYtok.jpg"
 further_reading:
     - What is Guest Experience (GX)?
     - What does a Customer Experience (CX) Consultant Do?

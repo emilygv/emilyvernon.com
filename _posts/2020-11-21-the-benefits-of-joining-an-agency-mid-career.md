@@ -1,7 +1,7 @@
 ---
 title: The Benefits of Joining an Agency Mid-career
 category: Career Development
-image: "https://source.unsplash.com/Fa9b57hffnM/800x430"
+image: "/assets/unsplash/Fa9b57hffnM.jpg"
 further_reading:
     - There is Nothing Small about Working at a Small Company
     - The Benefits of Working in a Regional or Remote Office

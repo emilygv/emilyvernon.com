@@ -1,7 +1,7 @@
 ---
 title: How to Transition from a Designer to a Strategist
 category: Career development
-image: "https://source.unsplash.com/ywwuOBJy60c/800x430"
+image: "/assets/unsplash/ywwuOBJy60c.jpg"
 further_reading:
     - The Real Top Ten Qualities of All Strategists
     - Better Writer Equals Better Designer

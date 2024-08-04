@@ -1,7 +1,7 @@
 ---
 title: Creating a Guest Experience Roadmap
 category: Customer Experience (CX)
-image: "https://source.unsplash.com/mRMQwK513hY/800x430"
+image: "/assets/unsplash/mRMQwK513hY.jpg"
 further_reading:
     - What is Guest Experience (GX)?
     - Customer Journey Mapping Overview

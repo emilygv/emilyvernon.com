@@ -1,7 +1,7 @@
 ---
 title: There is Nothing Small about Working at a Small Company
 category: Career Development
-image: "https://source.unsplash.com/wawEfYdpkag/800x430"
+image: "/assets/unsplash/wawEfYdpkag.jpg"
 further_reading:
     - Is There Life After Leaving a Large Brand?
     - A ‘Career Ladder’ Seem Pretty Damn Dated

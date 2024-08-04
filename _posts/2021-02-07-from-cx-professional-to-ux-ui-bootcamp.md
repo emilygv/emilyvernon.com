@@ -1,7 +1,7 @@
 ---
 title: From CX Professional to UX/UI Bootcamp
 category: Career development
-image: "https://source.unsplash.com/zvmZiw3vdsQ/800x430"
+image: "/assets/unsplash/zvmZiw3vdsQ.jpg"
 further_reading:
     - Reclaiming Your Design Identity
     - How to Transition from a Designer to a Strategist
