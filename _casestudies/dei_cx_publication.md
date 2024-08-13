@@ -34,7 +34,7 @@ title="Learnings +<br>Results"
 content="**We had a successful publication launch at CX Day in October.** Creating a publication structure from the beginning helped to organise the team and focus their efforts. It is **still being used by the CXPA Diversity Advancement Committee as a key resource for conversations, webinars and content.** It has been good to see its longevity in a topic that keeps evolving. " %}
 
 {% capture info-highlight %}
-#### Downloaded many times by CXPA members
+#### Downloaded 300+ times by CXPA members
 |
 #### First publication of its kind to explore this topic
 |
