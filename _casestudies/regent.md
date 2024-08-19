@@ -13,7 +13,7 @@ responsibilities: [Workshop Moderation, Stakeholder Management, Competitor Resea
 ---
 
 {% include section_icons.html 
-titles="Workshop + Audit, Experience Strategy, Guest  Journey, Service Guidelines" 
+titles="Workshop + Audit, Experience Strategy, Guest  Journey, Service Guidelines" 
 icons="Discover, Define, Design, Validate"
 breakout=true %}
 

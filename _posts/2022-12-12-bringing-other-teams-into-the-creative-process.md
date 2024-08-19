@@ -39,7 +39,7 @@ Collaborative milestones also allow time for those ‘other’ questions to aris
 
 **Each team brings a unique skillset to the table.** Marketing understands the target audience, sales knows customer pain points and engineers can ensure feasibility. This collective knowledge fuels groundbreaking ideas and helps to ensure project feasibility. 
 
-**When working with a range of teams, clarify what feedback on creative is required throughout the process.** For example, with a creative campaign, you might ask marketing to focus on the clarity of messaging and correlated imagery at a specific stage.   
+**When working with a range of teams, clarify what feedback on creative is required throughout the process.** For example, with a creative campaign, you might ask marketing to focus on the clarity of messaging and correlated imagery at a specific stage.   
 
 **One of the toughest aspects of the creative process is looking at mock-ups, visuals or experience concepts at different level of refinement.** Keep this in mind when sharing work with others, and consider if a call is better than an email. When someone is feeding back over email, they are quicker to react to the visual in front of them versus the concept behind a visual. 
 

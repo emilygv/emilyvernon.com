@@ -9,11 +9,11 @@ thumbnail: /assets/images/casestudies/bringly/bringly_thumbnail.jpg
 skip_section_icons: true
 challange: "**Bringly specialises in sustainable, last-mile delivery throughout Europe.** In order to look more professional and credible, **Bringly recently updated their brand identity, however this was not reflected in their B2B portal.** There were also parts of the existing portal that were not clear or user-friendly."
 approach: "**It was necessary to focus on key experiences for B2B customers.** This was the creation of new deliveries, and tracking of those deliveries. **Through a design system audit, competitor research and UX/UI best practices, this and additional screens were improved.**"
-responsibilities: [UX/UI Audit, Competitor Research, Project Management, UX/UI Strategy, UX/UI Design, Design System Creation]
+responsibilities: [UX/UI Audit, Competitor Research, Project Management, UX/UI Strategy, UX/UI Design, Design System Creation]
 ---
 
 {% include section_icons.html 
-titles="Experience Audit, UX/UI Strategy, Design System, UX/UI Design" 
+titles="Experience Audit, UX/UI Strategy, Design System, UX/UI Design" 
 icons="Discover, Define, Design, Validate"
 breakout=true %}
 

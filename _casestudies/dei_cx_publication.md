@@ -13,7 +13,7 @@ responsibilities: [Project Management, Team Management, Committee Engagement, Re
 ---
 
 {% include section_icons.html 
-titles="Team Strategy, Book Structure, Research + Writing, Reviews + Editing" 
+titles="Team Strategy, Book Structure, Research + Writing, Reviews + Editing" 
 icons="Discover, Define, Design, Validate"
 breakout=true %}
 

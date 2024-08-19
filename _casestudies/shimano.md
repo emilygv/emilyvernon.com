@@ -14,7 +14,7 @@ responsibilities: [Workshop Moderation, Stakeholder Management, Experience Strat
 ---
 
 {% include section_icons.html 
-titles="Experience Strategy, Zoning + Layout, Touchpoint Definition, Communication Hierarchy" 
+titles="Experience Strategy, Zoning + Layout, Touchpoint Definition, Communication Hierarchy" 
 icons="Discover, Define, Design, Validate"
 breakout=true %}
 
