@@ -13,7 +13,7 @@ responsibilities: [Experience Strategy, User Personas, UX Audit + Design, Access
 ---
 
 {% include section_icons.html 
-titles="User Definition, Experience Audit, Case Study Development, UX/UI Design" 
+titles="User Definition, Experience Audit, Case Study Creation, UX/UI Design" 
 icons="Discover, Define, Design, Validate"
 breakout=true %}
 
