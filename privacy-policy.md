@@ -10,7 +10,7 @@ description: Enabling brands and businesses to connect with the creative class, 
 {% capture block_text %} 
 **Last updated:** 25 August 2024
 
-This Privacy Policy describes how Vernonical (“we” or “us”) collects, uses, and shares your personal information when you use our website emilyvernon.com  and any of our subdomains (the “Website”).
+This Privacy Policy describes how Vernonical (“we” or “us”) collects, uses, and shares your personal information when you use our website emilyvernon.com and any of our subdomains (the “Website”).
 
 **Personal Information We Collect**
 
@@ -21,6 +21,11 @@ We collect Device Information using the following technologies:
 - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org  
 - “Log files” track actions occurring on the Website, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps. 
 - “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Website. 
+
+We use Device Information for:
+
+- Functionality: To recognize you on our website and recognize your previously selected preferences, including your preferred language and your location. 
+- Advertising: To collect information about your visit, the content you viewed, the links you followed, and information about your web browser, device, and IP address.
 
 You can set your browser not to accept cookies, and the website above tells you how to remove cookies from your browser. Some of our website features may not function if you disable cookies. Please note that we do not alter our Website’s data collection and use practices when we see a Do Not Track signal from your browser. 
 
@@ -45,7 +50,7 @@ When we talk about “Personal Information” in this Privacy Policy, we are tal
 We use the Provided Information that we collect generally to fulfill any orders placed through the Website (including processing your payment information, delivering products, and providing you with invoices and/or order confirmations). Additionally, we use Provided Information to:
  
 - Communicate with you; and
-- Screen our orders for potential risk or fraud; 
+- Screen our orders for potential risk or fraud.
 
 We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Website (for example, by generating analytics about how our customers browse and interact with the Website, and to assess the success of our marketing and advertising campaigns).
 
@@ -64,7 +69,8 @@ We may also share your Personal Information to comply with applicable laws and r
 **How We Store Your Data**
 
 We process and store your data using the following providers:
-Google Workspace, Mailerlite, Cloudflare, Typeform
+
+- Google Workspace, Mailerlite, Cloudflare, Typeform
 
 Please visit their individual websites for information on the physical location of their servers where your information is stored.
 
@@ -74,7 +80,7 @@ We will maintain your Personal Information for our records unless and until you 
 
 **Email Marketing**
 
-If you make a purchase on this Website, download a free resource in exchange for your email address, and/or opt in to receive emails, you agree to receive email communications from this site, including but not limited to newsletters, site updates, promotions, and other announcements and correspondence.  We are not responsible for the receipt of any such emails. You are responsible for ensuring that our email address(es) are not blocked or forwarded to your spam folder.
+If you make a purchase on this Website, download a free resource in exchange for your email address, and/or opt in to receive emails, you agree to receive email communications from this site, including but not limited to newsletters, site updates, promotions, and other announcements and correspondence. We are not responsible for the receipt of any such emails. You are responsible for ensuring that our email address(es) are not blocked or forwarded to your spam folder.
 
 You have the right at any time to stop us from contacting you for marketing purposes. If you opt to unsubscribe from receiving emails, you understand that you may no longer receive information or updates from this Website, including promotions or product updates.
 
