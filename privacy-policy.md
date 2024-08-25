@@ -16,7 +16,7 @@ When you visit the Website, we automatically collect certain information about y
 
 We collect Device Information using the following technologies: 
 
-- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org  
+- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [All About Cookies](https://www.allaboutcookies.org){:target="_blank"}.
 - “Log files” track actions occurring on the Website, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps. 
 - “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Website. 
 
@@ -54,7 +54,7 @@ We use the Device Information that we collect to help us screen for potential ri
 
 **How We Share Your Personal Information** 
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our visitors use the Website - you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our visitors use the Website - you can read more about how Google uses your Personal Information[here](https://www.google.com/intl/en/policies/privacy/){:target="_blank"}. You can also opt-out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout){:target="_blank"}.
 
 The types of third parties with whom we might share elements of your Personal Information include:
 
