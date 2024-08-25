@@ -8,11 +8,11 @@ description: Enabling brands and businesses to connect with the creative class, 
 ---
 
 {% capture block_text %} 
-Last updated: 25 August 2024
+**Last updated:** 25 August 2024
 
 This Privacy Policy describes how Vernonical (“we” or “us”) collects, uses, and shares your personal information when you use our website emilyvernon.com  and any of our subdomains (the “Website”). 
 
-Topics:
+**Topics:**
 
 - Personal information we collect
 - How we use your personal information
@@ -22,7 +22,7 @@ Topics:
 - Behavioral advertising
 - Your data protection rights
 - Changes
-- Contact Us
+- Contact us
 
 **Personal information We Collect**
 
