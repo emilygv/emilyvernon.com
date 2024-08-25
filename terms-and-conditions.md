@@ -17,7 +17,7 @@ By accessing or using the Website you agree to be bound by these Terms, without 
 
 **Privacy Policy**
 
-Your use of the Website is also subject to our [privacy policy](URL "emilyvernon.com/privacy-policy" target="_blank"). Please review our Privacy Policy, which also governs the Website and informs users of our data collection practices. Your agreement to the Privacy Policy is hereby incorporated into these Terms.
+Your use of the Website is also subject to our [privacy policy](URL "https://emilyvernon.com/privacy-policy/" target="_blank"). Please review our Privacy Policy, which also governs the Website and informs users of our data collection practices. Your agreement to the Privacy Policy is hereby incorporated into these Terms.
 
 **No Use By Minors**
 To access or use the Website, you must be 18 years of age or older and have the requisite power and authority to enter into these Terms. Children under the age of 18 are prohibited from using the Website. 
