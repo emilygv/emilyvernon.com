@@ -47,11 +47,11 @@ We use the Provided Information that we collect generally to fulfill any orders 
 - Communicate with you; and
 - Screen our orders for potential risk or fraud; 
 
-We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Website (for example, by generating analytics about how our customers browse and interact with the Website, and to assess the success of our marketing and advertising campaigns). We also use Device Information to track affiliate referrals for the purpose of granting commissions to our affiliates.
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Website (for example, by generating analytics about how our customers browse and interact with the Website, and to assess the success of our marketing and advertising campaigns).
 
 **How we share your Personal Information** 
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our visitors use the Website - you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.]
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our visitors use the Website - you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
 The types of third parties with whom we might share elements of your Personal Information include:
 
