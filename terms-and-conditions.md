@@ -28,6 +28,7 @@ You may use the Website for lawful purposes only. You agree to be financially re
 **Use Of Free Downloadable Content**
 
 We may make resources on this Website accessible to users in exchange for providing an e-mail address (“Gated Content”). We grant you a limited, personal, non-exclusive, non-transferable license to use the Gated Content for your own personal or internal business use. Except as otherwise provided, you acknowledge and agree that you have no right to modify, edit, copy, reproduce, create derivative works of, reverse engineer, alter, enhance or in any way exploit any of the Gated Content in any manner. 
+
 You agree that you may only use the Gated Content for your personal or internal business use. You agree that you will not sell, redistribute, or create any derivative works based upon the Gated Content and you will not offer any competing products or services based upon any information contained in the Gated Content.
 
 **Material You Submit to the Website**
@@ -35,18 +36,27 @@ You agree that you may only use the Gated Content for your personal or internal 
 By posting, uploading, submitting, inputting, providing, or otherwise making available any artwork, photos, written works, or other media, including feedback and suggestions (collectively, “Submissions”), you grant us, our affiliated companies, and any necessary sub-licensees a worldwide, a nonexclusive, irrevocable license to use your Submission for promotional, business development, and marketing purposes including, without limitation, the right to: copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate, and reformat your Submission; and to publish your name in connection with your Submission.
 
 We claim no intellectual property rights over your Submissions You retain copyrights and any other rights you may rightfully hold in any Submissions that you submit through the Website. 
+
 You shall not upload, post, submit, input, or otherwise make available on the Website any Submissions protected by copyright, trademark, or other proprietary right without the express written permission of the owner of the copyright, trademark, or other proprietary right, and the burden of determining that any Submissions are not so protected rests entirely with you. You shall be liable for any damage resulting from any infringement of copyrights, trademarks, or other proprietary rights, or any other harm resulting from such a Submission. 
+
 By making a Submission to the Website, you represent or warrant that you own or otherwise control all the rights to your Submission described herein including the authority to use and distribute the Submission and that the use or display of the Submission as contemplated in this section will not violate any laws, rules, regulations, or rights of third parties. You agree to hold us harmless from and against all claims, liabilities, and expenses arising out of any potential or actual copyright or trademark misappropriation or infringement claimed against you arising from your Submissions.
+
 You further grant us the right to use your Submission for the purpose of improving our Website, products, or services (and for any other purpose we deem necessary or desirable) without being obliged to pay you any compensation for our use of your Submission. We are under no obligation to post or use any Submission you may provide and may remove any Submission at any time at our sole discretion. If you do send us unsolicited ideas, such ideas will be deemed non-confidential, and we will not be required to provide any acknowledgement of their source.
 
 **Our Intellectual Property**
 
 The Website contains intellectual property owned by us, including trademarks, copyrights, proprietary information, and other intellectual property. We reserve all rights in and to our common law and registered trademarks, service marks, copyrights, and other intellectual property rights, including but not limited to text, graphics, photographs, video, design, and packages, belonging to us or to our licensors (“IP”).  You may not modify, publish, transmit, participate in the transfer or sale of, create derivative works from, distribute, display, reproduce or perform, or in any way exploit in any format whatsoever any of our IP in whole or in part, without our prior written consent. We reserve the right to immediately block your access to the Website and remove you from any service, without refund, if you are caught violating this intellectual property policy.
+
 You are granted a non-exclusive, non-transferable, revocable license to access and use the Website and the resources available for download from the Website (the “Content”) strictly in accordance with these Terms of Use.
+
 As a condition of your use of the Website, you warrant that you will not use the Content for any purpose that is unlawful or prohibited by these Terms. You may not use the Content in any manner that could damage, disable, overburden, or impair the Website or interfere with any other party’s use and enjoyment of the Website. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the Website.
+
 All content included as part of the Content, such as text, graphics, logos, images, as well as the compilation thereof, and any software used on the Website, is our property or the property of our licensors and is protected by copyright and other laws that protect intellectual property and proprietary rights. You agree to observe and abide by all copyright and other proprietary notices, legends or other restrictions contained in any such content.
+
 You will not modify, publish, transmit, reverse engineer, participate in the transfer or sale, create derivative works, or in any way exploit any of the Content, in whole or in part.
+
 The Content is not for resale. Your use of the Content does not entitle you to make any unauthorized use of any protected content. You agree not to delete or alter any proprietary rights or attribution notices in any Content. You will use protected content solely for your individual or internal business use and will make no other use of the Content without our express written permission or permission from the copyright owner. You agree that you do not acquire any ownership rights in any protected content. We do not grant you any licenses, express or implied, to our intellectual property or that of our licensors except as expressly authorized by these Terms.
+
 Our name, logo, slogan, and all related names, logos, product and service names, designs, and slogans are the trademarks of our Company or of our affiliates or licensors. You must not use such marks without our prior written permission. All other names, logos, product and service names, designs, and slogans on this Website are the trademarks of their respective owners.
 
 **Changed Terms**
@@ -60,12 +70,15 @@ While we make every effort to ensure that the content on this Website is free fr
 **Limitation of Liability**
 
 You agree that under no circumstances shall we be liable for direct, indirect, incidental, consequential, special, punitive, exemplary, or any other damages arising out of your use of the website or resources, products, or services available through the website. 
+
 Additionally, we are not liable for damages in connection with (i) any failure of performance, error, omission, denial of service, attack, interruption, deletion, defect, delay in operation or transmission, computer virus, or line or system failure; (ii) loss of revenue, anticipated profits, business, savings, goodwill, or data; and (iii) third-party theft of, destruction of, unauthorized access to, alteration of, or use of your information or property, regardless of our negligence, gross negligence, failure of an essential purpose, and whether such liability arises in negligence, contract, tort, or any other theory of legal liability, even if we have been advised of the possibility of or could have foreseen the damages. 
+
 In those states that do not allow the exclusion or limitation of liability for the damages, our liability is limited to the fullest extent permitted by law. In no event shall our total liability to you exceed the total purchase price of any products or services you have purchased from us.
 
 **No Guarantee of Availability**
 
 Your use of the Website and any associated services may sometimes be subject to interruption or delay. We reserve the right to withdraw or amend this Website and any service or material provided on the Website in its sole discretion without notice. Due to the nature of the Internet and electronic communications, we and our service providers do not make any warranty that our Website or any associated resources or services will be error-free, without interruption or delay, or free from defects in design. We will not be liable to you should our Website or the resources or services supplied through our Website become unavailable, interrupted or delayed for any reason. From time to time, we may restrict access to some parts of the Website, or the entire Website, to users, including registered users.
+
 Information provided on the Website and any resources provided on or available for download from the Website is subject to change. We make no representation or warranty that the information provided, regardless of its source, is accurate, complete, reliable, current, or error-free. We disclaim all liability for any inaccuracy, error, or incompleteness in the information provided.
 
 **Malicious Code**
@@ -79,6 +92,7 @@ The security of your contact information is of utmost importance to us. However,
 **Third-Party Resources**
 
 The Website may contain links to external websites that are not provided by, maintained by, or in any way affiliated with us. We do not guarantee and are not responsible for the availability, accuracy, relevance, timeliness, or completeness of these external websites or any information thereon. Links to such websites or resources do not imply any endorsement by or affiliation with us. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources.
+
 We may, from time to time, provide information from a third party in the form of a guest post or interview, in written, audio, video, or other medium. We do not control the information provided by such third-party guests, are not responsible for investigating the truth of any information provided, and cannot guarantee the veracity of any statements made by such guests.
 
 **Indemnification**
