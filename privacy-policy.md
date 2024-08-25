@@ -10,21 +10,9 @@ description: Enabling brands and businesses to connect with the creative class, 
 {% capture block_text %} 
 **Last updated:** 25 August 2024
 
-This Privacy Policy describes how Vernonical (“we” or “us”) collects, uses, and shares your personal information when you use our website emilyvernon.com  and any of our subdomains (the “Website”). 
+This Privacy Policy describes how Vernonical (“we” or “us”) collects, uses, and shares your personal information when you use our website emilyvernon.com  and any of our subdomains (the “Website”).
 
-**Topics:**
-
-- Personal information we collect
-- How we use your personal information
-- How we share your personal information
-- How we store your data
-- Email marketing
-- Behavioral advertising
-- Your data protection rights
-- Changes
-- Contact us
-
-**Personal information We Collect**
+**Personal Information we collect**
 
 When you visit the Website, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Website, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Website, and information about how you interact with the Website. We refer to this automatically collected information as “Device Information”. 
 
