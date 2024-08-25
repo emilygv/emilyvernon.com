@@ -18,13 +18,14 @@ By accessing or using the Website you agree to be bound by these Terms, without 
 
 **Privacy Policy**
 
-Your use of the Website is also subject to our [Privacy Policy]("https://emilyvernon.com/privacy-policy/" target="_blank"). Please review our Privacy Policy, which also governs the Website and informs users of our data collection practices. Your agreement to the Privacy Policy is hereby incorporated into these Terms.
+Your use of the Website is also subject to our [Privacy Policy](https://emilyvernon.com/privacy-policy/){:target="_blank"}. Please review our Privacy Policy, which also governs the Website and informs users of our data collection practices. Your agreement to the Privacy Policy is hereby incorporated into these Terms.
 
 **No Use By Minors**
 
 To access or use the Website, you must be 18 years of age or older and have the requisite power and authority to enter into these Terms. Children under the age of 18 are prohibited from using the Website. 
 
 **Lawful Purposes**
+
 You may use the Website for lawful purposes only. You agree to be financially responsible for all purchases made by you or someone acting on your behalf through the Website. You agree to use the Website and to purchase services or products through the Website for legitimate, non-commercial purposes only. You shall not post or transmit through the Website any material that violates or infringes the rights of others, or that is threatening, abusive, defamatory, libelous, invasive of privacy or publicity rights, vulgar, obscene, profane, or otherwise objectionable, contains injurious formulas, recipes, or instructions, that encourages conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate any law.
 
 **Use Of Free Downloadable Content**
@@ -63,7 +64,7 @@ Our name, logo, slogan, and all related names, logos, product and service names,
 
 **Changed Terms**
 
-We may at any time amend these Terms, including our Privacy Policy. The date of the last revision will be indicated by the “Last updated” date at the top of this page. Any such changes are effective immediately upon notice to you by us posting the new Terms on this Website. We reserve the right to update any portion of our Website, including these Terms, at any time. If you continue to use our Website after we have made revisions, your continued use constitutes consent to the revised Terms, Privacy Policy, and Disclaimers.
+We may at any time amend these Terms, including our Privacy Policy. The date of the last revision will be indicated by the “Last updated” date at the top of this page. Any such changes are effective immediately upon notice to you by us posting the new Terms on this Website. We reserve the right to update any portion of our Website, including these Terms, at any time. If you continue to use our Website after we have made revisions, your continued use constitutes consent to the revised Terms and Privacy Policy.
 
 **No Warranties**
 
@@ -89,7 +90,7 @@ Although we endeavor to prevent the introduction of viruses or other malicious c
 
 **Security**
 
-The security of your contact information is of utmost importance to us. However, you acknowledge the risk of unauthorized access to, or alteration of, your data. We do not accept responsibility or liability of any nature for any losses you may sustain as a result of such unauthorized access or alteration.  All information transmitted to or from you is transmitted at your own risk, and you assume all responsibility and risks arising in relation to your use of this Website and the internet. We do not accept responsibility for any interference or damage to your computer system that may arise in connection with your access to this Website or any outbound hyperlinks.
+The security of your contact information is of utmost importance to us. However, you acknowledge the risk of unauthorized access to, or alteration of, your data. We do not accept responsibility or liability of any nature for any losses you may sustain as a result of such unauthorized access or alteration. All information transmitted to or from you is transmitted at your own risk, and you assume all responsibility and risks arising in relation to your use of this Website and the internet. We do not accept responsibility for any interference or damage to your computer system that may arise in connection with your access to this Website or any outbound hyperlinks.
 
 **Third-Party Resources**
 
