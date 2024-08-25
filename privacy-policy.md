@@ -12,7 +12,7 @@ description: Enabling brands and businesses to connect with the creative class, 
 
 This Privacy Policy describes how Vernonical (“we” or “us”) collects, uses, and shares your personal information when you use our website emilyvernon.com  and any of our subdomains (the “Website”).
 
-**Personal Information we collect**
+**Personal Information We Collect**
 
 When you visit the Website, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Website, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Website, and information about how you interact with the Website. We refer to this automatically collected information as “Device Information”. 
 
@@ -40,7 +40,7 @@ The Provided Information we collect may include:
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Provided Information. 
 
-**How we use your Personal Information**
+**How We Use Your Personal Information**
 
 We use the Provided Information that we collect generally to fulfill any orders placed through the Website (including processing your payment information, delivering products, and providing you with invoices and/or order confirmations). Additionally, we use Provided Information to:
  
@@ -49,7 +49,7 @@ We use the Provided Information that we collect generally to fulfill any orders 
 
 We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Website (for example, by generating analytics about how our customers browse and interact with the Website, and to assess the success of our marketing and advertising campaigns).
 
-**How we share your Personal Information** 
+**How We Share Your Personal Information** 
 
 We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our visitors use the Website - you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
@@ -61,7 +61,7 @@ The types of third parties with whom we might share elements of your Personal In
 
 We may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights. 
 
-**How we store your data**
+**How We Store Your Data**
 
 We process and store your data using the following providers:
 Google Workspace, Mailerlite, Cloudflare, Typeform
@@ -92,7 +92,7 @@ We may update this privacy policy from time to time to reflect, for example, cha
 
 Please contact us if you have any complaints about how we use your Personal Information so we can resolve the issue whenever possible. Residents of the European Union also have the right to lodge a complaint with your local data protection regulator, such as the Information Commissioner’s Office in the UK. 
 
-**Contact us**
+**Contact Us**
 
 For more information about our privacy practices, if you have questions, or if you would like to exercise your data protection rights, please do not hesitate to contact us.
 
