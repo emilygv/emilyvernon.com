@@ -9,7 +9,8 @@ description: Enabling brands and businesses to connect with the creative class, 
 **Last Updated:** 25 August 2025
 
 The following Terms and Conditions of Use (“Terms”) are entered into by and between You and Vernonical (“Company,” “we” or “us”).
-These Terms, together with our Privacy Policy, Disclaimer, and any other documents expressly incorporated by reference, govern your use of the website emilyvernon.com and any subdomains (“Website”), including all materials, resources, information, and services on the Website, whether as a guest or registered user. 
+
+These Terms, together with our Privacy Policy and any other documents expressly incorporated by reference, govern your use of the website emilyvernon.com and any subdomains (“Website”), including all materials, resources, information, and services on the Website, whether as a guest or registered user. 
 
 Your access to and use of the Website is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, customers, and others who access or use the Website.
 
@@ -17,7 +18,7 @@ By accessing or using the Website you agree to be bound by these Terms, without 
 
 **Privacy Policy**
 
-Your use of the Website is also subject to our [privacy policy](URL "https://emilyvernon.com/privacy-policy/" target="_blank"). Please review our Privacy Policy, which also governs the Website and informs users of our data collection practices. Your agreement to the Privacy Policy is hereby incorporated into these Terms.
+Your use of the Website is also subject to our [Privacy Policy](URL "https://emilyvernon.com/privacy-policy/" target="_blank"). Please review our Privacy Policy, which also governs the Website and informs users of our data collection practices. Your agreement to the Privacy Policy is hereby incorporated into these Terms.
 
 **No Use By Minors**
 To access or use the Website, you must be 18 years of age or older and have the requisite power and authority to enter into these Terms. Children under the age of 18 are prohibited from using the Website. 
