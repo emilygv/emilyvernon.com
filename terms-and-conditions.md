@@ -125,4 +125,4 @@ The owner of this website is Vernonical. You may contact us by email at info@ver
 
 {% endcapture %}
 
-{% include case_h2_block.html title="Our privacy policy" content=block_text %}
+{% include case_h2_block.html title="Our terms and conditions" content=block_text %}
