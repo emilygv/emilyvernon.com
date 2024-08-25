@@ -6,7 +6,7 @@ description: Enabling brands and businesses to connect with the creative class, 
 ---
 
 {% capture block_text %} 
-**Last Updated:** 25 August 2025
+**Last Updated:** 25 August 2024
 
 The following Terms and Conditions of Use (“Terms”) are entered into by and between You and Vernonical (“Company,” “we” or “us”).
 
