@@ -68,7 +68,7 @@ We may also share your Personal Information to comply with applicable laws and r
 
 We process and store your data using the following providers:
 
-- Google Workspace, Mailerlite, Cloudflare, Typeform
+- Google Workspace, Mailerlite, Calendly, Cloudflare, Typeform
 
 Please visit their individual websites for information on the physical location of their servers where your information is stored.
 
