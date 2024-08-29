@@ -29,11 +29,6 @@ button_title= "Get to know me" button_link= "/about/"
 
 {% include clients.html items=site.data.clients %}
 
-{% include blockquote.html 
-content="Emily is an all-round strategy powerhouse, combining in-depth analytical thinking with future-forward creativity." 
-reference="Asell - Strategy + Experience Director UXUS/McCann"
-%}
-
 {% include hero_intro.html
 title= "Navigating a better way"
 subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
@@ -42,6 +37,11 @@ image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
 class="mb-6"
+%}
+
+{% include blockquote.html 
+content="Emily is an all-round strategy powerhouse, combining in-depth analytical thinking with future-forward creativity." 
+reference="Asell - Strategy + Experience Director UXUS/McCann"
 %}
 
 {% include post_cards.html
