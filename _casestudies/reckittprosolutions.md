@@ -7,38 +7,38 @@ category: Creativity
 image: /assets/images/casestudies/reckitt/RB_hero.jpg
 thumbnail: /assets/images/casestudies/reckitt/RB_thumbnail.jpg
 skip_section_icons: true
-challange: "Vestega uses data innovation to **optimise land and property investment for local authorities**. Their Feasibility platform helps to determine if a property has potential for social housing. However, **it was not living up to their promise ‘intuitive, user-friendly data at the touch of a button’**."
-approach: "**Audit the Feasibility website’s visual design (UI) and usability (UX)** to identify improvements or gaps in the experience. An optimal experience makes it easier for users to achieve their goals. **Understanding the user and their decision-making process is key**."
-responsibilities: [Experience Strategy, User Personas, UX Audit + Design, Accessibility Audit, Competitor Audit, Case Studies, Project Management]
+challange: "**Reckitt Pro Solutions is the B2B portfolio of Reckitt.** With brands like Lysol, Dettol, Finish and Harpic, Reckitt is well-known in the consumer space. **However, it lacked credibility and trust in professional.** In order to achieve the latter, we needed to create a professional corporate brand to enable cross-brand solution selling."
+approach: "**Build an overarching professional corporate brand that both fit within industry norms, but also stood out through its distinct character.** As a marketing and brand experience team, our job was to create a brand system that worked across various touchpoints and for our various B2B audiences."
+responsibilities: [Stakeholder Management, Brand Strategy, Brand Creation, Portfolio Strategy, Creative Direction, Design Validation, Communication Hierarchy, Customer Journey Mapping, Brand Guidelines]
 ---
 
 {% include section_icons.html 
-titles="User Definition, Experience Audit, Case Study Creation, UX/UI Design" 
+titles="Brand  Strategy, Creative Direction, Asset Creation, Guideline Creation" 
 icons="Discover, Define, Design, Validate"
 breakout=true %}
 
-![](/assets/images/casestudies/vestega/work_01.jpg)
+![](/assets/images/casestudies/reckitt/work_01.jpg)
 {% include img_caption.html 
-title="UX Audit" 
-content="The audit covered key findings, user needs, competitors, usability, accessibility, responsiveness and the design system." %}
+title="Brand system" 
+content="Amplified certain aspects of the Reckitt brand for Reckitt Pro Solutions." %}
 
-![](/assets/images/casestudies/vestega/work_02.jpg)
+![](/assets/images/casestudies/reckitt/work_02.jpg)
 {% include img_caption.html 
-title="Mock-ups" 
-content="Applied learnings from the audit to created new screens, improving upon key aspects of the UX and UI." %}
+title="Across the journey" 
+content="Demonstrates how the brand system works for touchpoints from digital platforms to brochures." %}
 
 
 ## Outcome
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
-content="**The minimum viable product and target user was clear, which is a huge advantage for a start-up.** However, the platform did not enable evaluating potential sites concurrently, making it cumbersome for users. **After reviewing the audit’s findings with key stakeholders, it was decided the platform should be rebuilt.** The audit also echoed feedback from users." %}
+content="**The professional corporate brand launched at two key trade shows in EU/UK and US.** It was well-received by the industry, as well as our regional partners. With the brand foundations in place, **the team is able to both push the brand further through distinct expressions**, while rolling out the system across key touchpoints." %}
 
 {% capture info-highlight %}
-#### Informed stakeholder decision making
+#### Achieved stand-out from competition
 |
-#### Saved time and resources by identifying issues
+#### Launched first global Reckitt professional brand
 |
-#### Clarified user experience for future projects
+#### Rolled out globally to create consistency
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
