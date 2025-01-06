@@ -62,10 +62,10 @@ Your empathy radar is one of the most powerful tools you can use as a leader. Ne
 
 ## And there's more
 
-✏️ Join: I'll be launching my first webinar, "How to Overcoming Common Pitfalls in Brand Positioning". 
+✏️ Join: I'll be virtually presenting "A Sailor's Guide to Creative Risks" with People of Research.
 
-📚 Read: [The FutureBrand Index 2024](https://www.futurebrand.com/futurebrand-index){:target="_blank"} is finally out and is worth a read to see how brands are stacking up.
+📚 Read: [The Blue Machine: How the Ocean Works](https://www.goodreads.com/book/show/123979539-the-blue-machine){:target="_blank"} by Helen Czerski is a great book that delivers what it says.
 
-🎧 Listen: You'll want to read Adam Moss' next book after listening to [The Work of Art: How Something Comes From Nothing](https://podcasts.apple.com/us/podcast/the-work-of-art-how-something-comes-from-nothing/id1482067226?i=1000674288453){:target="_blank"}.
+🎧 Listen: [Eliminate your competition, build a category of one](https://podcasts.apple.com/us/podcast/109-eliminate-your-competition-build-a-category-of-one/id1600044040?i=1000669539658){:target="_blank"} is a good perspective for personal brands and big ones too. 
 
-📍Visit: If you're looking for some nature, hikes and ecolodge/hostel vibes, [Minca](https://www.secrethike.com/post/complete-guide-to-hiking-minca-colombia){:target="_blank"} in Colombia is a good time. 
+📍Visit: [Bonaire](https://www.padi.com/diving-in/bonaire/){:target="_blank"} , the "B" of the Dutch ABC islands, is fantastic for diving and has really chill vibes. 
