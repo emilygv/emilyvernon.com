@@ -61,8 +61,8 @@ Every boat or brand pantry goes through its stages of overstocked to underapprec
 
 ✏️ Join: My next webinar [How to Jumpstart Any Brand in 2025](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3ODgyNzI4NzcsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiIxNWFhMzc5ZjgxMjVjYzNjIn0){:target="_blank"} looks at how to reconsider your brand team's approach for 2025.
 
-📚 Read: [Get the Picture](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3OTQ1NjQzNDMsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiJiNzEyZTE5MjA5MjI3MzEwIn0) by Bianca Bosker is a somewhat comical journey into the art world by a journalist.
+📚 Read: [Get the Picture](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3OTQ1NjQzNDMsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiJiNzEyZTE5MjA5MjI3MzEwIn0){:target="_blank"} by Bianca Bosker is a somewhat comical journey into the art world by a journalist.
 
-🎧 Listen: [How Technology Became the World's Top Religion](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3OTk4MDcyMzAsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiIxZDVhZGFmZjI1NWRjNWYwIn0) considers tech's impact on society, morals, innovation and risk.
+🎧 Listen: [How Technology Became the World's Top Religion](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3OTk4MDcyMzAsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiIxZDVhZGFmZjI1NWRjNWYwIn0){:target="_blank"} considers tech's impact on society, morals, innovation and risk.
 
-📍Visit: [The Huntington Library and Gardens](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ4MDgxOTU4NTIsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiJjNTZjYzMzNWJkYmY5NTkxIn0) should be on more 'Best Botanical Gardens' lists.
+📍Visit: [The Huntington Library and Gardens](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ4MDgxOTU4NTIsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiJjNTZjYzMzNWJkYmY5NTkxIn0){:target="_blank"} should be on more 'Best Botanical Gardens' lists.
