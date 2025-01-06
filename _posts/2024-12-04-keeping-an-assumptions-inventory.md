@@ -26,7 +26,7 @@ Here’s one way to think of it: assumptions are like a reef underwater. Hidden 
 It’s not the reef’s fault—rather it’s all about how you understand and work with it.
 
 ![](/assets/newsletter/2024-12-04/boat.jpg)
-*We have food everywhere in the boat*
+*One reef, two stories: a beached boat and fishermen catching their bounty*
 
 While working on Artvoy, aimed at encouraging younger people to collect art, I assumed they would approach art as a cold, hard investment. But that wasn’t the case. 
 
@@ -41,9 +41,9 @@ When acknowledged and documented, assumptions can guide your team like a well-ma
 We don’t need to get rid of assumptions—instead, work with them. Maintaining an inventory allows teams to remain agile and responsive as we learn more from our customers, users and stakeholders.
 
 ![](/assets/newsletter/2024-12-04/framework.png)
-*As Assumptions Inventory*
+*An Assumptions Inventory*
 
-Here’s how leaders can use an Assumptions Inventory to stay on course::
+Here’s how leaders can use an Assumptions Inventory to stay on course:
 
 1. **Write Them Down:** Keep a living list of what your team assumes to be true and why.
 2. **Check Regularly:** Revisit and revise assumptions as new data and feedback come in.
