@@ -9,6 +9,6 @@
 
 #-c "bundle install && bundle exec
 #--watch --force_polling
-docker run --rm -it -p 4000:4000 -v ${PWD}:/src/site naoigcat/github-pages jekyll serve --H 0.0.0.0 --livereload --incremental
+docker run --rm -it -p 4000:4000 -v ${PWD}:/src/site naoigcat/github-pages jekyll serve --H 0.0.0.0 --watch --livereload --incremental
 
 

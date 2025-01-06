@@ -11814,13 +11814,13 @@ template {
   font-display: swap;
 }
 
-@font-face {
+/* @font-face {
   font-family: 'Montserrat';
   src: local("Montserrat Bold Italic"), local("Montserrat-BoldItalic"), url("../fonts/Montserrat-BoldItalic.woff2") format("woff2"), url("../fonts/Montserrat-BoldItalic.woff") format("woff");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
-}
+} */
 
 @font-face {
   font-family: 'Montserrat';

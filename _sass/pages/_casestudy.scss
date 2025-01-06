@@ -13,6 +13,17 @@
   }
 }
 
+.post {
+  img + em { 
+    display: block;
+    text-align: center; 
+  }
+  img + br + em { 
+    display: block;
+    text-align: center; 
+  }
+}
+
 .features-list {
   // padding: 137px 0;
   // @include max($lg) {
