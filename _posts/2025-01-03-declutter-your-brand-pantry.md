@@ -3,9 +3,9 @@ category: Newsletter
 # image: "/assets/newsletter/2025-01-03/map.png"
 description: Brands, like boats, encounter a similar need for periodic cleaning and strategic renewal. Sustaining brand health involves both active curation and proactive upkeep.
 further_reading:
-    - For Anyone (and I mean anyone) Who Wants to Try a Hackathon
-    - Better Writer Equals Better Designer
-    - The Real Reasons I Blog
+    - Better Creative Briefs Through Empathy
+    - Trend Versus Opportunity
+    - Cultivating an Innovative Brand Image
 ---
 
 ![](/assets/newsletter/2025-01-03/map.png)
