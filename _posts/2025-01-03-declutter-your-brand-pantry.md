@@ -59,7 +59,7 @@ Every boat or brand pantry goes through its stages of overstocked to underapprec
 ## And there's more
 
 
-✏️ Join: My next webinar [How to Jumpstart Any Brand in 2025](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3ODgyNzI4NzcsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiIxNWFhMzc5ZjgxMjVjYzNjIn0) looks at how to reconsider your brand team's approach for 2025.
+✏️ Join: My next webinar [How to Jumpstart Any Brand in 2025](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3ODgyNzI4NzcsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiIxNWFhMzc5ZjgxMjVjYzNjIn0){:target="_blank"} looks at how to reconsider your brand team's approach for 2025.
 
 📚 Read: [Get the Picture](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3OTQ1NjQzNDMsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiJiNzEyZTE5MjA5MjI3MzEwIn0) by Bianca Bosker is a somewhat comical journey into the art world by a journalist.
 
