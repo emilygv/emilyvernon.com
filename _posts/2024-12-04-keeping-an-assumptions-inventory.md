@@ -3,9 +3,9 @@ category: Newsletter
 # image: "/assets/newsletter/2024-12-04/map.png"
 description: Assumptions act as shortcuts, providing direction and momentum. But here’s the catch—they’re not always accurate. Like incomplete navigation charts in new waters, assumptions need regular check-ins.
 further_reading:
-    - For Anyone (and I mean anyone) Who Wants to Try a Hackathon
-    - Better Writer Equals Better Designer
-    - The Real Reasons I Blog
+    - Bringing Other Teams into the Creative Process
+    - The Benefits of Working in a Regional or Remote Office
+    - The Power of Concept Novelty
 ---
 
 ![](/assets/newsletter/2024-12-04/map.png)
@@ -63,7 +63,7 @@ Assumptions are not set in stone or only an issue at the beginning. We can enhan
 
 ✏️ Join: Unable to join my first webinar? Come and view the recording of [How to Overcome the Common Pitfalls of Brand Positioning](https://www.youtube.com/watch?v=XoU29vqHkHg){:target="_blank"}.
 
-📚 Read: If you're looking for an easy, uplifting, semi-surreal read,[The Life Impossible](https://www.goodreads.com/book/show/198281740-the-life-impossible){:target="_blank"} by Matt Haig is a nice choice.
+📚 Read: If you're looking for an easy, uplifting, semi-surreal read, [The Life Impossible](https://www.goodreads.com/book/show/198281740-the-life-impossible){:target="_blank"} by Matt Haig is a nice choice.
 
 🎧 Listen: [How Globalization Has Changed Strategic Planning](https://hbr.org/podcast/2024/11/how-globalization-has-changed-strategic-planning){:target="_blank"} from HBR is a good sense-check on how global globalisation actually is.
 
