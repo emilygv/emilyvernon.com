@@ -1,70 +1,74 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2024-07-03/map.png"
-description: Within B2B brand management, I started noticing that many "best practices" were outdated in our current market, especially from a creative perspective. I think the same is true about sailing, where best practices are still up for interpretation, even though sailing has existed for 6,000 years.
+description: Conditions can work with us or against us. To successfully work within existing parameters, it’s critical that we acknowledge the current conditions and ensure our teams are set up to handle the ride.
 further_reading:
-    - How Everyday Ridiculousness Drives Innovation
-    - Cultivating an Innovative Brand Image
     - The Power of Concept Novelty
+    - Trend Versus Opportunity
+    - Freeing Effects of Travel on Creativity
 ---
 
 ![](/assets/newsletter/2024-07-03/map.jpg)
-*Reporting from Florida, as we are visiting family*
+*Reporting from the UK, as we've docked our boat for hurricane season*
 
-Within B2B brand management, I started noticing that many "best practices" were outdated in our current market, especially from a creative perspective. 
+Lately, I've been thinking about how certain conditions influence the sailing routes my husband and I choose and how the same is true for innovation projects. 
 
-I think the same is true about sailing, where best practices are still up for interpretation, even though sailing has existed for 6,000 years.
+By necessity, the ideas that marketers and designers develop are shaped by current business and market conditions. 
 
-Why am I connecting these very different environments? Sailing taught me that even the most ancient of practices is still evolving. 
+Why am I connecting these very different environments?
+
+For 15 years, I've worked in brand management, customer experience and creative direction. Through my work with clients in the US and EU and my travels around the world, my experience has been multi-cultural, allowing me to offer clients a deeper, more well-rounded perspective.
 
 ## Let's jump into it
 
-There's no definitive answer on how to best configure a sailboat. There are numerous variations and subtypes, as well as adaptations. Despite its long history, innovations still happen, and you may feel like you’re living in the past powered by the future.
+Any time we talk to people about how we spend nine months per year sailing from place to place, we are often asked, “Where are you going next?” Most of the time, our answer is, “We’ll see.”
 
-For both sailing and brand management, the best choice is more about "best fit", not best practice.
+With a huge blue ocean all around us, the possibilities seem endless as we consider steering course for Brasil, Mexico or Portugal. But it’s not our decision to make – the weather, wind, tides, repairs, maintenance and time all shape our next destination.
 
-For instance, we have an Ovni. To the French speakers this will sound a little ridiculous, as "ovni" means UFO in French. While our boat is great for worldwide sailing, it's overkill for a small lake. Since we spend most of our time sailing oceans, this boat is a good fit for us.
+In other words, conditions guide our choices.
+
+Ignoring existing conditions while sailing can be dangerous, even fatal. Our determination can’t overcome storm force winds. An exhausted crew will make irreversible mistakes.
 
 ![](/assets/newsletter/2024-07-03/boat.jpg)
-*My husband and I on our Ovni*
+*No, not sailing in that*
 
-When building a new brand experience or relaunching an existing brand, the marketing team needs to carefully consider any best practices before automatically using them. Assuming best practices are "must-do practices" can limit creativity, relevancy and novelty.
+When working on innovation projects for a brand, the situation is similar. The team and I first go wide with blue sky ideas - the more Post-Its, the better. Then we consider the market and business conditions, narrowing down ideas to ones suitable to those conditions.
 
-After working with many different teams, I noticed best practices were challenged by two types: start-up'ers (because they need to be different) and been-there-done-that experts (because they've seen everything).
+I’ve worked on teams that were trying to do new, big things: launch a product creation team in Europe, relaunch Clinique in China, build a B2B business from B2C brands. 
 
-But what about all the teams and people in-between?
+The projects that succeeded never ignored existing conditions.
 
 ## A helpful resource
 
-Before automatically applying best practices to a brand campaign or project, it’s helpful to go through a series of decisions to understand what the best fit is. My husband and I do something similar when we’re modifying our sailboat. 
+In sailing, we rely on the Beaufort scale, which describes wind strength and corresponding sea conditions. What if we had an equivalent for brand innovation projects? 
 
-This "Best Practice to Best Fit" decision flowchart I made makes it easier for teams to diagnose so-called best practices and decide if they should be applied or reconsidered. 
+I created this "Beaufort Scale for Innovation Projects" to make it easier for our teams to align on what conditions we would face and what that means to our strategy and project planning. 
 
 ![](/assets/newsletter/2024-07-03/framework.jpg)
-*Best Practice to Best Fit Flowchart*
+*Beaufort Scale for Innovation Projects*
 
-When I was working on a brand relaunch for a luxury hotel and resort chain, understanding what best practices were current and which ones should be challenged was key. My team did this in the beginning and it drove our successful guest experience strategy.
+When working with a last-mile B2B delivery start-up on their delivery user experience, we knew the conditions were a Gentle Breeze, as expectations for B2B digital experience were being impacted by B2C. This informed and focused our approach.
 
-During project discussions, teams can refer to the flowchart and ask these additional questions in order to make the best decisions:
+With every project, we can refer to the scale and ask ourselves:
 
-1. What key best practices are crucial to this project?
-2. Are there best practices our team members disagree on?
-3. Are there best practices we haven't questioned for awhile?
-4. Is there an external team member who can check our logic?
-5. Are there other assumptions we could run through the flowchart?
+1. What type of conditions do we have?
+2. Can our team handle these conditions?
+3. If they can, what resources do we need to help?
+4. If they can’t, what conditions do we need to move forward?
+5. Is there someone we can talk to who’s dealt with these conditions?
    
-Looking back, there were projects for which I wish my team and I had taken more time to consider these best practice assumptions. Teams who have the patience to do so will only make things easier for themselves later on.
+I've seen companies who overlooked both their conditions and ability to handle such conditions. In the end, they either delayed a project or canceled it completely. Both outcomes affect team morale. 
 
-Even the most experienced people working in a given field reconsider their knowledge periodically. The world is moving quickly, and what was a best practice yesterday might not be a best practice today.
+Conditions can work with us or against us. To successfully work within existing parameters, it’s critical that we acknowledge the current conditions and ensure our teams are set up to handle the ride. 
 
-## Before applying a best practice, determine if it's truly a best fit for your project
+## We can't always change our conditions, but we can change how we prep for them.
 
 ## And there's more
 
-✏️ Join: I'll be presenting "Realza la Experiencia del Cliente con la Marca" soon. Stay tuned for the announcement!
+✏️ Join: I'll be presenting "Amplify CX through Branding" on a LinkedIn Live July/August, in English and Spanish. Stay tuned!
 
-📚 Read: [Everyday Dharma](https://www.goodreads.com/book/show/65646922-everyday-dharma){:target="_blank"} blends Eastern wisdom with Western business practices to help you find purpose and joy in your daily grind.
+📚 Read: [Move by Patty Azzarello](https://www.amazon.com/Move-Decisive-Strategy-Obstacles-Setbacks/dp/1119348374){:target="_blank"} is a whole lot of logic on taking strategy to reality.
 
-🎧 Listen: [Why Can't We Tolerate Discomfort](https://freakonomics.com/podcast/why-cant-we-tolerate-discomfort/){:target="_blank"} explores why it's important to understand what your discomfort means.
+🎧 Listen: [Innovation 2.0: Do Less by Hidden Brain ](https://hiddenbrain.org/podcast/do-less/){:target="_blank"} looks at the value of subtraction in innovation.
 
-📍Visit: [Cenotes](https://www.thewholeworldisaplayground.com/playa-del-carmen-cenotes/){:target="_blank"} (underground chambers or caves) near Playa del Carmen, Mexico are great for swimming or scuba diving.
+📍Visit: We love [Bath, UK](https://visitbath.co.uk/){:target="_blank"} (underground chambers or caves) for its architecture and roman baths. It's an easy and fun weekend trip from London.
