@@ -8,7 +8,7 @@ further_reading:
     - Storytelling 101, The Telling
 ---
 
-![](/assets/newsletter/2024-09-04/map.png)
+![](/assets/newsletter/2024-09-04/map.jpg)
 *Getting ready to visit more family in DC*
 
 Risk is often framed in terms of assessment, calculation and mitigation, but rarely do we talk about the emotional engagement needed to navigate those risks successfully.
