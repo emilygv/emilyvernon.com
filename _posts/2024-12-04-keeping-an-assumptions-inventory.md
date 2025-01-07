@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2024-12-04/map.png"
-description: Assumptions act as shortcuts, providing direction and momentum. But here’s the catch—they’re not always accurate. Like incomplete navigation charts in new waters, assumptions need regular check-ins.
+description: Assumptions act as shortcuts, providing direction. But here’s the catch—they’re not always accurate. Like incomplete navigation charts in new waters, assumptions need regular check-ins.
 further_reading:
     - Bringing Other Teams into the Creative Process
     - The Benefits of Working in a Regional or Remote Office
