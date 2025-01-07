@@ -59,10 +59,10 @@ Next time you're communicating a mission statement to your employees or innovati
 
 ## And there's more
 
-✏️ Join: One of my mentors is speaking at [Stratfest](https://stratfest.aaaa.org/)){:target="_blank"} in NYC on 1 October and it looks like a great agenda. 
+✏️ Join: One of my mentors is speaking at [Stratfest](https://stratfest.aaaa.org/){:target="_blank"} in NYC on 1 October and it looks like a great agenda. 
 
-📚 Read: [Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets)){:target="_blank"} by Annie Duke brings poker knowhow to everyday risk assessment.
+📚 Read: [Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets){:target="_blank"} by Annie Duke brings poker knowhow to everyday risk assessment.
 
-🎧 Listen: [How to Tell Sexy Stories About Unsexy Brands](https://podcasts.apple.com/ug/podcast/how-to-tell-sexy-stories-about-unsexy-brands/id1265289056?i=1000630661979)){:target="_blank"} by Problem Solvers is a refreshing look at brand narratives.
+🎧 Listen: [How to Tell Sexy Stories About Unsexy Brands](https://podcasts.apple.com/ug/podcast/how-to-tell-sexy-stories-about-unsexy-brands/id1265289056?i=1000630661979){:target="_blank"} by Problem Solvers is a refreshing look at brand narratives.
 
-📍Visit: If I ever became a sculptor,[The Noguchi Museum](https://www.noguchi.org/museum/visit/plan/)){:target="_blank"}, on Long Island, NY USA would be a key inspiration. 
+📍Visit: If I ever became a sculptor,[The Noguchi Museum](https://www.noguchi.org/museum/visit/plan/){:target="_blank"}, on Long Island, NY USA would be a key inspiration. 
