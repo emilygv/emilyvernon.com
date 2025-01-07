@@ -61,10 +61,10 @@ Even the most experienced people working in a given field reconsider their knowl
 
 ## And there's more
 
-✏️ Join: One of my mentors is speaking at [Stratfest](https://stratfest.aaaa.org/){:target="_blank"} in NYC on 1 October and it looks like a great agenda. 
+✏️ Join: I'll be presenting "Realza la Experiencia del Cliente con la Marca" soon. Stay tuned for the announcement!
 
-📚 Read: [Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets){:target="_blank"} by Annie Duke brings poker knowhow to everyday risk assessment.
+📚 Read: [Everyday Dharma](https://www.goodreads.com/book/show/65646922-everyday-dharma){:target="_blank"} blends Eastern wisdom with Western business practices to help you find purpose and joy in your daily grind.
 
-🎧 Listen: [How to Tell Sexy Stories About Unsexy Brands](https://podcasts.apple.com/ug/podcast/how-to-tell-sexy-stories-about-unsexy-brands/id1265289056?i=1000630661979){:target="_blank"} by Problem Solvers is a refreshing look at brand narratives.
+🎧 Listen: [Why Can't We Tolerate Discomfort](https://freakonomics.com/podcast/why-cant-we-tolerate-discomfort/){:target="_blank"} explores why it's important to understand what your discomfort means.
 
-📍Visit: If I ever became a sculptor, [The Noguchi Museum](https://www.noguchi.org/museum/visit/plan/){:target="_blank"} on Long Island, NY USA would be a key inspiration. 
+📍Visit: [Cenotes](https://www.thewholeworldisaplayground.com/playa-del-carmen-cenotes/){:target="_blank"} (underground chambers or caves) near Playa del Carmen, Mexico are great for swimming or scuba diving.
