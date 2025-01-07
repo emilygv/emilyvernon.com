@@ -2,6 +2,7 @@
 category: Newsletter
 # image: "/assets/newsletter/2024-10-03/map.png"
 description: Ignoring emotions is risky. Gauging your team’s emotional state can guide whether you need to adjust deadlines or pivot strategies. Think of it as the emotional weather forecast for your team, predicting future success.
+further_reading:
     - Customer Persona Fundamentals
     - Freeing Effects of Travel on Creativity
     - Discontent is Good for Creatives, and Here's Why
