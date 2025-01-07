@@ -1,72 +1,68 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2024-09-04/map.png"
-description: Ignoring emotions is risky. Gauging your team’s emotional state can guide whether you need to adjust deadlines or pivot strategies. Think of it as the emotional weather forecast for your team, predicting future success.
+description: Whether it’s launching a new product, taking on a new role or sailing around the world, our ability to manage risk isn’t just about chasing rewards—it’s about how deeply we’re connected to the mission. How we talk to ourselves about goals or missions is the start to this emotional engagement.
 further_reading:
-    - Customer Persona Fundamentals
-    - Freeing Effects of Travel on Creativity
-    - Discontent is Good for Creatives, and Here's Why
+    - The Power of New Metaphors
+    - Storytelling 101, The Story
+    - Storytelling 101, The Telling
 ---
 
 ![](/assets/newsletter/2024-09-04/map.png)
-*Just arrived to Colombia on our sailboat, Fortuna*
+*Getting ready to visit more family in DC*
 
-When sailing, understanding everyone’s emotions isn’t just about having a good time—it’s about safety. Seasickness is a universal issue (yes, it happens to everyone), and if left unchecked, can become dangerous.
+Risk is often framed in terms of assessment, calculation and mitigation, but rarely do we talk about the emotional engagement needed to navigate those risks successfully.
 
-On a boat, emotions are right in front of you. A twelve-meter sailboat offers no escape, making it easy to gauge how people are doing.
+Whether it’s launching a new product, taking on a new role or sailing around the world, our ability to manage risk isn’t just about chasing rewards—it’s about how deeply we’re connected to the mission.
 
-In large projects spread across multiple teams, reading emotional energy becomes much harder. Some emotions can quietly derail even the best strategies, while positive ones often go unrecognised and underutilised. 
-
-This is where an empathy radar becomes essential.
+How we talk to ourselves about goals or missions is the start to this emotional engagement.
 
 ## Let's jump into it
 
-When sailing long, exhausting multi-day passages, we rely heavily on radar. It helps us avoid unseen obstacles—like fishing boats that turn off their tracking systems—especially at night. Sailboats unfortunately always seem to find these fishing vessels and their secret fishing spots.
+My husband and I are pursuing a bold dream: circumnavigating the globe by sailboat. Along the way, we’ve invited friends and family to join us on this risky adventure.
 
-Most importantly, radar helps us when our vision is limited and we still need to "see" approaching weather or other boats.
+Some aren’t seasoned sailors, but they’ve found their own reasons to come aboard, like our finance friend who said, “Did you know I’ve always wanted to sail across the Pacific?”
+
+Well, no I didn’t—but it underscores a key point. The way we talk to ourselves about challenging, risky goals is different from how we write these in business.
 
 ![](/assets/newsletter/2024-09-04/boat.jpg)
-*Using our radar (upper left) while sailing to Colombia*
+*Crossing the Pacific is 30 days of this same view*
 
-While we're tuned into external dangers, how often are we scanning the internal ones? Emotional energy is just as critical as the weather when determining success.
+Too often corporate mission statements or innovation project goals are written in overly formal language, leaving employees feeling disconnected from the bigger picture.
 
-Ignoring emotions is risky. Gauging your team’s emotional state can guide whether you need to adjust deadlines or pivot strategies. Think of it as the emotional weather forecast for your team, predicting future success.
+We don’t think in mission statement language, and we sure don’t talk that way either.
 
-Fun fact: Early radar technology faced skepticism, but it became a game-changer during WWII. Today, understanding emotions as performance indicators may seem unfamiliar, but could soon be just as crucial.
+In business, making a lasting impact involves more than just rationally framing risks. It’s about engaging with the process and the mission—and ensuring that engagement extends to everyone involved.
 
 ## A helpful resource
 
-Imagine having a radar to track emotional energy just like project metrics. Understanding the emotional undercurrents in your team can help you course-correct or leverage positive developments.
-
-The Empathy Radar is a visual tool that illustrates the progression of team emotions—from initial signals to potential outcomes. Every initial emotion—whether Enthusiasm and Curiosity or Doubt and Uncertainty—can end up in different places. 
-
-Addressing emotions early can either prevent issues or keep the positivity on-track.
+This is where the concept of a "Mission Statement Spark" comes in. I’ve created these "sparks” to quickly transform statements into something more relatable and emotionally engaging for your team, especially when talking about them.
 
 ![](/assets/newsletter/2024-09-04/framework.png)
-*The Empathy Radar*
+*Mission Statement Sparks*
 
-While working for a beauty CPG (consumer packaged goods) company, our team wasn’t meeting the client’s expectations. Frustration was building, but no one acknowledged it. Once we finally addressed the tension, the solution became clear. 
+Sparks are just the beginning. If a company's mission is "to empower healthcare providers through innovation," adding a spark could look like, "What if we could empower healthcare providers through innovation?" 
 
-Emotional energy was the missing piece. Too often, teams suppress emotions until frustration boils over. Catching it early allows you to treat emotions as key performance indicators.
+But even more advanced would be, "What if we could create the next big thing to simplify healthcare?"
 
-How leaders can tune into emotional energy:
+Here are some practical tips for you leaders:
 
-1. **Check the emotional climate:** Regularly gauge your team’s emotional energy. It doesn’t require long meetings—sometimes, a quick question can reveal a lot. For example, "What’s one word that describes how you feel about our team's progress?"
-2. **Watch for nonverbal cues:** Burnout or frustration is often communicated nonverbally. Stay alert to subtle signs, such as changes in participation levels.
-3. **Encourage openness:** Make it safe for your team to express their feelings, especially when stress is high.
-4. **Create empathy checkpoints:** Build regular emotional check-ins into your timelines. These can be scheduled at certain milestones.
-5. **Leverage empathy as a leadership tool:** Soft skills like empathy aren’t optional—they’re crucial for keeping your projects on track.
+1. **Reflect on Your Thinking:** Think back on how you thought about a big idea. Was it about something ‘cool’ or ‘never seen before’? Odds are, your employees are thinking this too.
+2. **Use Relatable Language:** Reframe your mission statements in everyday language that resonates with your team. Ask yourself, "How would I explain this to a friend over coffee?"
+3. **Make Statements Feel Dynamic:** We all need the formal mission statements or project goals for stakeholders. But realise they feel stiff in their more formal, credibility-seeking language.
+4. **Incorporate Personal Goals:** Find out what personally excites your team members about the mission. How can achieving this goal also help them achieve something they care about?
+5. **Encourage "What If" Thinking:** Invite your team to envision the possibilities that achieving the mission could bring. Use phrases like "Imagine if…" or "What if we could…?"
 
-Your empathy radar is one of the most powerful tools you can use as a leader. Next time you're navigating a challenging project, make sure it’s switched on—because often, what you can’t see is what can derail a project.
+Next time you're communicating a mission statement to your employees or innovation goal to your team, think about what language sparks curiosity and consideration. Because it’s not just about managing risks—it’s about finding the right spark to ignite action and keep the journey exciting.
 
-## Turn on your empathy radar and steer your team to success
+## If you want to talk to people about big goals or corporate missions, speak in their language
 
 ## And there's more
 
-✏️ Join: I'll be virtually presenting "A Sailor's Guide to Creative Risks" with People of Research.
+✏️ Join: One of my mentors is speaking at [Stratfest](https://stratfest.aaaa.org/)){:target="_blank"} in NYC on 1 October and it looks like a great agenda. 
 
-📚 Read: [The Blue Machine: How the Ocean Works](https://www.goodreads.com/book/show/123979539-the-blue-machine){:target="_blank"} by Helen Czerski is a great book that delivers what it says.
+📚 Read: [Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets)){:target="_blank"} by Annie Duke brings poker knowhow to everyday risk assessment.
 
-🎧 Listen: [Eliminate your competition, build a category of one](https://podcasts.apple.com/us/podcast/109-eliminate-your-competition-build-a-category-of-one/id1600044040?i=1000669539658){:target="_blank"} is a good perspective for personal brands and big ones too. 
+🎧 Listen: [How to Tell Sexy Stories About Unsexy Brands](https://podcasts.apple.com/ug/podcast/how-to-tell-sexy-stories-about-unsexy-brands/id1265289056?i=1000630661979)){:target="_blank"} by Problem Solvers is a refreshing look at brand narratives.
 
-📍Visit: [Bonaire](https://www.padi.com/diving-in/bonaire/){:target="_blank"} , the "B" of the Dutch ABC islands, is fantastic for diving and has really chill vibes. 
+📍Visit: If I ever became a sculptor,[The Noguchi Museum](https://www.noguchi.org/museum/visit/plan/)){:target="_blank"}, on Long Island, NY USA would be a key inspiration. 
