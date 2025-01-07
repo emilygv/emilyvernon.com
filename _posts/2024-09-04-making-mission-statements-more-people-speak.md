@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2024-09-04/map.png"
-description: Whether it’s launching a new product or sailing around the world, our ability to manage risk isn’t just about chasing rewards—it’s about how deeply we’re connected to the mission. How we talk to ourselves about goals or missions is the start.
+description: Whether it’s launching a new product or sailing the world, our ability to manage risk isn’t just about chasing rewards—it’s how deeply we’re connected to the mission. How we talk to ourselves about goals or missions is the start.
 further_reading:
     - The Power of New Metaphors
     - Storytelling 101, The Story
