@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2024-07-03/map.png"
-description: Conditions can work with us or against us. To successfully work within existing parameters, it’s critical that we acknowledge the current conditions and ensure our teams are set up to handle the ride.
+description: Conditions can work with us or against us. To successfully work within existing parameters, it’s crucial to acknowledge the current conditions and ensure teams are set up to handle the ride.
 further_reading:
     - The Power of Concept Novelty
     - Trend Versus Opportunity
