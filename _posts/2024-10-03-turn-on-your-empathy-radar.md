@@ -50,11 +50,11 @@ Emotional energy was the missing piece. Too often, teams suppress emotions until
 
 How leaders can tune into emotional energy:
 
-1. Check the emotional climate: Regularly gauge your team’s emotional energy. It doesn’t require long meetings—sometimes, a quick question can reveal a lot. For example, "What’s one word that describes how you feel about our team's progress?"
-2. Watch for nonverbal cues: Burnout or frustration is often communicated nonverbally. Stay alert to subtle signs, such as changes in participation levels.
-3. Encourage openness: Make it safe for your team to express their feelings, especially when stress is high.
-4. Create empathy checkpoints: Build regular emotional check-ins into your timelines. These can be scheduled at certain milestones.
-5. Leverage empathy as a leadership tool: Soft skills like empathy aren’t optional—they’re crucial for keeping your projects on track.
+1. **Check the emotional climate:** Regularly gauge your team’s emotional energy. It doesn’t require long meetings—sometimes, a quick question can reveal a lot. For example, "What’s one word that describes how you feel about our team's progress?"
+2. **Watch for nonverbal cues:** Burnout or frustration is often communicated nonverbally. Stay alert to subtle signs, such as changes in participation levels.
+3. **Encourage openness:** Make it safe for your team to express their feelings, especially when stress is high.
+4. **Create empathy checkpoints:** Build regular emotional check-ins into your timelines. These can be scheduled at certain milestones.
+5. **Leverage empathy as a leadership tool:** Soft skills like empathy aren’t optional—they’re crucial for keeping your projects on track.
 
 Your empathy radar is one of the most powerful tools you can use as a leader. Next time you're navigating a challenging project, make sure it’s switched on—because often, what you can’t see is what can derail a project.
 
