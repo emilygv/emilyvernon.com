@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2024-08-06/map.png"
-description: Whether it’s launching a new product, taking on a new role or sailing around the world, our ability to manage risk isn’t just about chasing rewards—it’s about how deeply we’re connected to the mission. How we talk to ourselves about goals or missions is the start to this emotional engagement.
+description: Within B2B brand management, I started noticing that many "best practices" were outdated in our current market, especially from a creative perspective. I think the same is true about sailing, where best practices are still up for interpretation, even though sailing has existed for 6,000 years.
 further_reading:
     - The Power of New Metaphors
     - Storytelling 101, The Story
