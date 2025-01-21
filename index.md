@@ -12,7 +12,7 @@ title= "Join the Brandvoy email newsletter"
 subtitle= "A fresh perspective on brand building by infusing lessons from sailing the world."
 class= "bg-lgrey"
 image= "/assets/images/Brandvoy_newsletter.png"
-button_title= "Sign up" button_link= "https://subscribepage.io/wdA18u"
+button_title= "Sign up" button_link= "https://subscribepage.io/JVO2fx"
 button_link_new_window= true
 %}
 
