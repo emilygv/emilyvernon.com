@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "I am a global brand strategist and creative director focused on new market expansion."
-description= "Through brand ecosystems, communication platforms and customer experiences across the entire journey I help my mid to large size corporate clients scale."
+description= "Though brand ecosystems, strategic communication platforms and customer experiences I help my mid to large size corporate clients reach the right audiences."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
@@ -32,7 +32,7 @@ button_title= "Get to know me" button_link= "/about/"
 {% include hero_intro.html
 title= "Navigating a better way"
 subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
-description= "We'll collaborate on a tailored framework to pilot new communication platforms, better manage your brand expression and optimise experiences to be market-fit."
+description= "We'll collaborate on a tailored framework to create new communication platforms, better manage your brand expression and optimise experiences to be market-fit."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
