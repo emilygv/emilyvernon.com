@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "I am a global brand strategist and creative director focused on new market expansion."
-description= "Though brand ecosystems, strategic communication platforms and customer experiences I help my mid to large size corporate clients reach the right audiences."
+description= "Though brand ecosystems, strategic communication platforms and customer experiences I help clients reach the right audiences."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
