@@ -41,7 +41,7 @@ reference="Rich - EMEA Product Director, Converse"
 {% include hero_intro.html
 title= "Brand positioning powerup"
 subtitle= "You’re tasked to differentiate, but your brand feels like it needs a refresh."
-description= "We’ll begin by assessing your brand’s current position, identifying key business challenges, and finding the best way to reshape customer perceptions."
+description= "We’ll begin by assessing your brand’s current position, identifying key business challenges and finding the best way to reshape customer perceptions."
 image= "/assets/images/services_package_01.png"
 image_on_left= true
 %}
