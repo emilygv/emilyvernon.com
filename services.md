@@ -47,7 +47,7 @@ image_on_left= true
 %}
 
 {% include hero_intro.html
-title= "Brand scale-up"
+title= "Sharpen your brand"
 subtitle= "Your brand feels like a beast, and it’s difficult to maintain consistency."
 description= "We will identify the root causes of your brand's problem, build the most impactful tools and ensure your teams can manage the brand overtime."
 image= "/assets/images/services_package_02.png"
