@@ -37,7 +37,7 @@ content=block_text %}
 {% include hero_intro.html
 title= "Up for adventure"
 subtitle= "My biggest accomplishments came from jumping into the unknown."
-description= "I am most proud of living in multiple countries, being an editor-in-chief of a global publication and doing stand- up comedy while in Amsterdam."
+description= "I am most proud of living in multiple countries, being an editor-in-chief of a global publication and doing stand-up comedy while in Amsterdam."
 image= "/assets/images/about_second.png"
 image_on_left= true
 %}
