@@ -13,8 +13,8 @@ breakout=true %} -->
 
 {% include hero_intro.html
 title= "Lasting creative growth"
-subtitle= "Embedding change by considering your three p - people, process and product."
-description= "Growth through brand, product and experience requires a short-term boost and long-term mindset. My tailored packages address it all."
+subtitle= "Teams need momentum to stay motivated and confident in their direction."
+description= "Business impact through brand, product and experience requires a short-term boost and long-term mindset. My tailored approach aligns with these organisational realities."
 image= "/assets/images/services_hero.png"
 class="bg-lgrey"
 %}
