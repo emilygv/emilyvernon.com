@@ -3,7 +3,7 @@ layout: page
 permalink: /services/
 title: The depth of services Emily Vernon provides around guest & customer experience
 description: Experience design, brand strategy, tone of voice and stakeholder management are used to complete projects of varying needs.
-hero_text: <mark>Increasing market</mark> <mark class="normal"> <br>share, awareness &</mark><br><mark>customer satisfaction</mark>
+hero_text: <mark>Increasing market</mark> <mark class="normal"> <br>share, awareness &</mark><br><mark>customer engagement</mark>
 ---
 
 <!-- {% include section_icons.html 
