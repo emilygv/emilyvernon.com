@@ -40,7 +40,7 @@ reference="Rich - EMEA Product Director, Converse"
 
 {% include hero_intro.html
 title= "Brand positioning powerup"
-subtitle= "You’re tasked to stand out and reach new customers, but your brand feels like it needs a refresh."
+subtitle= "You’re tasked to differentiate, but your brand feels like it needs a refresh."
 description= "We will ideate, pilot and sustain growth initiatives by building stakeholder trust, empowering your teams and focusing on the right things, fast."
 image= "/assets/images/services_package_01.png"
 image_on_left= true
@@ -48,14 +48,14 @@ image_on_left= true
 
 {% include hero_intro.html
 title= "Brand storytelling synchronisation"
-subtitle= "You’re told to ‘tell our story’ consistently, but campaigns and touchpoints feel a bit disjointed."
+subtitle= "You’re told to ‘tell our story’ consistently, but campaigns and touchpoints feel disjointed."
 description= "We will identify the root causes of your brand's problem, build the most impactful tools and ensure your teams can manage the brand overtime."
 image= "/assets/images/services_package_02.png"
 %}
 
 {% include hero_intro.html
 title= "Product-market fit focus"
-subtitle= "You’re tasked to launch relevant products or services, but feel uncertain and teams are stretched."
+subtitle= "You’re asked to launch relevant products or services, but teams feel uncertain and stretched."
 description= "We will scale your business and its credibility by creating a great user experience, relevant to your users, stakeholders and business goals."
 image= "/assets/images/services_package_03.png"
 image_on_left= true
