@@ -2,7 +2,7 @@
 layout: page
 title: Guest & consumer experience (CX) consultant in Amsterdam
 description: Enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
-hero_text: <mark>New market expansion</mark> <br><mark class="normal">through compelling brand</mark> <br><mark>narratives & experiences</mark>
+hero_text: <mark>Helping brands align</mark> <br><mark class="normal">vision with innovation</mark> <br><mark>for business growth</mark>
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
 ---
@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "I am a global brand strategist and creative director focused on new market expansion."
-description= "Though brand ecosystems, strategic communication platforms and customer experiences I help clients reach the right audiences."
+description= "With 15+ years shaping brands in B2B, FMCG and service-led industries, I align brand goals, product innovation and creative execution to boost engagement, credibility and trust globally."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
@@ -30,9 +30,9 @@ button_title= "Get to know me" button_link= "/about/"
 {% include clients.html items=site.data.clients %}
 
 {% include hero_intro.html
-title= "Navigating a better way"
-subtitle= "Growth and scale are an increasing need - but where to start and who has the time?"
-description= "We'll collaborate on a tailored framework to create new communication platforms, better manage your brand expression and optimise experiences to be market-fit."
+title= "Your path to growth, simplified"
+subtitle= "Going into new markets or looking to outpace new competitors?"
+description= "Time’s tight and growth feels complex. I partner with you to build clear strategies that align brand and product, clarify you innovation approach and strength creative work—to scale with confidence and impact."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
