@@ -31,8 +31,8 @@ button_title= "Get to know me" button_link= "/about/"
 
 {% include hero_intro.html
 title= "Your path to growth, simplified"
-subtitle= "Going into new markets or looking to outpace new competitors?"
-description= "Time’s tight and growth feels complex. I partner with you to build clear strategies that align brand and product, clarify you innovation approach and strength creative work—to scale with confidence and impact."
+subtitle= "Scaling into new markets or needing to outshine competitors?"
+description= "Time’s tight and growth feels complex. I partner with you to build clear strategies that align brand and product, clarify you innovation approach and strength creative work."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
