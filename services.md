@@ -56,7 +56,7 @@ image= "/assets/images/services_package_02.png"
 {% include hero_intro.html
 title= "Product-market fit focus"
 subtitle= "You’re asked to launch relevant products or services, but teams feel uncertain and stretched."
-description= "We’ll start by clarifying your business goals, customer needs and current product or experience, then conduct a gap analysis to define the best path forward."
+description= "We’ll first clarify your business goals, customer needs and current product or experience, then conduct a gap analysis to define the best path forward."
 image= "/assets/images/services_package_03.png"
 image_on_left= true
 %}
