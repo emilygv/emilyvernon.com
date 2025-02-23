@@ -12,7 +12,7 @@ icons="Discover, Define, Design, Validate"
 breakout=true %} -->
 
 {% include hero_intro.html
-title= "Lasting creative growth"
+title= "Lasting business growth"
 subtitle= "Teams need momentum to stay motivated and confident in their direction."
 description= "Business impact through brand, product and experience requires a short-term boost and long-term mindset. My tailored approach aligns with these organisational realities."
 image= "/assets/images/services_hero.png"
