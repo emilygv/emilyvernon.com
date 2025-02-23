@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "I am a global brand strategist and creative director focused on new market expansion."
-description= "With 15+ years shaping brands for B2B, FMCG and service-led industries, I turn vision into standout campaigns, platforms and product innovations that grow sales, loyalty and trust worldwide"
+description= "With 15+ years shaping brands for B2B, FMCG and service-led industries, I turn vision into standout campaigns, platforms and product innovations that grow engagement, credibility and trust."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
