@@ -30,7 +30,7 @@ button_title= "Get to know me" button_link= "/about/"
 {% include clients.html items=site.data.clients %}
 
 {% include hero_intro.html
-title= "Your path to growth, simplified"
+title= "The path to growth, simplified"
 subtitle= "Scaling into new markets or needing to outshine competitors?"
 description= "Time’s tight and growth feels complex. I partner with you to build clear strategies that align brand and product, clarify you innovation approach and strength creative work."
 image= "/assets/images/homepage_hero.png"
