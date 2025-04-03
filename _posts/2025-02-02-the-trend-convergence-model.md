@@ -1,11 +1,11 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-01-03/map.png"
-description: Brands, like boats, encounter a similar need for periodic cleaning and strategic renewal. Sustaining brand health involves both active curation and proactive upkeep.
+description: Brand and product positioning isn’t about claiming a fixed spot in relation to other competitors. It’s about navigating to the right convergence of trends, needs and opportunities.
 further_reading:
-    - Better Creative Briefs Through Empathy
+    - Establishing a Collective Trend Process
     - Trend Versus Opportunity
-    - Cultivating an Innovative Brand Image
+    - The Power of Concept Novelty
 ---
 
 ![](/assets/newsletter/2025-01-03/map.png)
@@ -57,10 +57,10 @@ Currents can either propel us forward or pull us way off course. To progress, we
 
 ## And there's more
 
-✏️ Join: My next webinar [How to Jumpstart Any Brand in 2025](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3ODgyNzI4NzcsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiIxNWFhMzc5ZjgxMjVjYzNjIn0){:target="_blank"} looks at how to reconsider your brand team's approach for 2025.
+✏️ Join: I'm pretty excited for my next webinar [Brand vs Product: How of Fix the Costly Disconnect](https://youtu.be/0kBQUaXTDAM){:target="_blank"} as it's a topic that should be talked about more.
 
-📚 Read: [Get the Picture](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3OTQ1NjQzNDMsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiJiNzEyZTE5MjA5MjI3MzEwIn0){:target="_blank"} by Bianca Bosker is a somewhat comical journey into the art world by a journalist.
+📚 Read: [Meditations for Mortals](https://www.goodreads.com/book/show/205363955-meditations-for-mortals){:target="_blank"} is a February sort of read with a passage per day for four weeks to inspire.
 
-🎧 Listen: [How Technology Became the World's Top Religion](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ3OTk4MDcyMzAsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiIxZDVhZGFmZjI1NWRjNWYwIn0){:target="_blank"} considers tech's impact on society, morals, innovation and risk.
+🎧 Listen: [Should you Retire Early and Live Outside your Home Country](https://moneyfortherestofus.com/506-early-retirement-with-joshua-sheets/){:target="_blank"} has some good points I've observed as well.
 
-📍Visit: [The Huntington Library and Gardens](https://vyrmpb.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjg0ODg1MCxcImxcIjoxNDI1MjYxMDQ4MDgxOTU4NTIsXCJyXCI6MTQyNTI2MTE1NTYxMzQyMzEyfSIsInMiOiJjNTZjYzMzNWJkYmY5NTkxIn0){:target="_blank"} should be on more 'Best Botanical Gardens' lists.
+📍Visit: [El Valle de Anton](https://travelrebels.com/panama/el-valle-de-anton/){:target="_blank"} located in an inactive volcanic crater is a charming town and has good hikes around.
