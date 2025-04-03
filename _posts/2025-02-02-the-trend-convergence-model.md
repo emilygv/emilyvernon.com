@@ -8,7 +8,7 @@ further_reading:
     - The Power of Concept Novelty
 ---
 
-![](/assets/newsletter/2025-01-03/map.png)
+![](/assets/newsletter/2025-02-02/map.png)
 *Landed in the Galapagos and can't believe we made it*
 
 While sailing to the Galapagos, I wondered—what makes the marine life in this area so extraordinary? At first glance, it might seem like just another island group off a continent, but there's so much more beneath the surface.
@@ -23,7 +23,7 @@ Brand and product positioning isn’t about claiming a fixed spot in relation to
 
 Think of how Spotify positioned itself at the intersection of discoverability, personalisation and accessibility, or how Lego thrives where inventiveness, growth and creativity collided. 
 
-![](/assets/newsletter/2025-01-03/boat.jpg)
+![](/assets/newsletter/2025-02-02/boat.jpg)
 *When red-footed boobies hitchhike to the Galapagos*
 
 Every business navigates its own, unique currents. Yet, many brands find themselves stuck in stagnant waters, clinging to outdated strategies or drifting aimlessly, reacting to new trends without a clear direction.
@@ -36,7 +36,7 @@ We often think of brand positioning as a balance between two key qualities, comp
 
 Instead, we should focus on the vibrant ecosystem our positioning creates, not just for our brand but also for our entire product portfolio. That’s why I developed the Currents Convergence Model.
 
-![](/assets/newsletter/2025-01-03/framework.png)
+![](/assets/newsletter/2025-02-02/framework.png)
 *Currents Convergence Model*
 
 The three major currents should reflect the brand's unique perspective on Innovation, Connection and Commitment. For example, Patagonia exemplifies these currents with High-performance (Innovation), Exploration (Connection) and Stewardship (Commitment).
