@@ -61,10 +61,10 @@ This clarity around how you innovate doesn’t just align teams. It also shapes 
 
 ## And there's more
 
-✏️ Join: I'm pretty excited for my next webinar [Brand vs Product: How of Fix the Costly Disconnect](https://youtu.be/0kBQUaXTDAM){:target="_blank"} as it's a topic that should be talked about more.
+✏️ Join: My good friend Tino is hosting the [Possibility Ocean (Virtual) Summit](https://www.possibilityocean.com/){:target="_blank"} on 18 March. If you love data x oceans, this is for you.
 
-📚 Read: [Meditations for Mortals](https://www.goodreads.com/book/show/205363955-meditations-for-mortals){:target="_blank"} is a February sort of read with a passage per day for four weeks to inspire.
+📚 Read: We think innovation has to be disruptive, but the book [Beyond Disruption](https://www.goodreads.com/book/show/105733835-beyond-disruption){:target="_blank"} by Mauborgne and Kim proves otherwise.
 
-🎧 Listen: [Should you Retire Early and Live Outside your Home Country](https://moneyfortherestofus.com/506-early-retirement-with-joshua-sheets/){:target="_blank"} has some good points I've observed as well.
+🎧 Listen: [How Leaders Can Encourage Learning](https://hbr.org/podcast/2025/02/how-leaders-can-encourage-learning){:target="_blank"} by HBR looks at different types of learning leaders.
 
-📍Visit: [El Valle de Anton](https://travelrebels.com/panama/el-valle-de-anton/){:target="_blank"} located in an inactive volcanic crater is a charming town and has good hikes around.
+📍Visit: If you want to dive with hammerheads, sea lions, rays and more, [Kicker Rock of San Cristobal, Galapagos](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/){:target="_blank"} is fantastic.
