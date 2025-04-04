@@ -2,6 +2,7 @@
 category: Newsletter
 # image: "/assets/newsletter/2025-01-03/map.png"
 description: Your company has an Innovation Ethos, whether you’ve defined it or not. It lives in the day-to-day habits, those unwritten rules and the way your team makes decisions under pressure.
+further_reading:
     - Maybe You Need an Inspiration Purge
     - The Future is Not Your Heritage, Sorry
     - Cultivating an Innovative Brand Image
@@ -12,7 +13,7 @@ description: Your company has an Innovation Ethos, whether you’ve defined it o
 
 We often talk with other sailboats about how they get from one place to another. It’s a regular conversation because, let’s be honest, the reality is far messier than the glossy sailing photos with perfect wind.
 
-In business, we often ignore how we do things in favour of what we do. These overlooked mechanics of how we operate shapes everything from brand messaging to product innovation. 
+In business, we often ignore _how_ we do things in favour of _what_ we do. These overlooked mechanics of how we operate shapes everything from brand messaging to product innovation. 
 
 In sailing, we rely on small but powerful rules to guide decision-making in changing conditions. Businesses should take a similar approach, and that’s what we’ll look at today.
 
@@ -24,7 +25,7 @@ Often onboarding becomes a game of deciphering what’s truly important within a
 
 In sailing, how we sail impacts where we go, how fast we get there and how much we can explore. The same applies to business. Your approach sets your pace of innovation, creativity and execution.
 
-![](/assets/newsletter/2025-02-02/boat.jpg)
+![](/assets/newsletter/2025-03-05/boat.jpg)
 *Going through the Panama Canal was a step into innovation history*
 
 For instance, building the Panama Canal's lock system required creative solutions to overcome engineering and geographic challenges. Their approach drove its eventual success.
@@ -37,9 +38,9 @@ Not every company moves at the same pace. Comparing innovation approaches withou
 
 In 2024, BCG’s _Innovation Systems Need a Reboot_ found that while 83% of companies prioritise innovation, only 3% are equipped to turn that ambition into results. 
 
-That huge gap separates disruptors from dreamers. The first step is defining what innovation actually looks like for your company. This is what you can do with an Innovation Ethos. 
+That huge gap separates disruptors from dreamers. The first step is defining what innovation _actually_ looks like for your company. This is what you can do with an Innovation Ethos. 
 
-![](/assets/newsletter/2025-02-02/framework.png)
+![](/assets/newsletter/2025-03-05/framework.png)
 *Innovation Ethos Template*
 
 Here are five questions to get you started:
@@ -52,7 +53,7 @@ Here are five questions to get you started:
 
 Your company has an Innovation Ethos, whether you’ve defined it or not. It lives in the day-to-day habits, those unwritten rules and the way your team makes decisions under pressure. 
 
-Customers and potential hires pick up on how you operate, whether you say it or not. Innovation isn’t just a process thing. It’s the foundation of your growth and identity.
+Customers and potential hires pick up on _how_ you operate, whether you say it or not. Innovation isn’t just a process thing. It’s the foundation of your growth and identity.
 
 This clarity around how you innovate doesn’t just align teams. It also shapes your brand. In our next newsletter, we'll look at what to do next once you have an Innovation Ethos. 
 
