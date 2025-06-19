@@ -62,7 +62,7 @@ That’s the goal in business too. Strong internal rhythms create space to expre
 
 ✏️ Join: The first webinar in my Creative Ops Series, [Manage Creative Freelancers & Agencies like a Pro" is 1 May.](https://www.linkedin.com/events/7314352576806752256/comments/){:target="_blank"} Join us!
 
-📚 Read: [A Brief History of the World in 47 Borders]((https://www.goodreads.com/book/show/205894433-a-brief-history-of-the-world-in-47-borders){:target="_blank"} by Jonn Elledge is a fascinating look at how all those lines were drawn and redrawn. 
+📚 Read: [A Brief History of the World in 47 Borders](https://www.goodreads.com/book/show/205894433-a-brief-history-of-the-world-in-47-borders){:target="_blank"} by Jonn Elledge is a fascinating look at how all those lines were drawn and redrawn. 
 
 🎧 Listen: If you want to brush up on your French, [Little Talk in Slow French](https://podcasts.apple.com/gb/podcast/little-talk-in-slow-french/id1541856876){:target="_blank"} podcast by Nagisa Morimoto is a good resource.
 
