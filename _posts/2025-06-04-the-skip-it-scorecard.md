@@ -55,7 +55,7 @@ Take our decision to bypass Tahiti. It sparked weeks of discussion, driven by th
 
 ✏️ Join: The second webinar in our Creative Ops series ["Creative, Global Marketing on a Budget"](https://www.youtube.com/watch?v=P90SBS5WxfU){:target="_blank"} is available to watch!
 
-📚 Read: StoryBrand author Donald Miller has another book, [How to Grow Your Small Business]([https://www.goodreads.com/book/show/63048990-how-to-grow-your-small-business){:target="_blank"}, with lessons for all business types.
+📚 Read: StoryBrand author Donald Miller has another book, [How to Grow Your Small Business](https://www.goodreads.com/book/show/63048990-how-to-grow-your-small-business){:target="_blank"}, with lessons for all business types.
 
 🎧 Listen: [Exploration: Why We Seek Out Big Challenges](https://podcasts.apple.com/nz/podcast/exploration-why-we-seek-out-big-challenges/id1482067226?i=1000706788914){:target="_blank"} digs into the psychology of our curiosity and restlessness.
 
