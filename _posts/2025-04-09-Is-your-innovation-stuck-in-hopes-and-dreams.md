@@ -25,7 +25,7 @@ Their rally has set meeting points, timelines, expectations and contingencies. A
 
 It has to be operationalised and communicated to take effect. Without that, it’s just a nice idea gathering dust. 
 
-![](/assets/newsletter/2025-03-05/boat.jpg)
+![](/assets/newsletter/2025-04-09/boat.jpg)
 *Our boat is somewhere amongst the World ARC boats*
 
 This is where companies often stumble. They may have a shiny new ethos, but as Monday morning rolls around, it’s back to silos and safe bets.
