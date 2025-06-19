@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-04-09/map.png"
-description: Every decision, from where they anchor to how they handle repairs, is shaped by it. In business, just like in sailing, that kind of structure isn’t just logistics. It’s the heartbeat of progress.
+description: An innovation ethos isn’t enough. It has to continuously show up in what you do and how you communicate it. That's what we'll explore today.
 further_reading:
     - Conditions Make Or Break Innovation Projects
     - Cultivating an Innovative Brand Image
