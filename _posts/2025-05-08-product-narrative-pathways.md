@@ -26,7 +26,7 @@ Atolls are a ring-like island with a lagoon inside. Many times, these lagoons ha
 We heard of a few unfortunate boating incidents involving bommies. 
 
 ![](/assets/newsletter/2025-05-08/boat.jpg)
-*Our boat is somewhere amongst the World ARC boats*
+*How one navigates through the bommies (those little dots)*
 
 You don’t want your audience navigating your product messaging like the zig zag line above, weaving around obstacles to figure things out. This will only make them tired, distracted and confused.
 
@@ -65,7 +65,7 @@ I started using this for an investment start-up recently and it helped to clarif
 
 📚 Read: I've been recommending [Playground by Richard Powers](https://www.goodreads.com/book/show/205478762-playground){:target="_blank"} to anyone who will listen. 
 
-🎧 Listen: [Great Strategy Starts with Experimentation](https://hbr.org/podcast/2025/04/great-strategy-starts-with-experimentation#:~:text=If%20you're%20not%20testing,re%20guessing%E2%80%94and%20that's%20risky.&text=Stefan%20Thomke%2C%20professor%20at%20Harvard,make%20decisions%20based%20on%20intuition){:target="_blank"} by HBR makes a good point about how strategy needs to be tested.
+🎧 Listen: [Great Strategy Starts with Experimentation](https://hbr.org/podcast/2025/04/great-strategy-starts-with-experimentation){:target="_blank"} by HBR makes a good point about how strategy needs to be tested.
 
 📍Visit: [The Tuamotus has some of the best diving in the world](https://www.scubadiving.com/diving-french-polynesias-tuamotu-islands){:target="_blank"} and is a unique, beautiful location.
 
