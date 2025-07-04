@@ -20,12 +20,12 @@ breakout=true %}
 ![](/assets/images/casestudies/reckitt/work_01.jpg)
 {% include img_caption.html 
 title="Brand system" 
-content="Amplified certain aspects of Reckitt, while building new assets for Reckitt Pro Solutions." %}
+content="Amplified the warm, approachable aspects of Reckitt, while tailoring the brand to a B2B space." %}
 
 ![](/assets/images/casestudies/reckitt/work_02.jpg)
 {% include img_caption.html 
 title="Across the journey" 
-content="Demonstrates how the brand system works for touchpoints from digital platforms to brochures." %}
+content="The brand system used the R-swirl shape and element to frame the heros in a B2B cleaning narrative." %}
 
 
 ## Outcome
