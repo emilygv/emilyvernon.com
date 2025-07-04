@@ -25,7 +25,7 @@ content="Amplified the warm, approachable aspects of Reckitt, while tailoring th
 ![](/assets/images/casestudies/reckitt/work_02.jpg)
 {% include img_caption.html 
 title="Across the journey" 
-content="The brand system used the R-swirl shape and element to frame the heros in a B2B cleaning narrative." %}
+content="Used the R-swirl shape and element to frame the heroes in our B2B cleaning narrative." %}
 
 
 ## Outcome
