@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brand & marketing director consulting global businesses
-description: Enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
+description: Enabling brands and businesses to increase awareness and engagement through brand positioning, marketing messaging and marketing optimisation.
 hero_text: <mark>Helping global brands</mark> <br><mark class="normal">cut through the noise</mark> <br><mark>to scale & standout</mark>
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
