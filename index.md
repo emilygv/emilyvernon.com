@@ -45,7 +45,7 @@ reference="Asell - Strategy + Experience Director UXUS/McCann"
 %}
 
 {% include post_cards.html
-title= "Explore packages below to see how I can help your brand, marketing and impact:"
+title= "Explore packages to see how I can elevate your brand, marketing and business:"
 posts=site.data.service_package_intros 
 link="/services/" link_title="Learn more"
 %}
