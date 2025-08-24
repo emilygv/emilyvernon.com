@@ -39,7 +39,7 @@ reference="Rich - EMEA Product Director, Converse"
 ---
 
 {% include hero_intro.html
-title= "Brand positioning powerup"
+title= "Strategic brand positioning"
 subtitle= "You’re tasked to differentiate, but your brand feels like it needs a refresh."
 description= "We’ll begin by assessing your brand’s current position, identifying key business challenges and finding the best way to reshape customer perceptions."
 image= "/assets/images/services_package_01.png"
@@ -47,14 +47,14 @@ image_on_left= true
 %}
 
 {% include hero_intro.html
-title= "Brand storytelling synchronisation"
+title= "Optimised marketing messaging"
 subtitle= "You’re told to ‘tell our story’ consistently, but campaigns and touchpoints feel disjointed."
 description= "We’ll start by exploring your brand’s stories, positioning and unique creative perspective before developing a big idea that resonates across multiple touchpoints."
 image= "/assets/images/services_package_02.png"
 %}
 
 {% include hero_intro.html
-title= "Product-market fit focus"
+title= "Impactful product-market fit"
 subtitle= "You’re asked to launch relevant products or services, but teams feel uncertain and stretched."
 description= "We’ll first clarify your business goals, customer needs and current product or experience, then conduct a gap analysis to define the best path forward."
 image= "/assets/images/services_package_03.png"
