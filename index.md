@@ -2,7 +2,7 @@
 layout: page
 title: Brand & marketing director consulting global businesses
 description: Enabling brands and businesses to increase awareness and engagement through brand positioning, marketing messaging and marketing optimisation.
-hero_text: <mark>Helping global brands</mark> <br><mark class="normal">cut through the noise</mark> <br><mark>to scale & standout</mark>
+hero_text: <mark>Stronger positioning &</mark> <br><mark class="normal">sharper messaging for</mark> <br><mark>bigger marketing impact</mark>
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
 ---
