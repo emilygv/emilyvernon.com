@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guest & consumer experience (CX) consultant in Amsterdam
+title: Brand & marketing director consulting global businesses
 description: Enabling brands and businesses to connect with the creative class, millennials and Gen Z through captivating guest and customer experiences, IRL.
 hero_text: <mark>Helping global brands</mark> <br><mark class="normal">cut through the noise</mark> <br><mark>to scale & standout</mark>
 # hero_image: /assets/img/home.png
@@ -9,7 +9,7 @@ hero_text: <mark>Helping global brands</mark> <br><mark class="normal">cut throu
 
 {% include hero_intro.html
 title= "Join the Brandvoy email newsletter"
-subtitle= "A fresh perspective on brand building by infusing lessons from sailing the world."
+subtitle= "Exclusive brand and marketing frameworks, inspired by sailing the world."
 class= "bg-lgrey"
 image= "/assets/images/Brandvoy_newsletter.png"
 button_title= "Sign up" button_link= "https://subscribepage.io/JVO2fx"
@@ -18,8 +18,8 @@ button_link_new_window= true
 
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
-subtitle= "I am a global brand strategist and creative director focused on new market expansion."
-description= "With 15+ years shaping brands for B2B, FMCG and service-led industries, I turn vision into standout campaigns, platforms and product innovations that grow engagement, credibility and trust."
+subtitle= "I’m a brand and marketing director with a strong creative foundation."
+description= "With 15+ years experience working with global companies, I help companies build powerful brands efficiently without the complexity and overhead."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
@@ -30,9 +30,9 @@ button_title= "Get to know me" button_link= "/about/"
 {% include clients.html items=site.data.clients %}
 
 {% include hero_intro.html
-title= "The path to growth, simplified"
-subtitle= "Scaling into new markets or needing to outshine competitors?"
-description= "Time’s tight, growth feels tough. I work with you to craft clear strategies—aligning brand with product, sparking new ideas and improving creative execution—to scale fast."
+title= "Cut through the clutter"
+subtitle= "Effective brand positioning is the key to standing out in a crowded marketplace."
+description= "Our tailored marketing messaging strategies ensure that your brand resonates with your target audience, driving awareness and engagement."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
