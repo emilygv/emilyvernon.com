@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "I’m a brand and marketing director with a strong creative foundation."
-description= "With 15+ years experience working with global companies, I help companies build powerful brands efficiently without the complexity and overhead."
+description= "With 15+ years experience working with global brands, I help companies build clear, engaging brands efficiently without the typical complexity and overhead."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
