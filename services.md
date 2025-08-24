@@ -14,7 +14,7 @@ breakout=true %} -->
 {% include hero_intro.html
 title= "Lasting business growth"
 subtitle= "Teams need momentum to stay motivated and confident in their direction."
-description= "Business impact through brand, product and experience requires a short-term boost and long-term mindset. My tailored approach aligns with these organisational realities."
+description= "Business impact through brand, marketing and product requires a short-term boost and long-term mindset. My tailored approach aligns with these organisational realities."
 image= "/assets/images/services_hero.png"
 class="bg-lgrey"
 %}
