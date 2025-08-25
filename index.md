@@ -32,7 +32,7 @@ button_title= "Get to know me" button_link= "/about/"
 {% include hero_intro.html
 title= "Cut through the clutter"
 subtitle= "Effective brand positioning is the key to standing out in a crowded marketplace."
-description= "Our tailored brand positioning and marketing messaging strategies ensure that your brand resonates with your target audience, driving awareness and engagement."
+description= "Our brand positioning, marketing messaging and creative strategies ensure that your brand resonates with your target audience, driving awareness and engagement."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
