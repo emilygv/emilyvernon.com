@@ -62,7 +62,7 @@ Their contradictory needs were Identity vs Belonging and Performance vs Restorat
 
 ✏️ Join: TECHSPO was unfortunately canceled in Auckland, NZ. However, [they have other events](https://techspo.co/events/){:target="_blank"} across the globe.
 
-📚 Read: [How politics shapes the world's time zones](https://www.economist.com/interactive/graphic-detail/2025/03/29/how-politics-shapes-the-worlds-time-zones){:target="_blank"}, with lessons for all business types.
+📚 Read: [How Politics Shapes the World's Time Zones](https://www.economist.com/interactive/graphic-detail/2025/03/29/how-politics-shapes-the-worlds-time-zones){:target="_blank"}, with lessons for all business types.
 
 🎧 Listen: As someone who works remotely, I was intrigued by [How to Get Out of the Hybrid Work Rut](https://hbr.org/podcast/2025/06/how-to-get-out-of-the-hybrid-work-rut){:target="_blank"} by HBR.
 
