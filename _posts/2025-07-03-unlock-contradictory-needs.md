@@ -66,7 +66,7 @@ Their contradictory needs were Identity vs Belonging and Performance vs Restorat
 
 🎧 Listen: As someone who works remotely, I was intrigued by [How to Get Out of the Hybrid Work Rut](https://hbr.org/podcast/2025/06/how-to-get-out-of-the-hybrid-work-rut){:target="_blank"} by HBR.
 
-📍 Visit: [Niue](https://www.niueisland.com/){:target="_blank"}is a relaxed, easy and welcoming Pacific island with great snorkelling, diving and whale watching.
+📍 Visit: [Niue](https://www.niueisland.com/){:target="_blank"} is a relaxed, easy and welcoming Pacific island with great snorkelling, diving and whale watching.
 
 
 
