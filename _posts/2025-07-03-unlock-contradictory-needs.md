@@ -1,14 +1,14 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-06-04/map.png"
-description: You’re making decisions every day about your brand, your business and your marketing. There’s rarely enough time to unpack every option in full detail, and that’s where comparison comes in.
+description: Many brands shy away from addressing contradictory needs, missing the chance to address what truly drives their audience’s choices.
 further_reading:
-    - The Real Top Ten Qualities of All Strategists
-    - Trend Versus Opportunity
-    - Better Creative Briefs Through Empathy
+    - Customer Persona Fundamentals
+    - What is your Empathy Report Card?
+    - Feeling like a Subculture Tourist
 ---
 
-![](/assets/newsletter/2025-06-04/map.png)
+![](/assets/newsletter/2025-07-03/map.png)
 *Crossed the dateline and now exploring Tonga*
 
 While flipping through Jimmy Cornell’s iconic book, Sail the World with Me, I found a quote that captures my current conundrum.
@@ -25,7 +25,7 @@ Sailing with everyone from CEOs to carpenters has shown me one truth: needs are 
 
 Some might savour a fine dining experience one night and crave a bowl of ‘90s cereal the next morning. Another might feel at ease in status and luxury, yet find joy in surfing and staying at a simple beachside lodge.
 
-![](/assets/newsletter/2025-06-04/boat.jpg)
+![](/assets/newsletter/2025-07-03/boat.jpg)
 *The comforts of Paris, while floating in the Pacific*
 
 My previous agency team often leaned into contradictory needs. While working on a vibrant, global hospitality brand, we used these to shape both the brand’s character and its guest experience.
@@ -38,7 +38,7 @@ Even with these different examples, I've noticed many brands shy away from addre
 
 Understanding your audience’s contradictory needs is vital for influencing complex purchase decisions. By identifying these combinations, brands can craft experiences that feel authentic and compelling.
 
-![](/assets/newsletter/2025-06-04/framework.png)
+![](/assets/newsletter/2025-07-03/framework.png)
 *Contradictory Combinations*
 
 This framework helps your team identify the most relevant contradictory needs. Knowing these can improve brand messaging, campaigns and customer experiences. 
