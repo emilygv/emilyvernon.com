@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-08-07/map.png"
-description: In any industry, it’s easy to fall into a rut. The same strategies, visuals and messaging can make competitors blend together, causing customers to tune it out.
+description: In any industry, it’s easy to fall into a rut. The same strategies, visuals and messaging make competitors blend together, causing customers to tune it out.
 further_reading:
     - When To Use Or Ignore Best Practices
     - The Currents Convergence Model
