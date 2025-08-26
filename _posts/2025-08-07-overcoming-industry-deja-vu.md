@@ -1,14 +1,14 @@
 ---
 category: Newsletter
-# image: "/assets/newsletter/2025-06-04/map.png"
+# image: "/assets/newsletter/2025-08-07/map.png"
 description: In any industry, it’s easy to fall into a rut. The same strategies, visuals and messaging can make competitors blend together, causing customers to tune it out.
 further_reading:
-    - Customer Persona Fundamentals
-    - What is your Empathy Report Card?
-    - Feeling like a Subculture Tourist
+    - When To Use Or Ignore Best Practices
+    - The Currents Convergence Model
+    - The Power of Concept Novelty
 ---
 
-![](/assets/newsletter/2025-07-03/map.png)
+![](/assets/newsletter/2025-08-07/map.png)
 *In Fiji, a milestone for our journey this year*
 
 We've been exploring the Pacific islands for about 4-5 months. However, it's starting to feel a bit same-same (I know, sad story). Our blasé attitude means we need a change in scenery. 
@@ -24,7 +24,7 @@ In any industry, it’s easy to fall into a rut. The same strategies, visuals an
 
 This is industry déjà vu: when your audience feels like they’ve seen it all before. The good news? You can break free with intention and creativity.
 
-![](/assets/newsletter/2025-07-03/boat.jpg)
+![](/assets/newsletter/2025-08-07/boat.jpg)
 *Déjà vu; Waya Island in Fiji looks like the Marquesas*
 
 While island-hopping, we noticed island descriptions started to feel the same. They all seemed to have turquoise waters, aquarium-like snorkelling spots, isolated beaches and perhaps a small town nearby. 
@@ -39,7 +39,7 @@ The SCENERY Framework is a cycle to keep your brand fresh. Start with one or two
 
 You don't need to break your brand from the start, but look to explore and recognise the existing, same-same conversations.
 
-![](/assets/newsletter/2025-07-03/framework.png)
+![](/assets/newsletter/2025-08-07/framework.png)
 *The Change of SCENERY Framework*
 
 To stand out, dig into the small, often overlooked behaviours or preferences of your audience. These are the subtle signals of what your audience craves but isn’t getting from your industry.
