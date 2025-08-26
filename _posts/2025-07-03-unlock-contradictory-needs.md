@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-06-04/map.png"
-description: Many brands shy away from addressing contradictory needs, missing the chance to address what truly drives their audience’s choices.
+description: Many brands shy away from contradictory needs, missing the chance to address what truly drives their audience’s choices.
 further_reading:
     - Customer Persona Fundamentals
     - What is your Empathy Report Card?
