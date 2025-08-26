@@ -4,7 +4,7 @@ title:  Immersing adventurers into a brand's world
 description: Leading experience strategy for the Shimano Experience Center
 project_name: Shimano experience center
 category: Creativity
-featured: true
+featured: false
 skip_section_icons: true
 image: /assets/images/casestudies/shimano/shimano_hero_image.jpg
 thumbnail: /assets/images/casestudies/shimano/shimano_thumbnail.jpg
