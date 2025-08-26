@@ -54,9 +54,9 @@ image= "/assets/images/services_package_02.png"
 %}
 
 {% include hero_intro.html
-title= "Impactful product-market fit"
-subtitle= "You’re asked to launch relevant products or services, but teams feel uncertain and stretched."
-description= "We’ll first clarify your business goals, customer needs and current product or experience, then conduct a gap analysis to define the best path forward."
+title= "Conversion-focused website"
+subtitle= "Your website is live, but it’s not converting visitors into customers the way it should."
+description= "We’ll align your site with your business goals and customer journey, then refine design, structure and content to remove friction and guide visitors seamlessly toward action."
 image= "/assets/images/services_package_03.png"
 image_on_left= true
 %}
