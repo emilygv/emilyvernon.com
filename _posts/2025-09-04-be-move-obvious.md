@@ -63,7 +63,7 @@ Ultimately, clarity and obviousness aren’t creative constraints; they’re cre
 
 ✏️ Join: Sign up for my next free webinar ["How to Bootstrap Your Marketing"](https://www.linkedin.com/events/creativeopsseries-howtobootstra7358026868467331072/){:target="_blank"} on Thursday 18 September.
 
-📚 Read: [Simple Business by Lucy Fuggle](https://www.goodreads.com/book/show/63261703-simple-business){:target="_blank"} is a charming perspective on building a business, simple living and creative time.
+📚 Read: [AI First](https://www.goodreads.com/book/show/216064064-ai-first){:target="_blank"} by Brotman and Sack is a good book to help you understand AI and its impact on brands and marketing.
 
 🎧 Listen: [Why Does Tipping Still Exist? Updated](https://freakonomics.com/podcast/why-does-tipping-still-exist-update/){:target="_blank"} explores why US establishments differ from the EU in tipping practices.
 
