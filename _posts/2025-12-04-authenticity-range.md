@@ -59,9 +59,9 @@ The Authenticity Districts Framework frames authenticity as a city you navigate.
 
 ## And there's more
 
-✏️ Join: For something more festive, the ["How to Bootstrap Your Marketing"](https://youtu.be/i_Z-4M6Yx8o?si=bNLybGw9hbVNWI2Y){:target="_blank"} is super charming for both visitors and locals.
+✏️ Join: For something more festive, the [Amsterdam Light Festival](https://amsterdamlightfestival.com/en){:target="_blank"} is super charming for both visitors and locals.
 
-📚 Read: [The Summer Book](https://www.goodreads.com/book/show/79550.The_Summer_Book){:target="_blank"} by Sayaka Murata is a sharp, insightful look at the tension between living authentically and fitting in.
+📚 Read: [Convenience Store Woman](https://www.goodreads.com/book/show/36739755-convenience-store-woman){:target="_blank"} by Sayaka Murata is a sharp, insightful look at the tension between living authentically and fitting in.
 
 🎧 Listen: [How to Find a Problem Worth Solving](https://podcasts.apple.com/us/podcast/problem-solvers/id1265289056?i=1000737056091){:target="_blank"} by, well, Problem Solvers tries to answer a long-standing question.
 
