@@ -9,53 +9,51 @@ further_reading:
 ---
 
 ![](/assets/newsletter/2025-11-06/map.png)
-*Made it to Indonesia after much sailing and it's time to relax*
+*Exploring different Indonesian islands on our way to Bali*
 
-Sailing around the world isn’t about being the best sailor. It’s setting up and maintaining the systems that keep your boat afloat. 
+While sailing through Indonesia we had to switch electronic nautical charts. They’re not entirely accurate, which makes navigating anchorages with reefs unnerving.
 
-Marketing with AI is much the same. We are moving from manual tasks to autopilot and now toward selfpilot. The marketer's role is not disappearing, but shifting.
+The same disorientation happens in marketing when teams lose their reference point. Ideas start to blur, campaigns drift off course and conversations scatter in too many directions.
 
-Everyone is at different stages in this evolution, and each stage requires a specific approach.
+It’s a reminder that collective clarity comes from being able to have a reliable reference before executing a creative direction.
 
 ## Let's jump into it
 
-Every sailboat is unique, shaped by its design, systems and skipper. In the same way, every marketing team’s AI journey looks different. 
-
-The challenge with AI is not to eliminate human intervention, but create systems that are reliable, adaptable and supportive.
+In sailing, the right route keeps you off the reefs. In marketing, it keeps you away from creative clutter. Vague thinking can hide in a strategy presentation, but not in a simple sketch.
 
 ![](/assets/newsletter/2025-11-06/boat.jpg)
-*Taking out SV Fortuna to manage and repair systems*
+*The reef shapes in our new charts are not accurate enough*
 
-In my last webinar, _How to Bootstrap Your Marketing_, someone asked about audience outreach, automation and maintaining a human connection. This question and further conversations inspired today's newsletter.
+Sketching isn’t just for designers. It’s a powerful tool for anyone shaping campaigns, stories or messages. A quick sketch exposes weak spots long before any presentation ever could.
 
-My advice was that optimisation does not always mean automated conversations. More often, it is about the systems that surround them, including the preparation, workflows and follow-up.
+Many teams get caught up in how the drawing looks, when it’s really the intent that matters. I often tell my creative teams that I love ugly sketches. It's probably because mine are far from perfect.
 
-Later, a separate conversation about asset creation reinforced the same point. The real challenge was not replacing human connection, but making asset customisation for clients quicker.
+When the core idea becomes clear, everything else starts to form around it. As the outline sharpens, words, visuals and execution fall into place.
 
-Marketing is no longer about tasking harder. It is about maintaining the systems that allow conversations and creativity to scale.
+A colleague once told me that you don’t need a million ideas to change the world, only one. I could not agree more. Collective clarity on that one idea often begins with a simple sketch.
 
 ## A helpful resource
 
-Too often, the conversation about AI jumps to extremes. In reality, most of us are navigating somewhere in between.
-
-That’s why I created the AI Pilots Framework. It maps the stages marketers move through as AI shifts from being a tool, to a partner, to an interconnected system.
+The One-Page Sketch Test is a simple way to see if an idea is clear enough to move forward. It works for creative reviews, brand workshops or campaign planning.
 
 ![](/assets/newsletter/2025-11-06/framework.png)
-*The AI Pilots Framework*
+*One-Page Sketch Test*
 
-The point isn’t to race ahead or assume one stage is “better.” It’s about knowing where you are today, so you can take the right steps tomorrow. 
+Each person gets a sheet of paper and five minutes. No slides, no templates, just a quick sketch of how the idea would look or feel. It could be a moment, a message or a single frame.
 
-To figure out where you stand, ask yourself:
+When time’s up, everyone shares their sketch and explains it in one sentence. If the drawings all look different, the idea isn’t defined yet. If people spend more time explaining than showing, the story isn’t clear. 
 
-- How much of my daily work is still manual?
-- Am I using AI for one-off tasks, or connected workflows?
-- Is AI assisting me, or am I still directing every move? 
-- Do I spend more time producing work, or maintaining systems?
-- Does the AI output make sense or doing what is needed?
+When sketches share the same essence, when the tone and intent align, then you’ve found something worth building on. 
 
-Moving from one pilot type to another is not a leap, but a series of small adjustments, like automating repetitive tasks, connecting workflows, standardising systems and gradually shifting your role.
+Here are five questions to guide the test:
 
-By reflecting on these, you can place yourself within the framework, and more importantly, see how to move forward.
+- Can this idea be shown in one image?
+- Do multiple people draw it in a similar way?
+- Does the sketch convey emotion as well as function?
+- Could it live across formats without losing meaning?
+- Would the audience understand it instantly?
+
+The One-Page Sketch Test turns thinking into something you can see. It bridges strategy and creativity, reminding us that clarity in brand and marketing is something built together, not decided alone.
 
 ## The future of marketing is maintaining the systems that scale conversations & creativity
 
