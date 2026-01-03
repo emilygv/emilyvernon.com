@@ -1,11 +1,11 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-09-04/map.png"
-description: In any industry, it’s easy to fall into a rut. The same strategies, visuals and messaging make competitors blend together, causing customers to tune it out.
+description: As a strategist who’s written my fair share of overly abstract marketing concepts, I’m here to make the case for being more obvious.
 further_reading:
+    - Keeping An Assumptions Inventory
+    - Making Mission Statements More People Speak
     - When To Use Or Ignore Best Practices
-    - The Currents Convergence Model
-    - The Power of Concept Novelty
 ---
 
 ![](/assets/newsletter/2025-09-04/map.png)
@@ -57,7 +57,7 @@ By asking these questions, you can determine whether your message is clear, obvi
 
 Ultimately, clarity and obviousness aren’t creative constraints; they’re creative accelerators. The more direct your message, the more room you have to layer in emotion, story and brand personality.
 
-## Industry déjà vu is an opportunity to change the scenery & shift the conversation
+## The clearer and more obvious your message, the faster it connects and the longer it sticks
 
 ## And there's more
 
