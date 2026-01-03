@@ -65,6 +65,6 @@ Ultimately, clarity and obviousness aren’t creative constraints; they’re cre
 
 📚 Read: [Simple Business by Lucy Fuggle](https://www.goodreads.com/book/show/63261703-simple-business){:target="_blank"} is a charming perspective on building a business, simple living and creative time.
 
-🎧 Listen: In the investment arena, [Are Robo Advisors Worth It](https://moneyfortherestofus.com/robo-advisors/){:target="_blank"} breaks down the pros and cons of this growing service offering.
+🎧 Listen: [Why Does Tipping Still Exist? Updated](https://moneyfortherestofus.com/robo-advisors/){:target="_blank"} explores why US establishments differ from the EU in tipping practices.
 
-📍 Visit: [Musket Cove in Fiji](https://www.musketcovefiji.com/){:target="_blank"} is a bit like Disneyland for the sailing community, but is a cool resort island area.
+📍 Visit: Vanuatu is home to 9 active volcanoes, where you can [visit Tanna’s Mt Yasur](https://www.vanuatu.travel/en/plan/tours/experiences){:target="_blank"} if you want an up-close experience.
