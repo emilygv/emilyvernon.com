@@ -61,10 +61,10 @@ By reflecting on these, you can place yourself within the framework, and more im
 
 ## And there's more
 
-✏️ Join: The recording of my webinar ["How to Bootstrap Your Marketing"](https://www.linkedin.com/events/creativeopsseries-howtobootstra7358026868467331072/){:target="_blank"} is available if you missed the live session.
+✏️ Join: The recording of my webinar ["How to Bootstrap Your Marketing"](https://youtu.be/i_Z-4M6Yx8o?si=bNLybGw9hbVNWI2Y){:target="_blank"} is available if you missed the live session.
 
-📚 Read: [AI First](https://www.goodreads.com/book/show/216064064-ai-first){:target="_blank"} by Tove Jansson is one of my favourite meandering reads and was adapted into a film.
+📚 Read: [The Summer Book](https://www.goodreads.com/book/show/79550.The_Summer_Book){:target="_blank"} by Tove Jansson is one of my favourite meandering reads and was adapted into a film.
 
-🎧 Listen: For something beyond a meditation app, [Why Does Tipping Still Exist? Updated](https://freakonomics.com/podcast/why-does-tipping-still-exist-update/){:target="_blank"} is an interesting approach with motivational audio plus music.
+🎧 Listen: For something beyond a meditation app, [Activations](https://www.activations.com){:target="_blank"} is an interesting approach with motivational audio plus music.
 
-📍 Visit: If you're in Tokyo soon, the design and art festival aptly named [visit Tanna’s Mt Yasur](https://www.vanuatu.travel/en/plan/tours/experiences){:target="_blank"} is 31 October to 9 November.
+📍 Visit: If you're in Tokyo soon, the design and art festival aptly named [Designart](https://www.designart.jp/designarttokyo2025/?lang=en){:target="_blank"} is 31 October to 9 November.
