@@ -9,34 +9,36 @@ further_reading:
 ---
 
 ![](/assets/newsletter/2025-10-09/map.png)
-*In Vanuatu, prepping for a big hop to Indonesia*
+*Made it to Indonesia after much sailing and it's time to relax*
 
-We’re constantly on the move, and we don't have time to figure out what is what. If it's not obvious, we just skip it.
+Sailing around the world isn’t about being the best sailor. It’s setting up and maintaining the systems that keep your boat afloat. 
 
-Marketing messages can sometimes feel too abstract. The broader, more ambitious brand narrative is important, but if potential customers don't know what you actually sell, it's a problem.
+Marketing with AI is much the same. We are moving from manual tasks to autopilot and now toward selfpilot. The marketer's role is not disappearing, but shifting.
 
-As a strategist who’s written my fair share of overly abstract marketing concepts, I’m here to make the case for being more obvious.
+Everyone is at different stages in this evolution, and each stage requires a specific approach.
 
 ## Let's jump into it
 
-We want our brands to stand for more than just the products or services we sell. A cleaning product can make a home feel more welcoming, and a CRM platform can help build lasting relationships.
+Every sailboat is unique, shaped by its design, systems and skipper. In the same way, every marketing team’s AI journey looks different. 
 
-However, in pursuing these larger visions, we sometimes lose sight of our customers’ context and how our marketing messages actually land.
+The challenge with AI is not to eliminate human intervention, but create systems that are reliable, adaptable and supportive.
 
 ![](/assets/newsletter/2025-10-09/boat.jpg)
-*I have no idea what's going on with these signs in Curaçao*
+*Taking out SV Fortuna to manage and repair systems*
 
-The photo above captures just one store in someone’s journey. Imagine all the messages they encounter walking down the street, scrolling online or seeing content from thousands of other businesses.
+In my last webinar, _How to Bootstrap Your Marketing_, someone asked about audience outreach, automation and maintaining a human connection. This question and further conversations inspired today's newsletter.
 
-When working with Yolélé, a West African fonio CPG/FMCG brand and ingredients supplier, we discovered that being obvious was an advantage at the Institute of Food Technologists (IFT) FIRST Expo. 
+My advice was that optimisation does not always mean automated conversations. More often, it is about the systems that surround them, including the preparation, workflows and follow-up.
 
-The lesson is simple: in a world overloaded with marketing, being direct is a competitive edge. The brands that are accessible, transparent and easy to grasp get noticed.
+Later, a separate conversation about asset creation reinforced the same point. The real challenge was not replacing human connection, but making asset customisation for clients quicker.
+
+Marketing is no longer about tasking harder. It is about maintaining the systems that allow conversations and creativity to scale.
 
 ## A helpful resource
 
-While we value clarity in marketing, we sometimes overlook the power of being obvious. Clarity ensures your message makes sense, but obviousness makes it instantly understandable.
+Too often, the conversation about AI jumps to extremes. In reality, most of us are navigating somewhere in between.
 
-This is why it’s helpful to consider these together. By understanding how clarity and obviousness intersect, we can craft marketing messages that resonate more deeply and land more effectively.
+That’s why I created the AI Pilots Framework. It maps the stages marketers move through as AI shifts from being a tool, to a partner, to an interconnected system.
 
 ![](/assets/newsletter/2025-10-09/framework.png)
 *Clarity x Obviousness Diagram*
