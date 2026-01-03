@@ -63,6 +63,6 @@ The Authenticity Districts Framework frames authenticity as a city you navigate.
 
 📚 Read: [The Summer Book](https://www.goodreads.com/book/show/79550.The_Summer_Book){:target="_blank"} by Sayaka Murata is a sharp, insightful look at the tension between living authentically and fitting in.
 
-🎧 Listen: [Activations](https://www.activations.com){:target="_blank"} by, well, Problem Solvers tries to answer a long-standing question.
+🎧 Listen: [How to Find a Problem Worth Solving](https://podcasts.apple.com/us/podcast/problem-solvers/id1265289056?i=1000737056091){:target="_blank"} by, well, Problem Solvers tries to answer a long-standing question.
 
-📍 Visit: [Designart](https://www.designart.jp/designarttokyo2025/?lang=en){:target="_blank"} is a great addition to a Japan trip for its history, less crowds, notable gardens and walkable neighbourhoods.
+📍 Visit: [Kanazawa](https://www.lonelyplanet.com/articles/guide-to-kanazawa-japan){:target="_blank"} is a great addition to a Japan trip for its history, less crowds, notable gardens and walkable neighbourhoods.
