@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-10-09/map.png"
-description: We are moving from manual tasks to autopilot and now toward selfpilot. The marketer's role is not disappearing, but shifting.Everyone is at different stages in this evolution.
+description: We are moving from manual tasks to autopilot and now toward selfpilot. The marketer's role is not disappearing, but shifting.
 further_reading:
     - Bringing Other Teams into the Creative Process
     - Why Brands Use Creative Agencies or Consultants
