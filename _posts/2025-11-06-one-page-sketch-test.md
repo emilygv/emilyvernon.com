@@ -55,7 +55,7 @@ Here are five questions to guide the test:
 
 The One-Page Sketch Test turns thinking into something you can see. It bridges strategy and creativity, reminding us that clarity in brand and marketing is something built together, not decided alone.
 
-## The future of marketing is maintaining the systems that scale conversations & creativity
+## One idea clearly drawn amongst a team is worth a thousand clever ones
 
 ## And there's more
 
