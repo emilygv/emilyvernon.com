@@ -1,11 +1,11 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-10-09/map.png"
-description: We are moving from manual tasks to autopilot and now toward selfpilot. The marketer's role is not disappearing, but shifting.
+description: Teams chase an “authentic brand” as if there’s only one definitive expression. Let’s look at how authenticity is more about facets than singularity.
 further_reading:
-    - Bringing Other Teams into the Creative Process
-    - Why Brands Use Creative Agencies or Consultants
-    - The Relevance Readiness Cycle
+    - Product Narrative Pathways
+    - What Does Heritage Mean?
+    - Cultivating an Innovative Brand Image
 ---
 
 ![](/assets/newsletter/2025-12-04/map.png)
@@ -55,14 +55,14 @@ Use these five questions to guide the mapping:
 
 The Authenticity Districts Framework frames authenticity as a city you navigate. It reveals the brand’s true range and creates space for more natural expressions.
 
-## The future of marketing is maintaining the systems that scale conversations & creativity
+## A brand, much like a city, is one place with many authentic expressions
 
 ## And there's more
 
-✏️ Join: The recording of my webinar ["How to Bootstrap Your Marketing"](https://youtu.be/i_Z-4M6Yx8o?si=bNLybGw9hbVNWI2Y){:target="_blank"} is available if you missed the live session.
+✏️ Join: For something more festive, the ["How to Bootstrap Your Marketing"](https://youtu.be/i_Z-4M6Yx8o?si=bNLybGw9hbVNWI2Y){:target="_blank"} is super charming for both visitors and locals.
 
-📚 Read: [The Summer Book](https://www.goodreads.com/book/show/79550.The_Summer_Book){:target="_blank"} by Tove Jansson is one of my favourite meandering reads and was adapted into a film.
+📚 Read: [The Summer Book](https://www.goodreads.com/book/show/79550.The_Summer_Book){:target="_blank"} by Sayaka Murata is a sharp, insightful look at the tension between living authentically and fitting in.
 
-🎧 Listen: For something beyond a meditation app, [Activations](https://www.activations.com){:target="_blank"} is an interesting approach with motivational audio plus music.
+🎧 Listen: [Activations](https://www.activations.com){:target="_blank"} by, well, Problem Solvers tries to answer a long-standing question.
 
-📍 Visit: If you're in Tokyo soon, the design and art festival aptly named [Designart](https://www.designart.jp/designarttokyo2025/?lang=en){:target="_blank"} is 31 October to 9 November.
+📍 Visit: [Designart](https://www.designart.jp/designarttokyo2025/?lang=en){:target="_blank"} is a great addition to a Japan trip for its history, less crowds, notable gardens and walkable neighbourhoods.
