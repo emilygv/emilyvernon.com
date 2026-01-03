@@ -59,10 +59,10 @@ The One-Page Sketch Test turns thinking into something you can see. It bridges s
 
 ## And there's more
 
-✏️ Join: ["How to Bootstrap Your Marketing"](https://youtu.be/i_Z-4M6Yx8o?si=bNLybGw9hbVNWI2Y){:target="_blank"} was officially announced and registration is now open.
+✏️ Join: [CX Leaders Advanced for 2026](https://cxleadersadvance.events.cxpaglobal.org){:target="_blank"} was officially announced and registration is now open.
 
-📚 Read: [The Summer Book](https://www.goodreads.com/book/show/79550.The_Summer_Book){:target="_blank"} is a fascinating read about plant intelligence, and the title is pretty great as well.
+📚 Read: [The Light Eaters](https://www.zoeschlanger.com/the-light-eaters){:target="_blank"} is a fascinating read about plant intelligence, and the title is pretty great as well.
 
-🎧 Listen: [Activations](https://www.activations.com){:target="_blank"} by No Stupid Questions looks at empathy research from a different perspective.
+🎧 Listen: [Is Empathy in Fact Immoral?](https://freakonomics.com/podcast/is-empathy-in-fact-immoral/){:target="_blank"} by No Stupid Questions looks at empathy research from a different perspective.
 
 📍 Visit: Indonesia is a [Designart](https://www.designart.jp/designarttokyo2025/?lang=en){:target="_blank"}, the largest fish in the world.
