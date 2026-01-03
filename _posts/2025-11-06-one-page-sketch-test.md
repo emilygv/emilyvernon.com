@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-11-06/map.png"
-description: We are moving from manual tasks to autopilot and now toward selfpilot. The marketer's role is not disappearing, but shifting.Everyone is at different stages in this evolution.
+description: Sketching isn’t just for designers. It’s a powerful tool for anyone shaping campaigns, stories or messages. A quick sketch exposes weak spots long before any presentation ever could.
 further_reading:
     - Bringing Other Teams into the Creative Process
     - Why Brands Use Creative Agencies or Consultants
@@ -59,10 +59,10 @@ The One-Page Sketch Test turns thinking into something you can see. It bridges s
 
 ## And there's more
 
-✏️ Join: The recording of my webinar ["How to Bootstrap Your Marketing"](https://youtu.be/i_Z-4M6Yx8o?si=bNLybGw9hbVNWI2Y){:target="_blank"} is available if you missed the live session.
+✏️ Join: ["How to Bootstrap Your Marketing"](https://youtu.be/i_Z-4M6Yx8o?si=bNLybGw9hbVNWI2Y){:target="_blank"} was officially announced and registration is now open.
 
-📚 Read: [The Summer Book](https://www.goodreads.com/book/show/79550.The_Summer_Book){:target="_blank"} by Tove Jansson is one of my favourite meandering reads and was adapted into a film.
+📚 Read: [The Summer Book](https://www.goodreads.com/book/show/79550.The_Summer_Book){:target="_blank"} is a fascinating read about plant intelligence, and the title is pretty great as well.
 
-🎧 Listen: For something beyond a meditation app, [Activations](https://www.activations.com){:target="_blank"} is an interesting approach with motivational audio plus music.
+🎧 Listen: [Activations](https://www.activations.com){:target="_blank"} by No Stupid Questions looks at empathy research from a different perspective.
 
-📍 Visit: If you're in Tokyo soon, the design and art festival aptly named [Designart](https://www.designart.jp/designarttokyo2025/?lang=en){:target="_blank"} is 31 October to 9 November.
+📍 Visit: Indonesia is a [Designart](https://www.designart.jp/designarttokyo2025/?lang=en){:target="_blank"}, the largest fish in the world.
