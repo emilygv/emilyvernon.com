@@ -9,53 +9,53 @@ further_reading:
 ---
 
 ![](/assets/newsletter/2025-09-04/map.png)
-*In Fiji, a milestone for our journey this year*
+*In Vanuatu, prepping for a big hop to Indonesia*
 
-We've been exploring the Pacific islands for about 4-5 months. However, it's starting to feel a bit same-same (I know, sad story). Our blasé attitude means we need a change in scenery. 
+We’re constantly on the move, and we don't have time to figure out what is what. If it's not obvious, we just skip it.
 
-When competition multiplies within our industries, we need to look around and think, "What change of scenery would get the attention of our audience?" 
+Marketing messages can sometimes feel too abstract. The broader, more ambitious brand narrative is important, but if potential customers don't know what you actually sell, it's a problem.
 
-If the Pacific islands start to feel same-samey, I am sure your industry does too. So let's fix that industry déjà vu.
+As a strategist who’s written my fair share of overly abstract marketing concepts, I’m here to make the case for being more obvious.
 
 ## Let's jump into it
 
+We want our brands to stand for more than just the products or services we sell. A cleaning product can make a home feel more welcoming, and a CRM platform can help build lasting relationships.
 
-In any industry, it’s easy to fall into a rut. The same strategies, visuals and messaging can make competitors blend together, causing customers to tune it out.
-
-This is industry déjà vu: when your audience feels like they’ve seen it all before. The good news? You can break free with intention and creativity.
+However, in pursuing these larger visions, we sometimes lose sight of our customers’ context and how our marketing messages actually land.
 
 ![](/assets/newsletter/2025-09-04/boat.jpg)
-*Déjà vu; Waya Island in Fiji looks like the Marquesas*
+*I have no idea what's going on with these signs in Curaçao*
 
-While island-hopping, we noticed island descriptions started to feel the same. They all seemed to have turquoise waters, aquarium-like snorkelling spots, isolated beaches and perhaps a small town nearby. 
+The photo above captures just one store in someone’s journey. Imagine all the messages they encounter walking down the street, scrolling online or seeing content from thousands of other businesses.
 
-Now, this works for someone who is new to the Pacific islands, but if your audience is like us and has engaged with a category for awhile, it gets old. 
+When working with Yolélé, a West African fonio CPG/FMCG brand and ingredients supplier, we discovered that being obvious was an advantage at the Institute of Food Technologists (IFT) FIRST Expo. 
 
-While working on Reckitt Professional, the common industry narrative was around the best cleaning products. We recognised this and started to change the conversation. It's already catching on with competitors.
+The lesson is simple: in a world overloaded with marketing, being direct is a competitive edge. The brands that are accessible, transparent and easy to grasp get noticed.
 
 ## A helpful resource
 
-The SCENERY Framework is a cycle to keep your brand fresh. Start with one or two steps this month, like spotting patterns or nudging with novelty, and build from there. 
+While we value clarity in marketing, we sometimes overlook the power of being obvious. Clarity ensures your message makes sense, but obviousness makes it instantly understandable.
 
-You don't need to break your brand from the start, but look to explore and recognise the existing, same-same conversations.
+This is why it’s helpful to consider these together. By understanding how clarity and obviousness intersect, we can craft marketing messages that resonate more deeply and land more effectively.
 
 ![](/assets/newsletter/2025-09-04/framework.png)
-*The Change of SCENERY Framework*
+*Clarity x Obviousness Diagram*
 
-To stand out, dig into the small, often overlooked behaviours or preferences of your audience. These are the subtle signals of what your audience craves but isn’t getting from your industry.
+Shaping messaging takes time and multiple iterations. By identifying where your current message sits on the grid above, you can make deliberate improvements rather than guessing at what’s wrong.
 
-Spotting and amplifying these can transform your brand’s messaging, campaigns and experiences. For example, Patagonia didn’t just sell outdoor gear; they tapped into their audience’s desire for activism.
+Too often we assume a message or campaign simply “doesn’t work.” But in reality, it rarely requires starting from scratch. More often it’s about keeping what works and adjusting the parts that don't.
 
-To uncover these conversation changers:
+To evaluate where your message stands, ask yourself:
 
-Observe the outliers: Pay attention to how your audience acts differently than the industry anticipated.
+- Is my message immediately understandable without extra explanation?
+- Would someone outside my industry instantly understand what we do?
+- Does the message communicate both the what and the why?
+- Am I relying too much on cleverness at the expense of clarity?
+- If someone saw this once (e.g. on a busy street or in a crowded feed) would they remember it?
 
-- Ask unexpected questions: Go beyond standard survey questions to reveal untapped desires.
-- Change the dialogue: How can your product or service amplify these insights and change the typical conversations?
-- Amplify the conversation: Build campaigns or experiences around these insights.
-- Changing the conversation is disruptive, but does not need to feel disruptive to your brand or process. You are uncovering the conversations and opportunities already in front of you. 
+By asking these questions, you can determine whether your message is clear, obvious, both or neither, and more importantly what to do next.
 
-The hardest part is recognising them. With this framework, hopefully you can challenge industry déjà vu and engage your audience in a new way.
+Ultimately, clarity and obviousness aren’t creative constraints; they’re creative accelerators. The more direct your message, the more room you have to layer in emotion, story and brand personality.
 
 ## Industry déjà vu is an opportunity to change the scenery & shift the conversation
 
