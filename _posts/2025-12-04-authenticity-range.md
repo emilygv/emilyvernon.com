@@ -9,53 +9,51 @@ further_reading:
 ---
 
 ![](/assets/newsletter/2025-12-04/map.png)
-*Made it to Indonesia after much sailing and it's time to relax*
+*Left the boat in Bali to explore Japan*
 
-Sailing around the world isn’t about being the best sailor. It’s setting up and maintaining the systems that keep your boat afloat. 
+We’ve been travelling through Japan and the word authentic keeps coming up. Authentic food. Authentic neighbourhoods. Authentic experiences. 
 
-Marketing with AI is much the same. We are moving from manual tasks to autopilot and now toward selfpilot. The marketer's role is not disappearing, but shifting.
+It’s everywhere, almost like a stamp of approval you’re supposed to chase as a traveller. But the more you hear it, the more you realise authenticity isn’t one thing.
 
-Everyone is at different stages in this evolution, and each stage requires a specific approach.
+The same confusion shows up in marketing. Teams chase an “authentic brand” as if there’s only one definitive expression. Let’s look at how authenticity is more about facets than singularity.
 
 ## Let's jump into it
 
-Every sailboat is unique, shaped by its design, systems and skipper. In the same way, every marketing team’s AI journey looks different. 
+Travelling teaches you quickly that multiple authentic versions can coexist. Tokyo, as an example, is a contrast of touristy and stylish, anime and old, futuristic and traditional neighbourhoods all in one city.
 
-The challenge with AI is not to eliminate human intervention, but create systems that are reliable, adaptable and supportive.
+None of these are more or less “real” or "authentic". They’re just different facets of the same place.
 
 ![](/assets/newsletter/2025-12-04/boat.jpg)
-*Taking out SV Fortuna to manage and repair systems*
+*The different district vibes of Tokyo*
 
-In my last webinar, _How to Bootstrap Your Marketing_, someone asked about audience outreach, automation and maintaining a human connection. This question and further conversations inspired today's newsletter.
+Brands work the same way. They need space to shift between audiences, formats, expressions and touchpoints.
 
-My advice was that optimisation does not always mean automated conversations. More often, it is about the systems that surround them, including the preparation, workflows and follow-up.
+Trying to hold everything to one narrow “authentic” brand is like expecting every part of a city to look identical. You lose richness, contrast and depth. And eventually, everything starts feeling flat.
 
-Later, a separate conversation about asset creation reinforced the same point. The real challenge was not replacing human connection, but making asset customisation for clients quicker.
+Back in my footwear days, I admired how streetwear brands shifted narratives from tech to heritage, serious to playful. Seeing Japan’s most aspirational streetwear stores reminded me of that range.
 
-Marketing is no longer about tasking harder. It is about maintaining the systems that allow conversations and creativity to scale.
+It’s about recognising which parts of your brand are stable and which flex. When you design for that range, communication becomes sharper, teams align faster and your brand feels more relatable.
 
 ## A helpful resource
 
-Too often, the conversation about AI jumps to extremes. In reality, most of us are navigating somewhere in between.
+Here’s a simple way to see whether your brand is using its full range of authenticity or getting stuck in one narrow part of itself.
 
-That’s why I created the AI Pilots Framework. It maps the stages marketers move through as AI shifts from being a tool, to a partner, to an interconnected system.
+Think of your brand like a city, where each district has its purpose. A healthy brand moves through all of them without losing the sense of being in the same place.
 
 ![](/assets/newsletter/2025-12-04/framework.png)
-*The AI Pilots Framework*
+*Authenticity Districts*
 
-The point isn’t to race ahead or assume one stage is “better.” It’s about knowing where you are today, so you can take the right steps tomorrow. 
+This becomes a one-page exercise you can use in brand workshops, content planning or creative reviews. It helps teams see where the brand should flex, where it should stay consistent and where it may be over-extending.
 
-To figure out where you stand, ask yourself:
+Use these five questions to guide the mapping:
 
-- How much of my daily work is still manual?
-- Am I using AI for one-off tasks, or connected workflows?
-- Is AI assisting me, or am I still directing every move? 
-- Do I spend more time producing work, or maintaining systems?
-- Does the AI output make sense or doing what is needed?
+1. Do the core values show up across every expression?
+2. Where does the brand naturally flex and where does it start to break?
+3. Does each expression still feel recognisably “us”?
+4. Would our audience understand the shift without feeling confused?
+5. Is there an Authenticity District we should explore more?
 
-Moving from one pilot type to another is not a leap, but a series of small adjustments, like automating repetitive tasks, connecting workflows, standardising systems and gradually shifting your role.
-
-By reflecting on these, you can place yourself within the framework, and more importantly, see how to move forward.
+The Authenticity Districts Framework frames authenticity as a city you navigate. It reveals the brand’s true range and creates space for more natural expressions.
 
 ## The future of marketing is maintaining the systems that scale conversations & creativity
 
