@@ -61,10 +61,10 @@ By reflecting on these, you can place yourself within the framework, and more im
 
 ## And there's more
 
-✏️ Join: Sign up for my next free webinar ["How to Bootstrap Your Marketing"](https://www.linkedin.com/events/creativeopsseries-howtobootstra7358026868467331072/){:target="_blank"} on Thursday 18 September.
+✏️ Join: The recording of my webinar ["How to Bootstrap Your Marketing"](https://www.linkedin.com/events/creativeopsseries-howtobootstra7358026868467331072/){:target="_blank"} is available if you missed the live session.
 
-📚 Read: [AI First](https://www.goodreads.com/book/show/216064064-ai-first){:target="_blank"} by Brotman and Sack is a good book to help you understand AI and its impact on brands and marketing.
+📚 Read: [AI First](https://www.goodreads.com/book/show/216064064-ai-first){:target="_blank"} by Tove Jansson is one of my favourite meandering reads and was adapted into a film.
 
-🎧 Listen: [Why Does Tipping Still Exist? Updated](https://freakonomics.com/podcast/why-does-tipping-still-exist-update/){:target="_blank"} explores why US establishments differ from the EU in tipping practices.
+🎧 Listen: For something beyond a meditation app, [Why Does Tipping Still Exist? Updated](https://freakonomics.com/podcast/why-does-tipping-still-exist-update/){:target="_blank"} is an interesting approach with motivational audio plus music.
 
-📍 Visit: Vanuatu is home to 9 active volcanoes, where you can [visit Tanna’s Mt Yasur](https://www.vanuatu.travel/en/plan/tours/experiences){:target="_blank"} if you want an up-close experience.
+📍 Visit: If you're in Tokyo soon, the design and art festival aptly named [visit Tanna’s Mt Yasur](https://www.vanuatu.travel/en/plan/tours/experiences){:target="_blank"} is 31 October to 9 November.
