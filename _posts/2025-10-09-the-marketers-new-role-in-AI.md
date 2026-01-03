@@ -1,11 +1,11 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2025-10-09/map.png"
-description: As a strategist who’s written my fair share of overly abstract marketing concepts, I’m here to make the case for being more obvious.
+description: We are moving from manual tasks to autopilot and now toward selfpilot. The marketer's role is not disappearing, but shifting.Everyone is at different stages in this evolution.
 further_reading:
-    - Keeping An Assumptions Inventory
-    - Making Mission Statements More People Speak
-    - When To Use Or Ignore Best Practices
+    - Bringing Other Teams into the Creative Process
+    - Why Brands Use Creative Agencies or Consultants
+    - The Relevance Readiness Cycle
 ---
 
 ![](/assets/newsletter/2025-10-09/map.png)
@@ -41,25 +41,23 @@ Too often, the conversation about AI jumps to extremes. In reality, most of us a
 That’s why I created the AI Pilots Framework. It maps the stages marketers move through as AI shifts from being a tool, to a partner, to an interconnected system.
 
 ![](/assets/newsletter/2025-10-09/framework.png)
-*Clarity x Obviousness Diagram*
+*The AI Pilots Framework*
 
-Shaping messaging takes time and multiple iterations. By identifying where your current message sits on the grid above, you can make deliberate improvements rather than guessing at what’s wrong.
+The point isn’t to race ahead or assume one stage is “better.” It’s about knowing where you are today, so you can take the right steps tomorrow. 
 
-Too often we assume a message or campaign simply “doesn’t work.” But in reality, it rarely requires starting from scratch. More often it’s about keeping what works and adjusting the parts that don't.
+To figure out where you stand, ask yourself:
 
-To evaluate where your message stands, ask yourself:
+- How much of my daily work is still manual?
+- Am I using AI for one-off tasks, or connected workflows?
+- Is AI assisting me, or am I still directing every move? 
+- Do I spend more time producing work, or maintaining systems?
+- Does the AI output make sense or doing what is needed?
 
-- Is my message immediately understandable without extra explanation?
-- Would someone outside my industry instantly understand what we do?
-- Does the message communicate both the what and the why?
-- Am I relying too much on cleverness at the expense of clarity?
-- If someone saw this once (e.g. on a busy street or in a crowded feed) would they remember it?
+Moving from one pilot type to another is not a leap, but a series of small adjustments, like automating repetitive tasks, connecting workflows, standardising systems and gradually shifting your role.
 
-By asking these questions, you can determine whether your message is clear, obvious, both or neither, and more importantly what to do next.
+By reflecting on these, you can place yourself within the framework, and more importantly, see how to move forward.
 
-Ultimately, clarity and obviousness aren’t creative constraints; they’re creative accelerators. The more direct your message, the more room you have to layer in emotion, story and brand personality.
-
-## The clearer and more obvious your message, the faster it connects and the longer it sticks
+## The future of marketing is maintaining the systems that scale conversations & creativity
 
 ## And there's more
 
