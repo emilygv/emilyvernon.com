@@ -65,6 +65,6 @@ Ultimately, clarity and obviousness aren’t creative constraints; they’re cre
 
 📚 Read: [Simple Business by Lucy Fuggle](https://www.goodreads.com/book/show/63261703-simple-business){:target="_blank"} is a charming perspective on building a business, simple living and creative time.
 
-🎧 Listen: [Why Does Tipping Still Exist? Updated](https://moneyfortherestofus.com/robo-advisors/){:target="_blank"} explores why US establishments differ from the EU in tipping practices.
+🎧 Listen: [Why Does Tipping Still Exist? Updated](https://freakonomics.com/podcast/why-does-tipping-still-exist-update/){:target="_blank"} explores why US establishments differ from the EU in tipping practices.
 
 📍 Visit: Vanuatu is home to 9 active volcanoes, where you can [visit Tanna’s Mt Yasur](https://www.vanuatu.travel/en/plan/tours/experiences){:target="_blank"} if you want an up-close experience.
