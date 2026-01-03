@@ -3,9 +3,9 @@ category: Newsletter
 # image: "/assets/newsletter/2025-11-06/map.png"
 description: Sketching isn’t just for designers. It’s a powerful tool for anyone shaping campaigns, stories or messages. A quick sketch exposes weak spots long before any presentation ever could.
 further_reading:
-    - Bringing Other Teams into the Creative Process
-    - Why Brands Use Creative Agencies or Consultants
-    - The Relevance Readiness Cycle
+    - Maybe You Need an Inspiration Purge
+    - Establishing a Collective Trend Process
+    - Better Creative Briefs Through Empathy
 ---
 
 ![](/assets/newsletter/2025-11-06/map.png)
@@ -65,4 +65,4 @@ The One-Page Sketch Test turns thinking into something you can see. It bridges s
 
 🎧 Listen: [Is Empathy in Fact Immoral?](https://freakonomics.com/podcast/is-empathy-in-fact-immoral/){:target="_blank"} by No Stupid Questions looks at empathy research from a different perspective.
 
-📍 Visit: Indonesia is a [Designart](https://www.designart.jp/designarttokyo2025/?lang=en){:target="_blank"}, the largest fish in the world.
+📍 Visit: Indonesia is a [great place to snorkel with whale sharks](https://www.barefoot-cruising-indonesia.com/private-yacht-charter/snorkel-and-dive-with-whale-sharks-in-indonesia/){:target="_blank"}, the largest fish in the world.
