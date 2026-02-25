@@ -7,9 +7,9 @@ category: Creativity
 image: /assets/images/casestudies/yolele/YI_hero.jpg
 thumbnail: /assets/images/casestudies/yolele/YI_thumbnail.jpg
 skip_section_icons: true
-challange: "Yolélé built a strong B2C brand and product portfolio in the US. As it expanded into B2B with Yolélé Ingredients, it lacked a clear positioning for a trade and manufacturing audience. **The team needed a credible, industry-appropriate narrative and design language that could translate brand equity into trust with buyers, formulators and partners.**"
+challange: "Yolélé built a strong B2C brand and product portfolio in the US. As it expanded into B2B with Yolélé Ingredients, it lacked a clear positioning for there new audience. **The team needed a credible, industry-appropriate narrative and design language that could translate brand equity into trust with buyers, formulators and partners.**"
 approach: "**With a major trade show approaching, we prioritised positioning and messaging to enable sales.** I led a cross-functional, global alignment process to define the B2B value proposition, messaging hierarchy and tone. This became the strategic foundation for sales materials, trade communications and the broader brand identity."
-responsibilities: [Creative direction, Positioning strategy, Messaging architecture, Value proposition definition, Workshop facilitation, Stakeholder alignment, Sales enablement strategy, Brand translation from B2C to B2B]
+responsibilities: [Creative direction, Positioning strategy, Messaging architecture, Value proposition definition, Workshop facilitation, Stakeholder alignment, Sales enablement strategy, Brand translation to B2B]
 ---
 
 {% include section_icons.html 
