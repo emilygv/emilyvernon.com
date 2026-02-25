@@ -7,9 +7,9 @@ category: Creativity
 image: /assets/images/casestudies/yolele/YI_hero.jpg
 thumbnail: /assets/images/casestudies/yolele/YI_thumbnail.jpg
 skip_section_icons: true
-challange: "**Reckitt Pro Solutions is the B2B portfolio of Reckitt.** With brands like Lysol, Dettol, Finish and Harpic, Reckitt is well-known in the consumer space. **However, it lacked credibility and trust in professional.** In order to achieve the latter, we needed to create a professional corporate brand that had a distinct perspective on B2B cleaning."
-approach: "**Built an overarching professional corporate brand that stood for making hygiene easier for businesses.** As a marketing and brand experience team, our job was to create a brand system that worked across various touchpoints, brought to life this big idea and addressed our various B2B audiences."
-responsibilities: [Stakeholder Management, Brand Strategy, Brand Creation, Portfolio Strategy, Creative Direction, Design Validation, Communication Hierarchy, Customer Journey Mapping, Brand Guidelines]
+challange: "Yolélé had built a strong B2C brand and product portfolio in the US. As it expanded into B2B with Yolélé Ingredients, it lacked a clear positioning for a trade and manufacturing audience. **The team needed a credible, industry-appropriate narrative and design language that could translate brand equity into trust with buyers, formulators and partners.**"
+approach: "**With a major trade show approaching, we prioritised positioning and messaging to enable sales.** I led a cross-functional, global alignment process to define the B2B value proposition, messaging hierarchy and tone. This became the strategic foundation for sales materials, trade communications and the broader Yolele Ingredients identity."
+responsibilities: [Creative direction, Positioning strategy, Messaging architecture, Value proposition definition, Workshop facilitation, Stakeholder alignment, Sales enablement strategy, Brand translation from B2C to B2B]
 ---
 
 {% include section_icons.html 
@@ -32,13 +32,13 @@ content="Evolved the B2C design language into a credible B2B system, preserving 
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
-content="**The professional corporate brand launched at two key trade shows in EU/UK and US.** It was well-received by the industry, as well as our regional partners. With the brand foundations in place, **the team is able to both push the brand further through distinct expressions**, as well as roll out the system across key touchpoints." %}
+content="Grounding the work in clear positioning created a scalable foundation for subsequent communications. **The team gained a repeatable messaging framework they could test, refine and adapt based on client response.** Further, the process aligned the global organisation around a shared B2B narrative, increasing clarity, consistency and internal confidence going into market." %}
 
 {% capture info-highlight %}
-#### Achieved standout from competition
+#### Consistent B2B positioning across touchpoints
 |
-#### Launched first global Reckitt professional brand
+#### Improved buyer understanding and engagement
 |
-#### Rolled out globally to create consistency
+#### Reduced internal ambiguity around market entry
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
