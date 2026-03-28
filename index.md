@@ -2,13 +2,13 @@
 layout: page
 title: Brand & marketing director consulting global businesses
 description: Enabling brands and businesses to increase awareness and engagement through brand positioning, marketing messaging and marketing optimisation.
-hero_text: <mark>Stronger positioning</mark> <br><mark class="normal">& sharper messaging</mark> <br><mark>for marketing impact</mark>
+hero_text: <mark>Global growth through</mark> <br><mark class="normal">creative excellence</mark> <br><mark>& scalable brand equity</mark>
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
 ---
 
 {% include hero_intro.html
-title= "Join the Brandvoy email newsletter"
+title= "Subscribe to the Brandvoy briefing"
 subtitle= "Exclusive brand and marketing frameworks, inspired by sailing the world."
 class= "bg-lgrey"
 image= "/assets/images/Brandvoy_newsletter.png"
@@ -18,21 +18,21 @@ button_link_new_window= true
 
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
-subtitle= "I’m a brand and marketing director with a strong creative foundation."
-description= "With 15+ years experience working with global brands, I help companies build clear, engaging brands efficiently without the typical complexity and overhead."
+subtitle= "I'm a brand and marketing director building global brands through collaborative clarity."
+description= "With 15+ years leading brands across the EU, UK and US, I bring together cross-functional teams and creative partners to move global brands forward."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
 %}
 
-## Worked with clients
+## Scaling global brands
 
 {% include clients.html items=site.data.clients %}
 
 {% include hero_intro.html
-title= "Cut through the clutter"
-subtitle= "Effective brand positioning is the key to standing out in a crowded marketplace."
-description= "Our brand positioning, marketing messaging and creative strategies ensure that your brand resonates with your target audience, driving awareness and engagement."
+title= "Cut through the noise"
+subtitle= "In a saturated global market, clarity is an operational necessity."
+description= "I bridge the gap between vision and execution, building the frameworks that allow global brands to scale rapidly without losing their soul or their market resonance."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
@@ -45,7 +45,7 @@ reference="Asell - Strategy + Experience Director UXUS/McCann"
 %}
 
 {% include post_cards.html
-title= "How we can elevate your brand, marketing and business together:"
+title= "Defining your brand’s next era together:"
 posts=site.data.service_package_intros 
 link="/services/" link_title="Learn more"
 %}
