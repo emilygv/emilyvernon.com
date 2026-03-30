@@ -54,9 +54,9 @@ image= "/assets/images/services_package_02.png"
 %}
 
 {% include hero_intro.html
-title= "Conversion-focused website"
-subtitle= "Your website is live, but it’s not converting visitors into customers the way it should."
-description= "We’ll align your site with your business goals and customer journey, then refine design, structure and content to remove friction and guide visitors seamlessly toward action."
+title= "Environmental design & identity"
+subtitle= "You have build environments, but it feel like they could be doing more for the brand."
+description= "Align your brand narrative with the functional needs of your customers to create physical spaces that feel intentional and drive long-term loyalty."
 image= "/assets/images/services_package_03.png"
 image_on_left= true
 %}
