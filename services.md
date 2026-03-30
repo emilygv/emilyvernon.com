@@ -22,7 +22,7 @@ class="bg-lgrey"
 {% include hero_intro.html
 title= "Strategic & creative"
 subtitle= "Both are needed to address today’s complex brand and business contexts."
-description= "I love a novel problem. This is why I have worked across B2B, beauty, FMCG, hospitality and streetwear. Ideas can be shared in the most unlike of industries."
+description= "Novel problems require lateral thinking. My experience across B2B, beauty, hospitality and streetwear is built on a single conviction: the most effective solutions are often found by looking outside your own category."
 image= "/assets/images/services_emily.png"
 image_on_left= true
 button_title= "Learn more" 
