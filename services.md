@@ -40,16 +40,16 @@ reference="Rich - EMEA Product Director, Converse"
 
 {% include hero_intro.html
 title= "Brand strategy & governance"
-subtitle= "You’re tasked to differentiate, but your brand feels like it needs a refresh."
-description= "We’ll begin by assessing your brand’s current position, identifying key business challenges and finding the best way to reshape customer perceptions."
+subtitle= "You have a beautiful strategy deck, but it rarely informs your day-to-day decisions."
+description= "We'll reevaluate your market position and then define clear, practical standards your team needs to scale the brand with consistency and creative impact."
 image= "/assets/images/services_package_01.png"
 image_on_left= true
 %}
 
 {% include hero_intro.html
 title= "Portfolio & experience architecture"
-subtitle= "You’re told to ‘tell our story’ consistently, but campaigns and touchpoints feel disjointed."
-description= "We’ll start by exploring your brand’s stories, positioning and unique creative perspective before developing a big idea that resonates across multiple touchpoints."
+subtitle= "Products and services have grown organically over time, but now lack a unified direction."
+description= "We'll audit and map your existing portfolio to prioritize the initiatives that deliver the highest value to your customers and the business."
 image= "/assets/images/services_package_02.png"
 %}
 
