@@ -41,7 +41,7 @@ reference="Rich - EMEA Product Director, Converse"
 {% include hero_intro.html
 title= "Brand strategy & governance"
 subtitle= "You have a beautiful strategy deck, but it rarely informs your day-to-day decisions."
-description= "We'll reevaluate your market position and then define clear, practical standards your team needs to scale the brand with consistency and creative impact."
+description= "We'll reevaluate your market positioning and then define clear, practical standards your team needs to scale with consistency and creative impact."
 image= "/assets/images/services_package_01.png"
 image_on_left= true
 %}
