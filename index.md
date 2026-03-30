@@ -18,7 +18,7 @@ button_link_new_window= true
 
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
-subtitle= "A brand and marketing director building global brands through collaborative clarity."
+subtitle= "A brand and marketing director building global brands through a shared vision."
 description= "With 15+ years leading brands across the EU, UK and US, I bring together cross-functional teams and creative partners to move global brands forward."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
