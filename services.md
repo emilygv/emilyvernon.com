@@ -22,7 +22,7 @@ class="bg-lgrey"
 {% include hero_intro.html
 title= "Strategic & creative"
 subtitle= "Both are needed to address today’s complex brand and business contexts."
-description= "Novel problems require lateral thinking. My experience across B2B, beauty, hospitality and streetwear is built on a single conviction: the most effective solutions are often found by looking outside your own category."
+description= "Novel problems require lateral thinking. My experience across B2B, beauty, hospitality and streetwear has proven that the most effective solutions are found outside your category."
 image= "/assets/images/services_emily.png"
 image_on_left= true
 button_title= "Learn more" 
