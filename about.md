@@ -11,7 +11,7 @@ hero_text: <mark>Exploring cultures &</mark> <br><mark class="normal">countries,
 {% include hero_intro.html
 title= "Let’s start with the basics"
 subtitle= "Life is a constant experiment. Having lived in the US and EU, I am now sailing the world."
-description= "My approach combines being brave and creative. This means challenging perceptions and staying open to ridiculous ideas. Stand-up comedy, offshore sailing and peanut butter and jelly sandwiches keep me going."
+description= "My approach combines creative courage with a drive to challenge perceptions and embrace the unconventional. Stand-up comedy, offshore sailing and peanut butter and jelly sandwiches keep me going."
 image= "/assets/images/about_hero.png"
 class= "bg-lgrey"
 %}
