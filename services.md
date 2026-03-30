@@ -47,7 +47,7 @@ image_on_left= true
 %}
 
 {% include hero_intro.html
-title= "Optimised marketing messaging"
+title= "Portfolio & experience architecture"
 subtitle= "You’re told to ‘tell our story’ consistently, but campaigns and touchpoints feel disjointed."
 description= "We’ll start by exploring your brand’s stories, positioning and unique creative perspective before developing a big idea that resonates across multiple touchpoints."
 image= "/assets/images/services_package_02.png"
