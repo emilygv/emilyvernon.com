@@ -34,7 +34,7 @@ content="Emily's balance of creativity and structure allow her to build solution
 reference="Rich - EMEA Product Director, Converse"
 %}
 
-## Service packages
+## Areas of expertise
 
 ---
 
