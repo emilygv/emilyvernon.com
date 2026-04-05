@@ -4,6 +4,7 @@ title: Establishing a B2B go-to-market strategy
 description: Positioning and creative direction for Yolélé Ingredients
 project_name: Yolélé Ingredients
 category: Creativity
+published: false
 image: /assets/images/casestudies/yolele/YI_hero.jpg
 thumbnail: /assets/images/casestudies/yolele/YI_thumbnail.jpg
 skip_section_icons: true
