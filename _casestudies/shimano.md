@@ -28,7 +28,7 @@ content="Creating specific areas in the Experience Center to take visitors on a 
 title="Key touchpoints" 
 content="Shimano’s expertise was brought to life through interactive and informative areas within the center." %}
 
-## Outcome
+## Impact
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
@@ -37,7 +37,7 @@ content="**The Shimano Experience Center is a hub for the entire community, from
 {% capture info-highlight %}
 #### Created center to host events and workshops
 |
-#### Attracted local and global visitors for activities
+#### Attracted both local and global visitors
 |
 #### Received 4.6 star review on Google from visitors
 {% endcapture %}
