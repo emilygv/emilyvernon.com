@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title: Reinventing a luxury hotel benchmark
-description: Spearheading experience strategy for the relaunch of Regent Hotels
+title: Reinventing a luxury hospitality benchmark
+description: Global experience strategy for a flagship hospitality relaunch
 project_name: Regent hotels and resorts 
 category: Creativity
 skip_section_icons: true
