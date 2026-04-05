@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title: Leading global standards for inclusive CX
-description: Integrating inclusion into professional CX standards
+title: Leading global standards for inclusive customer experience
+description: Integrating inclusion into professional CX standards for CXPA
 project_name: CXPA
 category: Creativity
 skip_section_icons: true
