@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title: Integrating inclusion into customer experience
-description: Serving as the editor-in-chief for a pioneering CXPA publication
+title: Leading global standards for inclusive CX
+description: Integrating inclusion into professional CX standards
 project_name: CXPA
 category: Creativity
 skip_section_icons: true
