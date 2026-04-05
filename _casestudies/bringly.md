@@ -28,17 +28,17 @@ title="Key screens"
 content="After making an order, tracking existing orders was key for users and required a clearer information structure." %}
 
 
-## Outcome
+## Impact
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
 content="**Pairing audit learnings with UX/UI best practices enabled the start-up to move quicker.** This is key when teams are building, iterating and releasing products often. By focusing on the key aspects of the experience - deliveries and tracking - **we were able to make a large impact with a focused deliverable.**" %}
 
 {% capture info-highlight %}
-#### Created brand consistency across platforms
+#### Created brand consistency
 |
 #### Helped retain a large, European retail client
 |
-#### Improved credibility through  a better experience
+#### Improved credibility through better UX
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
