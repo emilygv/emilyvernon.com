@@ -1,7 +1,7 @@
 ---
 layout: casestudy
 title: Scaling sustainable logistics for EU retailers
-description: Optimising B2B last-mile delivery portals to drive expansion and efficiency
+description: Optimising B2B last-mile delivery portals to drive expansion
 project_name: Bringly
 category: Creativity
 image: /assets/images/casestudies/bringly/bringly_hero_image.jpg
