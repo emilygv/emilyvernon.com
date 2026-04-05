@@ -5,6 +5,7 @@ description: Auditing the user experience for better decision-making
 project_name: Vestega
 category: Creativity
 featured: false
+published: false
 image: /assets/images/casestudies/vestega/VT_hero.jpg
 thumbnail: /assets/images/casestudies/vestega/VT_thumbnail.jpg
 skip_section_icons: true
