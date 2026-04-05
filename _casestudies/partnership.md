@@ -28,7 +28,7 @@ title="Full range and assets"
 content="The partnership included the design of  products, sales materials, in-store comms and digital assets." %}
 
 
-## Outcome
+## Impact
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
