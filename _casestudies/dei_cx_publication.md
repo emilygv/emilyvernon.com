@@ -27,7 +27,7 @@ content="Worked to get the right structure and resources for the 15+ member team
 title="Easy-to-read publication" 
 content="We used different content blocks and call outs to make this an engaging reference." %}
 
-## Outcome
+## Impact
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
