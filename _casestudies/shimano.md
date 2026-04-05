@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title:  Immersing adventurers into a brand's world
-description: Leading experience strategy for the Shimano Experience Center
+title:  Designing for technical immersion
+description: Bridging product rigour and human experience for Shimano
 project_name: Shimano experience center
 category: Creativity
 featured: false
