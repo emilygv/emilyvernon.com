@@ -28,7 +28,7 @@ title="Across the journey"
 content="Used the R-swirl shape and element to frame the heroes in our B2B cleaning narrative." %}
 
 
-## Outcome
+## Impact
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
@@ -37,7 +37,7 @@ content="**The professional corporate brand launched at two key trade shows in E
 {% capture info-highlight %}
 #### Achieved standout from competition
 |
-#### Launched first global Reckitt professional brand
+#### Launched first Reckitt professional brand
 |
 #### Rolled out globally to create consistency
 {% endcapture %}
