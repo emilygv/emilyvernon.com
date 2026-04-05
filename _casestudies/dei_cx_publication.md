@@ -1,7 +1,7 @@
 ---
 layout: casestudy
 title: Leading global standards for inclusive CX
-description: Defining the editorial vision and framework for a pioneering publication
+description: Defining the vision and framework for a pioneering publication
 project_name: CXPA
 category: Creativity
 skip_section_icons: true
