@@ -1,7 +1,7 @@
 ---
 layout: casestudy
 title: Launching a professional FMCG corporate brand
-description: Establishing the creative direction and brand strategy for Reckitt
+description: Establishing the creative direction and brand strategy for Reckitt Professional
 project_name: Reckitt Pro Solutions
 category: Creativity
 image: /assets/images/casestudies/reckitt/RB_hero.jpg
