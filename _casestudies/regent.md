@@ -4,6 +4,7 @@ title: Reinventing a luxury hospitality benchmark
 description: Global experience strategy for Regent Hotel's relaunch
 project_name: Regent hotels and resorts 
 category: Creativity
+featured: true
 skip_section_icons: true
 image: /assets/images/casestudies/regent/RG_hero.jpg
 thumbnail: /assets/images/casestudies/regent/RG_thumbnail.jpg
