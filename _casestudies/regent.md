@@ -28,7 +28,7 @@ content="Our impressive new positioning and brand identity will allow us to cont
 reference="Keith Barr - Former CEO IHG"
 %}
 
-## Outcome
+## Impact
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
