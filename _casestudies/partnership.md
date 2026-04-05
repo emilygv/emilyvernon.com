@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title: Building a B2B partnership for everyday hygiene
-description: Collaborating to launch a custom range and comms strategy
+title: Accelerating market entry via  partnerships
+description: Launching a range and comms strategy for everyday hygiene
 project_name: Partnership
 category: Creativity
 image: /assets/images/casestudies/partnership/ED_Hero.jpg
