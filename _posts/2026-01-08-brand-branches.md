@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2026-01-08/map.png"
-description: Teams chase an “authentic brand” as if there’s only one definitive expression. Let’s look at how authenticity is more about facets than singularity.
+description: Strong global brands don’t behave like fixed identities, but more like belief systems. They remain coherent as their different branches develop according to new localities. 
 further_reading:
     - Product Narrative Pathways
     - What Does Heritage Mean?
@@ -22,7 +22,7 @@ That observation stayed with me as I've seen global brands struggle with localis
 Strong global brands don’t behave like fixed identities. They behave more like belief systems. They remain coherent as their different branches develop according to new localities.
 
 ![](/assets/newsletter/2026-01-08/boat.jpg)
-*As Buddhism travelled, different branches emerged.*
+*As Buddhism travelled, different branches emerged.[Image Source](https://commons.wikimedia.org/wiki/File:Buddhist_Expansion-es.svg){:target="_blank"}*
 
 Often brand growth is treated as a consistency problem. As brands expand across markets, teams worry about dilution, fragmentation or losing control. 
 
@@ -57,10 +57,10 @@ When those layers are in place, brands don’t have to choose between consistenc
 
 ## And there's more
 
-✏️ Join: For something more festive, the [Amsterdam Light Festival](https://amsterdamlightfestival.com/en){:target="_blank"} is super charming for both visitors and locals.
+✏️ Join: [The Marketing Tech Revolution: Navigating AI, New Tools and Talent](https://www.fromdayone.com/conferences/2026/2026_m_january_virtual_marketing_tech){:target="_blank"} can be joined virtually on 21 January.
 
-📚 Read: [Convenience Store Woman](https://www.goodreads.com/book/show/36739755-convenience-store-woman){:target="_blank"} by Sayaka Murata is a sharp, insightful look at the tension between living authentically and fitting in.
+📚 Read: [Tiny Experiments](https://www.goodreads.com/book/show/214268997-tiny-experiments){:target="_blank"} by Anne-Laure Le Cunff is a good New Year read that encourages experiments over fixed goals.
 
-🎧 Listen: [How to Find a Problem Worth Solving](https://podcasts.apple.com/us/podcast/problem-solvers/id1265289056?i=1000737056091){:target="_blank"} by, well, Problem Solvers tries to answer a long-standing question.
+🎧 Listen: [Country of the Year](https://www.economist.com/podcasts/2025/12/19/country-of-the-year-the-economists-pick-for-2025){:target="_blank"} discusses and identifies which country improved the most in 2025.
 
-📍 Visit: [Kanazawa](https://www.lonelyplanet.com/articles/guide-to-kanazawa-japan){:target="_blank"} is a great addition to a Japan trip for its history, less crowds, notable gardens and walkable neighbourhoods.
+📍 Visit: [Doi Inthanon](https://www.thestupidbear.com/how-to-visit-doi-inthanon/){:target="_blank"} is a beautiful national park near Chiang Mai, Thailand with some nice hiking and cultural areas.
