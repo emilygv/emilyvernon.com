@@ -1,7 +1,7 @@
 ---
 category: Newsletter
-# image: "/assets/newsletter/2026-02-05/map.png"
-description: A culture’s operating system shapes how brands are experienced end-to-end: what customers expect, how interactions are designed and where effort sits. 
+# image: "/assets/newsletter/2026-01-08/map.png"
+description: Strong global brands don’t behave like fixed identities, but more like belief systems. They remain coherent as their different branches develop according to new localities. 
 further_reading:
     - The Future is Not Your Heritage, Sorry
     - Authenticity Range
