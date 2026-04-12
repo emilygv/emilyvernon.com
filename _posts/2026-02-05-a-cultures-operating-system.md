@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2026-02-05/map.png"
-description: Strong global brands don’t behave like fixed identities, but more like belief systems. They remain coherent as their different branches develop according to new localities. 
+description: A culture’s operating system shapes how brands are experienced end-to-end: what customers expect, how interactions are designed and where effort sits.
 further_reading:
     - The Future is Not Your Heritage, Sorry
     - Authenticity Range
@@ -54,3 +54,15 @@ Five questions to get started:
 5. Where do customers feel friction and who is expected to solve it?
 
 For brands, this shapes customer journeys, service design, rollout speed and partner effectiveness. Brands succeed by considering not just how they appear, but the system they’re entering.
+
+## Brand success comes from system fit, not surface-level localisation
+
+## And there's more
+
+✏️ Join: [Digital Marketing Europe 2026](https://digitalmarketingcon.eu){:target="_blank"} is taking place in Lisbon during April with talks and workshops.
+
+📚 Read: [Clear Thinking](https://www.goodreads.com/book/show/75665850-clear-thinking){:target="_blank"} by Shane Parrish, who runs one of my favourite newsletters, is a book to read and reread.
+
+🎧 Listen: [Ray Dalio on Economic Trends, Investing, and Making Decisions](https://hbr.org/podcast/2026/01/ray-dalio-on-economic-trends-investing-and-making-decisions-amid-uncertainty){:target="_blank"} discusses exactly what's in the title.
+
+📍 Visit: [Da Lat, Vietnam](https://vietnam.travel/places-to-go/central-vietnam/dalat){:target="_blank"} has a floral, forest-y vibe and is an easy add to any Vietnam itinerary.
