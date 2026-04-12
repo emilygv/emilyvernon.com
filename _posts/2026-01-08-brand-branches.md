@@ -22,7 +22,7 @@ That observation stayed with me as I've seen global brands struggle with localis
 Strong global brands don’t behave like fixed identities. They behave more like belief systems. They remain coherent as their different branches develop according to new localities.
 
 ![](/assets/newsletter/2026-01-08/boat.jpg)
-*As Buddhism travelled, different branches emerged.[Image Source](https://commons.wikimedia.org/wiki/File:Buddhist_Expansion-es.svg){:target="_blank"}*
+*As Buddhism travelled, different branches emerged. [Image Source](https://commons.wikimedia.org/wiki/File:Buddhist_Expansion-es.svg){:target="_blank"}*
 
 Often brand growth is treated as a consistency problem. As brands expand across markets, teams worry about dilution, fragmentation or losing control. 
 
