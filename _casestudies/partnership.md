@@ -1,7 +1,7 @@
 ---
 layout: casestudy
 title: Accelerating market entry via brand partnerships
-description: Creating a product range and comms strategy for Dettol x Tork
+description: Leveraging Dettol and Tork's co-brand equity for B2B growth
 project_name: Partnership
 category: Creativity
 image: /assets/images/casestudies/partnership/ED_Hero.jpg
