@@ -1,6 +1,6 @@
 ---
 layout: casestudy
-title:  Technical immersion in brand environments
+title: Driving engagement through immersive environments
 description: Bridging product rigour with emotional connection for Shimano
 project_name: Shimano experience center
 category: Creativity
