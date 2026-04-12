@@ -3,9 +3,9 @@ category: Newsletter
 # image: "/assets/newsletter/2026-01-08/map.png"
 description: Strong global brands don’t behave like fixed identities, but more like belief systems. They remain coherent as their different branches develop according to new localities. 
 further_reading:
-    - Product Narrative Pathways
-    - What Does Heritage Mean?
-    - Cultivating an Innovative Brand Image
+    - The Future is Not Your Heritage, Sorry
+    - Authenticity Range
+    - Trend Versus Opportunity
 ---
 
 ![](/assets/newsletter/2025-12-04/map.png)
