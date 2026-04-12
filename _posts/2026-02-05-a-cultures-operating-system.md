@@ -9,44 +9,48 @@ further_reading:
 ---
 
 ![](/assets/newsletter/2026-02-05/map.png)
-*Land travel as we wait for weather to cross the Indian Ocean*
+*Exploring Vietnam for a month before checking on the boat*
 
-As we travel through Asia, from Indonesia to Japan, Thailand to Laos, one thing became clear: belief systems don’t develop as fixed, uniform entities.
+When you move between countries often, culture stops feeling abstract and starts feeling operational. It is no longer about food, vibes and attractions, but about how things get done.
 
-Buddhism, as an example, is recognisable across countries, yet looks and feels different depending on where you are. The core philosophy remains intact, while rituals, aesthetics and practices branch out. 
+This led to a simple realisation. Cultures behave like operating systems. They set the defaults, permissions and constraints that shape how people, institutions and brands function.
 
-That observation stayed with me as I've seen global brands struggle with localisation and how to conceptualise those differences.
+When brands adapt to new markets, they usually focus on customer needs, competitors and local aesthetics. What’s often missed is the system those forces are operating within.
 
 ## Let's jump into it
 
-Strong global brands don’t behave like fixed identities. They behave more like belief systems. They remain coherent as their different branches develop according to new localities.
+When we sail into a country, we handle customs and immigration ourselves. It’s in these moments that a culture’s operating system reveals itself through how the clearance process unfolds.
 
 ![](/assets/newsletter/2026-02-05/boat.jpg)
-*As Buddhism travelled, different branches emerged. [Image Source](https://commons.wikimedia.org/wiki/File:Buddhist_Expansion-es.svg){:target="_blank"}*
+*Instructions for clearance in Bali, Indonesia*
 
-Often brand growth is treated as a consistency problem. As brands expand across markets, teams worry about dilution, fragmentation or losing control. 
+Brands face similar moments when they enter a new market. They’re suddenly operating inside a system shaped by different expectations, authority, communication and defaults.
 
-Working in both regional and global teams, I've seen how this tension plays out. Global teams think regions are going too far and regional teams think global teams don't understand their market.
+Take ride-hailing and food delivery apps. In much of Asia, Grab builds trust through dense interfaces and frequent confirmations, while in Europe, Uber tends to rely on restraint and minimal interaction.
 
-The usual response is to tighten rules, lock down assets and push for uniform execution. But this approach misunderstands how brands actually work at scale and this is where many get stuck.
+A culture’s operating system shapes how brands are experienced end-to-end: what customers expect, how interactions are designed and where effort sits between the brand and the customer.
 
-What’s missing is a clear structure that explains where consistency lives and where variation is not only allowed, but necessary. This is where we can take inspiration from branching systems.
+When brands realise they’re switching operating systems, adaptation becomes the work. Success comes from working with the system, not against it.
 
 ## A helpful resource
 
-The Brand Branches framework looks at global brands like a belief system. It separates brand decisions into three distinct layers: Global, Regional and Local, where each layer has a different purpose.
+The Culture Operating System Framework views culture as a system that shapes behaviour. Like an operating system, it sets defaults, permissions, error handling and pace.
 
 ![](/assets/newsletter/2026-02-05/framework.png)
-*Brand Branches*
+*Culture Operating System Framework*
 
-The brand defines its non-negotiable aspects at the global level. The regional layer interprets that into shared behavioural patterns, while the local layer adapts expression to its place.
+You see this when a food delivery order goes wrong. Some markets expect real-time coordination to fix it, while others expect the system to resolve it quietly.
 
-Use these five questions to get started with Brand Branches:
+These cultural operating principles determine speed, trust and friction long before brand messaging is even noticed.
 
-1. What in our brand must never change, anywhere?
-2. Where are we skipping the regional layer entirely?
-3. What behaviours are shared across multiple markets?
-4. Where has local adaptation already worked well?
-5. When something feels “off-brand,” which layer is actually unclear?
+Every market runs on an invisible operating system. Brands struggle when they focus on surface-level localisation instead of understanding how decisions are made, authority is exercised and effort is distributed.
 
-Brand Branches offers a more useful way to think about growth. Instead of asking how tightly a brand can be controlled, it shifts the question to how belief, interpretation and expression are defined. 
+Five questions to get started:
+
+1. What is communicated directly and what is already understood?
+2. What has to happen informally to make progress?
+3. What actions make people feel confident or nervous?
+4. When something goes wrong, who is expected to fix it?
+5. Where do customers feel friction and who is expected to solve it?
+
+For brands, this shapes customer journeys, service design, rollout speed and partner effectiveness. Brands succeed by considering not just how they appear, but the system they’re entering.
