@@ -9,53 +9,51 @@ further_reading:
 ---
 
 ![](/assets/newsletter/2025-12-04/map.png)
-*Left the boat in Bali to explore Japan*
+*Land travel as we wait for weather to cross the Indian Ocean*
 
-We’ve been travelling through Japan and the word authentic keeps coming up. Authentic food. Authentic neighbourhoods. Authentic experiences. 
+As we travel through Asia, from Indonesia to Japan, Thailand to Laos, one thing became clear: belief systems don’t develop as fixed, uniform entities.
 
-It’s everywhere, almost like a stamp of approval you’re supposed to chase as a traveller. But the more you hear it, the more you realise authenticity isn’t one thing.
+Buddhism, as an example, is recognisable across countries, yet looks and feels different depending on where you are. The core philosophy remains intact, while rituals, aesthetics and practices branch out. 
 
-The same confusion shows up in marketing. Teams chase an “authentic brand” as if there’s only one definitive expression. Let’s look at how authenticity is more about facets than singularity.
+That observation stayed with me as I've seen global brands struggle with localisation and how to conceptualise those differences.
 
 ## Let's jump into it
 
-Travelling teaches you quickly that multiple authentic versions can coexist. Tokyo, as an example, is a contrast of touristy and stylish, anime and old, futuristic and traditional neighbourhoods all in one city.
-
-None of these are more or less “real” or "authentic". They’re just different facets of the same place.
+Strong global brands don’t behave like fixed identities. They behave more like belief systems. They remain coherent as their different branches develop according to new localities.
 
 ![](/assets/newsletter/2026-01-08/boat.jpg)
-*The different district vibes of Tokyo*
+*As Buddhism travelled, different branches emerged.*
 
-Brands work the same way. They need space to shift between audiences, formats, expressions and touchpoints.
+Often brand growth is treated as a consistency problem. As brands expand across markets, teams worry about dilution, fragmentation or losing control. 
 
-Trying to hold everything to one narrow “authentic” brand is like expecting every part of a city to look identical. You lose richness, contrast and depth. And eventually, everything starts feeling flat.
+Working in both regional and global teams, I've seen how this tension plays out. Global teams think regions are going too far and regional teams think global teams don't understand their market.
 
-Back in my footwear days, I admired how streetwear brands shifted narratives from tech to heritage, serious to playful. Seeing Japan’s most aspirational streetwear stores reminded me of that range.
+The usual response is to tighten rules, lock down assets and push for uniform execution. But this approach misunderstands how brands actually work at scale and this is where many get stuck.
 
-It’s about recognising which parts of your brand are stable and which flex. When you design for that range, communication becomes sharper, teams align faster and your brand feels more relatable.
+What’s missing is a clear structure that explains where consistency lives and where variation is not only allowed, but necessary. This is where we can take inspiration from branching systems.
 
 ## A helpful resource
 
-Here’s a simple way to see whether your brand is using its full range of authenticity or getting stuck in one narrow part of itself.
-
-Think of your brand like a city, where each district has its purpose. A healthy brand moves through all of them without losing the sense of being in the same place.
+The Brand Branches framework looks at global brands like a belief system. It separates brand decisions into three distinct layers: Global, Regional and Local, where each layer has a different purpose.
 
 ![](/assets/newsletter/2026-01-08/framework.png)
-*Authenticity Districts*
+*Brand Branches*
 
-This becomes a one-page exercise you can use in brand workshops, content planning or creative reviews. It helps teams see where the brand should flex, where it should stay consistent and where it may be over-extending.
+The brand defines its non-negotiable aspects at the global level. The regional layer interprets that into shared behavioural patterns, while the local layer adapts expression to its place.
 
-Use these five questions to guide the mapping:
+Use these five questions to get started with Brand Branches:
 
-1. Do the core values show up across every expression?
-2. Where does the brand naturally flex and where does it start to break?
-3. Does each expression still feel recognisably “us”?
-4. Would our audience understand the shift without feeling confused?
-5. Is there an Authenticity District we should explore more?
+1. What in our brand must never change, anywhere?
+2. Where are we skipping the regional layer entirely?
+3. What behaviours are shared across multiple markets?
+4. Where has local adaptation already worked well?
+5. When something feels “off-brand,” which layer is actually unclear?
 
-The Authenticity Districts Framework frames authenticity as a city you navigate. It reveals the brand’s true range and creates space for more natural expressions.
+Brand Branches offers a more useful way to think about growth. Instead of asking how tightly a brand can be controlled, it shifts the question to how belief, interpretation and expression are defined. 
 
-## A brand, much like a city, is one place with many authentic expressions
+When those layers are in place, brands don’t have to choose between consistency and relevance. They expand, adapt and stay recognisable at the same time, because variation is part of the design.
+
+## Strong global brands scale by branching with intent
 
 ## And there's more
 
