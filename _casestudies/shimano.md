@@ -1,7 +1,7 @@
 ---
 layout: casestudy
 title:  Technical immersion in brand environments
-description: Bridging product rigour and human experience for Shimano
+description: Bridging product rigour with emotional connection for Shimano
 project_name: Shimano experience center
 category: Creativity
 featured: false
