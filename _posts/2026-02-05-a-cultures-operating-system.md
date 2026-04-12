@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2026-02-05/map.png"
-description: A culture’s operating system shapes how brands are experienced end to end: what customers expect, how interactions are designed and where effort sits.
+description: A culture’s operating system shapes how brands are experienced end-to-end, including what customers expect, how interactions are designed and where effort sits.
 further_reading:
     - The Future is Not Your Heritage, Sorry
     - Authenticity Range
