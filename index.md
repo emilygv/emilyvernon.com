@@ -41,7 +41,7 @@ class="mb-6"
 
 {% include blockquote.html 
 content="Emily is an all-round strategy powerhouse, combining in-depth analytical thinking with future-forward creativity." 
-reference="Asell - Strategy + Experience Director UXUS/McCann"
+reference="Asell - Strategy + Experience Director FutureBrand UXUS"
 %}
 
 {% include post_cards.html
