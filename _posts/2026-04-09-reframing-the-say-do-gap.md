@@ -38,7 +38,7 @@ The more useful question is not why people act differently from what they say, b
 
 The Decision Forces Framework is a way to understand how decisions resolve in real environments. It reframes the say-do gap as the outcome of competing forces at the moment of choice.
 
-![](/assets/newsletter/2026-03-05/framework.png)
+![](/assets/newsletter/2026-04-09/framework.png)
 *Decision Forces Framework*
 
 Most efforts focus on shaping intent, but that is not where decisions are made. Decisions happen in context. They are shaped by time pressure, comparison systems, habits and constraints.
