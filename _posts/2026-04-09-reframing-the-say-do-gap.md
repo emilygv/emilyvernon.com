@@ -61,10 +61,10 @@ When friction is reduced and context is designed with intent, Identity has a cha
 
 ## And there's more
 
-✏️ Join: [Design week season is kicking off](https://www.fractionalsunited.com){:target="_blank"} and it's worth seeing if you're in town for any of them.
+✏️ Join: [Design week season is kicking off](https://www.fuorisalone.it/en/world-design-events){:target="_blank"} and it's worth seeing if you're in town for any of them.
 
-📚 Read: [Patterns of India](https://www.amazon.com/Comparative-Grammar-Spanish-Portuguese-Italian/dp/B0D8ZL2F7F){:target="_blank"} is a charming book around the patterns in the culture and everyday life of Rajasthan.
+📚 Read: [Patterns of India](https://www.goodreads.com/book/show/52035217-patterns-of-india){:target="_blank"} is a charming book around the patterns in the culture and everyday life of Rajasthan.
 
-🎧 Listen: [The tactical playbook for getting 20-40% more com](https://podcasts.apple.com/us/podcast/problem-solvers/id1265289056?i=1000749937230){:target="_blank"} is an informative listen for anyone who doesn't like negotiating.
+🎧 Listen: [The tactical playbook for getting 20-40% more com](https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000755397535){:target="_blank"} is an informative listen for anyone who doesn't like negotiating.
 
-📍 Visit: [Udaipur, India](https://thehappyjetlagger.com/en/things-to-do-in-hue/){:target="_blank"} seems to be the favourite place of many locals and visitors alike.
+📍 Visit: [Udaipur, India](https://www.thecommonwanderer.com/blog/places-to-visit-in-udaipur-india){:target="_blank"} seems to be the favourite place of many locals and visitors alike.
