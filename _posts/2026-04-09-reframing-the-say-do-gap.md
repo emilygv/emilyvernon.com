@@ -65,6 +65,6 @@ When friction is reduced and context is designed with intent, Identity has a cha
 
 📚 Read: [Patterns of India](https://www.goodreads.com/book/show/52035217-patterns-of-india){:target="_blank"} is a charming book around the patterns in the culture and everyday life of Rajasthan.
 
-🎧 Listen: [The tactical playbook for getting 20-40% more com](https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000755397535){:target="_blank"} is an informative listen for anyone who doesn't like negotiating.
+🎧 Listen: [The tactical playbook for getting 20-40% more comp](https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000755397535){:target="_blank"} is an informative listen for anyone who doesn't like negotiating.
 
 📍 Visit: [Udaipur, India](https://www.thecommonwanderer.com/blog/places-to-visit-in-udaipur-india){:target="_blank"} seems to be the favourite place of many locals and visitors alike.
