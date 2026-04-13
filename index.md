@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "A brand and creative director building experiential global brands."
-description= "Bridging the gap between high-level strategy and the patron experience. Drawing on 15+ years of leadership across the US, UK and EU to translate complex visions into a brand narrative across every touchpoint."
+description= "Bridging the gap between strategy and the brand experience. Drawing on 15+ years of leading teams across the US, UK and EU to translate complex visions into a cohesive narrative across every touchpoint."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
