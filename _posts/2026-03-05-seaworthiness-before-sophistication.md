@@ -1,11 +1,11 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2026-03-05/map.png"
-description: A culture’s operating system shapes how brands are experienced, including what customers expect, how interactions are designed and where effort sits.
+description: The leaders who build durable brands are those who understand which layers must hold before others can scale, and who are willing to stabilise the fundamentals.
 further_reading:
-    - Feeling like a Subculture Tourist
-    - Authenticity Range
-    - Freeing Effects of Travel on Creativity
+    - How Everyday Ridiculousness Drives Innovation
+    - Better Creative Briefs Through Empathy
+    - The Relevance Readiness Cycle
 ---
 
 ![](/assets/newsletter/2026-03-05/map.png)
