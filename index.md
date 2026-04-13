@@ -2,14 +2,14 @@
 layout: page
 title: Brand & marketing director consulting global businesses
 description: Enabling brands and businesses to increase awareness and engagement through brand positioning, marketing messaging and marketing optimisation.
-hero_text: <mark>Global growth through</mark> <br><mark class="normal">creative excellence</mark> <br><mark>& scalable brand equity</mark>
+hero_text: <mark>Global growth through</mark> <br><mark class="normal">experience architecture</mark> <br><mark>& scalable brand equity</mark>
 # hero_image: /assets/img/home.png
 # hero_bgcolor: "#d4e8d5"
 ---
 
 {% include hero_intro.html
 title= "Subscribe to the Brandvoy briefing"
-subtitle= "Exclusive brand and marketing frameworks, inspired by sailing the world."
+subtitle= "Exclusive brand and experience frameworks, inspired by sailing the world."
 class= "bg-lgrey"
 image= "/assets/images/Brandvoy_newsletter.png"
 button_title= "Sign up" button_link= "https://subscribepage.io/JVO2fx"
@@ -18,8 +18,8 @@ button_link_new_window= true
 
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
-subtitle= "A brand and creative director building experiential global brands."
-description= "With 15+ years leading teams across the US, UK and EU, I translate complex strategies into a cohesive brand experience across every touchpoint."
+subtitle= "Building the strategic frameworks that define global brand experiences."
+description= "With 15+ years leading teams across the US, UK and EU, I translate business strategy into a cohesive brand ecosystem across every touchpoint."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
@@ -32,7 +32,7 @@ button_title= "Get to know me" button_link= "/about/"
 {% include hero_intro.html
 title= "Cut through the noise"
 subtitle= "In a saturated global market, clarity is an operational necessity."
-description= "Ambitious brand visions become reality by aligning creative partners with technical constraints. This enables global brands to scale without losing their soul."
+description= "I bridge the gap between ambitious creative vision and technical reality, ensuring global brands scale without losing their soul."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
