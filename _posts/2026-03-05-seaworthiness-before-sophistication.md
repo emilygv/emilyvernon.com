@@ -1,6 +1,6 @@
 ---
 category: Newsletter
-# image: "/assets/newsletter/2026-02-05/map.png"
+# image: "/assets/newsletter/2026-03-05/map.png"
 description: A culture’s operating system shapes how brands are experienced, including what customers expect, how interactions are designed and where effort sits.
 further_reading:
     - Feeling like a Subculture Tourist
@@ -8,54 +8,54 @@ further_reading:
     - Freeing Effects of Travel on Creativity
 ---
 
-![](/assets/newsletter/2026-02-05/map.png)
-*Exploring Vietnam for a month before checking on the boat*
+![](/assets/newsletter/2026-03-05/map.png)
+*Back in Bali checking on the boat and visiting friends*
 
-When you move between countries often, culture stops feeling abstract and starts feeling operational. It is no longer about food, vibes and attractions, but about how things get done.
+People often assume a sailboat needs to be complete before heading offshore. Every system upgraded, every imperfection resolved, every improvement finished.
 
-This led to a simple realisation. Cultures behave like operating systems. They set the defaults, permissions and constraints that shape how people, institutions and brands function.
+In practice, it rarely works that way. Our boat is almost never “done.” What matters is not whether everything is optimised, but whether it is seaworthy. 
 
-When brands adapt to new markets, they usually focus on customer needs, competitors and local aesthetics. What’s often missed is the system those forces are operating within.
+That distinction reshaped how I think about managing complex brand portfolios. The goal is not to perfect every visible layer, but to ensure the brand can hold under pressure.
 
 ## Let's jump into it
 
-When we sail into a country, we handle customs and immigration ourselves. It’s in these moments that a culture’s operating system reveals itself through how the clearance process unfolds.
+On a boat, the hierarchy is clear. The first priority is seaworthiness: does it float, can it steer, are essential systems working. Optimisation and comfort only matter once those conditions are secure.
 
-![](/assets/newsletter/2026-02-05/boat.jpg)
-*Instructions for clearance in Bali, Indonesia*
+![](/assets/newsletter/2026-03-05/boat.jpg)
+*Taking care of the engine is essential for steerage*
 
-Brands face similar moments when they enter a new market. They’re suddenly operating inside a system shaped by different expectations, authority, communication and defaults.
+Brands follow a similar hierarchy, though we often reverse it.
 
-Take ride-hailing and food delivery apps. In much of Asia, Grab builds trust through dense interfaces and frequent confirmations, while in Europe, Uber tends to rely on restraint and minimal interaction.
+The more visible layers draw attention because they signal progress. But when viability, alignment or execution infrastructure are unstable, refinement amplifies fragility rather than strength.
 
-A culture’s operating system shapes how brands are experienced end-to-end: what customers expect, how interactions are designed and where effort sits between the brand and the customer.
+I have seen this most clearly when establishing brands in new markets. It is tempting to benchmark against established players and invest in the polishing layer. 
 
-When brands realise they’re switching operating systems, adaptation becomes the work. Success comes from working with the system, not against it.
+In practice, the real work sits lower: clarifying direction, aligning leadership, defining architecture and building governance that allows teams to move without renegotiating fundamentals.
+
+Seaworthiness must precede sophistication.
 
 ## A helpful resource
 
-The Culture Operating System Framework views culture as a system that shapes behaviour. Like an operating system, it sets defaults, permissions, error handling and pace.
+The Seaworthy Brand Framework is a prioritisation filter for complex portfolios. It asks leaders to separate structural stability from surface-level refinement and to allocate attention in the right order.
 
-![](/assets/newsletter/2026-02-05/framework.png)
-*Culture Operating System Framework*
+![](/assets/newsletter/2026-03-05/framework.png)
+*Seaworthy Brand Framework*
 
-You see this when a food delivery order goes wrong. Some markets expect real-time coordination to fix it, while others expect the system to resolve it quietly.
+Many organisations invest from the top down. They elevate experience while alignment is unclear, optimise performance while governance is inconsistent and interpret activity as progress. 
 
-These cultural operating principles determine speed, trust and friction long before brand messaging is even noticed.
-
-Every market runs on an invisible operating system. Brands struggle when they focus on surface-level localisation instead of understanding how decisions are made, authority is exercised and effort is distributed.
+The result is movement without structural strength. Discipline is about sequencing. When the underlying system is stable, optimisation compounds. When it is not, refinement disguises risk.
 
 Five questions to get started:
 
-1. What is communicated directly and what is already understood?
-2. What has to happen informally to make progress?
-3. What actions make people feel confident or nervous?
-4. When something goes wrong, who is expected to fix it?
-5. Where do customers feel friction and who is expected to solve it?
+1. What is the single biggest threat to your brand’s business viability?
+2. Is your leadership team aligned on a clear strategic direction?
+3. Does your executional infrastructure allow teams to move without friction?
+4. Is your performance marketing actually masking structural instability?
+5. Are you prioritising surface-level refinement over core operational stability?
 
-For brands, this shapes customer journeys, service design, rollout speed and partner effectiveness. Brands succeed by considering not just how they appear, but the system they’re entering.
+The leaders who build durable brands are those who understand which layers must hold before others can scale, and who are willing to stabilise the fundamentals before pursuing visible improvement.
 
-## Brand success comes from system fit, not surface-level localisation
+## Strong brands are built on seaworthiness first
 
 ## And there's more
 
