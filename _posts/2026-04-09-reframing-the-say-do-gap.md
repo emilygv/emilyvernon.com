@@ -1,7 +1,7 @@
 ---
 category: Newsletter
 # image: "/assets/newsletter/2026-04-09/map.png"
-description: The leaders who build durable brands are those who understand which layers must hold before others can scale, and who are willing to stabilise the fundamentals.
+description: When behaviour does not match intent, teams question everything. In practice, belief is rarely the issue. The issue is which force was strongest in that moment.
 further_reading:
     - How Everyday Ridiculousness Drives Innovation
     - Better Creative Briefs Through Empathy
@@ -9,60 +9,62 @@ further_reading:
 ---
 
 ![](/assets/newsletter/2026-04-09/map.png)
-*Back in Bali checking on the boat and visiting friends*
+*There are direct flights from Delhi to Rome, so here we are*
 
-People often assume a sailboat needs to be complete before heading offshore. Every system upgraded, every imperfection resolved, every improvement finished.
+As we’ve travelled from Argentina to India, across large countries and remote islands, one pattern has shown up consistently: the so-called "say-do gap", where people say one thing and do another.
 
-In practice, it rarely works that way. Our boat is almost never “done.” What matters is not whether everything is optimised, but whether it is seaworthy. 
+It cuts across cultures, backgrounds and contexts. In our industry, this is framed as a problem. A failure of honesty or follow-through, something to fix with better messaging or more persuasion.
 
-That distinction reshaped how I think about managing complex brand portfolios. The goal is not to perfect every visible layer, but to ensure the brand can hold under pressure.
+That framing is misleading. This is not a flaw in human behaviour, but a feature. If we want to help people act in line with their intentions, we need to understand what is happening when decisions are made.
 
 ## Let's jump into it
 
-On a boat, the hierarchy is clear. The first priority is seaworthiness: does it float, can it steer, are essential systems working. Optimisation and comfort only matter once those conditions are secure.
+During our sailing and travelling, we've meet a wide range of people. Most have good intentions, or so I believe, and everyone has a version of themselves they aspire to be.
 
 ![](/assets/newsletter/2026-04-09/boat.png)
-*Taking care of the engine is essential for steerage*
+*Drivers meant well, but we were often overcharged.*
 
-Brands follow a similar hierarchy, though we often reverse it.
+Understanding these aspirations, most organisations overinvest in “Identity”. They focus on shaping what people say they want through brand building, positioning and storytelling.
 
-The more visible layers draw attention because they signal progress. But when viability, alignment or execution infrastructure are unstable, refinement amplifies fragility rather than strength.
+But human intentions do not reliably translate into action. Real life intervenes, and context reshapes priorities.
 
-I have seen this most clearly when establishing brands in new markets. It is tempting to benchmark against established players and invest in the polishing layer. 
+In consumer products, this dynamic is constant. People say they want more sustainable options, healthier ingredients and better choices. But then the moment of decision arrives and behaviour shifts.
 
-In practice, the real work sits lower: clarifying direction, aligning leadership, defining architecture and building governance that allows teams to move without renegotiating fundamentals.
+This is not because the intention disappeared, but because something else took priority at that moment. This is where frustration builds and brand teams often feel misled. 
 
-Seaworthiness must precede sophistication.
+The more useful question is not why people act differently from what they say, but what affects the decision in the moment.
 
 ## A helpful resource
 
-The Seaworthy Brand Framework is a prioritisation filter for complex portfolios. It asks leaders to separate structural stability from surface-level refinement and to allocate attention in the right order.
+The Decision Forces Framework is a way to understand how decisions resolve in real environments. It reframes the say-do gap as the outcome of competing forces at the moment of choice.
 
 ![](/assets/newsletter/2026-03-05/framework.png)
-*Seaworthy Brand Framework*
+*Decision Forces Framework*
 
-Many organisations invest from the top down. They elevate experience while alignment is unclear, optimise performance while governance is inconsistent and interpret activity as progress. 
+Most efforts focus on shaping intent, but that is not where decisions are made. Decisions happen in context. They are shaped by time pressure, comparison systems, habits and constraints.
 
-The result is movement without structural strength. Discipline is about sequencing. When the underlying system is stable, optimisation compounds. When it is not, refinement disguises risk.
+When behaviour does not match intent, however, teams question the consumer, research or proposition. In practice, belief is rarely the issue. The issue is which force was strongest in that moment.
 
 Five questions to get started:
 
-1. What is the single biggest threat to your brand’s business viability?
-2. Is your leadership team aligned on a clear strategic direction?
-3. Does your executional infrastructure allow teams to move without friction?
-4. Is your performance marketing actually masking structural instability?
-5. Are you prioritising surface-level refinement over core operational stability?
+1. What do people say they want to do?
+2. What do they actually choose?
+3. What is getting in the way?
+4. How do we make the right choice the easy one?
+5. What is one thing we could improve knowing this?
 
-The leaders who build durable brands are those who understand which layers must hold before others can scale, and who are willing to stabilise the fundamentals before pursuing visible improvement.
+The organisations that apply this well stop asking why consumers fail to follow through, or why there is a say-do gap. They focus instead on reshaping the conditions where decisions are made.
+
+When friction is reduced and context is designed with intent, Identity has a chance to show up in behaviour.
 
 ## Our decisions are shaped by forces, not intent or identity alone
 
 ## And there's more
 
-✏️ Join: [Fractionals United](https://www.fractionalsunited.com){:target="_blank"} is a community dedicated to fractional roles (part-time executive leaders) and their challenges.
+✏️ Join: [Design week season is kicking off](https://www.fractionalsunited.com){:target="_blank"} and it's worth seeing if you're in town for any of them.
 
-📚 Read: [Comparative Grammar of Spanish, Portuguese, Italian and French](https://www.amazon.com/Comparative-Grammar-Spanish-Portuguese-Italian/dp/B0D8ZL2F7F){:target="_blank"} helps build upon the languages you already know.
+📚 Read: [Patterns of India](https://www.amazon.com/Comparative-Grammar-Spanish-Portuguese-Italian/dp/B0D8ZL2F7F){:target="_blank"} is a charming book around the patterns in the culture and everyday life of Rajasthan.
 
-🎧 Listen: [How to Engineer the Perfect Product Market Fit](https://podcasts.apple.com/us/podcast/problem-solvers/id1265289056?i=1000749937230){:target="_blank"} is an informative interview with the founder of Allbirds and Biologica.
+🎧 Listen: [The tactical playbook for getting 20-40% more com](https://podcasts.apple.com/us/podcast/problem-solvers/id1265289056?i=1000749937230){:target="_blank"} is an informative listen for anyone who doesn't like negotiating.
 
-📍 Visit: [Hue](https://thehappyjetlagger.com/en/things-to-do-in-hue/){:target="_blank"} is the formal imperial capital of Vietnam and offers a lot of beautiful architectural sights.
+📍 Visit: [Udaipur, India](https://thehappyjetlagger.com/en/things-to-do-in-hue/){:target="_blank"} seems to be the favourite place of many locals and visitors alike.
