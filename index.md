@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "A brand and creative director building experiential global brands."
-description= "With 15+ years leading global brands, I bridge the gap between high-level strategy and the patron experience. The goal is a seamless story across every touchpoint, from digital interfaces to physical spaces."
+description= "Bridging the gap between high-level strategy and the patron experience. Drawing on 15+ years of leadership across the US, UK and EU to translate complex visions into a brand narrative across every touchpoint."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
@@ -32,7 +32,7 @@ button_title= "Get to know me" button_link= "/about/"
 {% include hero_intro.html
 title= "Cut through the noise"
 subtitle= "In a saturated global market, clarity is an operational necessity."
-description= "Turning ambitious brand visions into tangible realities by aligning creative partners with technical constraints. This creates the strategies that allow brands to scale globally without losing their soul"
+description= "Ambitious brand visions become tangible realities by aligning creative partners with technical constraints. This enables global brands to scale rapidly without losing their soul or sense of place."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
