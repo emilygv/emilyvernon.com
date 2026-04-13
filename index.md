@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "A brand and creative director building experiential global brands."
-description= "With 15+ years leading teams across the US, UK and EU, I translate complex strategy into a cohesive brand experience across every touchpoint."
+description= "With 15+ years leading teams across the US, UK and EU, I translate complex strategies into a cohesive brand experience across every touchpoint."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
