@@ -32,7 +32,7 @@ button_title= "Get to know me" button_link= "/about/"
 {% include hero_intro.html
 title= "Cut through the noise"
 subtitle= "In a saturated global market, clarity is an operational necessity."
-description= "Ambitious brand visions become reality by aligning creative partners with technical constraints. This enables global brands to scale without losing their soul or sense of place."
+description= "Ambitious brand visions become reality by aligning creative partners with technical constraints. This enables global brands to scale without losing their soul."
 image= "/assets/images/homepage_hero.png"
 button_title= "Book a call" button_link= "https://calendly.com/emilygvernon/30min"
 button_link_new_window= true
