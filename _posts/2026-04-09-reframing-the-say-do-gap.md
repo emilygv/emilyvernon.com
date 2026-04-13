@@ -1,6 +1,6 @@
 ---
 category: Newsletter
-# image: "/assets/newsletter/2026-03-05/map.png"
+# image: "/assets/newsletter/2026-04-09/map.png"
 description: The leaders who build durable brands are those who understand which layers must hold before others can scale, and who are willing to stabilise the fundamentals.
 further_reading:
     - How Everyday Ridiculousness Drives Innovation
@@ -8,7 +8,7 @@ further_reading:
     - The Relevance Readiness Cycle
 ---
 
-![](/assets/newsletter/2026-03-05/map.png)
+![](/assets/newsletter/2026-04-09/map.png)
 *Back in Bali checking on the boat and visiting friends*
 
 People often assume a sailboat needs to be complete before heading offshore. Every system upgraded, every imperfection resolved, every improvement finished.
@@ -21,7 +21,7 @@ That distinction reshaped how I think about managing complex brand portfolios. T
 
 On a boat, the hierarchy is clear. The first priority is seaworthiness: does it float, can it steer, are essential systems working. Optimisation and comfort only matter once those conditions are secure.
 
-![](/assets/newsletter/2026-03-05/boat.jpg)
+![](/assets/newsletter/2026-04-09/boat.png)
 *Taking care of the engine is essential for steerage*
 
 Brands follow a similar hierarchy, though we often reverse it.
@@ -55,7 +55,7 @@ Five questions to get started:
 
 The leaders who build durable brands are those who understand which layers must hold before others can scale, and who are willing to stabilise the fundamentals before pursuing visible improvement.
 
-## Strong brands are built on seaworthiness first
+## Our decisions are shaped by forces, not intent or identity alone
 
 ## And there's more
 
