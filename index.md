@@ -19,7 +19,7 @@ button_link_new_window= true
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
 subtitle= "Building the strategic frameworks that define global brand experiences."
-description= "With 15+ years leading teams across the US, UK and EU, I translate business strategy into a cohesive brand ecosystem across every touchpoint."
+description= "With 15+ years leading teams across the US, UK and EU, I translate business strategy into a unified brand ecosystem across every touchpoint."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
 button_title= "Get to know me" button_link= "/about/"
