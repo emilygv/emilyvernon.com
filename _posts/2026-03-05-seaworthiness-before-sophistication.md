@@ -59,10 +59,10 @@ The leaders who build durable brands are those who understand which layers must 
 
 ## And there's more
 
-✏️ Join: [Digital Marketing Europe 2026](https://digitalmarketingcon.eu){:target="_blank"} is taking place in Lisbon during April with talks and workshops.
+✏️ Join: [Fractionals United](https://www.fractionalsunited.com){:target="_blank"} is a community dedicated to fractional roles (part-time executive leaders) and their challenges.
 
-📚 Read: [Clear Thinking](https://www.goodreads.com/book/show/75665850-clear-thinking){:target="_blank"} by Shane Parrish, who runs one of my favourite newsletters, is a book to read and reread.
+📚 Read: [Comparative Grammar of Spanish, Portuguese, Italian and French](https://www.amazon.com/Comparative-Grammar-Spanish-Portuguese-Italian/dp/B0D8ZL2F7F){:target="_blank"} helps build upon the languages you already know.
 
-🎧 Listen: [Ray Dalio on Economic Trends, Investing, and Making Decisions](https://hbr.org/podcast/2026/01/ray-dalio-on-economic-trends-investing-and-making-decisions-amid-uncertainty){:target="_blank"} discusses exactly what's in the title.
+🎧 Listen: [How to Engineer the Perfect Product Market Fit](https://podcasts.apple.com/us/podcast/problem-solvers/id1265289056?i=1000749937230){:target="_blank"} is an informative interview with the founder of Allbirds and Biologica.
 
-📍 Visit: [Da Lat, Vietnam](https://vietnam.travel/places-to-go/central-vietnam/dalat){:target="_blank"} has a floral, forest-y vibe and is an easy add to any Vietnam itinerary.
+📍 Visit: [Hue](https://thehappyjetlagger.com/en/things-to-do-in-hue/){:target="_blank"} is the formal imperial capital of Vietnam and offers a lot of beautiful architectural sights.
