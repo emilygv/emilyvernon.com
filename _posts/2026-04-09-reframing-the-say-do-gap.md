@@ -3,9 +3,9 @@ category: Newsletter
 # image: "/assets/newsletter/2026-04-09/map.png"
 description: When behaviour does not match intent, teams question everything. In practice, belief is rarely the issue. The issue is which force was strongest in that moment.
 further_reading:
-    - How Everyday Ridiculousness Drives Innovation
-    - Better Creative Briefs Through Empathy
-    - The Relevance Readiness Cycle
+    - Demystifying Personalisation in Customer Experience
+    - What is your Empathy Report Card?
+    - Customer Persona Fundamentals
 ---
 
 ![](/assets/newsletter/2026-04-09/map.png)
