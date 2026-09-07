@@ -27,7 +27,7 @@ content="Led the team in defining and refining a clear B2B positioning and messa
 {% include img_caption.html 
 title="Brochures and trade show prep" 
 content="Evolved the B2C design language into a credible B2B system, preserving brand personality." %}
-{% comment %}
+{% endcomment %}
 
 ## Outcome
 
