@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title: Increasing brand awareness through distinct design and service rituals
-description: Spearheading strategy for a China-specific retail experience
+title: Increasing brand awareness through a brand refresh
+description: Spearheading the creative and retail strategy for a China
 project_name: Clinique
 category: Creativity
 published: true
