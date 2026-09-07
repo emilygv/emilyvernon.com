@@ -38,8 +38,8 @@ content="Grounding the work in clear positioning created a scalable foundation f
 {% capture info-highlight %}
 #### Retail experience adapted by Global
 |
-#### Improved buyer understanding and engagement
+#### North American rollout within 18 months
 |
-#### Reduced internal ambiguity around market entry
+#### Expanded from physical stores into digital experience
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
