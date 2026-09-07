@@ -12,7 +12,7 @@ challange: "Clinique wants to create great skin for everyone. While the brand is
 approach: "Worked with a team of designers and a creative director to bring this to life. **Defining and clarifying the user needs, cultural expectations, competitor landscape, design sensibility and USPs of the brand was key** to build out the retail concept, touchpoints and services."
 responsibilities: [Workshop Design, Workshop Moderation, Competitor Analysis, Brand Strategy, Experience Strategy, Customer Personas, Customer Journey Mapping, Touchpoint Guidelines, Communication Hierarchy, Service Design]
 ---
-
+{% comment %}
 {% include section_icons.html 
 titles="Workshop, Brand Positioning, Retail Strategy, Creative Rollout" 
 icons="Discover, Define, Design, Validate"
@@ -27,13 +27,13 @@ content="Led the team in defining and refining a clear B2B positioning and messa
 {% include img_caption.html 
 title="Brochures and trade show prep" 
 content="Evolved the B2C design language into a credible B2B system, preserving brand personality." %}
-
+{% comment %}
 
 ## Outcome
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
-content="Grounding the work in clear positioning created a scalable foundation for subsequent communications. **The team gained a repeatable messaging framework they could test, refine and adapt based on client response.** Further, the process aligned the global organisation around a shared B2B narrative, increasing clarity, consistency and confidence going into market." %}
+content="The China retail concept created a scalable foundation for Clinique’s next generation retail experience. Originally developed for the Chinese market, the concept was adopted as the brand’s global retail approach within five months of launch. It also shaped how Clinique connected physical and digital discovery." %}
 
 {% capture info-highlight %}
 #### Retail experience adapted by Global
