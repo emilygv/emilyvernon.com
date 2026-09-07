@@ -18,7 +18,7 @@ button_link_new_window= true
 
 {% include hero_intro.html
 title= "Hi there - I’m Emily"
-subtitle= "Setting the strategic course for brands defining their next era."
+subtitle= "Setting the strategic course for B2C and B2B brands defining their next era."
 description= "With 15+ years leading teams across the US, UK, and EU, I translate high-level business strategy into unified brand ecosystems that resonate across every touchpoint."
 image= "/assets/images/homepage_emily.png"
 image_on_left= true
