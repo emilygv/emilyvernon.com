@@ -12,12 +12,13 @@ challange: "Clinique wants to create great skin for everyone. While the brand is
 approach: "Worked with a team of designers and a creative director to bring this to life. **Defining and clarifying the user needs, cultural expectations, competitor landscape, design sensibility and USPs of the brand was key** to build out the retail concept, touchpoints and services."
 responsibilities: [Workshop Design, Workshop Moderation, Competitor Analysis, Brand Strategy, Experience Strategy, Customer Personas, Customer Journey Mapping, Touchpoint Guidelines, Communication Hierarchy, Service Design]
 ---
-{% comment %}
+
 {% include section_icons.html 
 titles="Workshop, Brand Positioning, Retail Strategy, Creative Rollout" 
 icons="Discover, Define, Design, Validate"
 breakout=true %}
 
+{% comment %}
 ![](/assets/images/casestudies/yolele/work_01.jpg)
 {% include img_caption.html 
 title="Positioning template" 
