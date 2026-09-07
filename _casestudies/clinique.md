@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title: Increasing brand awareness through a brand restage
-description: Spearheading the creative and retail strategy for a China
+title: Increasing Clinique's brand awareness in China
+description: Spearheading the creative, service & retail strategy
 project_name: Clinique
 category: Creativity
 published: true
@@ -28,6 +28,11 @@ content="Led the team in defining and refining a clear B2B positioning and messa
 title="Brochures and trade show prep" 
 content="Evolved the B2C design language into a credible B2B system, preserving brand personality." %}
 {% endcomment %}
+
+{% include blockquote.html 
+content="The Clinique Laboratories retail concept juxtaposes our brand’s DNA with a fresh new look for our in-store experiences...It’s an expression of Clinique for the future." 
+reference="Ingrid Montoya - VP Global Retail Design at Clinique"
+%}
 
 ## Outcome
 
