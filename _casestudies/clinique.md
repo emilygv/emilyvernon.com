@@ -1,16 +1,16 @@
 ---
 layout: casestudy
-title: Establishing a B2B go-to-market strategy
-description: Positioning and creative direction for Yolélé Ingredients
+title: Interactive, in-store skincare solutions
+description: Spearheading strategy for a China-specific
 project_name: Clinique
 category: Creativity
-published: false
+published: true
 image: /assets/images/casestudies/yolele/YI_hero.jpg
 thumbnail: /assets/images/casestudies/yolele/YI_thumbnail.jpg
 skip_section_icons: true
-challange: "Yolélé built a strong B2C brand and product portfolio in the US. As it expanded into B2B with Yolélé Ingredients, it lacked a clear positioning for there new audience. **The team needed a credible, industry-appropriate narrative and design language that could translate brand equity into trust with buyers, formulators and partners.**"
-approach: "**With a major trade show approaching, we prioritised positioning and messaging to enable sales.** I led a cross-functional, global alignment process to define the B2B value proposition, messaging hierarchy and tone. This became the strategic foundation for sales materials, trade communications and the broader brand identity."
-responsibilities: [Creative direction, Positioning strategy, Messaging architecture, Value proposition definition, Workshop facilitation, Stakeholder alignment, Sales enablement strategy, Brand translation to B2B]
+challange: "Clinique wants to create great skin for everyone. While the brand is well-known in the US, **brand awareness in China is low. The team’s ambition was to relaunch the brand in China with a flagship location.** It should interpret the brand and experience for the Chinese consumer."
+approach: "**Worked with a team of designers and a creative director to bring this to life. Defining and clarifying the **user needs, cultural expectations, competitor landscape, design sensibility and USPs of the brand was key** to build out the retail concept, touchpoints and services."
+responsibilities: [Workshop Design, Workshop Moderation, Competitor Analysis, Brand Strategy, Experience Strategy, Customer Personas, Customer Journey Mapping, Touchpoint Guidelines, Communication Hierarchy, Service Design]
 ---
 
 {% include section_icons.html 
