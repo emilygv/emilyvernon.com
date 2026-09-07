@@ -1,6 +1,6 @@
 ---
 layout: casestudy
-title: Increasing brand awareness through a brand refresh
+title: Increasing brand awareness through a brand restage
 description: Spearheading the creative and retail strategy for a China
 project_name: Clinique
 category: Creativity
