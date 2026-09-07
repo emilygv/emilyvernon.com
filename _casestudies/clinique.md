@@ -1,7 +1,7 @@
 ---
 layout: casestudy
-title: Interactive, in-store skincare solutions
-description: Spearheading strategy for a China-specific
+title: Increasing brand awareness through distinct design and service rituals
+description: Spearheading strategy for a China-specific retail experience
 project_name: Clinique
 category: Creativity
 published: true
