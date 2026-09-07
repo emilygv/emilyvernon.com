@@ -46,6 +46,6 @@ content="**The China retail concept created a scalable foundation for Cliniqueâ€
 |
 #### North American rollout within 18 months
 |
-#### Expanded from physical stores into digital experience
+#### Expanded from physical stores to digital experience
 {% endcapture %}
 {% include info-highlight.html content=info-highlight %}
