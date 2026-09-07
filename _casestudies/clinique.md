@@ -38,7 +38,7 @@ reference="Ingrid Montoya - VP Global Retail Design at Clinique"
 
 {% include case_h3_block.html 
 title="Learnings +<br>Results" 
-content="The China retail concept created a scalable foundation for Clinique’s next generation retail experience. Originally developed for the Chinese market, the concept was adopted as the brand’s global retail approach within five months of launch. It also shaped how Clinique connected physical and digital discovery." %}
+content="**The China retail concept created a scalable foundation for Clinique’s next generation retail experience.** Originally developed for the Chinese market, the concept was adopted as the brand’s global retail approach within five months of launch. It also shaped how Clinique connected physical and digital discovery." %}
 
 {% capture info-highlight %}
 #### Retail experience adapted by Global
