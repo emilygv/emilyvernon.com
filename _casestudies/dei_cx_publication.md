@@ -4,6 +4,7 @@ title: Leading global standards for inclusive CX
 description: Defining the vision and framework for a pioneering publication
 project_name: CXPA
 category: Creativity
+published: false
 skip_section_icons: true
 image: /assets/images/casestudies/dei_cx_publication/DP_Hero.jpg
 thumbnail: /assets/images/casestudies/dei_cx_publication/DP_Thumbnail.jpg
