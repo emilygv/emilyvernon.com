@@ -10,7 +10,7 @@ hero_text: <mark>Exploring cultures</mark> <br><mark class="normal">& countries,
 
 {% include hero_intro.html
 title= "Let’s start with the basics"
-subtitle= "Life is a constant experiment. I have lived in the US and EU, as well as sailing around the world."
+subtitle= "Life is a constant experiment. I have lived in the US and EU, as well as sailed around the world."
 description= "My approach combines rigorous strategy with embracing the unconventional. Stand-up comedy, offshore sailing and peanut butter and jelly sandwiches keep me going."
 image= "/assets/images/about_hero.png"
 class= "bg-lgrey"
